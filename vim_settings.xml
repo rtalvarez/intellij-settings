@@ -128,11 +128,11 @@
         <mark key="." line="23" column="21" />
         <mark key="^" line="23" column="21" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-pos/src/app/directives/provider-config/provider-config.tpl.html" timestamp="1493660856707">
-        <mark key="[" line="2" column="4" />
-        <mark key="]" line="2" column="3" />
-        <mark key="." line="2" column="3" />
-        <mark key="^" line="2" column="3" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-pos/src/app/directives/provider-config/provider-config.tpl.html" timestamp="1493669582486">
+        <mark key="[" line="41" column="57" />
+        <mark key="]" line="41" column="54" />
+        <mark key="." line="41" column="54" />
+        <mark key="^" line="41" column="54" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-onboarding/src/sass/components/squareImportCard/_component.scss" timestamp="1491837896849">
         <mark key="[" line="0" column="26" />
@@ -202,10 +202,11 @@
         <mark key="^" line="11" column="13" />
         <mark key="." line="11" column="13" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-pos/src/app/services/square.service.js" timestamp="1493667711834">
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="0" />
-        <mark key="." line="83" column="0" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-pos/src/app/services/square.service.js" timestamp="1493669424092">
+        <mark key="[" line="30" column="68" />
+        <mark key="]" line="14" column="30" />
+        <mark key="." line="14" column="30" />
+        <mark key="^" line="14" column="30" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/directives/product-channels/product-channels.controller.js" timestamp="1493234036049">
         <mark key="[" line="52" column="0" />
@@ -419,11 +420,11 @@
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-pos/src/app/directives/provider-config/provider-config.controller.js" timestamp="1493665982875">
-        <mark key="[" line="56" column="70" />
-        <mark key="]" line="56" column="68" />
-        <mark key="." line="56" column="68" />
-        <mark key="^" line="56" column="68" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-pos/src/app/directives/provider-config/provider-config.controller.js" timestamp="1493669851568">
+        <mark key="[" line="104" column="32" />
+        <mark key="]" line="104" column="29" />
+        <mark key="." line="104" column="29" />
+        <mark key="^" line="104" column="29" />
       </file>
       <file name="$USER_HOME$/labs/labs-fe-bb/app/assets/index.html" timestamp="1493572908135">
         <mark key="[" line="10" column="19" />
@@ -540,37 +541,37 @@
         <text encoding="base64">ICAgICduZy1wb3Muc3F1YXJlLWxvY2F0aW9ucy1tb2RhbC5jb250cm9sbGVyJywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jYXRjaCgoKSA9PiAoY3RybC5mYWlsZWRUb0ZldGNoTG9jYXRpb25zID0gdHJ1ZSkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbml0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3Qgb25Mb2NhdGlvbkNob3NlbkNhbGxiYWNrcyA9IFtdOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmdW5jdGlvbiBpbml0KCkgewogICAgICAgICAgICBjb25zb2xlLmxvZygnaW5pdCcsIGxvY2F0aW9ucyk7CiAgICAgICAgfQoK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCBhdXRoUHJvbWlzZSA9IF9wcmVsb2FkQXV0aCgpOwogICAgICAgIGNvbnN0IGxvY2F0aW9uc1Byb21pc2UgPSBhdXRoUHJvbWlzZQogICAgICAgICAgICAudGhlbihhdXRoID0+IF9wcmVmZXRjaFNxdWFyZUxvY2F0aW9ucyhhdXRoLnRva2VuKSk7CiAgICAgICAgY29uc3Qgb25Mb2NhdGlvbkNob3NlbkNhbGxiYWNrcyA9IFtdOwo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gImRhdGEiOiB7Ci8vICAgICAic2V0dXBfcmVxdWlyZWQiOiBmYWxzZSwKLy8gICAgICAgICAiY2hhbm5lbCI6ICJzcXVhcmUiLAovLyAgICAgICAgICJzdG9yZV9pZCI6ICIxMjA1MjEyNSIsCi8vICAgICAgICAgInJlZnJlc2hfdG9rZW4iOiBudWxsLAovLyAgICAgICAgICJ1cGRhdGVkIjogbnVsbCwKLy8gICAgICAgICAic3RhdHVzIjogImNvbm5lY3RlZCIsCi8vICAgICAgICAgInRva2VuIjogInNxMGF0cC13Q1ViUW9MS25kN2gwT28zd1dzZHZnIiwKLy8gICAgICAgICAiY29ubmVjdF91cmkiOiAiIiwKLy8gICAgICAgICAibWVyY2hhbnRfaWQiOiBudWxsLAovLyAgICAgICAgICJtYXJrZXRwbGFjZV9pZCI6IG51bGwsCi8vICAgICAgICAgImNyZWF0ZWQiOiAiMjAxNy0wNC0yN1QxNjoxODoxMS4wMDAtMDU6MDAiCi8vIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygxLCBhdXRoKTsKICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygyLCBsb2NhdGlvbnMpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpbml0KCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC4K</text>
+        <text encoding="base64">ICAgICAgICBmdW5jdGlvbiBpbml0KCkgewogICAgICAgICAgICBjb25zb2xlLmxvZygnaW5pdCcsIGxvY2F0aW9ucyk7CiAgICAgICAgfQoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICRxLndoZW4oe30pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICRxLndoZW4obW9ja1Jlc3BvbnNlKQo=</text>
+        <text encoding="base64">Ly8gImRhdGEiOiB7Ci8vICAgICAic2V0dXBfcmVxdWlyZWQiOiBmYWxzZSwKLy8gICAgICAgICAiY2hhbm5lbCI6ICJzcXVhcmUiLAovLyAgICAgICAgICJzdG9yZV9pZCI6ICIxMjA1MjEyNSIsCi8vICAgICAgICAgInJlZnJlc2hfdG9rZW4iOiBudWxsLAovLyAgICAgICAgICJ1cGRhdGVkIjogbnVsbCwKLy8gICAgICAgICAic3RhdHVzIjogImNvbm5lY3RlZCIsCi8vICAgICAgICAgInRva2VuIjogInNxMGF0cC13Q1ViUW9MS25kN2gwT28zd1dzZHZnIiwKLy8gICAgICAgICAiY29ubmVjdF91cmkiOiAiIiwKLy8gICAgICAgICAibWVyY2hhbnRfaWQiOiBudWxsLAovLyAgICAgICAgICJtYXJrZXRwbGFjZV9pZCI6IG51bGwsCi8vICAgICAgICAgImNyZWF0ZWQiOiAiMjAxNy0wNC0yN1QxNjoxODoxMS4wMDAtMDU6MDAiCi8vIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>cb</text>
+        <text>initialize</text>
       </register>
     </registers>
     <search>

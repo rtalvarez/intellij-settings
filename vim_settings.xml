@@ -67,10 +67,11 @@
         <mark key="^" line="42" column="79" />
         <mark key="." line="42" column="79" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-pos/src/app/directives/square-locations/square-locations.controller.js" timestamp="1493665728140">
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-pos/src/app/directives/square-locations/square-locations.controller.js" timestamp="1493667772839">
         <mark key="[" line="10" column="48" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+        <mark key="]" line="10" column="47" />
+        <mark key="." line="10" column="47" />
+        <mark key="^" line="10" column="47" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-pos/src/app/directives/square-locations/square-locations-banner.tpl.html" timestamp="1493661448799">
         <mark key="[" line="0" column="0" />
@@ -201,11 +202,10 @@
         <mark key="^" line="11" column="13" />
         <mark key="." line="11" column="13" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-pos/src/app/services/square.service.js" timestamp="1493666095538">
-        <mark key="[" line="20" column="25" />
-        <mark key="]" line="126" column="65" />
-        <mark key="." line="126" column="65" />
-        <mark key="^" line="126" column="65" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-pos/src/app/services/square.service.js" timestamp="1493667711834">
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/directives/product-channels/product-channels.controller.js" timestamp="1493234036049">
         <mark key="[" line="52" column="0" />
@@ -356,7 +356,7 @@
         <mark key="." line="29" column="55" />
         <mark key="^" line="29" column="55" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-pos/src/app/modals/square-locations-modal/square-locations-modal.controller.js" timestamp="1493665962760">
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-pos/src/app/modals/square-locations-modal/square-locations-modal.controller.js" timestamp="1493667764705">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
@@ -540,31 +540,31 @@
         <text encoding="base64">ICAgICduZy1wb3Muc3F1YXJlLWxvY2F0aW9ucy1tb2RhbC5jb250cm9sbGVyJywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgc2VsZWN0ZWRMb2NhdGlvbiA9IGZhbHNlOwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZWN0ZWRMb2NhdGlvbiA9IHRydWU7IC8vIGRvIG9uIC50aGVuICEK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzcXVhcmVTZXJ2aWNlLm9uTG9jYXRpb25DaG9zZW4oKCkgPT4gJG1vZGFsSW5zdGFuY2UuZGlzbWlzcygpKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jYXRjaCgoKSA9PiAkbW9kYWxJbnN0YW5jZSkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgc2VsZWN0ZWRMb2NhdGlvbiA9IGZhbHNlOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzaG93TG9jYXRpb25zQmFubmVyKCk7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBpbml0KCk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBmdW5jdGlvbiBpbml0KCkgewogICAgICAgICAgICBjb25zb2xlLmxvZygnaW5pdCcsIGxvY2F0aW9ucyk7CiAgICAgICAgfQoK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8gImRhdGEiOiB7Ci8vICAgICAic2V0dXBfcmVxdWlyZWQiOiBmYWxzZSwKLy8gICAgICAgICAiY2hhbm5lbCI6ICJzcXVhcmUiLAovLyAgICAgICAgICJzdG9yZV9pZCI6ICIxMjA1MjEyNSIsCi8vICAgICAgICAgInJlZnJlc2hfdG9rZW4iOiBudWxsLAovLyAgICAgICAgICJ1cGRhdGVkIjogbnVsbCwKLy8gICAgICAgICAic3RhdHVzIjogImNvbm5lY3RlZCIsCi8vICAgICAgICAgInRva2VuIjogInNxMGF0cC13Q1ViUW9MS25kN2gwT28zd1dzZHZnIiwKLy8gICAgICAgICAiY29ubmVjdF91cmkiOiAiIiwKLy8gICAgICAgICAibWVyY2hhbnRfaWQiOiBudWxsLAovLyAgICAgICAgICJtYXJrZXRwbGFjZV9pZCI6IG51bGwsCi8vICAgICAgICAgImNyZWF0ZWQiOiAiMjAxNy0wNC0yN1QxNjoxODoxMS4wMDAtMDU6MDAiCi8vIH0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygxLCBhdXRoKTsKICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygyLCBsb2NhdGlvbnMpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC4K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICRxLndoZW4oe30pOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmdW5jdGlvbiBzaG93TG9jYXRpb25zQmFubmVyKCkgewogICAgICAgICAgICBmbGFzaE1lc3NhZ2VzLmVycm9yKCd3YXNkIHt7IHRyb2xscyB9fSAnLCB7CiAgICAgICAgICAgICAgICBjb250ZXh0OiB7CiAgICAgICAgICAgICAgICAgICAgdHJvbGw6ICd0cm9sbCcKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAvLyBjb21waWxlOiB0cnVlLAogICAgICAgICAgICAgICAgcGVyc2lzdGVudDogdHJ1ZSwKICAgICAgICAgICAgICAgIC8vIHRlbXBsYXRlVXJsOiAnYXBwL2RpcmVjdGl2ZXMvc3F1YXJlLWxvY2F0aW9ucy9zcXVhcmUtbG9jYXRpb25zLWJhbm5lci50cGwuaHRtbCcsCiAgICAgICAgICAgIH0pOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICRxLndoZW4obW9ja1Jlc3BvbnNlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

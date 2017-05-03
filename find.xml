@@ -1,13 +1,14 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="regularExpressions" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.service.js" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
-      <mask>*.direc</mask>
       <mask>*.directive.js</mask>
       <mask>fb</mask>
       <mask>fb-</mask>
@@ -15,8 +16,6 @@
       <mask>fb-buy</mask>
       <mask>fb-bu</mask>
       <mask>*.h</mask>
-      <mask>*.php</mask>
-      <mask>*.ph</mask>
       <mask>*.p</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
@@ -30,13 +29,16 @@
       <mask>*.tml</mask>
       <mask>*.tm</mask>
       <mask>*.t</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.s</mask>
       <mask>*.ser</mask>
       <mask>*.servi</mask>
       <mask>*.service.</mask>
       <mask>*.service.js</mask>
+      <mask>*.service.j</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.ph</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>

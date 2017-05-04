@@ -5,16 +5,13 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*.html" />
     <recentFileMasks>
-      <mask>*.directive.js</mask>
       <mask>fb</mask>
       <mask>fb-</mask>
       <mask>fb-b</mask>
       <mask>fb-buy</mask>
       <mask>fb-bu</mask>
-      <mask>*.h</mask>
-      <mask>*.p</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.tpl</mask>
@@ -22,8 +19,6 @@
       <mask>*.spec.</mask>
       <mask>*.spec.js</mask>
       <mask>*.spec.j</mask>
-      <mask>*.htm</mask>
-      <mask>*.html</mask>
       <mask>*.tml</mask>
       <mask>*.tm</mask>
       <mask>*.t</mask>
@@ -34,9 +29,14 @@
       <mask>*.service.js</mask>
       <mask>*.service.j</mask>
       <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.ph</mask>
       <mask>*.php</mask>
+      <mask>*.ph</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*.h</mask>
+      <mask>*.ht</mask>
+      <mask>*.htm</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>

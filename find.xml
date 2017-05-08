@@ -5,11 +5,8 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
-      <mask>fb</mask>
-      <mask>fb-</mask>
-      <mask>fb-b</mask>
       <mask>fb-buy</mask>
       <mask>fb-bu</mask>
       <mask>*.js</mask>
@@ -37,6 +34,9 @@
       <mask>*.h</mask>
       <mask>*.</mask>
       <mask>*</mask>
+      <mask>*.sc</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>

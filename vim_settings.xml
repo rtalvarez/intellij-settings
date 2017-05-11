@@ -403,10 +403,11 @@
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/sass/components/amazonBrandConfig/_component.scss" timestamp="1494455727929">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/provider-settings-form/amazon/amazon-resource-links/amazon-resource-links.directive.js" timestamp="1493930778651">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/provider-settings-form/amazon/amazon-resource-links/amazon-resource-links.directive.js" timestamp="1494518024681">
+        <mark key="[" line="7" column="23" />
+        <mark key="]" line="7" column="27" />
+        <mark key="." line="7" column="27" />
+        <mark key="^" line="7" column="27" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-redirect/provider-redirect.module.js" timestamp="1493300939274">
         <mark key="[" line="3" column="19" />
@@ -719,7 +720,7 @@
         <text>wq</text>
       </register>
       <register name="-" type="4">
-        <text>existingMappingIds</text>
+        <text>amazonResourceLinksCtrl</text>
       </register>
     </registers>
     <search>

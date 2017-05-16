@@ -181,11 +181,11 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/provider-settings-form/amazon/amazon-brand-config/amazon-brand-config.tpl.html" timestamp="1494948742430">
-        <mark key="[" line="77" column="116" />
-        <mark key="]" line="77" column="132" />
-        <mark key="." line="77" column="0" />
-        <mark key="^" line="34" column="40" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/provider-settings-form/amazon/amazon-brand-config/amazon-brand-config.tpl.html" timestamp="1494950433999">
+        <mark key="[" line="48" column="95" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="48" column="85" />
       </file>
       <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/utils/facebook.go" timestamp="1491756062585">
         <mark key="[" line="33" column="0" />
@@ -243,11 +243,11 @@
         <mark key="^" line="21" column="34" />
         <mark key="." line="21" column="34" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/provider-settings-form/amazon/amazon-brand-config/amazon-brand-config.controller.js" timestamp="1494948765577">
-        <mark key="[" line="132" column="38" />
-        <mark key="]" line="132" column="36" />
-        <mark key="." line="132" column="36" />
-        <mark key="^" line="132" column="36" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/provider-settings-form/amazon/amazon-brand-config/amazon-brand-config.controller.js" timestamp="1494950291553">
+        <mark key="[" line="145" column="38" />
+        <mark key="]" line="145" column="36" />
+        <mark key="." line="145" column="36" />
+        <mark key="^" line="145" column="36" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/provider-settings-form/amazon/amazon-settings-form.controller.js" timestamp="1494885887296">
         <mark key="[" line="129" column="43" />
@@ -392,6 +392,12 @@
         <mark key="]" line="36" column="71" />
         <mark key="^" line="36" column="71" />
         <mark key="." line="36" column="71" />
+      </file>
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/form-validators/unique-gtin-exemption.js" timestamp="1494949347039">
+        <mark key="[" line="1" column="14" />
+        <mark key="]" line="1" column="12" />
+        <mark key="^" line="1" column="12" />
+        <mark key="." line="1" column="12" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-onboarding/src/app/app.js" timestamp="1491837123532">
         <mark key="[" line="9" column="39" />
@@ -751,31 +757,31 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBuZy1jbGFzcz0ieyAnYW1hem9uQnJhbmRDb25maWctcmVnaXN0ZXJlZEJyYW5kLS1lcnJvcic6ICRjdHJsLmhhc1JlZ2lzdGVyZWRCcmFuZEVycm9yKCRpbmRleCkgfSIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBUaGlzIGJyYW5kIGlzIGFscmVhZHkgc3BlY2lmaWVkIGFzIDxzdHJvbmc+R1RJTiBFeGVtcHQ8L3N0cm9uZz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBCcmFuZCBjYW5ub3QgYmUgYm90aCBSZWdpc3RlcmVkIDxzdHJvbmc+YW5kPC9zdHJvbmc+IEdUSU4gRXhlbXB0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0taW5saW5lTWVzc2FnZSIgbmctbWVzc2FnZT0icmVxdWlyZWQiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFJlcXVpcmVkCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0taW5saW5lTWVzc2FnZSIgbmctbWVzc2FnZT0iY29sbGlzaW9uIiB0cmFuc2xhdGU+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQnJhbmQgY2Fubm90IGJlIGJvdGggUmVnaXN0ZXJlZCA8c3Ryb25nPmFuZDwvc3Ryb25nPiBHVElOIEV4ZW1wdAogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGdldEVycm9yT2JqZWN0KGluZGV4KSB7CiAgICB9Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coa2V5TmFtZSk7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKGJhc2VOYW1lKTsKICAgICAgICAgICAgY29uc29sZS5sb2coXy5jb250YWlucyhiYXNlTmFtZSwgdGFyZ2V0TmFtZXMpKTsK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBlbGVtZW50ID0gdGhpcy5mb3JtICYmIHRoaXMuZm9ybVtgcmVnaXN0ZXJlZC1icmFuZC1uYW1lLSR7aW5kZXh9YF07CgogICAgICAgIHJldHVybiBlbGVtZW50ID8gZWxlbWVudC4kZXJyb3IgOiB7fTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGJhc2VOYW1lID09PSAnZXhlbXB0ZWQtYnJhbmQtbmFtZScpIHsKICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLnJlZ2lzdGVyZWRCcmFuZHMubGVuZ3RoID09PSAxKSB7CiAgICAgICAgcmV0dXJuIHRydWU7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIHJldHVybiBfLmNvbnRhaW5zKG1vZGVsVmFsdWUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>

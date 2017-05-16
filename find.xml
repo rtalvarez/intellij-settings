@@ -19,7 +19,6 @@
       <mask>*.tml</mask>
       <mask>*.tm</mask>
       <mask>*.t</mask>
-      <mask>*.s</mask>
       <mask>*.ser</mask>
       <mask>*.servi</mask>
       <mask>*.service.</mask>
@@ -35,6 +34,7 @@
       <mask>*.scss</mask>
       <mask>*.scs</mask>
       <mask>*.sc</mask>
+      <mask>*.s</mask>
       <mask>*.</mask>
       <mask>*</mask>
     </recentFileMasks>

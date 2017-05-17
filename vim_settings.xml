@@ -154,11 +154,11 @@
         <mark key="." line="205" column="54" />
         <mark key="^" line="205" column="54" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/provider-settings-form/amazon/amazon-category-mapping/amazon-category-mapping.tpl.html" timestamp="1495049594384">
-        <mark key="[" line="62" column="54" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
-        <mark key="^" line="62" column="68" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/provider-settings-form/amazon/amazon-category-mapping/amazon-category-mapping.tpl.html" timestamp="1495053185438">
+        <mark key="[" line="109" column="72" />
+        <mark key="]" line="109" column="94" />
+        <mark key="." line="109" column="94" />
+        <mark key="^" line="109" column="94" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/provider-settings-form/amazon/amazon-brand-config/amazon-brand-config.directive.js" timestamp="1494454066429">
         <mark key="[" line="15" column="9" />
@@ -266,12 +266,6 @@
         <mark key="[" line="131" column="49" />
         <mark key="]" line="131" column="0" />
         <mark key="." line="131" column="0" />
-      </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/package.json" timestamp="1494877003970">
-        <mark key="[" line="23" column="3" />
-        <mark key="]" line="24" column="0" />
-        <mark key="^" line="24" column="0" />
-        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/labs/labs-be/sqllabs/sessions.go" timestamp="1491753402732">
         <mark key="[" line="11" column="43" />
@@ -701,6 +695,12 @@
         <mark key="]" line="94" column="20" />
         <mark key="." line="94" column="0" />
       </file>
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/provider-settings-form/amazon/amazon-category-mapping/amazon-category-mapping.controller.js" timestamp="1495053026392">
+        <mark key="[" line="106" column="72" />
+        <mark key="]" line="106" column="94" />
+        <mark key="^" line="106" column="94" />
+        <mark key="." line="106" column="94" />
+      </file>
       <file name="$USER_HOME$/labs/labs-be/sqllabs/admin.go" timestamp="1491756650114">
         <mark key="[" line="8" column="19" />
         <mark key="]" line="8" column="19" />
@@ -766,37 +766,37 @@
         <text encoding="base64">ICAgICAgICB0aGlzLnZhbGlkYXRlUmVnaXN0ZXJlZEJyYW5kRWxlbWVudHMoKTsKICAgICAgICB0aGlzLnZhbGlkYXRlR3RpbkV4ZW1wdGlvbkVsZW1lbnRzKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQW1hem9uIENhdGVnb3J5Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBtYXBwaW5nID0gdGhpcy5zZWxlY3RlZENhdGVnb3JpZXNbaW5kZXhdOwoKICAgICAgICBjb25zb2xlLmxvZygnbScsIG1hcHBpbmcpOwoKICAgICAgICByZXR1cm4gXy5pc0VtcHR5KG1hcHBpbmcuY2hhbm5lbF9jYXRlZ29yeSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQmlnQ29tbWVyY2UgQ2F0ZWdvcnkK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaGFzTWlzc2luZ0FtYXpvbk1hcHBpbmcgJiYgaGFzTWlzc2luZ0JDTWFwcGluZykgewogICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFJlcXVpcmVkCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gaGFzTWlzc2luZ0JDTWFwcGluZzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0taW5saW5lTWVzc2FnZSI+PC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaGFzTSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTd2l0Y2ggdG8gbmFtZWQgdHJhbnNjbHVkZSBzbG90Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnbScsIG1hcHBpbmcpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQW1hem9uIENhdGVnb3J5Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCA0YjRlMGYwNDhiNzFmYzkxZWYxYWNhZmQ1ZTUyZTExNGZiN2UwNjkyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
       <register name="-" type="4">
-        <text>registeredBrands</text>
+        <text>hasMissingBCMapping</text>
       </register>
     </registers>
     <search>

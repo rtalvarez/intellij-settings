@@ -154,11 +154,11 @@
         <mark key="." line="205" column="54" />
         <mark key="^" line="205" column="54" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/provider-settings-form/amazon/amazon-category-mapping/amazon-category-mapping.tpl.html" timestamp="1495053185438">
-        <mark key="[" line="109" column="72" />
-        <mark key="]" line="109" column="94" />
-        <mark key="." line="109" column="94" />
-        <mark key="^" line="109" column="94" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/provider-settings-form/amazon/amazon-category-mapping/amazon-category-mapping.tpl.html" timestamp="1495055035083">
+        <mark key="[" line="73" column="126" />
+        <mark key="]" line="110" column="63" />
+        <mark key="." line="110" column="63" />
+        <mark key="^" line="110" column="63" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/provider-settings-form/amazon/amazon-brand-config/amazon-brand-config.directive.js" timestamp="1494454066429">
         <mark key="[" line="15" column="9" />
@@ -244,11 +244,11 @@
         <mark key="." line="253" column="0" />
         <mark key="^" line="222" column="3" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/provider-settings-form/amazon/amazon-settings-form.controller.js" timestamp="1494885887296">
-        <mark key="[" line="129" column="43" />
-        <mark key="]" line="129" column="58" />
-        <mark key="." line="129" column="58" />
-        <mark key="^" line="129" column="58" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/provider-settings-form/amazon/amazon-settings-form.controller.js" timestamp="1495055140498">
+        <mark key="[" line="232" column="91" />
+        <mark key="]" line="131" column="58" />
+        <mark key="." line="131" column="58" />
+        <mark key="^" line="131" column="58" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/form-validators/unique-registered-brand.js" timestamp="1494978686739">
         <mark key="[" line="4" column="0" />
@@ -490,11 +490,11 @@
         <mark key="^" line="53" column="33" />
         <mark key="." line="53" column="33" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/sass/components/amazonSettingsForm/_amazonSettingsForm.scss" timestamp="1495049700849">
-        <mark key="[" line="94" column="33" />
-        <mark key="]" line="94" column="31" />
-        <mark key="^" line="94" column="31" />
-        <mark key="." line="94" column="31" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/sass/components/amazonSettingsForm/_amazonSettingsForm.scss" timestamp="1495054964429">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="29" column="31" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/labs/labs-fe-bb/app/templates/AppView.hbs" timestamp="1493573605602">
         <mark key="[" line="2" column="0" />
@@ -763,34 +763,34 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnZhbGlkYXRlUmVnaXN0ZXJlZEJyYW5kRWxlbWVudHMoKTsKICAgICAgICB0aGlzLnZhbGlkYXRlR3RpbkV4ZW1wdGlvbkVsZW1lbnRzKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBuZy1jbGFzcz0ieyAnYW1hem9uU2V0dGluZ3NGb3JtLWNhdGVnb3J5V3JhcHBlci0tZXJyb3InOiAkY3RybC5oYXNNaXNzaW5nQW1hem9uTWFwcGluZygkaW5kZXgpIH0iIAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBtYXBwaW5nID0gdGhpcy5zZWxlY3RlZENhdGVnb3JpZXNbaW5kZXhdOwoKICAgICAgICBjb25zb2xlLmxvZygnbScsIG1hcHBpbmcpOwoKICAgICAgICByZXR1cm4gXy5pc0VtcHR5KG1hcHBpbmcuY2hhbm5lbF9jYXRlZ29yeSk7Cg==</text>
+        <text encoding="base64">ICAgIG1hcmdpbi1ib3R0b206IHNwYWNpbmcoImJhc2UiKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBtYXBwaW5nID0gdGhpcy5zZWxlY3RlZENhdGVnb3JpZXNbaW5kZXhdOwoKICAgICAgICBjb25zb2xlLmxvZygnbScsIG1hcHBpbmcpOwoKICAgICAgICByZXR1cm4gXy5pc0VtcHR5KG1hcHBpbmcuY2hhbm5lbF9jYXRlZ29yeSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaGFzTWlzc2luZ0FtYXpvbk1hcHBpbmcgJiYgaGFzTWlzc2luZ0JDTWFwcGluZykgewogICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gaGFzTWlzc2luZ0JDTWFwcGluZzsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaGFzTWlzc2luZ0FtYXpvbk1hcHBpbmcgJiYgaGFzTWlzc2luZ0JDTWFwcGluZykgewogICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaGFzTSkK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gaGFzTWlzc2luZ0JDTWFwcGluZzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaGFzTSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnbScsIG1hcHBpbmcpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQW1hem9uIENhdGVnb3J5Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnbScsIG1hcHBpbmcpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQW1hem9uIENhdGVnb3J5Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>

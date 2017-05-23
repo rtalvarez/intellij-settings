@@ -125,7 +125,7 @@
         <mark key="]" line="66" column="0" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/amazon-unique-category-validator/amazon-unique-category-validator.directive.js" timestamp="1495555110400">
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/amazon-unique-category-validator/amazon-unique-category-validator.directive.js" timestamp="1495556069577">
         <mark key="[" line="3" column="39" />
         <mark key="]" line="3" column="44" />
         <mark key="." line="3" column="44" />
@@ -169,11 +169,11 @@
         <mark key="." line="205" column="54" />
         <mark key="^" line="205" column="54" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/provider-settings-form/amazon/amazon-category-mapping/amazon-category-mapping.tpl.html" timestamp="1495555228161">
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="^" line="67" column="62" />
-        <mark key="." line="67" column="0" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/provider-settings-form/amazon/amazon-category-mapping/amazon-category-mapping.tpl.html" timestamp="1495557526705">
+        <mark key="[" line="65" column="1" />
+        <mark key="]" line="66" column="67" />
+        <mark key="." line="64" column="0" />
+        <mark key="^" line="68" column="23" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/provider-settings-form/amazon/amazon-brand-config/amazon-brand-config.directive.js" timestamp="1494454066429">
         <mark key="[" line="15" column="9" />
@@ -556,11 +556,10 @@
         <mark key="]" line="95" column="0" />
         <mark key="." line="95" column="0" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/provider-settings-form/amazon/amazon-category-mapping/amazon-category-mapping.directive.js" timestamp="1495554353512">
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/provider-settings-form/amazon/amazon-category-mapping/amazon-category-mapping.directive.js" timestamp="1495557150687">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
-        <mark key="^" line="7" column="29" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/sass/components/amazonCategoryMapping/_amazonCategoryMapping.scss" timestamp="1495064564546">
         <mark key="[" line="68" column="0" />
@@ -816,37 +815,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBuZy1jbGFzcz0ieyAnYW1hem9uU2V0dGluZ3NGb3JtLWNhdGVnb3J5V3JhcHBlci0tZXJyb3InOiAkY3RybC5oYXNNaXNzaW5nQW1hem9uTWFwcGluZygkaW5kZXgpIH0iIAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGU6IHt7IGNhdGVnb3J5LmJpZ2NvbW1lcmNlX2NhdGVnb3J5LmlkIH19Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbWF6b24tdW5pcXVlLWNhdGVnb3J5LXZhbGlkYXRvcgogICAgICAgICAgICAgICAgICAgIG5nLW1vZGVsPSJjYXRlZ29yeS5iaWdjb21tZXJjZV9jYXRlZ29yeS5pZCIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuYW1lPSJhbWF6b24tY2F0ZWdvcnktbWFwIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1aXJlOiAnXmZvcm0nLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGU6IHt7IG1vZGVsIH19Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhbWF6b24tdW5pcXVlLWNhdGVnb3J5LXZhbGlkYXRvciBuZy1tb2RlbD0iY2F0ZWdvcnkuYmlnY29tbWVyY2VfY2F0ZWdvcnkuaWQiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9hbWF6b24tdW5pcXVlLWNhdGVnb3J5LXZhbGlkYXRvcj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuZy1pbml0PSJtb2RlbCA9IG5nTW9kZWwiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXF1aXJlOiAnXl5mb3JtJywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsaW5rOiAoc2NvcGUsIGVsZW0sIGF0dHIsIGZvcm0pID0+IHsKICAgICAgICAgICAgc2NvcGUuJGN0cmwuZm9ybSA9IGZvcm07CiAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVG9kbzogYmVzdD8KICAgICAgICAgICAgbWFwLmJpZ2NvbW1lcmNlX2NhdGVnb3J5ID0gbWFwLmJpZ2NvbW1lcmNlX2NhdGVnb3J5IHx8IHsgaWQ6IGJjTGVhZk5vZGVJZCB9Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtb2RlbD0ibmdNb2RlbCIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGU6IHt7ICRjdHJsLmZvcm1bJ2FtYXpvbi1jYXRlZ29yeS1tYXAtMCddIH19Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGU6IHt7IGNhdGVnb3J5LmJpZ2NvbW1lcmNlX2NhdGVnb3J5LmlkIH19Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
       <register name="-" type="4">
-        <text>efault inventory must be a number.</text>
+        <text>amazonCategoryMapRow</text>
       </register>
     </registers>
     <search>

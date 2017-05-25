@@ -5,15 +5,11 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="*.html" />
     <recentFileMasks>
       <mask>*.html.scss</mask>
       <mask>.scss</mask>
       <mask>.scs</mask>
-      <mask>*.html</mask>
-      <mask>*.htm</mask>
-      <mask>*.ht</mask>
-      <mask>*.h</mask>
       <mask>*.directive.spec</mask>
       <mask>*.directive.spe</mask>
       <mask>*.dire</mask>
@@ -35,8 +31,12 @@
       <mask>*.dir</mask>
       <mask>*.di</mask>
       <mask>*.d</mask>
-      <mask>*.</mask>
       <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.h</mask>
+      <mask>*.ht</mask>
+      <mask>*.htm</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>

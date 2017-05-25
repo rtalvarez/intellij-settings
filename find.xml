@@ -5,28 +5,8 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="*.directive.spec.js" />
     <recentFileMasks>
-      <mask>*.service.j</mask>
-      <mask>*.php</mask>
-      <mask>*.ph</mask>
-      <mask>*.p</mask>
-      <mask>*.scss</mask>
-      <mask>*.scs</mask>
-      <mask>*.sc</mask>
-      <mask>*.s</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>*.tpl</mask>
-      <mask>*.tp</mask>
-      <mask>*.t</mask>
-      <mask>*.html,</mask>
-      <mask>*.html,*</mask>
-      <mask>*.html,*.</mask>
-      <mask>*.html,*.s</mask>
-      <mask>*.html,*.sc</mask>
-      <mask>*.html,*.scs</mask>
-      <mask>*.html,*.scss</mask>
       <mask>*.html,.scss</mask>
       <mask>*.html.scss</mask>
       <mask>.scss</mask>
@@ -35,8 +15,28 @@
       <mask>*.htm</mask>
       <mask>*.ht</mask>
       <mask>*.h</mask>
-      <mask>*.</mask>
       <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.directive.spec</mask>
+      <mask>*.directive.spe</mask>
+      <mask>*.dir</mask>
+      <mask>*.d</mask>
+      <mask>*.di</mask>
+      <mask>*.dire</mask>
+      <mask>*.direcrtiv</mask>
+      <mask>*.direcrti</mask>
+      <mask>*.direcrt</mask>
+      <mask>*.direcr</mask>
+      <mask>*.direc</mask>
+      <mask>*.directi</mask>
+      <mask>*.directiv</mask>
+      <mask>*.directive</mask>
+      <mask>*.directive.js</mask>
+      <mask>*.directive.j</mask>
+      <mask>*.directive.</mask>
+      <mask>*.directive.sp</mask>
+      <mask>*.directive.spec.</mask>
+      <mask>*.directive.spec.js</mask>
     </recentFileMasks>
   </component>
 </application>

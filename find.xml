@@ -5,9 +5,8 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.directive.spec.js" />
+    <option name="FILE_MASK" value="*" />
     <recentFileMasks>
-      <mask>*.html,.scss</mask>
       <mask>*.html.scss</mask>
       <mask>.scss</mask>
       <mask>.scs</mask>
@@ -15,13 +14,8 @@
       <mask>*.htm</mask>
       <mask>*.ht</mask>
       <mask>*.h</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.directive.spec</mask>
       <mask>*.directive.spe</mask>
-      <mask>*.dir</mask>
-      <mask>*.d</mask>
-      <mask>*.di</mask>
       <mask>*.dire</mask>
       <mask>*.direcrtiv</mask>
       <mask>*.direcrti</mask>
@@ -35,8 +29,14 @@
       <mask>*.directive.j</mask>
       <mask>*.directive.</mask>
       <mask>*.directive.sp</mask>
-      <mask>*.directive.spec.</mask>
       <mask>*.directive.spec.js</mask>
+      <mask>*.directive.spec.j</mask>
+      <mask>*.directive.spec.</mask>
+      <mask>*.dir</mask>
+      <mask>*.di</mask>
+      <mask>*.d</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>

@@ -189,11 +189,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/labs/labs-be/routes/handlers/patients/main.go" timestamp="1493581458970">
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="106" column="0" />
-        <mark key="." line="106" column="0" />
-        <mark key="^" line="120" column="47" />
+      <file name="$USER_HOME$/labs/labs-be/routes/handlers/patients/main.go" timestamp="1495901332585">
+        <mark key="[" line="32" column="8" />
+        <mark key="]" line="32" column="10" />
+        <mark key="." line="32" column="10" />
+        <mark key="^" line="32" column="10" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/services/channel-categories/channel-categories.service.js" timestamp="1495060056976">
         <mark key="[" line="22" column="0" />
@@ -233,6 +233,12 @@
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/labs/labs-be/utils/urls.go" timestamp="1495902423031">
+        <mark key="[" line="15" column="22" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="15" column="21" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/shipping-settings-support/shipping-settings-support.module.js" timestamp="1493321052668">
         <mark key="[" line="0" column="0" />
@@ -554,6 +560,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="1" column="21" />
       </file>
+      <file name="$USER_HOME$/labs/labs-be/email/welcome.go" timestamp="1495901638594">
+        <mark key="[" line="13" column="43" />
+        <mark key="]" line="13" column="45" />
+        <mark key="^" line="13" column="45" />
+        <mark key="." line="13" column="45" />
+      </file>
       <file name="$USER_HOME$/labs/labs-fe-bb/app/templates/AppView.hbs" timestamp="1493573605602">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="33" />
@@ -587,7 +599,7 @@
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/labs/labs-be/main.go" timestamp="1495900973004">
+      <file name="$USER_HOME$/labs/labs-be/main.go" timestamp="1495901446315">
         <mark key="[" line="22" column="41" />
         <mark key="]" line="22" column="34" />
         <mark key="." line="22" column="34" />
@@ -642,9 +654,6 @@
         <mark key="]" line="41" column="55" />
         <mark key="." line="41" column="55" />
         <mark key="^" line="41" column="55" />
-      </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/provider-settings-form/amazon/amazon-settings-form.directive.js" timestamp="1495832434619">
-        <mark key="[" line="13" column="38" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/app.module.js" timestamp="1493301895729">
         <mark key="[" line="32" column="25" />
@@ -737,7 +746,7 @@
         <mark key="^" line="19" column="38" />
         <mark key="." line="19" column="38" />
       </file>
-      <file name="$USER_HOME$/labs/labs-be/sqllabs/sentEmails.go" timestamp="1495900429200">
+      <file name="$USER_HOME$/labs/labs-be/sqllabs/sentEmails.go" timestamp="1495902506803">
         <mark key="[" line="4" column="26" />
         <mark key="]" line="4" column="0" />
         <mark key="^" line="4" column="24" />
@@ -808,11 +817,11 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/labs/labs-be/db/email.go" timestamp="1495901014456">
-        <mark key="[" line="4" column="60" />
-        <mark key="]" line="4" column="63" />
-        <mark key="^" line="4" column="63" />
-        <mark key="." line="4" column="63" />
+      <file name="$USER_HOME$/labs/labs-be/db/email.go" timestamp="1495902470927">
+        <mark key="[" line="27" column="1" />
+        <mark key="]" line="23" column="55" />
+        <mark key="^" line="23" column="55" />
+        <mark key="." line="23" column="55" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/sass/components/channelMarketingContent/_channelMarketingContent.scss" timestamp="1494875845940">
         <mark key="[" line="94" column="0" />
@@ -847,6 +856,12 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="23" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/labs/labs-be/sqllabs/track.go" timestamp="1495902609022">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="9" column="16" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-onboarding/src/app/_common/templates/getting-started/description-templates/setReview.tpl.html" timestamp="1492035610036">
         <mark key="[" line="1" column="47" />
@@ -899,34 +914,34 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKCJpZCIsIGlkKQoJZm10LlByaW50bG4oImVyciIsIGVycikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CS8vIE9wZW4gZG9lc24ndCBvcGVuIGEgY29ubmVjdGlvbi4gVmFsaWRhdGUgRFNOIGRhdGE6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWZpcnN0TmFtZSBWQVJDSEFSKDUwKSBOT1QgTlVMTCwK</text>
+        <text encoding="base64">cGFja2FnZSBzcWxsYWJzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWxhc3ROYW1lIFZBUkNIQVIoNTApLAo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWRhdGVPZkJpcnRoIFZBUkNIQVIoNTApIE5PVCBOVUxMLAo=</text>
+        <text encoding="base64">CXRva2VuLCBlcnIgOj0gR2VuZXJhdGVSYW5kb21TdHJpbmcoMzIpCglQYW5pY09uRXJyb3IoZXJyKQoJCglyZXR1cm4gYmFzZVVybCArICIvcHJvZmlsZT90cms9IiArIHRva2VuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWZhY2Vib29rVXNlcklkIFZBUkNIQVIoNTApIFVOSVFVRSwK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWdvb2dsZVRva2VuIFRFWFQK</text>
+        <text encoding="base64">CWRlZmVyIGVtYWlsUGFuaWNIYW5kbGVyKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWVtYWlsUGFuaWNIYW5kbGVyKCkK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
       <register name="-" type="4">
-        <text>email</text>
+        <text>mailgunId</text>
       </register>
     </registers>
     <search>

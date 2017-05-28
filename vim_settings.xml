@@ -158,6 +158,12 @@
         <mark key="." line="97" column="24" />
         <mark key="^" line="97" column="24" />
       </file>
+      <file name="$USER_HOME$/labs/labs-fe-bb/app/templates/footer/FooterView.hbs" timestamp="1496003508090">
+        <mark key="[" line="21" column="79" />
+        <mark key="]" line="21" column="84" />
+        <mark key="." line="21" column="84" />
+        <mark key="^" line="21" column="84" />
+      </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/bigcommerce/lib/AutoProvision/Locale/UnitedStates.php" timestamp="1492615645919">
         <mark key="[" line="205" column="37" />
         <mark key="]" line="205" column="54" />
@@ -301,11 +307,11 @@
         <mark key="^" line="11" column="34" />
         <mark key="." line="11" column="34" />
       </file>
-      <file name="$USER_HOME$/labs/labs-fe-bb/app/javascripts/AppView.js" timestamp="1495997804680">
-        <mark key="[" line="122" column="10" />
-        <mark key="]" line="122" column="10" />
-        <mark key="." line="122" column="10" />
-        <mark key="^" line="122" column="10" />
+      <file name="$USER_HOME$/labs/labs-fe-bb/app/javascripts/AppView.js" timestamp="1496001596426">
+        <mark key="[" line="63" column="10" />
+        <mark key="]" line="11" column="32" />
+        <mark key="." line="11" column="32" />
+        <mark key="^" line="11" column="32" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/provider-settings-form/amazon/amazon-resource-links/amazon-resource-links.controller.js" timestamp="1493930771415">
         <mark key="[" line="8" column="0" />
@@ -348,6 +354,12 @@
         <mark key="]" line="11" column="26" />
         <mark key="^" line="11" column="26" />
         <mark key="." line="11" column="26" />
+      </file>
+      <file name="$USER_HOME$/labs/labs-fe-bb/app/styles/footer/FooterView.scss" timestamp="1496003430638">
+        <mark key="[" line="6" column="22" />
+        <mark key="]" line="7" column="20" />
+        <mark key="." line="7" column="20" />
+        <mark key="^" line="7" column="20" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-pos/src/app/services/square.service.js" timestamp="1495736722894">
         <mark key="[" line="33" column="0" />
@@ -505,6 +517,12 @@
         <mark key="^" line="17" column="51" />
         <mark key="." line="17" column="51" />
       </file>
+      <file name="$USER_HOME$/labs/labs-fe-bb/app/templates/AppView.hbs" timestamp="1496001707452">
+        <mark key="[" line="12" column="15" />
+        <mark key="]" line="12" column="27" />
+        <mark key="^" line="12" column="27" />
+        <mark key="." line="12" column="27" />
+      </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-onboarding/src/app/_common/templates/getting-started/main.tpl.html" timestamp="1492115081711">
         <mark key="[" line="0" column="81" />
         <mark key="]" line="0" column="75" />
@@ -582,6 +600,12 @@
         <mark key="." line="14" column="43" />
         <mark key="^" line="14" column="43" />
       </file>
+      <file name="$USER_HOME$/labs/labs-fe-bb/app/javascripts/footer/FooterView.js" timestamp="1496003678672">
+        <mark key="[" line="7" column="27" />
+        <mark key="]" line="7" column="27" />
+        <mark key="^" line="9" column="51" />
+        <mark key="." line="7" column="27" />
+      </file>
       <file name="$USER_HOME$/labs/labs-fe-bb/app/javascripts/nav/NavView.js" timestamp="1495997540516">
         <mark key="[" line="60" column="26" />
         <mark key="]" line="60" column="24" />
@@ -658,7 +682,7 @@
         <mark key="^" line="3" column="15" />
         <mark key="." line="3" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495998695508">
+      <file name="/Dummy.txt" timestamp="1496001798177">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -796,37 +820,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aSBjbGFzcz0ibWVkaXVtIG1hdGVyaWFsLWljb25zIHBob25lLWljb24iPnBob25lPC9pPgogICAgICAgICAgICAgICAgICAgIDxzbWFsbCBjbGFzcz0iY2FsbC11cyI+TGxhbWFub3M8L3NtYWxsPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxpIGNsYXNzPSJtZWRpdW0gbWF0ZXJpYWwtaWNvbnMgcGhvbmUtaWNvbiI+cGhvbmU8L2k+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgwqkgMjAxMiBPSUQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkaQo=</text>
+        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImNvbnRhaW5lciI+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA+ICogewogICAgICAgICAgICBkaXNwbGF5OiBibG9jazsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImNvbnRhaW5lciI+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LmFkZHJlc3MgewogICAgPiBzcGFuIHsKICAgICAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7CiAgICB9Cn0KCi5hZGRyZXNzLWNhcmQgewogICAgZGlzcGxheTogZmxleDsKICAgIGFsaWduLWl0ZW1zOiBjZW50ZXI7Cn0KCi5uYXYtaWNvbiB7CiAgICBjb2xvcjogY29sb3IoInRlYWwiLCAiZGFya2VuLTIiKTsKfQoKLm9wZW4tbWFwcyB7CiAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7Cn0KCi5hZGRyZXNzLWZpZWxkcyB7CiAgICBmbGV4OiAxOwp9Cg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJkaXZpZGVyIj48L2Rpdj4K</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
       <register name="-" type="4">
-        <text>call</text>
+        <text>s</text>
       </register>
     </registers>
     <search>
@@ -846,6 +870,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

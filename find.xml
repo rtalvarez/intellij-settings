@@ -5,13 +5,8 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.scss" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
-      <mask>.scs</mask>
-      <mask>*.directive.spec</mask>
-      <mask>*.directive.spe</mask>
-      <mask>*.dire</mask>
-      <mask>*.direcrtiv</mask>
       <mask>*.direcrti</mask>
       <mask>*.direcrt</mask>
       <mask>*.direcr</mask>
@@ -33,10 +28,15 @@
       <mask>*.htm</mask>
       <mask>*.ht</mask>
       <mask>*.h</mask>
-      <mask>*.</mask>
-      <mask>*</mask>
-      <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*.scs</mask>
+      <mask>*.sc</mask>
+      <mask>*.s</mask>
+      <mask>*.go</mask>
+      <mask>*.g</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>

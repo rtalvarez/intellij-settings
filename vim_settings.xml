@@ -92,11 +92,11 @@
         <mark key="^" line="50" column="41" />
         <mark key="." line="50" column="41" />
       </file>
-      <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/email/appointmentScheduled.go" timestamp="1496013158379">
-        <mark key="[" line="22" column="37" />
-        <mark key="]" line="22" column="50" />
-        <mark key="." line="22" column="50" />
-        <mark key="^" line="22" column="50" />
+      <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/email/appointmentScheduled.go" timestamp="1496014430083">
+        <mark key="[" line="16" column="39" />
+        <mark key="]" line="17" column="37" />
+        <mark key="." line="17" column="37" />
+        <mark key="^" line="17" column="37" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/sass/components/squareRedirect/_squareRedirect.scss" timestamp="1493315357852">
         <mark key="[" line="30" column="20" />
@@ -333,11 +333,11 @@
         <mark key="]" line="62" column="33" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="$USER_HOME$/labs/labs-be/main.go" timestamp="1496013507024">
-        <mark key="[" line="22" column="40" />
-        <mark key="]" line="19" column="23" />
-        <mark key="^" line="19" column="23" />
-        <mark key="." line="19" column="23" />
+      <file name="$USER_HOME$/labs/labs-be/main.go" timestamp="1496014407538">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="22" column="29" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/sass/components/amazonCategoryMapping/_amazonCategoryMapping.scss" timestamp="1495726463570">
         <mark key="[" line="60" column="0" />
@@ -649,8 +649,8 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/labs/labs-be/sqllabs/emailAnalytics.go" timestamp="1495910060285">
-        <mark key="[" line="3" column="60" />
+      <file name="$USER_HOME$/labs/labs-be/sqllabs/emailAnalytics.go" timestamp="1496014388915">
+        <mark key="[" line="4" column="21" />
         <mark key="]" line="8" column="0" />
         <mark key="^" line="3" column="0" />
         <mark key="." line="8" column="0" />
@@ -1093,25 +1093,25 @@
         <text encoding="base64">CQkJIiQkUFJPRklMRV9VUkwiOiAiaHR0cDovL2V4YW1wbGUuY29tL3Byb2ZpbGUiLAkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSJmbXQiCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKHRlbXBsYXRlKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQlCb2R5SFRNTDogIjxkaXY+dHJvbGxzPC9kaXY+IiwK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">CSJnaXRodWIuY29tL3J0YWx2YXJlei9sYWJzLWJlL21vZGVscyIK</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">CSJmbXQiCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CWZtdC5QcmludGxuKHRlbXBsYXRlKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQlCb2R5SFRNTDogIjxkaXY+dHJvbGxzPC9kaXY+IiwK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CSJnaXRodWIuY29tL3J0YWx2YXJlei9sYWJzLWJlL21vZGVscyIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWVtYWlsLlNlbmRBcHBvaW50bWVudFNjaGVkdWxlZEVtYWlsKG1vZGVscy5BcHBvaW50bWVudHsKCQkKCX0pCg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CSJnaXRodWIuY29tL3J0YWx2YXJlei9sYWJzLWJlL3NxbGxhYnMiCg==</text>
+        <text encoding="base64">CWVtYWlsLlNlbmRBcHBvaW50bWVudFNjaGVkdWxlZEVtYWlsKG1vZGVscy5BcHBvaW50bWVudHsKCQkKCX0pCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">CSJnaXRodWIuY29tL3J0YWx2YXJlei9sYWJzLWJlL3NxbGxhYnMiCg==</text>

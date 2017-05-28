@@ -92,6 +92,12 @@
         <mark key="^" line="50" column="41" />
         <mark key="." line="50" column="41" />
       </file>
+      <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/email/appointmentScheduled.go" timestamp="1496013158379">
+        <mark key="[" line="22" column="37" />
+        <mark key="]" line="22" column="50" />
+        <mark key="." line="22" column="50" />
+        <mark key="^" line="22" column="50" />
+      </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/sass/components/squareRedirect/_squareRedirect.scss" timestamp="1493315357852">
         <mark key="[" line="30" column="20" />
         <mark key="]" line="30" column="45" />
@@ -219,6 +225,11 @@
         <mark key="." line="24" column="10" />
         <mark key="^" line="24" column="10" />
       </file>
+      <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/email/replacer.go" timestamp="1496013473585">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/labs/labs-fe-bb/app/javascripts/AppRouter.js" timestamp="1495997429405">
         <mark key="[" line="26" column="5" />
         <mark key="]" line="11" column="26" />
@@ -322,11 +333,11 @@
         <mark key="]" line="62" column="33" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="$USER_HOME$/labs/labs-be/main.go" timestamp="1496011537627">
-        <mark key="[" line="34" column="18" />
-        <mark key="]" line="35" column="47" />
-        <mark key="^" line="35" column="47" />
-        <mark key="." line="35" column="47" />
+      <file name="$USER_HOME$/labs/labs-be/main.go" timestamp="1496013507024">
+        <mark key="[" line="22" column="40" />
+        <mark key="]" line="19" column="23" />
+        <mark key="^" line="19" column="23" />
+        <mark key="." line="19" column="23" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/sass/components/amazonCategoryMapping/_amazonCategoryMapping.scss" timestamp="1495726463570">
         <mark key="[" line="60" column="0" />
@@ -1079,25 +1090,25 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aSBjbGFzcz0ibWVkaXVtIG1hdGVyaWFsLWljb25zIHBob25lLWljb24iPnBob25lPC9pPgogICAgICAgICAgICAgICAgICAgIDxzbWFsbCBjbGFzcz0iY2FsbC11cyI+TGxhbWFub3M8L3NtYWxsPgo=</text>
+        <text encoding="base64">CQkJIiQkUFJPRklMRV9VUkwiOiAiaHR0cDovL2V4YW1wbGUuY29tL3Byb2ZpbGUiLAkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSJnaXRodWIuY29tL3J0YWx2YXJlei9sYWJzLWJlL21vZGVscyIK</text>
+        <text encoding="base64">CSJmbXQiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKHRlbXBsYXRlKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWVtYWlsLlNlbmRBcHBvaW50bWVudFNjaGVkdWxlZEVtYWlsKG1vZGVscy5BcHBvaW50bWVudHsKCQkKCX0pCg==</text>
+        <text encoding="base64">CQlCb2R5SFRNTDogIjxkaXY+dHJvbGxzPC9kaXY+IiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CSJnaXRodWIuY29tL3J0YWx2YXJlei9sYWJzLWJlL3NxbGxhYnMiCg==</text>
+        <text encoding="base64">CSJnaXRodWIuY29tL3J0YWx2YXJlei9sYWJzLWJlL21vZGVscyIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CSJnaXRodWIuY29tL3J0YWx2YXJlei9sYWJzLWJlL3NxbGxhYnMiCg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CSJnaXRodWIuY29tL3J0YWx2YXJlei9sYWJzLWJlL3NxbGxhYnMiCg==</text>
+        <text encoding="base64">CWVtYWlsLlNlbmRBcHBvaW50bWVudFNjaGVkdWxlZEVtYWlsKG1vZGVscy5BcHBvaW50bWVudHsKCQkKCX0pCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">CSJnaXRodWIuY29tL3J0YWx2YXJlei9sYWJzLWJlL3NxbGxhYnMiCg==</text>
@@ -1106,13 +1117,13 @@
         <text encoding="base64">CSJnaXRodWIuY29tL3J0YWx2YXJlei9sYWJzLWJlL3NxbGxhYnMiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSJnaXRodWIuY29tL3J0YWx2YXJlei9sYWJzLWJlL3NxbGxhYnMiCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
       <register name="-" type="4">
-        <text>PostPatientReq</text>
+        <text>&quot;</text>
       </register>
     </registers>
     <search>

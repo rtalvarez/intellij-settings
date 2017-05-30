@@ -234,6 +234,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/labs/labs-be/routes/handlers/patients/main.go" timestamp="1496169891539">
+        <mark key="[" line="139" column="61" />
+        <mark key="]" line="140" column="21" />
+        <mark key="." line="140" column="21" />
+        <mark key="^" line="140" column="21" />
+      </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/services/channel-categories/channel-categories.service.js" timestamp="1495060056976">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -938,7 +944,7 @@
         <mark key="^" line="3" column="15" />
         <mark key="." line="3" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496009909748">
+      <file name="/Dummy.txt" timestamp="1496170461298">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -991,11 +997,10 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/db/patients.go" timestamp="1493581407666">
-        <mark key="[" line="55" column="37" />
-        <mark key="]" line="55" column="55" />
-        <mark key="." line="55" column="55" />
-        <mark key="^" line="55" column="55" />
+      <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/db/patients.go" timestamp="1496169557178">
+        <mark key="[" line="140" column="0" />
+        <mark key="]" line="140" column="0" />
+        <mark key="." line="140" column="0" />
       </file>
       <file name="$USER_HOME$/labs/labs-be/db/email.go" timestamp="1496009050587">
         <mark key="[" line="111" column="9" />
@@ -1102,37 +1107,37 @@
         <text encoding="base64">CQkJIiQkUFJPRklMRV9VUkwiOiAiaHR0cDovL2V4YW1wbGUuY29tL3Byb2ZpbGUiLAkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSJnaXRodWIuY29tL3J0YWx2YXJlei9sYWJzLWJlL21vZGVscyIK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CSJmbXQiCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKHRlbXBsYXRlKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQlCb2R5SFRNTDogIjxkaXY+dHJvbGxzPC9kaXY+IiwK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CSJnaXRodWIuY29tL3J0YWx2YXJlei9sYWJzLWJlL21vZGVscyIK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">CQo=</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">CWsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CXZhciAoCgkJcmVzcG9uc2VKc29uIFtdYnl0ZQoJKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQlpZiBlbWFpbCAhPSBuaWwgewoJCQkKCQl9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CSJnaXRodWIuY29tL3J0YWx2YXJlei9sYWJzLWJlL21vZGVscyIK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CWVtYWlsLlNlbmRBcHBvaW50bWVudFNjaGVkdWxlZEVtYWlsKG1vZGVscy5BcHBvaW50bWVudHsKCQkKCX0pCg==</text>
+        <text encoding="base64">CSJmbXQiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CSJnaXRodWIuY29tL3J0YWx2YXJlei9sYWJzLWJlL3NxbGxhYnMiCg==</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKHRlbXBsYXRlKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CSJnaXRodWIuY29tL3J0YWx2YXJlei9sYWJzLWJlL3NxbGxhYnMiCg==</text>
+        <text encoding="base64">CQlCb2R5SFRNTDogIjxkaXY+dHJvbGxzPC9kaXY+IiwK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>A</text>
       </register>
     </registers>
     <search>

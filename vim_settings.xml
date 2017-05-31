@@ -914,10 +914,10 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-pos/src/app/directives/provider-config/provider-config.controller.js" timestamp="1495811590758">
-        <mark key="[" line="101" column="12" />
-        <mark key="]" line="101" column="18" />
-        <mark key="." line="101" column="18" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-pos/src/app/directives/provider-config/provider-config.controller.js" timestamp="1496242117546">
+        <mark key="[" line="58" column="53" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
         <mark key="^" line="101" column="18" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/provider-settings-form/ebay/shipping-and-returns/shipping-options/domestic/ebay-domestic-shipping-options.directive.js" timestamp="1491581714315">
@@ -1107,31 +1107,31 @@
         <text encoding="base64">CQkJIiQkUFJPRklMRV9VUkwiOiAiaHR0cDovL2V4YW1wbGUuY29tL3Byb2ZpbGUiLAkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CWsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CXZhciAoCgkJcmVzcG9uc2VKc29uIFtdYnl0ZQoJKQo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CWsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CXZhciAoCgkJcmVzcG9uc2VKc29uIFtdYnl0ZQoJKQo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlpZiBlbWFpbCAhPSBuaWwgewoJCQkKCQl9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CSJnaXRodWIuY29tL3J0YWx2YXJlei9sYWJzLWJlL21vZGVscyIK</text>
+        <text encoding="base64">CQlpZiBlbWFpbCAhPSBuaWwgewoJCQkKCQl9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CSJmbXQiCg==</text>
+        <text encoding="base64">CSJnaXRodWIuY29tL3J0YWx2YXJlei9sYWJzLWJlL21vZGVscyIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKHRlbXBsYXRlKQo=</text>
+        <text encoding="base64">CSJmbXQiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlCb2R5SFRNTDogIjxkaXY+dHJvbGxzPC9kaXY+IiwK</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKHRlbXBsYXRlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>

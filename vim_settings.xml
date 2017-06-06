@@ -189,11 +189,11 @@
         <mark key="^" line="102" column="45" />
         <mark key="." line="102" column="45" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/sass/components/ebayMultipleShippingPolicies/_ebayMultipleShippingPolicies.scss" timestamp="1496766484815">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="9" column="3" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/sass/components/ebayMultipleShippingPolicies/_ebayMultipleShippingPolicies.scss" timestamp="1496767861876">
+        <mark key="[" line="30" column="2" />
+        <mark key="]" line="33" column="53" />
+        <mark key="." line="33" column="53" />
+        <mark key="^" line="33" column="53" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-pos/src/sass/components/squareLocationsModal/_squareLocationsModal.scss" timestamp="1493409067838">
         <mark key="[" line="1" column="21" />
@@ -651,11 +651,11 @@
         <mark key="^" line="21" column="37" />
         <mark key="." line="21" column="37" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/provider-settings-form/ebay/ebay-multiple-shipping-policies/ebay-multiple-shipping-policies.tpl.html" timestamp="1496765945985">
-        <mark key="[" line="10" column="13" />
-        <mark key="]" line="17" column="71" />
-        <mark key="^" line="17" column="71" />
-        <mark key="." line="17" column="71" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/provider-settings-form/ebay/ebay-multiple-shipping-policies/ebay-multiple-shipping-policies.tpl.html" timestamp="1496767857143">
+        <mark key="[" line="20" column="80" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="20" column="77" />
       </file>
       <file name="$USER_HOME$/labs/labs-fe-bb/app/styles/profile/ProfileDetailsView.scss" timestamp="1493580068643">
         <mark key="[" line="20" column="1" />
@@ -1210,40 +1210,40 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">LmViYXlNdWx0aXBsZVNoaXBwaW5nUG9saWNpZXMtdGFibGVIZWFkZXJzLAouZWJheU11bHRpcGxlU2hpcHBpbmdQb2xpY2llcy1wb2xpY3lDb2x1bW5zIHsKICAgIGRpc3BsYXk6IGZsZXg7CiAgICBmbGV4LWRpcmVjdGlvbjogY29sdW1uOwogICAgbGlzdC1zdHlsZTogbm9uZTsKfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iZWJheU11bHRpcGxlU2hpcHBpbmdQb2xpY2llcy1wb2xpY3lEZXNjcmlwdGlvbiI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBhd2Rhc2RhcwogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZsZXgtZGlyZWN0aW9uOiBjb2x1bW47Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGF3ZGFzZGFzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxpc3Qtc3R5bGU6IG5vbmU7Cg==</text>
+        <text encoding="base64">LmViYXlNdQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRpc3BsYXk6IGZsZXg7CiAgICBmbGV4LWRpcmVjdGlvbjogY29sdW1uOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8bGkgY2xhc3M9ImViYXlNdWx0aXBsZVNoaXBwaW5nUG9saWNpZXMtYWN0aW9ucyI+Li4uPC9saT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZsZXgtZGlyZWN0aW9uOiBjb2x1bW47Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIGxpc3Qtc3R5bGU6IG5vbmU7Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGRpc3BsYXk6IGZsZXg7CiAgICBmbGV4LWRpcmVjdGlvbjogY29sdW1uOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBDb250ZW50IGFzIGQK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9InBhbmVsLWJvZHkiIGxvYWRpbmctb3ZlcmxheT0iJGN0cmwuaXNMb2FkaW5nIj4KICAgICAgICBQYW5lbCBib2R5CiAgICA8L2Rpdj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
       <register name="-" type="4">
-        <text>span</text>
+        <text>grey</text>
       </register>
     </registers>
     <search>

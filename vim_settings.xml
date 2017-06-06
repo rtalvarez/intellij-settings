@@ -189,11 +189,11 @@
         <mark key="^" line="102" column="45" />
         <mark key="." line="102" column="45" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/sass/components/ebayMultipleShippingPolicies/_ebayMultipleShippingPolicies.scss" timestamp="1496777813817">
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
-        <mark key="^" line="61" column="11" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/sass/components/ebayMultipleShippingPolicies/_ebayMultipleShippingPolicies.scss" timestamp="1496779096227">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="24" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="49" column="23" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-pos/src/sass/components/squareLocationsModal/_squareLocationsModal.scss" timestamp="1493409067838">
         <mark key="[" line="1" column="21" />
@@ -662,11 +662,10 @@
         <mark key="^" line="21" column="37" />
         <mark key="." line="21" column="37" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/provider-settings-form/ebay/ebay-multiple-shipping-policies/ebay-multiple-shipping-policies.tpl.html" timestamp="1496777388864">
-        <mark key="[" line="23" column="69" />
-        <mark key="]" line="24" column="58" />
-        <mark key="." line="24" column="58" />
-        <mark key="^" line="24" column="58" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/provider-settings-form/ebay/ebay-multiple-shipping-policies/ebay-multiple-shipping-policies.tpl.html" timestamp="1496778558003">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/labs/labs-fe-bb/app/styles/profile/ProfileDetailsView.scss" timestamp="1493580068643">
         <mark key="[" line="20" column="1" />
@@ -1229,34 +1228,34 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iZWJheU11bHRpcGxlU2hpcHBpbmdQb2xpY2llcy1wb2xpY3lEZXNjcmlwdGlvbiI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBhd2Rhc2RhcwogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgIGFsaWduLWl0ZW1zOiBjZW50ZXI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiAkcHJvZHVjdEFjdGlvbnMtbWVudS0tYmFja2dyb3VuZENvbG9yLWhvdmVyOwogICAgfQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICY6aG92ZXIgewo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmctcmlnaHQ6IDA7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">LmViYXltdWx0aXBsZXNoaXBwaW5ncG9saWNpZXMtZHJvcGRvd25tZW51IHsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">JHByb2R1Y3RBY3Rpb25zLW1lbnUtc3ZnLS1maWxsLWhvdmVyOiBwYWxldHRlKCJzZWNvbmRhcnkiLCA5MDApOwokcHJvZHVjdEFjdGlvbnMtbWVudS1zdmctZmlsbDogcGFsZXR0ZSgic2Vjb25kYXJ5IiwgMzAwKTsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">JGViYXlNdWx0aXBsZVNoaXBwaW5nUG9saWNpZXMtbWVudS1zdmctLWZpbGwtaG92ZXI6IHBhbGV0dGUoInNlY29uZGFyeSIsIDkwMCk7CiRlYmF5TXVsdGlwbGVTaGlwcGluZ1BvbGljaWVzLW1lbnUtc3ZnLWZpbGw6IHBhbGV0dGUoInNlY29uZGFyeSIsIDMwMCk7CiRlYmF5TXVsdGlwbGVTaGlwcGluZ1BvbGljaWVzLW1lbnUtLWJhY2tncm91bmRDb2xvci1ob3ZlcjogcGFsZXR0ZSgic2Vjb25kYXJ5IiwgMTAwKTsKJGViYXlNdWx0aXBsZVNoaXBwaW5nUG9saWNpZXMtYWN0aW9uLWNvbG9yOiBwYWxldHRlKCJncmV5cyIsICJsaWdodCIpOwokZWJheU11bHRpcGxlU2hpcHBpbmdQb2xpY2llcy1hY3Rpb24tZW5hYmxlZC1jb2xvcjogcGFsZXR0ZSgic3VjY2VzcyIpOwoK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5nLWNsaWNrPSIkZXZlbnQucHJldmVudERlZmF1bHQoKSIK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiAkcHJvZHVjdEFjdGlvbnMtbWVudS0tYmFja2dyb3VuZENvbG9yLWhvdmVyOwogICAgfQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0iaXMtc3JPbmx5IiB0cmFuc2xhdGU+TW9yZSBhY3Rpb25zPC9zcGFuPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpY29uIGNsYXNzPSJwcm9kdWN0QWN0aW9ucy10b2dnbGUiIGdseXBoPSJpYy1tb3JlLWhvcml6Ij48L2ljb24+Cg==</text>
+        <text encoding="base64">ICAgICY6aG92ZXIgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRyb3Bkb3duUmVwb3NpdGlvbi5uYW1lLAo=</text>
+        <text encoding="base64">ICAgIHBhZGRpbmctcmlnaHQ6IDA7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>

@@ -186,11 +186,11 @@
         <mark key="^" line="102" column="45" />
         <mark key="." line="102" column="45" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/sass/components/ebayMultipleShippingPolicies/_ebayMultipleShippingPolicies.scss" timestamp="1496845649790">
-        <mark key="[" line="51" column="38" />
-        <mark key="]" line="23" column="16" />
-        <mark key="." line="23" column="16" />
-        <mark key="^" line="23" column="16" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/sass/components/ebayMultipleShippingPolicies/_ebayMultipleShippingPolicies.scss" timestamp="1496848332334">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="47" column="28" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="59" column="27" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-pos/src/sass/components/squareLocationsModal/_squareLocationsModal.scss" timestamp="1493409067838">
         <mark key="[" line="1" column="21" />
@@ -479,7 +479,7 @@
         <mark key="^" line="3" column="15" />
         <mark key="." line="3" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496845565573">
+      <file name="/Dummy.txt" timestamp="1496848222169">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -1099,11 +1099,11 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="144" column="36" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/dropdown-reposition/dropdown-reposition.directive.js" timestamp="1496774412813">
-        <mark key="[" line="14" column="56" />
-        <mark key="]" line="14" column="55" />
-        <mark key="^" line="14" column="55" />
-        <mark key="." line="14" column="55" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/dropdown-reposition/dropdown-reposition.directive.js" timestamp="1496847926580">
+        <mark key="[" line="14" column="52" />
+        <mark key="]" line="14" column="57" />
+        <mark key="^" line="14" column="57" />
+        <mark key="." line="14" column="57" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/sass/components/productActions/_productActions.scss" timestamp="1496776999886" />
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/amazon-registered-brand-validator/amazon-registered-brand-validator.directive.js" timestamp="1495738956671">
@@ -1261,7 +1261,7 @@
         <text>50</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmc6IHNwYWNpbmcoImJhc2UiKTsK</text>
+        <text encoding="base64">ICAgIHdoaXRlLXNwYWNlOiBub3dyYXA7CiAgICBvdmVyZmxvdzogaGlkZGVuOwogICAgdGV4dC1vdmVyZmxvdzogZWxsaXBzaXM7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>

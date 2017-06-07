@@ -186,10 +186,11 @@
         <mark key="^" line="102" column="45" />
         <mark key="." line="102" column="45" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/sass/components/ebayMultipleShippingPolicies/_ebayMultipleShippingPolicies.scss" timestamp="1496844737101">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/sass/components/ebayMultipleShippingPolicies/_ebayMultipleShippingPolicies.scss" timestamp="1496845649790">
+        <mark key="[" line="51" column="38" />
+        <mark key="]" line="23" column="16" />
+        <mark key="." line="23" column="16" />
+        <mark key="^" line="23" column="16" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-pos/src/sass/components/squareLocationsModal/_squareLocationsModal.scss" timestamp="1493409067838">
         <mark key="[" line="1" column="21" />
@@ -478,7 +479,7 @@
         <mark key="^" line="3" column="15" />
         <mark key="." line="3" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496781349014">
+      <file name="/Dummy.txt" timestamp="1496845565573">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -795,11 +796,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/constants.js" timestamp="1496761114266">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-redirect/provider-redirect.config.js" timestamp="1493301774067">
         <mark key="[" line="6" column="33" />
         <mark key="]" line="6" column="30" />
@@ -1035,11 +1031,6 @@
         <mark key="^" line="36" column="25" />
         <mark key="." line="36" column="25" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/sass/components/shippingPolicySlideout/_shippingPolicySlideout.scss" timestamp="1496688799398">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="39" />
-        <mark key="." line="14" column="0" />
-      </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/listing/ebay/directives/shipping-policy-slideout/shipping-policy-slideout.controller.js" timestamp="1496685571038">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
@@ -1266,11 +1257,29 @@
       <jump line="28" column="99" filename="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/services/channel-management/ebay/ebay-channel-management.api.js" />
     </jumps>
     <registers>
+      <register name="-" type="4">
+        <text>50</text>
+      </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHBhZGRpbmc6IHNwYWNpbmcoImJhc2UiKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="q" type="4">
+        <keys>
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
       </register>
       <register name="2" type="2">
         <text encoding="base64">LmViYXlNdWx0aXBsZVNoaXBwaW5nUG9saWNpZXMtcG9saWNpZXMgewo=</text>
@@ -1298,9 +1307,6 @@
       </register>
       <register name=":" type="4">
         <text>wq</text>
-      </register>
-      <register name="-" type="4">
-        <text>1489504466</text>
       </register>
     </registers>
     <search>

@@ -204,11 +204,11 @@
         <mark key="^" line="69" column="62" />
         <mark key="." line="69" column="62" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/policy-dropdown/policy-dropdown.controller.js" timestamp="1496780532421">
-        <mark key="[" line="14" column="26" />
-        <mark key="]" line="14" column="26" />
-        <mark key="." line="14" column="26" />
-        <mark key="^" line="14" column="26" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/policy-dropdown/policy-dropdown.controller.js" timestamp="1496783904534">
+        <mark key="[" line="16" column="33" />
+        <mark key="]" line="16" column="34" />
+        <mark key="." line="16" column="34" />
+        <mark key="^" line="16" column="34" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/form-validators/unique-registered-brand.js" timestamp="1495639499013">
         <mark key="[" line="4" column="0" />
@@ -272,11 +272,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/policy-dropdown/policy-dropdown.directive.js" timestamp="1496780251679">
-        <mark key="[" line="9" column="28" />
-        <mark key="]" line="9" column="23" />
-        <mark key="." line="9" column="23" />
-        <mark key="^" line="9" column="23" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/policy-dropdown/policy-dropdown.directive.js" timestamp="1496783790031">
+        <mark key="[" line="8" column="16" />
+        <mark key="]" line="10" column="23" />
+        <mark key="." line="10" column="23" />
+        <mark key="^" line="10" column="23" />
       </file>
       <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/models/appointments.go" timestamp="1496008698481">
         <mark key="[" line="11" column="18" />
@@ -330,11 +330,11 @@
         <mark key="^" line="7" column="36" />
         <mark key="." line="7" column="36" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/provider-settings-form/ebay/ebay-multiple-shipping-policies/ebay-multiple-shipping-policies.controller.js" timestamp="1496782399101">
-        <mark key="[" line="12" column="60" />
-        <mark key="]" line="12" column="58" />
-        <mark key="." line="12" column="58" />
-        <mark key="^" line="12" column="58" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/provider-settings-form/ebay/ebay-multiple-shipping-policies/ebay-multiple-shipping-policies.controller.js" timestamp="1496783942277">
+        <mark key="[" line="20" column="34" />
+        <mark key="]" line="20" column="43" />
+        <mark key="." line="20" column="43" />
+        <mark key="^" line="20" column="43" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-redirect/provider-redirect.module.js" timestamp="1493300939274">
         <mark key="[" line="3" column="19" />
@@ -682,11 +682,11 @@
         <mark key="^" line="21" column="37" />
         <mark key="." line="21" column="37" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/provider-settings-form/ebay/ebay-multiple-shipping-policies/ebay-multiple-shipping-policies.tpl.html" timestamp="1496780309626">
-        <mark key="[" line="24" column="28" />
-        <mark key="]" line="23" column="70" />
-        <mark key="." line="23" column="70" />
-        <mark key="^" line="23" column="70" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/provider-settings-form/ebay/ebay-multiple-shipping-policies/ebay-multiple-shipping-policies.tpl.html" timestamp="1496783881614">
+        <mark key="[" line="24" column="70" />
+        <mark key="]" line="23" column="71" />
+        <mark key="." line="23" column="71" />
+        <mark key="^" line="23" column="71" />
       </file>
       <file name="$USER_HOME$/labs/labs-fe-bb/app/styles/profile/ProfileDetailsView.scss" timestamp="1493580068643">
         <mark key="[" line="20" column="1" />
@@ -1261,31 +1261,31 @@
         <text encoding="base64">ICAgIGFsaWduLWl0ZW1zOiBjZW50ZXI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGF3ZGFzZGFzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGdldE1lc3NhZ2UoKSB7CiAgICAgICAgcmV0dXJuIHRoaXMubWVzc2FnZTsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGxpIGNsYXNzPSJkcm9wZG93bi1tZW51LWl0ZW0iPjxhIGhyZWY9IiMiIG5nLWNsaWNrPSIkZXZlbnQucHJldmVudERlZmF1bHQoKSI+VGhyZWU8L2E+PC9saT4K</text>
+        <text encoding="base64">ICAgIGdldE1lc3NhZ2UoKSB7CiAgICAgICAgcmV0dXJuIHRoaXMubWVzc2FnZTsKICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWVzc2FnZTogJz0nLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGxpIGNsYXNzPSJkcm9wZG93bi1tZW51LWl0ZW0iPjxhIGhyZWY9IiMiIG5nLWNsaWNrPSIkZXZlbnQucHJldmVudERlZmF1bHQoKSI+VGhyZWU8L2E+PC9saT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwhLS08ZGl2IGJjLWRyb3Bkb3duPi0tPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwhLS08YnV0dG9uIHR5cGU9ImJ1dHRvbiItLT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwhLS1jbGFzcz0iYnV0dG9uIGJ1dHRvbiYjNDU7JiM0NTtpY29uIGRyb3Bkb3duLWJ1dHRvbiBlYmF5TXVsdGlwbGVTaGlwcGluZ1BvbGljaWVzLWRyb3Bkb3duTWVudSItLT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwhLS1iYy1kcm9wZG93bi10b2dnbGU+LS0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwhLS08c3BhbiBjbGFzcz0iaXMtc3JPbmx5IiB0cmFuc2xhdGU+TW9yZSBhY3Rpb25zPC9zcGFuPi0tPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8IS0tPGljb24gY2xhc3M9InByb2R1Y3RBY3Rpb25zLXRvZ2dsZSIgZ2x5cGg9ImljLW1vcmUtaG9yaXoiPjwvaWNvbj4tLT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8IS0tPC9idXR0b24+LS0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPCEtLTx1bCBiYy1kcm9wZG93bi1tZW51IGRyb3Bkb3duLXJlcG9zaXRpb24+LS0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwhLS08bGkgY2xhc3M9ImRyb3Bkb3duLW1lbnUtaXRlbSI+PGEgaHJlZj0iIyIgbmctY2xpY2s9IiRldmVudC5wcmV2ZW50RGVmYXVsdCgpIj5PbmU8L2E+PC9saT4tLT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPCEtLTxsaSBjbGFzcz0iZHJvcGRvd24tbWVudS1pdGVtIj48YSBocmVmPSIjIiBuZy1jbGljaz0iJGV2ZW50LnByZXZlbnREZWZhdWx0KCkiPlR3bzwvYT48L2xpPi0tPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8IS0tPGxpIGNsYXNzPSJkcm9wZG93bi1tZW51LWl0ZW0iPjxhIGhyZWY9IiMiIG5nLWNsaWNrPSIkZXZlbnQucHJldmVudERlZmF1bHQoKSI+VGhyZWU8L2E+PC9saT4tLT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8IS0tPC91bD4tLT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwhLS08L2Rpdj4tLT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWVzc2FnZTogJz0nLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">JGViYXlNdWx0aXBsZVNoaXBwaW5nUG9saWNpZXMtbWVudS1zdmctLWZpbGwtaG92ZXI6IHBhbGV0dGUoInNlY29uZGFyeSIsIDkwMCk7CiRlYmF5TXVsdGlwbGVTaGlwcGluZ1BvbGljaWVzLW1lbnUtc3ZnLWZpbGw6IHBhbGV0dGUoInNlY29uZGFyeSIsIDMwMCk7CiRlYmF5TXVsdGlwbGVTaGlwcGluZ1BvbGljaWVzLW1lbnUtLWJhY2tncm91bmRDb2xvci1ob3ZlcjogcGFsZXR0ZSgic2Vjb25kYXJ5IiwgMTAwKTsKJGViYXlNdWx0aXBsZVNoaXBwaW5nUG9saWNpZXMtYWN0aW9uLWNvbG9yOiBwYWxldHRlKCJncmV5cyIsICJsaWdodCIpOwokZWJheU11bHRpcGxlU2hpcHBpbmdQb2xpY2llcy1hY3Rpb24tZW5hYmxlZC1jb2xvcjogcGFsZXR0ZSgic3VjY2VzcyIpOwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwhLS08ZGl2IGJjLWRyb3Bkb3duPi0tPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwhLS08YnV0dG9uIHR5cGU9ImJ1dHRvbiItLT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwhLS1jbGFzcz0iYnV0dG9uIGJ1dHRvbiYjNDU7JiM0NTtpY29uIGRyb3Bkb3duLWJ1dHRvbiBlYmF5TXVsdGlwbGVTaGlwcGluZ1BvbGljaWVzLWRyb3Bkb3duTWVudSItLT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwhLS1iYy1kcm9wZG93bi10b2dnbGU+LS0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwhLS08c3BhbiBjbGFzcz0iaXMtc3JPbmx5IiB0cmFuc2xhdGU+TW9yZSBhY3Rpb25zPC9zcGFuPi0tPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8IS0tPGljb24gY2xhc3M9InByb2R1Y3RBY3Rpb25zLXRvZ2dsZSIgZ2x5cGg9ImljLW1vcmUtaG9yaXoiPjwvaWNvbj4tLT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8IS0tPC9idXR0b24+LS0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPCEtLTx1bCBiYy1kcm9wZG93bi1tZW51IGRyb3Bkb3duLXJlcG9zaXRpb24+LS0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwhLS08bGkgY2xhc3M9ImRyb3Bkb3duLW1lbnUtaXRlbSI+PGEgaHJlZj0iIyIgbmctY2xpY2s9IiRldmVudC5wcmV2ZW50RGVmYXVsdCgpIj5PbmU8L2E+PC9saT4tLT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPCEtLTxsaSBjbGFzcz0iZHJvcGRvd24tbWVudS1pdGVtIj48YSBocmVmPSIjIiBuZy1jbGljaz0iJGV2ZW50LnByZXZlbnREZWZhdWx0KCkiPlR3bzwvYT48L2xpPi0tPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8IS0tPGxpIGNsYXNzPSJkcm9wZG93bi1tZW51LWl0ZW0iPjxhIGhyZWY9IiMiIG5nLWNsaWNrPSIkZXZlbnQucHJldmVudERlZmF1bHQoKSI+VGhyZWU8L2E+PC9saT4tLT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8IS0tPC91bD4tLT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwhLS08L2Rpdj4tLT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LmViYXlNdWx0aXBsZVNoaXBwaW5nUG9saWNpZXMtdG9nZ2xlIHsKICAgIC5lYmF5TXVsdGlwbGVTaGlwcGluZ1BvbGljaWVzLXRvZ2dsZS1pY29uIHsKICAgICAgICBtYXJnaW4tbGVmdDogYXV0bzsKCiAgICAgICAgc3ZnIHsKICAgICAgICAgICAgZmlsbDogJGViYXlNdWx0aXBsZVNoaXBwaW5nUG9saWNpZXMtYWN0aW9uLWNvbG9yOwogICAgICAgIH0KCiAgICAgICAgJi5pcy1lbmFibGVkIHN2ZyB7CiAgICAgICAgICAgIGZpbGw6ICRlYmF5TXVsdGlwbGVTaGlwcGluZ1BvbGljaWVzLWFjdGlvbi1lbmFibGVkLWNvbG9yOwogICAgICAgIH0KICAgIH0KCn0K</text>
+        <text encoding="base64">JGViYXlNdWx0aXBsZVNoaXBwaW5nUG9saWNpZXMtbWVudS1zdmctLWZpbGwtaG92ZXI6IHBhbGV0dGUoInNlY29uZGFyeSIsIDkwMCk7CiRlYmF5TXVsdGlwbGVTaGlwcGluZ1BvbGljaWVzLW1lbnUtc3ZnLWZpbGw6IHBhbGV0dGUoInNlY29uZGFyeSIsIDMwMCk7CiRlYmF5TXVsdGlwbGVTaGlwcGluZ1BvbGljaWVzLW1lbnUtLWJhY2tncm91bmRDb2xvci1ob3ZlcjogcGFsZXR0ZSgic2Vjb25kYXJ5IiwgMTAwKTsKJGViYXlNdWx0aXBsZVNoaXBwaW5nUG9saWNpZXMtYWN0aW9uLWNvbG9yOiBwYWxldHRlKCJncmV5cyIsICJsaWdodCIpOwokZWJheU11bHRpcGxlU2hpcHBpbmdQb2xpY2llcy1hY3Rpb24tZW5hYmxlZC1jb2xvcjogcGFsZXR0ZSgic3VjY2VzcyIpOwoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PGRpdj5WCiAgICB7eyBwb2xpY3lEcm9wZG93bkN0cmwubWVzc2FnZSB9fQo8L2Rpdj4KCg==</text>
+        <text encoding="base64">LmViYXlNdWx0aXBsZVNoaXBwaW5nUG9saWNpZXMtdG9nZ2xlIHsKICAgIC5lYmF5TXVsdGlwbGVTaGlwcGluZ1BvbGljaWVzLXRvZ2dsZS1pY29uIHsKICAgICAgICBtYXJnaW4tbGVmdDogYXV0bzsKCiAgICAgICAgc3ZnIHsKICAgICAgICAgICAgZmlsbDogJGViYXlNdWx0aXBsZVNoaXBwaW5nUG9saWNpZXMtYWN0aW9uLWNvbG9yOwogICAgICAgIH0KCiAgICAgICAgJi5pcy1lbmFibGVkIHN2ZyB7CiAgICAgICAgICAgIGZpbGw6ICRlYmF5TXVsdGlwbGVTaGlwcGluZ1BvbGljaWVzLWFjdGlvbi1lbmFibGVkLWNvbG9yOwogICAgICAgIH0KICAgIH0KCn0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8kZWJheU11bHRpcGxlU2hpcHBpbmdQb2xpY2llcy1hY3Rpb24tY29sb3I6IHBhbGV0dGUoImdyZXlzIiwgImxpZ2h0Iik7Ci8vJGViYXlNdWx0aXBsZVNoaXBwaW5nUG9saWNpZXMtYWN0aW9uLWVuYWJsZWQtY29sb3I6IHBhbGV0dGUoInN1Y2Nlc3MiKTsK</text>
+        <text encoding="base64">PGRpdj5WCiAgICB7eyBwb2xpY3lEcm9wZG93bkN0cmwubWVzc2FnZSB9fQo8L2Rpdj4KCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>

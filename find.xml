@@ -5,11 +5,8 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.html" />
+    <option name="FILE_MASK" value="*.scala" />
     <recentFileMasks>
-      <mask>*.direcrt</mask>
-      <mask>*.direcr</mask>
-      <mask>*.direc</mask>
       <mask>*.directi</mask>
       <mask>*.directiv</mask>
       <mask>*.directive</mask>
@@ -25,18 +22,21 @@
       <mask>*.go</mask>
       <mask>*.g</mask>
       <mask>*.d</mask>
-      <mask>*.htm</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.scss</mask>
       <mask>*.scs</mask>
       <mask>*.sc</mask>
-      <mask>*.s</mask>
+      <mask>*.html</mask>
+      <mask>*.htm</mask>
+      <mask>*.ht</mask>
+      <mask>*.h</mask>
+      <mask>*s</mask>
       <mask>*</mask>
       <mask>*.</mask>
-      <mask>*.h</mask>
-      <mask>*.ht</mask>
-      <mask>*.html</mask>
+      <mask>*.s</mask>
+      <mask>*.scal</mask>
+      <mask>*.scala</mask>
     </recentFileMasks>
   </component>
 </application>

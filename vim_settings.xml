@@ -232,6 +232,12 @@
         <mark key="]" line="131" column="0" />
         <mark key="." line="131" column="0" />
       </file>
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/listing/ebay/ebay-listing.spec.js" timestamp="1497282477633">
+        <mark key="[" line="113" column="40" />
+        <mark key="]" line="114" column="37" />
+        <mark key="^" line="114" column="37" />
+        <mark key="." line="114" column="37" />
+      </file>
       <file name="$USER_HOME$/labs/labs-be/sqllabs/sessions.go" timestamp="1491753402732">
         <mark key="[" line="11" column="43" />
         <mark key="]" line="11" column="26" />
@@ -1111,9 +1117,9 @@
         <mark key="." line="10" column="28" />
         <mark key="^" line="10" column="28" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/listing/ebay/directives/choose-return-policy/choose-return-policy.controller.js" timestamp="1497045678186">
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/listing/ebay/directives/choose-return-policy/choose-return-policy.controller.js" timestamp="1497282510191">
         <mark key="'" line="61" column="0" />
-        <mark key="[" line="47" column="52" />
+        <mark key="[" line="45" column="46" />
         <mark key="]" line="47" column="63" />
         <mark key="^" line="47" column="63" />
         <mark key="." line="47" column="63" />
@@ -1383,7 +1389,7 @@
         <text>returnPolicies</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIF91bnNoaWZ0RGVmYXVsdFJldHVyblBvbGljeShwb2xpY3kpIHsKICAgICAgICB0aGlzLmRlZmF1bHRSZXR1cm5Qb2xpY3kgPSBwb2xpY3k7CiAgICAgICAgdGhpcy5zZWxlY3RlZFJldHVyblBvbGljeSA9IHRoaXMuZGVmYXVsdFJldHVyblBvbGljeTsKCiAgICAgICAgdGhpcy5yZXR1cm5Qb2xpY2llcy51bnNoaWZ0KHRoaXMuZGVmYXVsdFJldHVyblBvbGljeSk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBlYmF5U2hpcHBpbmdQb2xpY2llcyA9IGphc21pbmUuY3JlYXRlU3B5T2JqKCdlYmF5U2hpcHBpbmdQb2xpY2llcycsIFsKICAgICAgICAgICAgJ2ZldGNoJywKICAgICAgICBdKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Pj4+Pj4+PiBPTU5JLTM1MTQ6IENob29zZSByZXR1cm4gcG9saWN5IGZyb20gYWR2IGxpc3RpbmcgcGFnZQo=</text>

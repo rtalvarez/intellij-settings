@@ -85,6 +85,11 @@
         <mark key="^" line="2" column="87" />
         <mark key="." line="2" column="87" />
       </file>
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/bigcommerce/app/templates/admin/angularmicroapp/index.html" timestamp="1497883142788">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+      </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-onboarding/src/app/_common/directives/square-import-card.js" timestamp="1492446184034">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -1576,7 +1581,7 @@
         <text encoding="base64">ICAgICAgICAgICAgPGEgaHJlZj0iL2FwcG9pbnRtZW50cy9jcmVhdGUiIGNsYXNzPSJuZXctYXBwb2ludG1lbnQtYWN0aW9uIGJ0biB3YXZlcy1lZmZlY3Qgd2F2ZXMtbGlnaHQiPgogICAgICAgICAgICAgICAgQWdlbmRhciBjaXRhIG51ZXZhCiAgICAgICAgICAgIDwvYT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB7JSBpbmNsdWRlICdhbmFseXRpY3MuaHRtbCcgJX0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1594,28 +1599,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIF9vbk5ld0FwcG9pbnRtZW50QWN0aW9uQ2xpY2soZXZlbnQpIHsKICAgICAgICBldmVudC5wcmV2ZW50RGVmYXVsdCgpOwoKICAgICAgICB0aGlzLm5hdmlnYXRlKGV2ZW50KTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB7JSBpbmNsdWRlICdhbmFseXRpY3MuaHRtbCcgJX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLTxidXR0b24gY2xhc3M9Im5ldy1hcHBvaW50bWVudC1hY3Rpb24gYnRuIHdhdmVzLWVmZmVjdCB3YXZlcy1saWdodCIgdHlwZT0iYnV0dG9uIj4tLT4KICAgICAgICAgICAgICAgIDwhLS1BZ2VuZGFyIGNpdGEgbnVldmEtLT4KICAgICAgICAgICAgPCEtLTwvYnV0dG9uPi0tPgo=</text>
+        <text encoding="base64">ICAgICAgICB7JSBpbmNsdWRlICdnb29nbGUtdGFnLW1hbmFnZXIudHBsJyAlfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm5hdmlnYXRlVG9QYXRoKCcvYXBwb2ludG1lbnRzL2NyZWF0ZScpOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIF9vbk5ld0FwcG9pbnRtZW50QWN0aW9uQ2xpY2soZXZlbnQpIHsKICAgICAgICBldmVudC5wcmV2ZW50RGVmYXVsdCgpOwoKICAgICAgICB0aGlzLm5hdmlnYXRlKGV2ZW50KTsKICAgIH0K</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gT3ZlcnJpZGUKI3NpZGUtbmF2IHsKICAgIHdpZHRoOiA2MCU7Cn0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLTxidXR0b24gY2xhc3M9Im5ldy1hcHBvaW50bWVudC1hY3Rpb24gYnRuIHdhdmVzLWVmZmVjdCB3YXZlcy1saWdodCIgdHlwZT0iYnV0dG9uIj4tLT4KICAgICAgICAgICAgICAgIDwhLS1BZ2VuZGFyIGNpdGEgbnVldmEtLT4KICAgICAgICAgICAgPCEtLTwvYnV0dG9uPi0tPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxsaSBjbGFzcz0iZm9vdGVyLWxpbmsiPgogICAgICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJwcm9maWxlLWFjdGlvbiBncmV5LXRleHQgdGV4dC1saWdodGVuLTMiIGhyZWY9Ii9wcm9maWxlIj48c21hbGw+UGVyZmlsPC9zbWFsbD48L2E+CiAgICAgICAgICAgICAgICA8L2xpPgo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLm5hdmlnYXRlVG9QYXRoKCcvYXBwb2ludG1lbnRzL2NyZWF0ZScpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8bGkgY2xhc3M9ImNyZWF0ZS1hcHBvaW50bWVudCI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJkby1sb2dpbi1hY3Rpb24iIGhyZWY9Ii9sb2dpbiI+UmVnaXN0cm88L2E+CiAgICAgICAgICAgICAgICAgICAgPC9saT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8bGkgY2xhc3M9InByb2ZpbGUtaXRlbSI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJ2aXNpdC1wcm9maWxlLWFjdGlvbiIgaHJlZj0iL3Byb2ZpbGUiPk1pIHBlcmZpbDwvYT4KICAgICAgICAgICAgICAgICAgICA8L2xpPgo=</text>
+        <text encoding="base64">Ly8gT3ZlcnJpZGUKI3NpZGUtbmF2IHsKICAgIHdpZHRoOiA2MCU7Cn0K</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>

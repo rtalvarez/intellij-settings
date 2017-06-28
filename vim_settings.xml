@@ -608,10 +608,11 @@
         <mark key="^" line="1" column="97" />
         <mark key="." line="1" column="97" />
       </file>
-      <file name="$USER_HOME$/labs/labs-be/main.go" timestamp="1498679626984">
-        <mark key="[" line="62" column="44" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/labs/labs-be/main.go" timestamp="1498682036697">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+        <mark key="^" line="69" column="38" />
       </file>
       <file name="$USER_HOME$/labs/ng-labs/src/app/components/footer-bar/footer-bar.constants.js" timestamp="1498098661878">
         <mark key="[" line="11" column="21" />
@@ -2019,7 +2020,7 @@
         <text encoding="base64">CWNvbm5lY3Rpb25TdHIgOj0gbXlzcWxVc2VyICsgIjoiICsgbXlzcWxQd2QgKyAiQCIgKyBteXNxbEhvc3QK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSJ0aW1lIgo=</text>
+        <text encoding="base64">CQlNYXhBZ2U6IDUwICogdGltZS5TZWNvbmQsCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2037,28 +2038,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlBbGxvd01ldGhvZHM6ICAgICBbXXN0cmluZ3siUFVUIiwgIlBBVENIIn0sCgkJQWxsb3dIZWFkZXJzOiAgICAgW11zdHJpbmd7Ik9yaWdpbiJ9LAoJCUV4cG9zZUhlYWRlcnM6ICAgIFtdc3RyaW5neyJDb250ZW50LUxlbmd0aCJ9LAoJCUFsbG93Q3JlZGVudGlhbHM6IHRydWUsCgkJQWxsb3dPcmlnaW5GdW5jOiBmdW5jKG9yaWdpbiBzdHJpbmcpIGJvb2wgewoJCQlyZXR1cm4gb3JpZ2luID09ICJodHRwczovL2dpdGh1Yi5jb20iCgkJfSwKCQlNYXhBZ2U6IDEyICogdGltZS5Ib3VyLAo=</text>
+        <text encoding="base64">CWVuZ2luZS5Vc2UoY29ycy5OZXcoY29ycy5Db25maWd7CgkJQWxsb3dPcmlnaW5zOiAgICAgW11zdHJpbmd7IiouY2lsby5tZSIsICIqLm9ydGhvaW1hZ2VuZGlnaXRhbC5jb20ifSwKCX0pKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CSJvcyIK</text>
+        <text encoding="base64">CSJnaXRodWIuY29tL2dpbi1jb250cmliL2NvcnMiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSJ0aW1lIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWNvbm5lY3Rpb25TdHIgOj0gbXlzcWxVc2VyICsgIjoiICsgbXlzcWxQd2QgKyAiQCIgKyBteXNxbEhvc3QK</text>
+        <text encoding="base64">CQlBbGxvd01ldGhvZHM6ICAgICBbXXN0cmluZ3siUFVUIiwgIlBBVENIIn0sCgkJQWxsb3dIZWFkZXJzOiAgICAgW11zdHJpbmd7Ik9yaWdpbiJ9LAoJCUV4cG9zZUhlYWRlcnM6ICAgIFtdc3RyaW5neyJDb250ZW50LUxlbmd0aCJ9LAoJCUFsbG93Q3JlZGVudGlhbHM6IHRydWUsCgkJQWxsb3dPcmlnaW5GdW5jOiBmdW5jKG9yaWdpbiBzdHJpbmcpIGJvb2wgewoJCQlyZXR1cm4gb3JpZ2luID09ICJodHRwczovL2dpdGh1Yi5jb20iCgkJfSwKCQlNYXhBZ2U6IDEyICogdGltZS5Ib3VyLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSJvcyIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKCJjb25uIiwgY29ubmVjdGlvblN0cikK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">CWNvbm5lY3Rpb25TdHIgOj0gbXlzcWxVc2VyICsgIjoiICsgbXlzcWxQd2QgKyAiQCIgKyBteXNxbEhvc3QK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CWRiU3RyaW5nIDo9IGNvbm5lY3Rpb25FbnYK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>

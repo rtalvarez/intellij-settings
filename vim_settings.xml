@@ -39,11 +39,11 @@
         <mark key="^" line="25" column="54" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/create/create-appointment.tpl.html" timestamp="1498689581763">
-        <mark key="[" line="10" column="94" />
-        <mark key="]" line="11" column="34" />
-        <mark key="." line="11" column="34" />
-        <mark key="^" line="11" column="34" />
+      <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/create/create-appointment.tpl.html" timestamp="1498691197575">
+        <mark key="[" line="14" column="21" />
+        <mark key="]" line="14" column="30" />
+        <mark key="." line="14" column="30" />
+        <mark key="^" line="14" column="30" />
       </file>
       <file name="$USER_HOME$/labs/ng-labs/src/app/app.tpl.html" timestamp="1498099904221">
         <mark key="[" line="11" column="21" />
@@ -539,11 +539,11 @@
       <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/create/components/date-info/date-info.tpl.html" timestamp="1498689465538">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/create/create-appointment.scss" timestamp="1498689650799">
-        <mark key="[" line="5" column="36" />
-        <mark key="]" line="6" column="83" />
-        <mark key="^" line="6" column="83" />
-        <mark key="." line="6" column="83" />
+      <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/create/create-appointment.scss" timestamp="1498691171647">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="19" />
+        <mark key="^" line="17" column="19" />
+        <mark key="." line="17" column="19" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/sass/components/shippingPolicySlideout/_component.scss" timestamp="1496936620389">
         <mark key="[" line="0" column="32" />
@@ -850,7 +850,7 @@
         <mark key="^" line="3" column="15" />
         <mark key="." line="3" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498689643166">
+      <file name="/Dummy.txt" timestamp="1498690957810">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -1235,8 +1235,10 @@
         <mark key="." line="45" column="0" />
         <mark key="^" line="45" column="77" />
       </file>
-      <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/create/components/patient-doctor-info/patient-doctor-info.tpl.html" timestamp="1498688798142">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/create/components/patient-doctor-info/patient-doctor-info.tpl.html" timestamp="1498691767602">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-onboarding/src/sass/components/squareImportCard/_component.scss" timestamp="1491837896849">
         <mark key="[" line="0" column="26" />
@@ -2046,13 +2048,13 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>title</text>
+        <text>text</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8bWQtY29udGVudCBjbGFzcz0icGFuZWwtc2hhZG93IiBuZy1pZj0idGFiLmlkID09PSAnSURfMSciIGxheW91dC1wYWRkaW5nPgogICAgICAgICAgICAgICAgICAgICAgICA8cGF0aWVudC1kb2N0b3ItaW5mbz48L3BhdGllbnQtZG9jdG9yLWluZm8+CiAgICAgICAgICAgICAgICAgICAgPC9tZC1jb250ZW50Pgo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJjb250ZW50cyIgbGF5b3V0PSJyb3ciPgogICAgICAgICAgICA8bWQtaW5wdXQtY29udGFpbmVyIGNsYXNzPSJtZC1ibG9jayIgZmxleD0iMTAwIj4KICAgICAgICAgICAgICAgIDxsYWJlbCBmb3I9InBhdGllbnQtZW1haWwiPkNvcnJlbyBlbGVjdHJvbmljbzwvbGFiZWw+CiAgICAgICAgICAgICAgICA8aW5wdXQgaWQ9InBhdGllbnQtZW1haWwiIHR5cGU9ImVtYWlsIiBuZy1tb2RlbD0idXNlci5maXJzdE5hbWUiPgogICAgICAgICAgICA8L21kLWlucHV0LWNvbnRhaW5lcj4KICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGllbnQtZG9jdG9yLWluZm8+PC9wYXRpZW50LWRvY3Rvci1pbmZvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPG1kLWlucHV0LWNvbnRhaW5lciBmbGV4PSI1MCI+CiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgPC9tZC1pbnB1dC1jb250YWluZXI+Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2070,28 +2072,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2IG5nLWlmPSJ0YWIuaWQgPT09ICdJRF8yJyI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxoND50aXRsZTwvaDQ+CiAgICAgICAgICAgICAgICAgICAgICAgIGlkMgogICAgICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWQxCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPG1kLWRhdGVwaWNrZXIgbWQtb3Blbi1vbi1mb2N1cyBuZy1tb2RlbD0iZm9vIiBtZC1jdXJyZW50LXZpZXc9InllYXIiIG1kLXBsYWNlaG9sZGVyPSJGZWNoYSBkZSBuYWNpbWllbnRvIiBmbGV4PSI1MCI+CiAgICAgICAgICAgIDwvbWQtZGF0ZXBpY2tlcj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGg0PnRpdGxlPC9oND4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPG1kLWlucHV0LWNvbnRhaW5lciBjbGFzcz0ibWQtYmxvY2siIGZsZXg9IjEwMCI+CiAgICAgICAgICAgICAgICA8bGFiZWwgZm9yPSJwYXRpZW50LWVtYWlsIj5Db3JyZW8gZWxlY3Ryb25pY288L2xhYmVsPgogICAgICAgICAgICAgICAgPGlucHV0IGlkPSJwYXRpZW50LWVtYWlsIiB0eXBlPSJlbWFpbCIgbmctbW9kZWw9InVzZXIuZmlyc3ROYW1lIj4KICAgICAgICAgICAgPC9tZC1pbnB1dC1jb250YWluZXI+Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICB7eyAkY3RybC5nZXRTZWxlY3RlZFRhYigpIH19Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICA8bWQtaW5wdXQtY29udGFpbmVyIGNsYXNzPSJtZC1ibG9jayIgZmxleD0iNTAiPgogICAgICAgICAgICA8bGFiZWwgZm9yPSJwYXRpZW50LWZpcnN0LW5hbWUiPk5vbWJyZShzKTwvbGFiZWw+CiAgICAgICAgICAgIDxpbnB1dCBpZD0icGF0aWVudC1maXJzdC1uYW1lIiB0eXBlPSJ0ZXh0IiBuZy1tb2RlbD0idXNlci5maXJzdE5hbWUiPgogICAgICAgIDwvbWQtaW5wdXQtY29udGFpbmVyPgogICAgICAgIDxtZC1pbnB1dC1jb250YWluZXIgY2xhc3M9Im1kLWJsb2NrIiBmbGV4PSI1MCI+CiAgICAgICAgICAgIDxsYWJlbCBmb3I9InBhdGllbnQtbGFzdC1uYW1lIj5BcGVsbGlkb3M8L2xhYmVsPgogICAgICAgICAgICA8aW5wdXQgaWQ9InBhdGllbnQtbGFzdC1uYW1lIiB0eXBlPSJ0ZXh0IiBuZy1tb2RlbD0idXNlci5sYXN0TmFtZSI+CiAgICAgICAgPC9tZC1pbnB1dC1jb250YWluZXI+Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgbmctaWY9InRhYi5pZCA9PT0gJ0lEXzEnIj4KICAgICAgICAgICAgICAgICAgICBpZDEKICAgICAgICAgICAgICAgICAgICA8cGF0aWVudC1kb2N0b3ItaW5mbz48L3BhdGllbnQtZG9jdG9yLWluZm8+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDxkaXYgbmctaWY9InRhYi5pZCA9PT0gJ0lEXzInIj4KICAgICAgICAgICAgICAgICAgICBpZDIKICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InRhYi1ib2R5IiBuZy1zd2l0Y2gtd2hlbj0iSURfMSI+CiAgICAgICAgICAgICAgICAgICAgZGlyZWN0aXZlIDEKICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0idGFiLWJvZHkiIG5nLXN3aXRjaC13aGVuPSJJRF8yIj4KICAgICAgICAgICAgICAgICAgICBkaXJlY3RpdmUgMgogICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgIDxtZC1pbnB1dC1jb250YWluZXIgY2xhc3M9Im1kLWJsb2NrIiBmbGV4LWd0LXNtPgogICAgICAgIDxsYWJlbCBmb3I9InBhdGllbnQtbmFtZSI+Tm9tYnJlKHMpPC9sYWJlbD4KICAgICAgICA8aW5wdXQgaWQ9InBhdGllbnQtbmFtZSIgdHlwZT0idGV4dCIgbmctbW9kZWw9InVzZXIuZmlyc3ROYW1lIj4KICAgIDwvbWQtaW5wdXQtY29udGFpbmVyPgo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>

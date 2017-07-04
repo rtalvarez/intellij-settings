@@ -39,11 +39,10 @@
         <mark key="^" line="25" column="54" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/create/create-appointment.tpl.html" timestamp="1499120983858">
-        <mark key="[" line="9" column="17" />
-        <mark key="]" line="9" column="26" />
-        <mark key="." line="9" column="26" />
-        <mark key="^" line="9" column="26" />
+      <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/create/create-appointment.tpl.html" timestamp="1499130130767">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/labs/ng-labs/src/app/app.tpl.html" timestamp="1498099904221">
         <mark key="[" line="11" column="21" />
@@ -162,10 +161,6 @@
         <mark key="^" line="26" column="15" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/containers/settings-form/components/shipping-and-returns/shipping-options/domestic/domestic-shipping-options.tpl.html" timestamp="1498755096583">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="20" column="17" />
-      </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/sass/components/squareRedirect/_squareRedirect.scss" timestamp="1493315357852">
         <mark key="[" line="30" column="20" />
         <mark key="]" line="30" column="45" />
@@ -281,6 +276,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="3" column="39" />
       </file>
+      <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/create/create-appointment.component.js" timestamp="1499126682746">
+        <mark key="[" line="42" column="55" />
+        <mark key="]" line="42" column="53" />
+        <mark key="." line="42" column="53" />
+        <mark key="^" line="42" column="53" />
+      </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-onboarding/src/app/_common/templates/directives/square-import-card.tpl.html" timestamp="1493150879169">
         <mark key="[" line="46" column="28" />
         <mark key="]" line="21" column="44" />
@@ -333,14 +334,23 @@
         <mark key="^" line="7" column="24" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/create/create-appointment.constants.js" timestamp="1498689599568">
-        <mark key="[" line="12" column="25" />
-        <mark key="]" line="12" column="30" />
-        <mark key="^" line="12" column="30" />
-        <mark key="." line="12" column="30" />
+      <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/create/create-appointment.constants.js" timestamp="1499130433139">
+        <mark key="[" line="15" column="18" />
+        <mark key="]" line="15" column="22" />
+        <mark key="^" line="15" column="22" />
+        <mark key="." line="15" column="22" />
       </file>
-      <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/create/components/date-info/date-info.component.js" timestamp="1498689494304">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/create/components/studies-info/sutdies-info.module.js" timestamp="1499133639631">
+        <mark key="[" line="4" column="69" />
+        <mark key="]" line="5" column="30" />
+        <mark key="^" line="5" column="30" />
+        <mark key="." line="5" column="30" />
+      </file>
+      <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/create/components/date-info/date-info.component.js" timestamp="1499129225296">
+        <mark key="[" line="21" column="21" />
+        <mark key="]" line="21" column="19" />
+        <mark key="^" line="21" column="19" />
+        <mark key="." line="21" column="19" />
       </file>
       <file name="$USER_HOME$/labs/ng-labs/src/app/components/side-nav/side-nav.constants.js" timestamp="1498098397021">
         <mark key="[" line="11" column="35" />
@@ -443,6 +453,11 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
         <mark key="^" line="16" column="20" />
+      </file>
+      <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/create/components/shared/base-info.component.js" timestamp="1499128425932">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/labs/ng-labs/src/app/services/coming-soon-features/coming-soon-features.service.js" timestamp="1498096949087">
         <mark key="[" line="21" column="33" />
@@ -562,14 +577,16 @@
         <mark key="^" line="8" column="21" />
         <mark key="." line="8" column="14" />
       </file>
-      <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/create/components/date-info/date-info.tpl.html" timestamp="1498689465538">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/create/components/date-info/date-info.tpl.html" timestamp="1499133124189">
+        <mark key="[" line="33" column="50" />
+        <mark key="]" line="34" column="49" />
+        <mark key="." line="34" column="49" />
+        <mark key="^" line="34" column="49" />
       </file>
-      <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/create/create-appointment.scss" timestamp="1498691171647">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="19" />
-        <mark key="^" line="17" column="19" />
-        <mark key="." line="17" column="19" />
+      <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/create/create-appointment.scss" timestamp="1499122553307">
+        <mark key="[" line="16" column="24" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/sass/components/shippingPolicySlideout/_component.scss" timestamp="1496936620389">
         <mark key="[" line="0" column="32" />
@@ -898,7 +915,7 @@
         <mark key="^" line="3" column="15" />
         <mark key="." line="3" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499120954102">
+      <file name="/Dummy.txt" timestamp="1499131568503">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -909,6 +926,12 @@
         <mark key="]" line="21" column="13" />
         <mark key="^" line="21" column="13" />
         <mark key="." line="21" column="13" />
+      </file>
+      <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/create/components/studies-info/studies-info.tpl.html" timestamp="1499133869150">
+        <mark key="[" line="6" column="55" />
+        <mark key="]" line="6" column="63" />
+        <mark key="." line="6" column="63" />
+        <mark key="^" line="6" column="63" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ebay-policy-generator/src/main/scala/Main.scala" timestamp="1496932179535">
         <mark key="[" line="31" column="30" />
@@ -1077,11 +1100,22 @@
         <mark key="." line="0" column="60" />
         <mark key="^" line="0" column="60" />
       </file>
+      <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/create/components/studies-info/components/full-ortho-study/full-ortho-study.scss" timestamp="1499133372361">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/create/components/studies-info/components/components.module.js" timestamp="1499133464481">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/labs/ng-labs/src/app/coming-soon/create-appointment/cs-create-appointment.scss" timestamp="1498098062172">
         <mark key="[" line="2" column="26" />
         <mark key="]" line="3" column="26" />
         <mark key="^" line="3" column="26" />
         <mark key="." line="3" column="26" />
+      </file>
+      <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/create/components/studies-info/components/full-ortho-study/full-ortho-study.tpl.html" timestamp="1499133694310">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/provider-settings-form/amazon/amazon-default-inventory/amazon-default-inventory.controller.js" timestamp="1495650058458">
         <mark key="[" line="12" column="0" />
@@ -1149,11 +1183,11 @@
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/sass/components/createShippingPolicy/_component.scss" timestamp="1498753165961">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/labs/ng-labs/src/app/app.scss" timestamp="1498689647424">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="25" column="11" />
+      <file name="$USER_HOME$/labs/ng-labs/src/app/app.scss" timestamp="1499132941613">
+        <mark key="[" line="41" column="1" />
+        <mark key="]" line="44" column="22" />
+        <mark key="." line="44" column="22" />
+        <mark key="^" line="44" column="22" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-pos/src/app/modals/square-locations-modal/square-locations-modal.module.js" timestamp="1493393297192">
         <mark key="[" line="0" column="44" />
@@ -1233,6 +1267,11 @@
         <mark key="^" line="786" column="33" />
         <mark key="." line="786" column="33" />
       </file>
+      <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/create/components/studies-info/studies-info.scss" timestamp="1499131988069">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/provider-settings-form/amazon/amazon-brand-config/amazon-brand-config.tpl.html" timestamp="1495728885635">
         <mark key="[" line="87" column="63" />
         <mark key="]" line="87" column="97" />
@@ -1279,11 +1318,11 @@
         <mark key="." line="45" column="0" />
         <mark key="^" line="45" column="77" />
       </file>
-      <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/create/components/patient-doctor-info/patient-doctor-info.tpl.html" timestamp="1499120184403">
-        <mark key="[" line="40" column="67" />
-        <mark key="]" line="40" column="72" />
-        <mark key="." line="40" column="72" />
-        <mark key="^" line="40" column="72" />
+      <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/create/components/patient-doctor-info/patient-doctor-info.tpl.html" timestamp="1499129161874">
+        <mark key="[" line="48" column="38" />
+        <mark key="]" line="49" column="49" />
+        <mark key="." line="49" column="49" />
+        <mark key="^" line="49" column="49" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-onboarding/src/sass/components/squareImportCard/_component.scss" timestamp="1491837896849">
         <mark key="[" line="0" column="26" />
@@ -1309,11 +1348,11 @@
         <mark key="." line="13" column="20" />
         <mark key="^" line="13" column="20" />
       </file>
-      <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/create/components/components.module.js" timestamp="1498689553404">
-        <mark key="[" line="4" column="64" />
-        <mark key="]" line="1" column="63" />
-        <mark key="^" line="1" column="63" />
-        <mark key="." line="1" column="63" />
+      <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/create/components/components.module.js" timestamp="1499133602176">
+        <mark key="[" line="6" column="26" />
+        <mark key="]" line="6" column="26" />
+        <mark key="^" line="6" column="26" />
+        <mark key="." line="6" column="26" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-pos/src/app/app.module.js" timestamp="1495479968437">
         <mark key="[" line="18" column="0" />
@@ -1515,11 +1554,11 @@
         <mark key="." line="25" column="59" />
         <mark key="^" line="25" column="59" />
       </file>
-      <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/create/components/patient-doctor-info/patient-doctor-info.component.js" timestamp="1498688864746">
-        <mark key="[" line="7" column="1" />
-        <mark key="]" line="5" column="7" />
-        <mark key="^" line="5" column="7" />
-        <mark key="." line="5" column="7" />
+      <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/create/components/patient-doctor-info/patient-doctor-info.component.js" timestamp="1499128460023">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="8" column="15" />
       </file>
       <file name="$USER_HOME$/labs/labs-fe-bb/app/javascripts/admin/AdminCalendarView.js" timestamp="1497452956285">
         <mark key="[" line="1" column="79" />
@@ -1538,6 +1577,12 @@
         <mark key="]" line="0" column="40" />
         <mark key="^" line="0" column="40" />
         <mark key="." line="0" column="40" />
+      </file>
+      <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/create/components/studies-info/studies-info.component.js" timestamp="1499133892380">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="19" column="43" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/default-inventory-validator/default-inventory-validator.directive.js" timestamp="1495573916133">
         <mark key="[" line="3" column="0" />
@@ -1723,6 +1768,12 @@
         <mark key="." line="6" column="31" />
         <mark key="^" line="6" column="31" />
       </file>
+      <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/create/components/studies-info/components/full-ortho-study/full-ortho-study.component.js" timestamp="1499133825289">
+        <mark key="[" line="9" column="30" />
+        <mark key="]" line="9" column="30" />
+        <mark key="^" line="9" column="29" />
+        <mark key="." line="9" column="30" />
+      </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/provider-settings-form/facebook/refactor/storefront-settings/facebook-storefront-settings.directive.js" timestamp="1493323147489">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -1739,11 +1790,10 @@
         <mark key="^" line="2" column="89" />
         <mark key="." line="2" column="89" />
       </file>
-      <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/create/components/patient-doctor-info/patient-doctor-info.scss" timestamp="1499120023144">
-        <mark key="[" line="5" column="24" />
-        <mark key="]" line="6" column="11" />
-        <mark key="." line="6" column="11" />
-        <mark key="^" line="6" column="11" />
+      <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/create/components/patient-doctor-info/patient-doctor-info.scss" timestamp="1499123016047">
+        <mark key="[" line="3" column="20" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/listing/ebay/directives/choose-return-policy/choose-return-policy.tpl.html" timestamp="1497901788291">
         <mark key="[" line="57" column="36" />
@@ -2122,13 +2172,14 @@
       <jump line="26" column="0" filename="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/components/settings-form/components/shipping-policy-slideout/shipping-policy-slideout.constants.js" />
       <jump line="120" column="0" filename="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/components/settings-form/components/shipping-policy-slideout/shipping-policy-slideout.component.js" />
       <jump line="55" column="16" filename="$USER_HOME$/labs/ng-labs/src/app/contact/components/contact-form/components/contact-widget/contact-widget.tpl.html" />
+      <jump line="47" column="11" filename="$USER_HOME$/labs/ng-labs/src/app/appointments/create/components/patient-doctor-info/patient-doctor-info.tpl.html" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>div</text>
+        <text>.</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPG1kLWlucHV0LWNvbnRhaW5lciBjbGFzcz0ibWQtYmxvY2siIGZsZXg9IjQ1Ij4KICAgICAgICAgICAgICAgIDxsYWJlbCBmb3I9InBhdGllbnQtZmlyc3QtbmFtZSI+Tm9tYnJlKHMpPC9sYWJlbD4KICAgICAgICAgICAgICAgIDxpbnB1dCBpZD0icGF0aWVudC1maXJzdC1uYW1lIiB0eXBlPSJ0ZXh0IiBuZy1tb2RlbD0idXNlci5maXJzdE5hbWUiIHJlcXVpcmVkPgogICAgICAgICAgICA8L21kLWlucHV0LWNvbnRhaW5lcj4KICAgICAgICAgICAgPG1kLWlucHV0LWNvbnRhaW5lciBjbGFzcz0ibWQtYmxvY2siIGZsZXg9IjQ1Ij4KICAgICAgICAgICAgICAgIDxsYWJlbCBmb3I9InBhdGllbnQtbGFzdC1uYW1lIj5BcGVsbGlkb3M8L2xhYmVsPgogICAgICAgICAgICAgICAgPGlucHV0IGlkPSJwYXRpZW50LWxhc3QtbmFtZSIgdHlwZT0idGV4dCIgbmctbW9kZWw9InVzZXIubGFzdE5hbWUiIHJlcXVpcmVkPgogICAgICAgICAgICA8L21kLWlucHV0LWNvbnRhaW5lcj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPG1kLXJhZGlvLWJ1dHRvbiB2YWx1ZT0iQk9YIj5DYWphIGRlIGNhcnRvbjwvbWQtcmFkaW8tYnV0dG9uPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -2149,29 +2200,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge3sgJGN0cmwuZm9vIH19Cg==</text>
+        <text encoding="base64">ICAgIGRpc3BsYXlEaWdpdGFsTWVkaWFEZXRhaWxzKCkgewogICAgICAgIHJldHVybiB0aGlzLmZvcm1TdGF0ZS5mdWxsT3J0aG9TdHVkeS5kZWxpdmVyeS5tZWRpYSA9PT0gJ0RJR0lUQUwnOwogICAgfQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA+IGlucHV0IHsKICAgICAgICAgICAgd2lkdGg6IDEwMCU7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICA8ZnVsbC1vcnRoby1zdHVkeT48L2Z1bGwtb3J0aG8tc3R1ZHk+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IFNFVF9QT0xJQ0lFU19DQUNIRUQgPSAnTVVMVElQTEVfU0hJUFBJTkdfUE9MSUNJRVMvU0VUX1BPTElDSUVTX0NBQ0hFRCc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IEZFVENIX0ZBSUxVUkUgPSAnTVVMVElQTEVfU0hJUFBJTkdfUE9MSUNJRVMvRkVUQ0hfRkFJTFVSRSc7CmV4cG9ydCBjb25zdCBGRVRDSF9SRVFVRVNUID0gJ01VTFRJUExFX1NISVBQSU5HX1BPTElDSUVTL0ZFVENIX1JFUVVFU1QnOwpleHBvcnQgY29uc3QgRkVUQ0hfU1VDQ0VTUyA9ICdNVUxUSVBMRV9TSElQUElOR19QT0xJQ0lFUy9GRVRDSF9TVUNDRVNTJzsK</text>
+        <text encoding="base64">ICAgIHRyb2xscwo=</text>
       </register>
-      <register name="7" type="8">
-        <text>DELETE
-DELETE
-DELETE</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPG1kLWlucHV0LWNvbnRhaW5lciBsYXlvdXQ9ImNvbHVtbiIgZmxleD0iMTAwIj4KICAgICAgICAgICAgICAgIDxkaXYgbGF5b3V0PSJyb3ciIGZsZXg9IjEwMCI+CiAgICAgICAgICAgICAgICAgICAgPG1kLXJhZGlvLWdyb3VwIGNsYXNzPSJyYWRpby1ncm91cC1jb250YWluZXIiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5nLW1vZGVsPSIkY3RybC5mb3JtU3RhdGUuZnVsbE9ydGhvU3R1ZHkuZGVsaXZlcnkubWVkaWEiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxheW91dD0iY29sdW1uIiByZXF1aXJlZD4KICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0icmFkaW8tZ3JvdXAiIGxheW91dD0icm93IiBmbGV4PSIxMDAiIGxheW91dC1hbGlnbj0iY2VudGVyIGJlZ2luIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxtZC1yYWRpby1idXR0b24gY2xhc3M9ImR1YWwtb3B0aW9uIiB2YWx1ZT0iUEFQRVIiIGZsZXg9IjUwIj5JbXByZXNpb24gZW4gcGFwZWw8L21kLXJhZGlvLWJ1dHRvbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxtZC1yYWRpby1idXR0b24gY2xhc3M9ImR1YWwtb3B0aW9uIiB2YWx1ZT0iQ0FSREJPQVJEX0JPWCIgZmxleD0iNTAiPkNhamEgZGUgY2FydG9uPC9tZC1yYWRpby1idXR0b24+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0icmFkaW8tZ3JvdXAiIGxheW91dD0icm93IiBmbGV4PSIxMDAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPG1kLXJhZGlvLWJ1dHRvbiBjbGFzcz0iZHVhbC1vcHRpb24iIHZhbHVlPSJESUdJVEFMIiBmbGV4PSI1MCI+RGlnaXRhbDwvbWQtcmFkaW8tYnV0dG9uPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPG1kLXJhZGlvLWdyb3VwIGNsYXNzPSJkdWFsLW9wdGlvbiIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBuZy1jbGFzcz0ieyAnaGlkZGVuJzogISRjdHJsLmRpc3BsYXlEaWdpdGFsTWVkaWFEZXRhaWxzKCkgfSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBuZy1tb2RlbD0iJGN0cmwuZm9ybVN0YXRlLmZ1bGxPcnRob1N0dWR5LmRlbGl2ZXJ5Lm1lZGlhRGV0YWlscyIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsYXlvdXQ9ImNvbHVtbiIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBuZy1yZXF1aXJlZD0iJGN0cmwuZGlzcGxheURpZ2l0YWxNZWRpYURldGFpbHMoKSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmbGV4PSI1MCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPG1kLXJhZGlvLWJ1dHRvbiB2YWx1ZT0iQ0QiPkNEPC9tZC1yYWRpby1idXR0b24+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPG1kLXJhZGlvLWJ1dHRvbiB2YWx1ZT0iSU5URVJORVQiPkludGVybmV0PC9tZC1yYWRpby1idXR0b24+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L21kLXJhZGlvLWdyb3VwPgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InJhZGlvLWdyb3VwIiBsYXlvdXQ9InJvdyIgZmxleD0iMTAwIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxtZC1yYWRpby1idXR0b24gdmFsdWU9IlBMQVNUSUNfQk9YIj5DYWphIGRlIFBsYXN0aWNvPC9tZC1yYWRpby1idXR0b24+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgIDwvbWQtcmFkaW8tZ3JvdXA+CiAgICAgICAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICAgICAgICA8ZGl2IGxheW91dD0icm93IiBmbGV4PSIxMDAiPgogICAgICAgICAgICAgICAgICAgIDxtZC1jaGVja2JveCBhcmlhLWxhYmVsPSJFc3R1ZGlvIE9ydGhva2luZXRpY28iCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5nLW1vZGVsPSIkY3RybC5mb3JtU3RhdGUuZnVsbE9ydGhvU3R1ZHkub3J0aG9raW5ldGljIj4KICAgICAgICAgICAgICAgICAgICAgICAgRXN0dWRpbyBPcnRob2tpbmV0aWNvCiAgICAgICAgICAgICAgICAgICAgPC9tZC1jaGVja2JveD4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L21kLWlucHV0LWNvbnRhaW5lcj4K</text>
       </register>
-      <register name="8" type="8">
-        <text>DELETE
-DELETE
-DELETE</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIC5jb21wb25lbnQoJ3N0dWRpZXNJbmZvJywgc3R1ZGllc0luZm9Db21wb25lbnQpOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>

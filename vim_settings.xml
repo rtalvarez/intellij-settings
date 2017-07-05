@@ -392,17 +392,17 @@
         <mark key="." line="74" column="43" />
         <mark key="^" line="74" column="43" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/containers/settings-form/containers/create-shipping-policy/shared/create-shipping-policy.actions.js" timestamp="1499281104164">
-        <mark key="[" line="20" column="37" />
-        <mark key="]" line="20" column="34" />
-        <mark key="." line="20" column="34" />
-        <mark key="^" line="20" column="34" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/containers/settings-form/containers/create-shipping-policy/shared/create-shipping-policy.actions.js" timestamp="1499286302998">
+        <mark key="[" line="70" column="12" />
+        <mark key="]" line="39" column="9" />
+        <mark key="." line="39" column="9" />
+        <mark key="^" line="39" column="9" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/containers/settings-form/containers/create-shipping-policy/create-shipping-policy.tpl.html" timestamp="1499280785258">
-        <mark key="[" line="1" column="75" />
-        <mark key="]" line="1" column="75" />
-        <mark key="^" line="1" column="75" />
-        <mark key="." line="1" column="75" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/containers/settings-form/containers/create-shipping-policy/create-shipping-policy.tpl.html" timestamp="1499286604351">
+        <mark key="[" line="0" column="38" />
+        <mark key="]" line="1" column="72" />
+        <mark key="^" line="1" column="72" />
+        <mark key="." line="1" column="72" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/provider-settings-form/ebay/ebay-multiple-return-policies/ebay-multiple-return-policies.controller.js" timestamp="1496934729059">
         <mark key="[" line="20" column="0" />
@@ -659,8 +659,8 @@
         <mark key="^" line="6" column="26" />
         <mark key="." line="6" column="26" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/containers/settings-form/components/create-shipping-policy/create-shipping-policy.tpl.html" timestamp="1499285881734">
-        <mark key="[" line="164" column="63" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/containers/settings-form/components/create-shipping-policy/create-shipping-policy.tpl.html" timestamp="1499286537357">
+        <mark key="[" line="171" column="53" />
         <mark key="]" line="150" column="42" />
         <mark key="^" line="150" column="42" />
         <mark key="." line="150" column="42" />
@@ -1166,11 +1166,6 @@
         <mark key="^" line="25" column="54" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/create/create-appointment.tpl.html" timestamp="1499130130767">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/bigcommerce/admin/init.php" timestamp="1493056393066">
         <mark key="[" line="185" column="0" />
         <mark key="]" line="185" column="47" />
@@ -1533,10 +1528,12 @@
         <mark key="." line="0" column="75" />
         <mark key="^" line="0" column="75" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/containers/settings-form/components/create-shipping-policy/create-shipping-policy.component.js" timestamp="1499280767500">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/containers/settings-form/components/create-shipping-policy/create-shipping-policy.component.js" timestamp="1499286595633">
+        <mark key="'" line="87" column="39" />
+        <mark key="[" line="8" column="18" />
+        <mark key="]" line="27" column="31" />
+        <mark key="." line="27" column="31" />
+        <mark key="^" line="27" column="31" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/provider-settings-form/ebay/shipping-policy-slideout/shipping-policy-slideout.directive.js" timestamp="1496939151387">
         <mark key="[" line="10" column="23" />
@@ -2153,11 +2150,11 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/containers/settings-form/containers/create-shipping-policy/shared/create-shipping-policy.reducers.js" timestamp="1499285838130">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-        <mark key="^" line="27" column="16" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/containers/settings-form/containers/create-shipping-policy/shared/create-shipping-policy.reducers.js" timestamp="1499286484426">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="17" column="13" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="35" column="10" />
       </file>
       <file name="$USER_HOME$/labs/ng-labs/src/app/components/nav-bar/components/components.module.js" timestamp="1498007578396">
         <mark key="[" line="2" column="42" />
@@ -2198,10 +2195,11 @@
         <mark key="^" line="18" column="84" />
         <mark key="." line="18" column="84" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/containers/settings-form/containers/create-shipping-policy/create-shipping-policy.component.js" timestamp="1499280878804">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/containers/settings-form/containers/create-shipping-policy/create-shipping-policy.component.js" timestamp="1499286493769">
+        <mark key="[" line="55" column="10" />
+        <mark key="]" line="55" column="10" />
+        <mark key="." line="55" column="10" />
+        <mark key="^" line="55" column="10" />
       </file>
       <file name="$USER_HOME$/labs/labs-fe-bb/app/templates/coming-soon/appointment-create/ComingSoonAppointmentCreateView.hbs" timestamp="1497721784924">
         <mark key="[" line="6" column="13" />
@@ -2271,16 +2269,17 @@
       <jump line="120" column="0" filename="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/components/settings-form/components/shipping-policy-slideout/shipping-policy-slideout.component.js" />
       <jump line="55" column="16" filename="$USER_HOME$/labs/ng-labs/src/app/contact/components/contact-form/components/contact-widget/contact-widget.tpl.html" />
       <jump line="47" column="11" filename="$USER_HOME$/labs/ng-labs/src/app/appointments/create/components/patient-doctor-info/patient-doctor-info.tpl.html" />
+      <jump line="86" column="39" filename="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/containers/settings-form/components/create-shipping-policy/create-shipping-policy.component.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>index</text>
+        <text>{ index: $index }</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZ1bmN0aW9uIGNyZWF0ZVBvbGljeUZhaWx1cmUocGF5bG9hZCkgewogICAgICAgIHJldHVybiB7CiAgICAgICAgICAgIHR5cGU6IENSRUFURV9QT0xJQ1lfRkFJTFVSRSwKICAgICAgICAgICAgcGF5bG9hZCwKICAgICAgICB9OwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAkZXZlbnQucHJldmVudERlZmF1bHQoKTsKCiAgICAgICAgY29uc29sZS5sb2coMSk7CiAgICAgICAgcmV0dXJuIHRoaXMucmVtb3ZlU2hpcHBpbmdTZXJ2aWNlKHsgaW5kZXg6ICRpbmRleCB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGdldFNoaXBwaW5nT3B0aW9uLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2301,25 +2300,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IGdldFNoaXBwaW5nT3B0aW9uID0gY3JlYXRlU2VsZWN0b3IoCiAgICBnZXRTdGF0ZSwKICAgIChzdGF0ZSkgPT4gXy5maXJzdChzdGF0ZS5zaGlwcGluZ09wdGlvbnMpCik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gY29uc3RydWN0U2hpcHBpbmdPcHRpb24ocGF5bG9hZCkgewogICAgcmV0dXJuIE9iamVjdC5hc3NpZ24oe30sIHsKICAgICAgICBjb3N0VHlwZTogbnVsbCwKICAgICAgICBwYWNrYWdlSGFuZGxpbmdDb3N0OiB7fSwKICAgICAgICBzaGlwcGluZ1NlcnZpY2VzOiBbewogICAgICAgICAgICBmcmVlU2hpcHBpbmc6IGZhbHNlLAogICAgICAgICAgICBzaGlwcGluZ0Nvc3Q6IHsKICAgICAgICAgICAgICAgIHZhbHVlOiBudWxsLAogICAgICAgICAgICAgICAgY3VycmVuY3k6ICdVU0QnLAogICAgICAgICAgICB9LAogICAgICAgIH1dLAogICAgfSwgcGF5bG9hZCk7Cn0KCmZ1bmN0aW9uIGdldFNoaXBwaW5nT3B0aW9ucyhzdGF0ZSkgewogICAgcmV0dXJuIHN0YXRlLnNoaXBwaW5nT3B0aW9ucy5zbGljZSgpOwp9CgpmdW5jdGlvbiBnZXRTaGlwcGluZ1NlcnZpY2VzKHNoaXBwaW5nT3B0aW9uKSB7CiAgICByZXR1cm4gc2hpcHBpbmdPcHRpb24uc2hpcHBpbmdTZXJ2aWNlcy5zbGljZSgpOwp9Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmNyZWF0ZVNoaXBwaW5nUG9saWN5QQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncmVkdWNlcicpOwogICAgICAgIGNvbnN0IHNoaXBwaW5nT3B0aW9uID0gXy5maXJzdChnZXRTaGlwcGluZ09wdGlvbnMoc3RhdGUpKTsKICAgICAgICBjb25zdCBzaGlwcGluZ1NlcnZpY2VzID0gZ2V0U2hpcHBpbmdTZXJ2aWNlcyhzaGlwcGluZ09wdGlvbik7CgogICAgICAgIF8ucHVsbChzaGlwcGluZ1NlcnZpY2VzLCBwYXlsb2FkKTsKCiAgICAgICAgY29uc3QgbmV3U2hpcHBpbmdPcHRpb24gPSBjb25zdHJ1Y3RTaGlwcGluZ09wdGlvbih7IHNoaXBwaW5nU2VydmljZXMgfSk7CgogICAgICAgIHJldHVybiBPYmplY3QuYXNzaWduKHt9LCBzdGF0ZSwgewogICAgICAgICAgICBzaGlwcGluZ09wdGlvbnM6IFtuZXdTaGlwcGluZ09wdGlvbl0sCiAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmNyZWF0ZVNoaXBwaW5nUG9saWN5QQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNoaXBwaW5nT3B0aW9uczogWwogICAgICAgIHsKICAgICAgICB9LAogICAgXSwK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2hpcHBpbmdTZXJ2aWNlczogWwogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIGZyZWVTaGlwcGluZzogZmFsc2UsCiAgICAgICAgICAgICAgICAgICAgc2hpcHBpbmdDb3N0OiB7CiAgICAgICAgICAgICAgICAgICAgICAgIHZhbHVlOiBudWxsLAogICAgICAgICAgICAgICAgICAgICAgICBjdXJyZW5jeTogJ1VTRCcsCiAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgIF0sCg==</text>
+        <text encoding="base64">ICAgIGdldFNoaXBwaW5nT3B0aW9uLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29zdFR5cGU6IG51bGwsCiAgICAgICAgICAgIHBhY2thZ2VIYW5kbGluZ0Nvc3Q6IHt9LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2hpcHBpbmdPcHRpb25zOiBbXQo=</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IGdldFNoaXBwaW5nT3B0aW9uID0gY3JlYXRlU2VsZWN0b3IoCiAgICBnZXRTdGF0ZSwKICAgIChzdGF0ZSkgPT4gXy5maXJzdChzdGF0ZS5zaGlwcGluZ09wdGlvbnMpCik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>

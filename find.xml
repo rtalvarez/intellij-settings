@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*." />
     <recentFileMasks>
       <mask>*.directive.j</mask>
       <mask>*.directive.</mask>
@@ -22,7 +22,6 @@
       <mask>*.scala</mask>
       <mask>*.scal</mask>
       <mask>*.sca</mask>
-      <mask>*.j</mask>
       <mask>*.hbs</mask>
       <mask>*.hb</mask>
       <mask>*.htm,</mask>
@@ -35,8 +34,9 @@
       <mask>*.htm</mask>
       <mask>*.ht</mask>
       <mask>*.h</mask>
-      <mask>*.</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
     </recentFileMasks>
   </component>
 </application>

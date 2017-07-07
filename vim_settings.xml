@@ -201,11 +201,11 @@
         <mark key="^" line="12" column="29" />
         <mark key="." line="12" column="29" />
       </file>
-      <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/create/components/summary-info/summary-info.component.js" timestamp="1499393469088">
-        <mark key="[" line="51" column="42" />
-        <mark key="]" line="51" column="39" />
-        <mark key="." line="51" column="39" />
-        <mark key="^" line="51" column="39" />
+      <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/create/components/summary-info/summary-info.component.js" timestamp="1499394788914">
+        <mark key="[" line="64" column="30" />
+        <mark key="]" line="64" column="52" />
+        <mark key="." line="64" column="52" />
+        <mark key="^" line="64" column="52" />
       </file>
       <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/models/appointments.go" timestamp="1496008698481">
         <mark key="[" line="11" column="18" />
@@ -1383,11 +1383,11 @@
         <mark key="^" line="7" column="24" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/create/components/summary-info/summary-info.constants.js" timestamp="1499393390810">
-        <mark key="[" line="44" column="1" />
-        <mark key="]" line="43" column="31" />
-        <mark key="^" line="43" column="31" />
-        <mark key="." line="43" column="31" />
+      <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/create/components/summary-info/summary-info.constants.js" timestamp="1499394731621">
+        <mark key="[" line="53" column="1" />
+        <mark key="]" line="52" column="28" />
+        <mark key="^" line="52" column="28" />
+        <mark key="." line="52" column="28" />
       </file>
       <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/create/create-appointment.constants.js" timestamp="1499311000411">
         <mark key="[" line="6" column="18" />
@@ -2185,11 +2185,11 @@
         <mark key="." line="24" column="10" />
         <mark key="^" line="24" column="10" />
       </file>
-      <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/create/components/summary-info/summary-info.tpl.html" timestamp="1499393491142">
-        <mark key="[" line="21" column="76" />
-        <mark key="]" line="21" column="101" />
-        <mark key="." line="21" column="101" />
-        <mark key="^" line="21" column="101" />
+      <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/create/components/summary-info/summary-info.tpl.html" timestamp="1499394898552">
+        <mark key="[" line="1" column="8" />
+        <mark key="]" line="1" column="26" />
+        <mark key="." line="1" column="26" />
+        <mark key="^" line="1" column="26" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/amazon-registered-brand-validator/amazon-registered-brand-validator.directive.js" timestamp="1495738956671">
         <mark key="[" line="0" column="0" />
@@ -2330,13 +2330,13 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>getPhotoStudyDisplay</text>
+        <text>Paciente</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzdHJvbmc+Rm90b2dyYWZpYXM6IDwvc3Ryb25nPjxzcGFuPnt7ICRjdHJsLmdldFBob3RvU3R1ZHlEaXNwbGF5KCkgfX08L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBlbnRpdGllcyA9IFtdOwoKICAgICAgICBfLmVhY2godGhpcy5hcHBvaW50bWVudC5mdWxsT3J0aG9TdHVkeSwgKHZhbCwga2V5KSA9PiB7CiAgICAgICAgICAgIGlmICh0eXBlb2YgdmFsID09PSAnc3RyaW5nJykgewogICAgICAgICAgICAgICAgZW50aXRpZXMucHVzaChGVUxMX09SVEhPX1NUVURZX01BUFt2YWxdKTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgaWYgKHR5cGVvZiB2YWwgPT09ICdib29sZWFuJykgewogICAgICAgICAgICAgICAgZW50aXRpZXMucHVzaChGVUxMX09SVEhPX1NUVURZX01BUFtrZXkudG9VcHBlckNhc2UoKV0pOwogICAgICAgICAgICB9CiAgICAgICAgfSk7CgogICAgICAgIHJldHVybiBlbnRpdGllcy5qb2luKCcsICcpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLkZVTExfT1JUSE9fU1RVRFlfTUFQID0gRlVMTF9PUlRIT19TVFVEWV9NQVA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPG1kLWJ1dHRvbiBjbGFzcz0ibWQtcmFpc2VkIG1kLWFjY2VudCI+QWNlcHRhcjwvbWQtYnV0dG9uPgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2354,28 +2354,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBrZXkgPSBfLmZpcnN0KF8ua2V5cyh0aGlzLmFwcG9pbnRtZW50LnBob3RvU3R1ZHkpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnaycsIGtleSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLkZVTExfT1JUSE9fU1RVRFlfTUFQID0gRlVMTF9PUlRIT19TVFVEWV9NQVA7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBrZXkgPSBfLmZpcnN0KF8ua2V5cyh0aGlzLmFwcG9pbnRtZW50LnBob3RvU3R1ZHkpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gaWYgKHR5cGVvZiB2YWwgPT09ICdzdHJpbmcnKSB7CiAgICAgICAgICAgIC8vICAgICBjb25zdCBmaWVsZCA9IFhSQVlfU1RVRFlfTUFQW3ZhbF07CiAgICAgICAgICAgIC8vCiAgICAgICAgICAgIC8vICAgICBpZiAodHlwZW9mIGZpZWxkID09PSAnc3RyaW5nJykgewogICAgICAgICAgICAvLyAgICAgICAgIGVudGl0aWVzLnB1c2goZmllbGQpOwogICAgICAgICAgICAvLyAgICAgfSBlbHNlIGlmICh0eXBlb2YgZmllbGQgPT09ICdvYmplY3QnKSB7CiAgICAgICAgICAgIC8vICAgICAgICAgY29uc3QgbmVzdGVkS2V5cyA9IF8ua2V5cyhmaWVsZCk7CiAgICAgICAgICAgIC8vICAgICAgICAgY29uc3Qgb3B0aW9ucyA9IF8ubWFwKG5lc3RlZEtleXMsIG5lc3RlZEtleSA9PiBmaWVsZFtuZXN0ZWRLZXldKTsKICAgICAgICAgICAgLy8KICAgICAgICAgICAgLy8gICAgICAgICBlbnRpdGllcy5wdXNoKGAke2ZpZWxkLkRFU0NSSVBUSU9OfSAoJHtvcHRpb25zLmpvaW4oJywgJyl9KWApOwogICAgICAgICAgICAvLyAgICAgfQogICAgICAgICAgICAvLyB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnaycsIGtleSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGlmICh0aGlzLmFwcG9pbnRtZW50LnhSYXlTdHVkeS50eXBlICE9PSAnJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdkZWYnLCB0ZXh0LCB2YWwsIGtleSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gaWYgKHR5cGVvZiB2YWwgPT09ICdzdHJpbmcnKSB7CiAgICAgICAgICAgIC8vICAgICBjb25zdCBmaWVsZCA9IFhSQVlfU1RVRFlfTUFQW3ZhbF07CiAgICAgICAgICAgIC8vCiAgICAgICAgICAgIC8vICAgICBpZiAodHlwZW9mIGZpZWxkID09PSAnc3RyaW5nJykgewogICAgICAgICAgICAvLyAgICAgICAgIGVudGl0aWVzLnB1c2goZmllbGQpOwogICAgICAgICAgICAvLyAgICAgfSBlbHNlIGlmICh0eXBlb2YgZmllbGQgPT09ICdvYmplY3QnKSB7CiAgICAgICAgICAgIC8vICAgICAgICAgY29uc3QgbmVzdGVkS2V5cyA9IF8ua2V5cyhmaWVsZCk7CiAgICAgICAgICAgIC8vICAgICAgICAgY29uc3Qgb3B0aW9ucyA9IF8ubWFwKG5lc3RlZEtleXMsIG5lc3RlZEtleSA9PiBmaWVsZFtuZXN0ZWRLZXldKTsKICAgICAgICAgICAgLy8KICAgICAgICAgICAgLy8gICAgICAgICBlbnRpdGllcy5wdXNoKGAke2ZpZWxkLkRFU0NSSVBUSU9OfSAoJHtvcHRpb25zLmpvaW4oJywgJyl9KWApOwogICAgICAgICAgICAvLyAgICAgfQogICAgICAgICAgICAvLyB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdkZWYnLCB0ZXh0LCB2YWwsIGtleSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGlmICh0aGlzLmFwcG9pbnRtZW50LnhSYXlTdHVkeS50eXBlICE9PSAnJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdkZWYnLCB0ZXh0LCB2YWwsIGtleSkK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>

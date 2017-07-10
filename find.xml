@@ -3,20 +3,13 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*.scala" />
     <recentFileMasks>
-      <mask>*.directive.sp</mask>
-      <mask>*.directive.spec.js</mask>
-      <mask>*.directive.spec.j</mask>
-      <mask>*.directive.spec.</mask>
       <mask>*.dir</mask>
       <mask>*.di</mask>
       <mask>*.go</mask>
       <mask>*.g</mask>
       <mask>*.d</mask>
-      <mask>*s</mask>
-      <mask>*.scala</mask>
-      <mask>*.scal</mask>
       <mask>*.sca</mask>
       <mask>*.hbs</mask>
       <mask>*.hb</mask>
@@ -25,16 +18,23 @@
       <mask>*.scs</mask>
       <mask>*.sc</mask>
       <mask>*.s</mask>
-      <mask>*</mask>
       <mask>*.html</mask>
       <mask>*.htm</mask>
       <mask>*.ht</mask>
       <mask>*.h</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*.p</mask>
       <mask>*.php</mask>
+      <mask>*.ph</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*scal</mask>
+      <mask>*sca</mask>
+      <mask>*sc</mask>
+      <mask>*s</mask>
+      <mask>*</mask>
+      <mask>*.scal</mask>
+      <mask>*.scala</mask>
     </recentFileMasks>
   </component>
 </application>

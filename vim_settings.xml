@@ -580,6 +580,12 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/services/channel-management/ebay/ebay-channel-management.service.js" timestamp="1499869179451">
+        <mark key="[" line="29" column="27" />
+        <mark key="]" line="29" column="29" />
+        <mark key="." line="29" column="29" />
+        <mark key="^" line="29" column="29" />
+      </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/components/settings-form/components/shipping-policy-slideout/shipping-policy-slideout.tpl.html" timestamp="1497643729129">
         <mark key="[" line="20" column="27" />
         <mark key="]" line="20" column="26" />
@@ -2448,7 +2454,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>GoogleInitiate</text>
+        <text>post</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJdXJsOiBiYXNlVXJsICsgIi9hdXRoL2dvb2dsZSIsCgkJCW1ldGhvZDogIlBPU1QiLAoJCQloYW5kbGVyOiBhdXRoLkdvb2dsZUluaXRpYXRlLAo=</text>

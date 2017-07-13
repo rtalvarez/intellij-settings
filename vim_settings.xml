@@ -298,6 +298,13 @@
         <mark key="." line="0" column="59" />
         <mark key="^" line="0" column="59" />
       </file>
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/bigcommerce/config/environment.php" timestamp="1499957528901">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="408" column="73" />
+        <mark key="]" line="408" column="34" />
+        <mark key="^" line="408" column="34" />
+        <mark key="." line="408" column="34" />
+      </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-pos/src/app/directives/square-locations/square-locations.directive.js" timestamp="1493671981420">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -698,6 +705,11 @@
         <mark key="]" line="13" column="28" />
         <mark key="^" line="13" column="28" />
         <mark key="." line="13" column="28" />
+      </file>
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/bigcommerce/lib/AutoProvision/Locale/UnitedStates.php" timestamp="1499957471969">
+        <mark key="[" line="241" column="0" />
+        <mark key="]" line="241" column="0" />
+        <mark key="." line="241" column="0" />
       </file>
       <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/create/components/studies-info/studies-info.scss" timestamp="1499193594080">
         <mark key="[" line="13" column="0" />
@@ -2482,6 +2494,7 @@
       <jump line="65" column="0" filename="$USER_HOME$/labs/ng-labs/src/app/appointments/create/components/payment-info/payment-info.tpl.html" />
       <jump line="82" column="21" filename="$USER_HOME$/bigcommerce-app-vm/codebases/bigcommerce/config/app/provision.php" />
       <jump line="359" column="0" filename="$USER_HOME$/bigcommerce-app-vm/codebases/bigcommerce/config/app/services/services.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/bigcommerce-app-vm/codebases/bigcommerce/config/environment.php" />
     </jumps>
     <registers>
       <register name="-" type="4">

@@ -1,14 +1,13 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.go" />
+    <option name="FILE_MASK" value="*" />
     <recentFileMasks>
       <mask>*.di</mask>
-      <mask>*.g</mask>
       <mask>*.d</mask>
       <mask>*.sca</mask>
       <mask>*.hbs</mask>
@@ -21,7 +20,6 @@
       <mask>*sca</mask>
       <mask>*sc</mask>
       <mask>*s</mask>
-      <mask>*</mask>
       <mask>*.scala</mask>
       <mask>*.scal</mask>
       <mask>*.s</mask>
@@ -30,13 +28,15 @@
       <mask>*.htm</mask>
       <mask>*.ht</mask>
       <mask>*.h</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
       <mask>*.php</mask>
       <mask>*.ph</mask>
       <mask>*.p</mask>
-      <mask>*.</mask>
       <mask>*.go</mask>
+      <mask>*.g</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>

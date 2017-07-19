@@ -391,11 +391,11 @@
         <mark key="^" line="1" column="97" />
         <mark key="." line="1" column="97" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/components/shipping-policy-form/shipping-policy-form.component.js" timestamp="1500489785289">
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/components/shipping-policy-form/shipping-policy-form.component.js" timestamp="1500492885367">
         <mark key="[" line="16" column="19" />
-        <mark key="]" line="16" column="19" />
-        <mark key="^" line="16" column="14" />
-        <mark key="." line="16" column="19" />
+        <mark key="]" line="11" column="27" />
+        <mark key="^" line="11" column="27" />
+        <mark key="." line="11" column="27" />
       </file>
       <file name="$USER_HOME$/labs/ng-labs/src/app/components/footer-bar/footer-bar.constants.js" timestamp="1498098661878">
         <mark key="[" line="11" column="21" />
@@ -1175,7 +1175,7 @@
         <mark key="." line="53" column="0" />
         <mark key="^" line="51" column="35" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/containers/create-shipping-policies/containers/create-shipping-policy/create-shipping-policy.component.js" timestamp="1500491452409">
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/containers/create-shipping-policies/containers/create-shipping-policy/create-shipping-policy.component.js" timestamp="1500493398904">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="30" column="56" />
         <mark key="^" line="9" column="0" />
@@ -2268,6 +2268,12 @@
         <mark key="]" line="34" column="83" />
         <mark key="^" line="34" column="83" />
         <mark key="." line="34" column="83" />
+      </file>
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/containers/settings-form/containers/shipping-policy-slideout/shipping-policy-slideout.component.js" timestamp="1500493886867">
+        <mark key="[" line="32" column="5" />
+        <mark key="]" line="25" column="24" />
+        <mark key="^" line="25" column="24" />
+        <mark key="." line="25" column="24" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/amazon-gtin-exemption-validator/amazon-gtin-exemption-validator.module.js" timestamp="1495739242128">
         <mark key="[" line="0" column="6" />

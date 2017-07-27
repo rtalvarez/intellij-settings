@@ -1721,11 +1721,11 @@
         <mark key="^" line="6" column="22" />
         <mark key="." line="6" column="22" />
       </file>
-      <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/create/components/date-info/date-info.component.js" timestamp="1501189896622">
-        <mark key="[" line="14" column="10" />
-        <mark key="]" line="25" column="36" />
-        <mark key="^" line="25" column="36" />
-        <mark key="." line="25" column="36" />
+      <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/create/components/date-info/date-info.component.js" timestamp="1501196291474">
+        <mark key="[" line="27" column="22" />
+        <mark key="]" line="28" column="37" />
+        <mark key="." line="28" column="37" />
+        <mark key="^" line="28" column="37" />
       </file>
       <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/routes/handlers/auth/google.go" timestamp="1501031845318">
         <mark key="[" line="12" column="0" />
@@ -1915,10 +1915,11 @@
         <mark key="^" line="8" column="21" />
         <mark key="." line="8" column="14" />
       </file>
-      <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/create/components/date-info/date-info.tpl.html" timestamp="1501189926638">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
+      <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/create/components/date-info/date-info.tpl.html" timestamp="1501196568405">
+        <mark key="[" line="6" column="51" />
+        <mark key="]" line="34" column="32" />
+        <mark key="." line="34" column="32" />
+        <mark key="^" line="34" column="32" />
       </file>
       <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/models/studies.go" timestamp="1500944586364">
         <mark key="[" line="6" column="28" />
@@ -2248,11 +2249,11 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/labs/ng-labs/src/app/services/appointments/appointments.service.js" timestamp="1501034034339">
-        <mark key="[" line="20" column="36" />
-        <mark key="]" line="20" column="57" />
-        <mark key="^" line="20" column="57" />
-        <mark key="." line="20" column="57" />
+      <file name="$USER_HOME$/labs/ng-labs/src/app/services/appointments/appointments.service.js" timestamp="1501196395952">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+        <mark key="^" line="50" column="68" />
       </file>
       <file name="$USER_HOME$/labs/labs-fe-bb/app/javascripts/appointments/create/ProcessingPaymentDialog.js" timestamp="1497453112967">
         <mark key="[" line="5" column="120" />
@@ -2377,11 +2378,11 @@
         <mark key="]" line="16" column="46" />
         <mark key="." line="16" column="46" />
       </file>
-      <file name="$USER_HOME$/labs/ng-labs/src/app/services/appointments/appointments.constants.js" timestamp="1501024162657">
-        <mark key="[" line="6" column="1" />
-        <mark key="]" line="5" column="15" />
-        <mark key="^" line="5" column="15" />
-        <mark key="." line="5" column="15" />
+      <file name="$USER_HOME$/labs/ng-labs/src/app/services/appointments/appointments.constants.js" timestamp="1501195543401">
+        <mark key="[" line="27" column="7" />
+        <mark key="]" line="30" column="11" />
+        <mark key="^" line="30" column="11" />
+        <mark key="." line="30" column="11" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/provider-settings-form/amazon/amazon-brand-config/amazon-brand-config.tpl.html" timestamp="1495728885635">
         <mark key="[" line="87" column="63" />
@@ -2972,16 +2973,17 @@
       <jump line="135" column="0" filename="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/db/patients.go" />
       <jump line="28" column="43" filename="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/routes/handlers/appointments/main.go" />
       <jump line="0" column="0" filename="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/routes/handlers/appointments/main.go" />
+      <jump line="52" column="38" filename="$USER_HOME$/labs/ng-labs/src/app/services/appointments/appointments.service.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>policy</text>
+        <text>setMinutes</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPG1kLWJ1dHRvbiBjbGFzcz0iYnV0dG9uLXJhaXNlZCI+CiAgICAgICAgICAgICAgICBTZWxlY2Npb25hciBEaWEKICAgICAgICAgICAgPC9tZC1idXR0b24+ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgdG9kYXkgPSBuZXcgRGF0ZSgpOwogICAgICAgICAgICBjb25zdCBzcGxpdCA9IGhvdXIuc3BsaXQoJzonKTsKCiAgICAgICAgICAgIHRvZGF5LnNldE1pbGxpc2Vjb25kcygwKTsKICAgICAgICAgICAgdG9kYXkuc2V0U2Vjb25kcygwKTsKICAgICAgICAgICAgdG9kYXkuc2V0SG91cnMoc3BsaXRbMF0pOwogICAgICAgICAgICB0b2RheS5zZXRNaW51dGVzKHNwbGl0WzFdKTsKCiAgICAgICAgICAgIHJldHVybiB0b2RheS50b0pTT04oKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2999,28 +3001,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB7eyAkY3RybC5pc0RhdGVwaWNrZXJPcGVuIH19Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBhID0gXy5tYXAoZGlmZiwgaG91ciA9PiB0aGlzLl9nZXREYXRlT2JqZWN0Rm9ySG91cihob3VyKSk7CgogICAgICAgIGRlYnVnZ2VyOwoKICAgICAgICByZXR1cm4gYTsKCiAgICAgICAgcmV0dXJuIF8ubWFwKGRpZmYsIGhvdXIgPT4gewogICAgICAgICAgICBjb25zdCB0b2RheSA9IG5ldyBEYXRlKCk7CiAgICAgICAgICAgIGNvbnN0IHNwbGl0ID0gaG91ci5zcGxpdCgnOicpOwoKICAgICAgICAgICAgdG9kYXkuc2V0TWlsbGlzZWNvbmRzKDApOwogICAgICAgICAgICB0b2RheS5zZXRTZWNvbmRzKDApOwogICAgICAgICAgICB0b2RheS5zZXRIb3VycyhzcGxpdFswXSk7CiAgICAgICAgICAgIHRvZGF5LnNldE1pbnV0ZXMoc3BsaXRbMV0pOwoKICAgICAgICAgICAgcmV0dXJuIHRvZGF5LnRvSlNPTigpOwogICAgICAgIH0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB7CiAgICB9Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFja2FnZUhhbmRsaW5nQ29zdDogewogICAgICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgdG9kYXkgPSBuZXcgRGF0ZSgpOwogICAgICAgICAgICBjb25zdCBzcGxpdCA9IGhvdXIuc3BsaXQoJzonKTsKCiAgICAgICAgICAgIHRvZGF5LnNldE1pbGxpc2Vjb25kcygwKTsKICAgICAgICAgICAgdG9kYXkuc2V0U2Vjb25kcygwKTsKICAgICAgICAgICAgdG9kYXkuc2V0SG91cnMoc3BsaXRbMF0pOwogICAgICAgICAgICB0b2RheS5zZXRNaW51dGVzKHNwbGl0WzFdKTsKCiAgICAgICAgICAgIHJldHVybiB0b2RheS50b0pTT04oKTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbHVlOiBwb2xpY3kucGFja2FnZUhhbmRsaW5nQ29zdCA/IGAke3BvbGljeS5wYWNrYWdlSGFuZGxpbmdDb3N0fWAgOiBudWxsLAogICAgICAgICAgICAgICAgY3VycmVuY3k6IHBvbGljeS5wYWNrYWdlSGFuZGxpbmdDb3N0VW5pdCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnRoZW4ociA9PiBjb25zb2xlLmxvZygncicsIHIpKQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBuYW1lOiBwb2xpY3kubmFtZSwKICAgICAgICBkZXNjcmlwdGlvbjogcG9saWN5LmRlc2NyaXB0aW9uLAogICAgICAgIHNoaXBwaW5nT3B0aW9uczogW3sKICAgICAgICAgICAgaW5zdXJhbmNlT2ZmZXJlZDogcG9saWN5Lmluc3VyYW5jZU9mZmVyZWQsCiAgICAgICAgICAgIG9wdGlvblR5cGU6IHBvbGljeS5vcHRpb25UeXBlLAogICAgICAgICAgICBjb3N0VHlwZTogcG9saWN5LmNvc3RUeXBlLAogICAgICAgICAgICBzaGlwcGluZ1NlcnZpY2VzLAogICAgICAgICAgICBwYWNrYWdlSGFuZGxpbmdDb3N0OiB7CiAgICAgICAgICAgICAgICB2YWx1ZTogcG9saWN5LnBhY2thZ2VIYW5kbGluZ0Nvc3QgPyBgJHtwb2xpY3kucGFja2FnZUhhbmRsaW5nQ29zdH1gIDogbnVsbCwKICAgICAgICAgICAgICAgIGN1cnJlbmN5OiBwb2xpY3kucGFja2FnZUhhbmRsaW5nQ29zdFVuaXQsCiAgICAgICAgICAgIH0sCiAgICAgICAgfV0sCiAgICAgICAgbWFya2V0cGxhY2VJZDogcG9saWN5Lm1hcmtldHBsYWNlSWQsCiAgICAgICAgaGFuZGxpbmdUaW1lOiB7CiAgICAgICAgICAgIHZhbHVlOiBOdW1iZXIocG9saWN5LmhhbmRsaW5nVGltZSksCiAgICAgICAgICAgIHVuaXQ6IHBvbGljeS5oYW5kbGluZ1RpbWVVbml0LAogICAgICAgIH0sCiAgICAgICAgcGlja3VwRHJvcE9mZjogcG9saWN5LnBpY2t1cERyb3BPZmYsCiAgICAgICAgZnJlaWdodFNoaXBwaW5nOiBwb2xpY3kuZnJlaWdodFNoaXBwaW5nLAogICAgICAgIGNhdGVnb3J5VHlwZXM6IHBvbGljeS5jYXRlZ29yeVR5cGVzLAogICAgICAgIGdsb2JhbFNoaXBwaW5nOiBwb2xpY3kuZ2xvYmFsU2hpcHBpbmcsCiAgICAgICAgZnVsZmlsbG1lbnRQb2xpY3lJZDogcG9saWN5LmZ1bGZpbGxtZW50UG9saWN5SWQsCg==</text>
+        <text encoding="base64">ICAgIF9jcmVhdGVFbXB0eUFwcG9pbnRtZW50U2V0KCkgewogICAgICAgIGNvbnN0IHRvZGF5ID0gbmV3IERhdGUoKTsKICAgICAgICB0b2RheS5zZXRNaWxsaXNlY29uZHMoMCk7CiAgICAgICAgdG9kYXkuc2V0U2Vjb25kcygwKTsKCiAgICAgICAgcmV0dXJuIF8ubWFwKEFWQUlMQUJMRV9IT1VSUywgdGltZSA9PiB7CiAgICAgICAgICAgIGNvbnN0IGRhdGUgPSBuZXcgRGF0ZSgpOwogICAgICAgICAgICBjb25zdCBzcGxpdCA9IHRpbWUuc3BsaXQoJzonKTsKCiAgICAgICAgICAgIGNvbnN0IGhvdXIgPSBzcGxpdFswXTsKICAgICAgICAgICAgY29uc3QgbWludXRlID0gc3BsaXRbMV07CgoKICAgICAgICAgICAgZGF0ZS5zZXRNaWxsaXNlY29uZHMoMCk7CiAgICAgICAgICAgIGRhdGUuc2V0U2Vjb25kcygwKTsKICAgICAgICAgICAgZGF0ZS5zZXRIb3Vycyhob3VyKTsKICAgICAgICAgICAgZGF0ZS5zZXRNaW51dGVzKG1pbnV0ZSk7CgogICAgICAgICAgICByZXR1cm4gZGF0ZS50b0pTT04oKTsKICAgICAgICB9KTsKICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdsb2dlaXJubycpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>

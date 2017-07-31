@@ -92,6 +92,12 @@
         <mark key="." line="5" column="72" />
         <mark key="^" line="5" column="72" />
       </file>
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/app.reducer.js" timestamp="1501524080660">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="5" column="27" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/components/settings-form/components/tax-options/tax-options.component.js" timestamp="1498492753729">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -888,6 +894,12 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/package.json" timestamp="1501523801456">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="36" column="3" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/containers/settings-form/components/create-shipping-policy/create-shipping-policy.tpl.html" timestamp="1499700612883">
         <mark key="[" line="233" column="33" />
         <mark key="]" line="233" column="43" />
@@ -1221,6 +1233,7 @@
         <mark key="^" line="55" column="56" />
         <mark key="." line="46" column="0" />
       </file>
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/app.config.js" timestamp="1501523946814" />
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/containers/settings-form/containers/multiple-shipping-policies/multiple-shipping-policies.tpl.html" timestamp="1500564176621">
         <mark key="[" line="2" column="47" />
         <mark key="]" line="2" column="48" />
@@ -2373,6 +2386,12 @@
         <mark key="^" line="13" column="21" />
         <mark key="." line="13" column="21" />
       </file>
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/app.config.js" timestamp="1501523994557">
+        <mark key="[" line="10" column="23" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/provider-settings-form/amazon/amazon-brand-config/amazon-brand-config.directive.js" timestamp="1494454066429">
         <mark key="[" line="15" column="9" />
         <mark key="]" line="8" column="24" />
@@ -2500,6 +2519,10 @@
         <mark key="]" line="29" column="32" />
         <mark key="." line="29" column="32" />
         <mark key="^" line="29" column="32" />
+      </file>
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/package.json" timestamp="1501523797844">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="77" />
       </file>
       <file name="$USER_HOME$/labs/labs-fe-bb/app/javascripts/appointments/create/AppointmentDetailsView.js" timestamp="1497453034321">
         <mark key="[" line="1" column="104" />
@@ -2998,13 +3021,13 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>required</text>
+        <text>+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPG1kLWJ1dHRvbiBuZy1jbGljaz0iY3RybC5lZGl0TWVudUl0ZW1DbGljaygkZXZlbnQsIDIpIj4K</text>
+        <text encoding="base64">ICAgICJuZy1idWlsZCI6ICJnaXQrc3NoOi8vZ2l0QGdpdGh1Yi5jb20vZGVpbmkvbmctYnVpbGQuZ2l0I25vUHJlU291cmNlbWFwcyIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8c21hbGwgbmctaWY9IiRjdHJsLnNob3dFcnJvcigkY3RybC5jcmVhdGVQb2xpY3lGb3JtWydlYmF5Q3JlYXRlU2hpcHBpbmdQb2xpY3ktc2hpcHBpbmdPcHRpb25zLWhhbmRsaW5nQ29zdCddKSIgY2xhc3M9ImZvcm0tc21hbGwtcmVxdWlyZWQiPlJlcXVpcmVkICo8L3NtYWxsPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3022,28 +3045,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxldCBlYmF5U2V0dGluZ3NGb3JtQWN0aW9uczsK</text>
+        <text encoding="base64">aW1wb3J0IGFwcFJlZ2lzdHJ5UmVkdWNlciBmcm9tICcuL3NoYXJlZC9hcHAtcmVnaXN0cnkvYXBwLXJlZ2lzdHJ5LnJlZHVjZXInOwppbXBvcnQgYmNBcHBDb25maWdSZWR1Y2VyIGZyb20gJy4vc2hhcmVkL2JjLWFwcC1jb25maWcvYmMtYXBwLWNvbmZpZy5yZWR1Y2VyJzsKaW1wb3J0IGNoYW5uZWxBdXRoUmVkdWNlciBmcm9tICcuL3NoYXJlZC9jaGFubmVsLWF1dGgvY2hhbm5lbC1hdXRoLnJlZHVjZXInOwppbXBvcnQgY2hhbm5lbENvbmZpZ1JlZHVjZXIgZnJvbSAnLi9zaGFyZWQvY2hhbm5lbC1jb25maWcvY2hhbm5lbC1jb25maWcucmVkdWNlcic7CmltcG9ydCBlYmF5Q3JlYXRlUmV0dXJuUG9saWN5UmVkdWNlciBmcm9tICcuL3Byb3ZpZGVyLWRldGFpbHMvZWJheS9zZXR0aW5ncy9jb250YWluZXJzL2NyZWF0ZS1yZXR1cm4tcG9saWN5L2NvbnRhaW5lcnMvY3JlYXRlLXJldHVybi1wb2xpY3kvc2hhcmVkL2NyZWF0ZS1yZXR1cm4tcG9saWN5LnJlZHVjZXInOwppbXBvcnQgZWJheUNyZWF0ZVNoaXBwaW5nUG9saWN5UmVkdWNlciBmcm9tICcuL3Byb3ZpZGVyLWRldGFpbHMvZWJheS9zZXR0aW5ncy9jb250YWluZXJzL3NoYXJlZC9zaGlwcGluZy1wb2xpY3kvc2hpcHBpbmctcG9saWN5LnJlZHVjZXJzJzsKaW1wb3J0IGViYXlSZXR1cm5Qb2xpY2llc1JlZHVjZXIgZnJvbSAnLi9wcm92aWRlci1kZXRhaWxzL2ViYXkvc2V0dGluZ3MvY29udGFpbmVycy9zaGFyZWQvcmV0dXJuLXBvbGljaWVzL3JldHVybi1wb2xpY2llcy5yZWR1Y2VyJzsKaW1wb3J0IGViYXlSZXR1cm5Qb2xpY3lTbGlkZW91dFJlZHVjZXIgZnJvbSAnLi9wcm92aWRlci1kZXRhaWxzL2ViYXkvc2V0dGluZ3MvY29udGFpbmVycy9zZXR0aW5ncy1mb3JtL2NvbnRhaW5lcnMvcmV0dXJuLXBvbGljeS1zbGlkZW91dC9zaGFyZWQvcmV0dXJuLXBvbGljeS1zbGlkZW91dC5yZWR1Y2VyJzsKaW1wb3J0IGViYXlTZXR0aW5nc0Zvcm1SZWR1Y2VyIGZyb20gJy4vcHJvdmlkZXItZGV0YWlscy9lYmF5L3NldHRpbmdzL2NvbnRhaW5lcnMvc2V0dGluZ3MtZm9ybS9zaGFyZWQvc2V0dGluZ3MtZm9ybS5yZWR1Y2VyJzsKaW1wb3J0IGViYXlTaGlwcGluZ1BvbGljaWVzUmVkdWNlciBmcm9tICcuL3Byb3ZpZGVyLWRldGFpbHMvZWJheS9zZXR0aW5ncy9jb250YWluZXJzL3NoYXJlZC9tdWx0aXBsZS1zaGlwcGluZy1wb2xpY2llcy9tdWx0aXBsZS1zaGlwcGluZy1wb2xpY2llcy5yZWR1Y2VyJzsKaW1wb3J0IGViYXlTaGlwcGluZ1BvbGljeVNsaWRlb3V0UmVkdWNlciBmcm9tICcuL3Byb3ZpZGVyLWRldGFpbHMvZWJheS9zZXR0aW5ncy9jb250YWluZXJzL3NoYXJlZC9zaGlwcGluZy1wb2xpY3ktc2xpZGVvdXQvc2hpcHBpbmctcG9saWN5LXNsaWRlb3V0LnJlZHVjZXInOwppbXBvcnQgZXJyb3JzUmVkdWNlciBmcm9tICcuL3NoYXJlZC9lcnJvcnMvZXJyb3JzLnJlZHVjZXInOwppbXBvcnQgZmFjZWJvb2tTZXR0aW5nc0Zvcm1SZWR1Y2VyIGZyb20gJy4vcHJvdmlkZXItZGV0YWlscy9mYWNlYm9vay9zZXR0aW5ncy9jb250YWluZXJzL3NldHRpbmdzLWZvcm0vc2hhcmVkL3NldHRpbmdzLWZvcm0ucmVkdWNlcic7CmltcG9ydCBmYWNlYm9va1N0b3JlZnJvbnRSZWR1Y2VyIGZyb20gJy4vcHJvdmlkZXItZGV0YWlscy9mYWNlYm9vay9zZXR0aW5ncy9jb250YWluZXJzL3NldHRpbmdzLWZvcm0vY29udGFpbmVycy9mYWNlYm9vay1zdG9yZWZyb250L3NoYXJlZC9mYWNlYm9vay1zdG9yZWZyb250LnJlZHVjZXInOwppbXBvcnQgcHJvdmlkZXJzUmVkdWNlciBmcm9tICcuL3NoYXJlZC9wcm92aWRlcnMvcHJvdmlkZXJzLnJlZHVjZXInOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBPTU5JLTM1MDA6IEVkaXQgc2hpcHBpbmcgcG9saWNpZXMK</text>
+        <text encoding="base64">ICAgIGFwcFJlZ2lzdHJ5OiBhcHBSZWdpc3RyeVJlZHVjZXIsCiAgICBiY0FwcENvbmZpZzogYmNBcHBDb25maWdSZWR1Y2VyLAogICAgY2hhbm5lbEF1dGg6IGNoYW5uZWxBdXRoUmVkdWNlciwKICAgIGNoYW5uZWxDb25maWc6IGNoYW5uZWxDb25maWdSZWR1Y2VyLAogICAgZWJheUNyZWF0ZVJldHVyblBvbGljeTogZWJheUNyZWF0ZVJldHVyblBvbGljeVJlZHVjZXIsCiAgICBlYmF5Q3JlYXRlU2hpcHBpbmdQb2xpY3k6IGViYXlDcmVhdGVTaGlwcGluZ1BvbGljeVJlZHVjZXIsCiAgICBlYmF5UmV0dXJuUG9saWNpZXM6IGViYXlSZXR1cm5Qb2xpY2llc1JlZHVjZXIsCiAgICBlYmF5UmV0dXJuUG9saWN5U2xpZGVvdXQ6IGViYXlSZXR1cm5Qb2xpY3lTbGlkZW91dFJlZHVjZXIsCiAgICBlYmF5U2V0dGluZ3NGb3JtOiBlYmF5U2V0dGluZ3NGb3JtUmVkdWNlciwKICAgIGViYXlTaGlwcGluZ1BvbGljaWVzOiBlYmF5U2hpcHBpbmdQb2xpY2llc1JlZHVjZXIsCiAgICBlYmF5U2hpcHBpbmdQb2xpY3lTbGlkZW91dDogZWJheVNoaXBwaW5nUG9saWN5U2xpZGVvdXRSZWR1Y2VyLAogICAgZXJyb3JzOiBlcnJvcnNSZWR1Y2VyLAogICAgZmFjZWJvb2tTZXR0aW5nc0Zvcm06IGZhY2Vib29rU2V0dGluZ3NGb3JtUmVkdWNlciwKICAgIGZhY2Vib29rU3RvcmVmcm9udDogZmFjZWJvb2tTdG9yZWZyb250UmVkdWNlciwKICAgIHByb3ZpZGVyczogcHJvdmlkZXJzUmVkdWNlciwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0K</text>
+        <text encoding="base64">ICAgICJuZy1idWlsZCI6ICJnaXQrc3NoOi8vZ2l0QGdpdGh1Yi5jb20vYmlnY29tbWVyY2UtbGFicy9uZy1idWlsZC5naXQjMi4yLjAiLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBPTU5JLTM1MDA6IEVkaXQgc2hpcHBpbmcgcG9saWNpZXMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8c21hbGwgbmctaWY9IiRjdHJsLnNob3dFcnJvcigkY3RybC5jcmVhdGVQb2xpY3lGb3JtWydlYmF5Q3JlYXRlU2hpcHBpbmdQb2xpY3ktc2hpcHBpbmdPcHRpb25zLWhhbmRsaW5nQ29zdCddKSIgY2xhc3M9ImZvcm0tc21hbGwtcmVxdWlyZWQiPlJlcXVpcmVkICo8L3NtYWxsPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0K</text>
+        <text encoding="base64">ICAgIGxldCBlYmF5U2V0dGluZ3NGb3JtQWN0aW9uczsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBPTU5JLTM1MDA6IEVkaXQgc2hpcHBpbmcgcG9saWNpZXMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PT09PT09PQpleHBvcnQgZGVmYXVsdCBmdW5jdGlvbiByZXR1cm5Qb2xpY3lTbGlkZW91dEFjdGlvbnMoJHEsICRzdGF0ZSwgY2hhbm5lbENvbmZpZ0FjdGlvbnMsIGViYXlDaGFubmVsTWFuYWdlbWVudCwgZXZlbnRUcmFja2VyLCByZXR1cm5Qb2xpY2llc0FjdGlvbnMsIGViYXlTZXR0aW5nc0Zvcm1BY3Rpb25zKSB7Cj4+Pj4+Pj4gT01OSS0zNTAwOiBFZGl0IHNoaXBwaW5nIHBvbGljaWVzCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBPTU5JLTM1MDA6IEVkaXQgc2hpcHBpbmcgcG9saWNpZXMK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>

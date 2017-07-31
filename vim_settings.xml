@@ -1009,11 +1009,11 @@
         <mark key="^" line="1" column="71" />
         <mark key="." line="1" column="71" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/components/shipping-policy-form/shipping-policy-form.tpl.html" timestamp="1501173766811">
-        <mark key="[" line="231" column="78" />
-        <mark key="]" line="231" column="76" />
-        <mark key="." line="231" column="76" />
-        <mark key="^" line="231" column="76" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/components/shipping-policy-form/shipping-policy-form.tpl.html" timestamp="1501511141082">
+        <mark key="[" line="225" column="27" />
+        <mark key="]" line="225" column="37" />
+        <mark key="." line="225" column="37" />
+        <mark key="^" line="225" column="37" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-pos/bower.json" timestamp="1493661626165">
         <mark key="[" line="36" column="71" />
@@ -2998,7 +2998,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>A</text>
+        <text>required</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPG1kLWJ1dHRvbiBuZy1jbGljaz0iY3RybC5lZGl0TWVudUl0ZW1DbGljaygkZXZlbnQsIDIpIj4K</text>

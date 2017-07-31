@@ -1009,11 +1009,11 @@
         <mark key="^" line="1" column="71" />
         <mark key="." line="1" column="71" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/components/shipping-policy-form/shipping-policy-form.tpl.html" timestamp="1501511141082">
-        <mark key="[" line="225" column="27" />
-        <mark key="]" line="225" column="37" />
-        <mark key="." line="225" column="37" />
-        <mark key="^" line="225" column="37" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/components/shipping-policy-form/shipping-policy-form.tpl.html" timestamp="1501512655273">
+        <mark key="[" line="211" column="24" />
+        <mark key="]" line="213" column="19" />
+        <mark key="." line="213" column="19" />
+        <mark key="^" line="213" column="19" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-pos/bower.json" timestamp="1493661626165">
         <mark key="[" line="36" column="71" />
@@ -3004,7 +3004,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPG1kLWJ1dHRvbiBuZy1jbGljaz0iY3RybC5lZGl0TWVudUl0ZW1DbGljaygkZXZlbnQsIDIpIj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxldCBlYmF5U2V0dGluZ3NGb3JtQWN0aW9uczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8c21hbGwgbmctaWY9IiRjdHJsLnNob3dFcnJvcigkY3RybC5jcmVhdGVQb2xpY3lGb3JtWydlYmF5Q3JlYXRlU2hpcHBpbmdQb2xpY3ktc2hpcHBpbmdPcHRpb25zLWhhbmRsaW5nQ29zdCddKSIgY2xhc3M9ImZvcm0tc21hbGwtcmVxdWlyZWQiPlJlcXVpcmVkICo8L3NtYWxsPgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3022,28 +3022,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBPTU5JLTM1MDA6IEVkaXQgc2hpcHBpbmcgcG9saWNpZXMK</text>
+        <text encoding="base64">ICAgIGxldCBlYmF5U2V0dGluZ3NGb3JtQWN0aW9uczsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0K</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Pj4+Pj4+PiBPTU5JLTM1MDA6IEVkaXQgc2hpcHBpbmcgcG9saWNpZXMK</text>
       </register>
-      <register name="5" type="2">
+      <register name="4" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0K</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBPTU5JLTM1MDA6IEVkaXQgc2hpcHBpbmcgcG9saWNpZXMK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PT09PT09PQpleHBvcnQgZGVmYXVsdCBmdW5jdGlvbiByZXR1cm5Qb2xpY3lTbGlkZW91dEFjdGlvbnMoJHEsICRzdGF0ZSwgY2hhbm5lbENvbmZpZ0FjdGlvbnMsIGViYXlDaGFubmVsTWFuYWdlbWVudCwgZXZlbnRUcmFja2VyLCByZXR1cm5Qb2xpY2llc0FjdGlvbnMsIGViYXlTZXR0aW5nc0Zvcm1BY3Rpb25zKSB7Cj4+Pj4+Pj4gT01OSS0zNTAwOiBFZGl0IHNoaXBwaW5nIHBvbGljaWVzCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">PT09PT09PQpleHBvcnQgZGVmYXVsdCBmdW5jdGlvbiByZXR1cm5Qb2xpY3lTbGlkZW91dEFjdGlvbnMoJHEsICRzdGF0ZSwgY2hhbm5lbENvbmZpZ0FjdGlvbnMsIGViYXlDaGFubmVsTWFuYWdlbWVudCwgZXZlbnRUcmFja2VyLCByZXR1cm5Qb2xpY2llc0FjdGlvbnMsIGViYXlTZXR0aW5nc0Zvcm1BY3Rpb25zKSB7Cj4+Pj4+Pj4gT01OSS0zNTAwOiBFZGl0IHNoaXBwaW5nIHBvbGljaWVzCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQogICAgY29uc3RydWN0b3IoJG5nUmVkdXgsIGNoYW5uZWxDb25maWdBY3Rpb25zLCByZXR1cm5Qb2xpY3lTbGlkZW91dEFjdGlvbnMsIGViYXlTZXR0aW5nc0Zvcm1BY3Rpb25zKSB7CiAgICAgICAgJ25nSW5qZWN0JzsKCiAgICAgICAgdGhpcy5fJHN0b3JlID0gJG5nUmVkdXg7Cj4+Pj4+Pj4gT01OSS0zNTAwOiBFZGl0IHNoaXBwaW5nIHBvbGljaWVzCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>

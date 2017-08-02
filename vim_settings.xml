@@ -574,11 +574,10 @@
         <mark key="^" line="15" column="37" />
         <mark key="." line="15" column="37" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/listing/amazon/shared/amazon-listing.actions.js" timestamp="1501692721908">
-        <mark key="[" line="45" column="12" />
-        <mark key="]" line="46" column="24" />
-        <mark key="." line="46" column="24" />
-        <mark key="^" line="46" column="24" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/listing/amazon/shared/amazon-listing.actions.js" timestamp="1501700563373">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/directives/product-overrides/amazon-product-overrides/amazon-product-overrides.directive.js" timestamp="1501616009281" />
       <file name="$USER_HOME$/labs/labs-fe-bb/app/javascripts/shared/MaterializeSelectView.js" timestamp="1497453238339">
@@ -715,10 +714,11 @@
         <mark key="." line="4" column="15" />
         <mark key="^" line="4" column="15" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/listing/amazon/containers/product-overrides/product-overrides.component.js" timestamp="1501698065453">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/listing/amazon/containers/product-overrides/product-overrides.component.js" timestamp="1501700672734">
+        <mark key="[" line="51" column="31" />
+        <mark key="]" line="65" column="46" />
+        <mark key="." line="65" column="46" />
+        <mark key="^" line="65" column="46" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/components/settings-form/components/shipping-policy-slideout/shipping-policy-slideout.tpl.html" timestamp="1497643729129">
         <mark key="[" line="20" column="27" />
@@ -1484,11 +1484,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/listing/amazon/containers/product-overrides/product-overrides.constants.js" timestamp="1501697618586">
-        <mark key="[" line="16" column="34" />
-        <mark key="]" line="12" column="26" />
-        <mark key="." line="12" column="26" />
-        <mark key="^" line="12" column="26" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/listing/amazon/containers/product-overrides/product-overrides.constants.js" timestamp="1501700023767">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="13" column="26" />
       </file>
       <file name="$USER_HOME$/labs/labs-fe-bb/app/styles/coming-soon/appointment-create/ComingSoonAppointmentCreateView.scss" timestamp="1497721840250">
         <mark key="[" line="11" column="5" />
@@ -2127,11 +2127,11 @@
         <mark key="]" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/listing/amazon/shared/amazon-listing.reducer.js" timestamp="1501692695196">
-        <mark key="[" line="19" column="51" />
-        <mark key="]" line="19" column="49" />
-        <mark key="." line="19" column="49" />
-        <mark key="^" line="19" column="49" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/listing/amazon/shared/amazon-listing.reducer.js" timestamp="1501700464637">
+        <mark key="[" line="30" column="27" />
+        <mark key="]" line="30" column="29" />
+        <mark key="." line="30" column="29" />
+        <mark key="^" line="30" column="29" />
       </file>
       <file name="$USER_HOME$/labs/ng-labs/src/app/home/home.config.js" timestamp="1500599236159">
         <mark key="[" line="9" column="0" />
@@ -2816,11 +2816,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/listing/amazon/components/product-overrides/product-overrides.tpl.html" timestamp="1501696170069">
-        <mark key="[" line="27" column="42" />
-        <mark key="]" line="27" column="48" />
-        <mark key="^" line="27" column="48" />
-        <mark key="." line="27" column="48" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/listing/amazon/components/product-overrides/product-overrides.tpl.html" timestamp="1501700091573">
+        <mark key="[" line="70" column="48" />
+        <mark key="]" line="90" column="62" />
+        <mark key="^" line="90" column="62" />
+        <mark key="." line="90" column="62" />
       </file>
       <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/play/files/main.go" timestamp="1495812983672">
         <mark key="[" line="11" column="36" />
@@ -3207,13 +3207,13 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>listingGroup</text>
+        <text>itemPackageQuantity</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgbmctY2hhbmdlPSIkY3RybC5zZXRQcm9kdWN0T3ZlcnJpZGVzKHsgcHJvZHVjdE92ZXJyaWRlczogJGN0cmwucHJvZHVjdE92ZXJyaWRlcyB9KSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnYnJhbmQnLCB0aGlzLmJyYW5kKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncCcsIHBheWxvYWQpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3231,28 +3231,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsaXN0aW5nPSIkY3RybC5saXN0aW5nIj4K</text>
+        <text encoding="base64">ICAgICAgICBvdmVycmlkZTogJ251bWJlck9mSXRlbXMnLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBsaXN0aW5nID0gdGhpcy5saXN0aW5nR3JvdXA7Cg==</text>
+        <text encoding="base64">ICAgICAgICBvdmVycmlkZTogJ2l0ZW1QYWNrYWdlUXVhbnRpdHknLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxpc3Rpbmc6ICc8JywK</text>
+        <text encoding="base64">ICAgICAgICBvdmVycmlkZTogJ2Rlc2NyaXB0aW9uJywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxpc3Rpbmc9IiRjdHJsLmxpc3RpbmciCg==</text>
+        <text encoding="base64">ICAgICAgICBvdmVycmlkZTogJ25hbWUnLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxpc3Rpbmc6ICc8JywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBvdmVycmlkZXNbc3VwcG9ydGVkUGFyYW1ldGVyLm92ZXJyaWRlXSA9IHBhcmFtZXRlci52YWx1ZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnYnJhbmQnLCB0aGlzLmJyYW5kKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhcnNlRmllbGRzKCkgewogICAgICAgIF8uZWFjaCh0aGlzLmludGVnZXJGaWVsZHMsIChmaWVsZE5hbWUpID0+IHsKICAgICAgICAgICAgdGhpcy5wcm9kdWN0T3ZlcnJpZGVzW2ZpZWxkTmFtZV0gPSB0aGlzLnByb2R1Y3RPdmVycmlkZXNbZmllbGROYW1lXSAmJiBfLnBhcnNlSW50KHRoaXMucHJvZHVjdE92ZXJyaWRlc1tmaWVsZE5hbWVdKTsKICAgICAgICB9KTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsaXN0aW5nPSIkY3RybC5saXN0aW5nIj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBsaXN0aW5nID0gdGhpcy5saXN0aW5nR3JvdXA7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

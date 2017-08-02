@@ -435,11 +435,11 @@
         <mark key="^" line="9" column="41" />
         <mark key="." line="9" column="41" />
       </file>
-      <file name="$USER_HOME$/labs/ng-labs/package.json" timestamp="1498090093822">
-        <mark key="[" line="13" column="27" />
-        <mark key="]" line="13" column="30" />
-        <mark key="^" line="13" column="30" />
-        <mark key="." line="13" column="30" />
+      <file name="$USER_HOME$/labs/ng-labs/package.json" timestamp="1501634570464">
+        <mark key="[" line="34" column="14" />
+        <mark key="]" line="34" column="33" />
+        <mark key="^" line="34" column="33" />
+        <mark key="." line="34" column="33" />
       </file>
       <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/db/email.go" timestamp="1496010652354">
         <mark key="[" line="60" column="69" />
@@ -625,7 +625,7 @@
         <mark key="^" line="47" column="20" />
         <mark key="." line="47" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501630163835">
+      <file name="/Dummy.txt" timestamp="1501634531583">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
@@ -3222,7 +3222,7 @@
         <text encoding="base64">ICAgIGlzRmV0Y2hpbmc6IGZhbHNlLAo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zb3J0</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -3235,8 +3235,8 @@
         <entry>wq</entry>
         <entry>sort</entry>
         <entry>action emacsIDEAs.AceJump</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />

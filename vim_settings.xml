@@ -39,11 +39,11 @@
         <mark key="." line="290" column="78" />
         <mark key="^" line="290" column="78" />
       </file>
-      <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/manage/appointment/manage-appointment.config.js" timestamp="1501809486802">
-        <mark key="[" line="12" column="14" />
-        <mark key="]" line="12" column="14" />
-        <mark key="." line="12" column="14" />
-        <mark key="^" line="12" column="14" />
+      <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/manage/appointment/manage-appointment.config.js" timestamp="1501810677038">
+        <mark key="[" line="15" column="9" />
+        <mark key="]" line="14" column="17" />
+        <mark key="." line="14" column="17" />
+        <mark key="^" line="14" column="17" />
       </file>
       <file name="$USER_HOME$/labs/ng-labs/src/app/components/nav-bar/nav-bar.module.js" timestamp="1498007842034">
         <mark key="[" line="9" column="41" />
@@ -353,6 +353,12 @@
         <mark key="]" line="1" column="47" />
         <mark key="^" line="1" column="47" />
         <mark key="." line="1" column="47" />
+      </file>
+      <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/manage/day/appointment-day.module.js" timestamp="1501810846690">
+        <mark key="[" line="3" column="55" />
+        <mark key="]" line="3" column="57" />
+        <mark key="^" line="3" column="57" />
+        <mark key="." line="3" column="57" />
       </file>
       <file name="$USER_HOME$/labs/labs-be/utils/env.go" timestamp="1500505284386">
         <mark key="[" line="23" column="11" />
@@ -894,6 +900,12 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/manage/day/appointment-day.config.js" timestamp="1501810898456">
+        <mark key="[" line="9" column="50" />
+        <mark key="]" line="9" column="52" />
+        <mark key="^" line="9" column="52" />
+        <mark key="." line="9" column="52" />
+      </file>
       <file name="$USER_HOME$/labs/labs-fe-bb/app/javascripts/home/HomeView.js" timestamp="1497452909630">
         <mark key="[" line="1" column="58" />
         <mark key="]" line="1" column="59" />
@@ -1091,6 +1103,12 @@
         <mark key="]" line="30" column="58" />
         <mark key="." line="30" column="58" />
         <mark key="^" line="30" column="58" />
+      </file>
+      <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/manage/day/appointment-day.component.js" timestamp="1501810882728">
+        <mark key="[" line="6" column="16" />
+        <mark key="]" line="9" column="36" />
+        <mark key="^" line="9" column="36" />
+        <mark key="." line="9" column="36" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/services/policies/ebay/returns/ebay-return-policies.api.js" timestamp="1497291964440">
         <mark key="[" line="12" column="64" />
@@ -2850,7 +2868,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>center</text>
+        <text>appointment</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQlgaW5zZXJ0IGludG8gQWRtaW5GZWF0dXJlcyAoZmVhdHVyZUtleSkKCQl2YWx1ZXMgKCdjcmVhdGVfYXBwb2ludG1lbnQnKWAsCg==</text>

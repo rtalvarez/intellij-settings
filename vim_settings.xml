@@ -2807,10 +2807,11 @@
         <mark key="^" line="18" column="84" />
         <mark key="." line="18" column="84" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/listing/amazon/containers/category-chooser/category-chooser.component.js" timestamp="1501876789583">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/listing/amazon/containers/category-chooser/category-chooser.component.js" timestamp="1501877938466">
+        <mark key="[" line="42" column="47" />
+        <mark key="]" line="44" column="61" />
+        <mark key="." line="44" column="61" />
+        <mark key="^" line="44" column="61" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/listing/amazon/containers/option-mapping/option-mapping.tpl.html" timestamp="1501859863997">
         <mark key="[" line="0" column="0" />
@@ -2942,7 +2943,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>CATEGORY_APPROVAL_URLS</text>
+        <text>wsategoryModal</text>
       </register>
       <register name="0" type="4">
         <text>listing-categorySearchPanel-selectOptionMapping</text>

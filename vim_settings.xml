@@ -790,12 +790,6 @@
         <mark key="." line="16" column="68" />
         <mark key="^" line="9" column="25" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/bigcommerce/lib/AutoProvision/Locale/UnitedStates.php" timestamp="1501166143546">
-        <mark key="[" line="252" column="55" />
-        <mark key="]" line="252" column="58" />
-        <mark key="^" line="252" column="58" />
-        <mark key="." line="252" column="58" />
-      </file>
       <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/sqllabs/features.go" timestamp="1500934030106">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -819,6 +813,13 @@
         <mark key="]" line="8" column="36" />
         <mark key="." line="8" column="36" />
         <mark key="^" line="8" column="36" />
+      </file>
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/bigcommerce/config/app/experiments.php" timestamp="1502122750498">
+        <mark key="'" line="797" column="37" />
+        <mark key="[" line="864" column="48" />
+        <mark key="]" line="865" column="35" />
+        <mark key="^" line="865" column="35" />
+        <mark key="." line="865" column="35" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/tests/mock-backend.js" timestamp="1500921450804">
         <mark key="[" line="35" column="131" />
@@ -1804,10 +1805,10 @@
         <mark key="^" line="51" column="99" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/bigcommerce/language/en/admin/settings.ini" timestamp="1501166118907">
-        <mark key="[" line="1090" column="37" />
-        <mark key="]" line="1090" column="40" />
-        <mark key="." line="1090" column="40" />
-        <mark key="^" line="1090" column="40" />
+        <mark key="[" line="1094" column="37" />
+        <mark key="]" line="1094" column="40" />
+        <mark key="." line="1094" column="40" />
+        <mark key="^" line="1094" column="40" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/listing/ebay/directives/choose-shipping-policy/choose-shipping-policy.controller.spec.js" timestamp="1497537928978">
         <mark key="[" line="70" column="43" />
@@ -2958,16 +2959,19 @@
       <jump line="0" column="0" filename="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/shared/channels/channels.actions.js" />
       <jump line="145" column="9" filename="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/listing/amazon/containers/category-chooser/category-chooser.component.js" />
       <jump line="25" column="0" filename="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/listing/amazon/containers/variants-table/variants-table.component.js" />
+      <jump line="257" column="33" filename="$USER_HOME$/bigcommerce-app-vm/codebases/bigcommerce/config/app/experiments.php" />
+      <jump line="77" column="4" filename="$USER_HOME$/bigcommerce-app-vm/codebases/bigcommerce/config/app/experiments.php" />
+      <jump line="797" column="37" filename="$USER_HOME$/bigcommerce-app-vm/codebases/bigcommerce/config/app/experiments.php" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Enables eBay multiple business policies across product list and channel manager</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnRoZW4oY2F0ZWdvcnkgPT4geyBjb25zb2xlLmxvZygnY2F0MScsIGNhdGVnb3J5KTsgcmV0dXJuIGNhdGVnb3J5OyB9KQo=</text>
+        <text encoding="base64">ICAgICAgICAnZGVzY3JpcHRpb24nID0+ICdFbmFibGVzIGVCYXkgbXVsdGlwbGUgYnVzaW5lc3MgcG9saWNpZXMgYWNyb3NzIHByb2R1Y3QgbGlzdCBhbmQgY2hhbm5lbCBtYW5hZ2VyJywKICAgICAgICAncmFtcHVwJyAgICAgID0+IDAsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNhbi1tYXAtb3B0aW9ucz0idHJ1ZSI+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2985,7 +2989,7 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNhbi1tYXAtb3B0aW9ucz0idHJ1ZSI+Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -3000,13 +3004,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBNYWtlIHN1cmUgdGhpcyB3b3JrcwogICAgICAgIC8vIFVzaW5nIHdhdGNoZXIgYmVjYXVzZSB0aGVyZSBhcmUgcGVyLWNhdGVnb3J5IHJlcXVpcmVtZW50cyB0aGF0IHJlcXVpcmUKICAgICAgICAvLyBtZXNzYWdlcyB0byBjaGFuZ2UsIGJ1dCB3ZSBkb24ndCB3YW50IHRoZSBjb250cm9sbGVycyBtYW5hZ2luZyBzdGF0ZS4KICAgICAgICAvLyAkc2NvcGUuJHdhdGNoKCckY3RybC5jYXRhbG9nRXJyb3JzJywgKCkgPT4gdGhpcy5zZXRWYXJpYW50TW9kZWwoc3VwcG9ydGVkUGFyYW1ldGVycykpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAkc2NvcGUuJHdhdGNoKCckY3RybC5jYXRhbG9nRXJyb3JzJywgKCkgPT4gdGhpcy5zZXRWYXJpYW50TW9kZWwoc3VwcG9ydGVkUGFyYW1ldGVycykpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBNYWtlIHN1cmUgdGhpcyB3b3JrcwogICAgICAgIC8vIFVzaW5nIHdhdGNoZXIgYmVjYXVzZSB0aGVyZSBhcmUgcGVyLWNhdGVnb3J5IHJlcXVpcmVtZW50cyB0aGF0IHJlcXVpcmUKICAgICAgICAvLyBtZXNzYWdlcyB0byBjaGFuZ2UsIGJ1dCB3ZSBkb24ndCB3YW50IHRoZSBjb250cm9sbGVycyBtYW5hZ2luZyBzdGF0ZS4KICAgICAgICAvLyAkc2NvcGUuJHdhdGNoKCckY3RybC5jYXRhbG9nRXJyb3JzJywgKCkgPT4gdGhpcy5zZXRWYXJpYW50TW9kZWwoc3VwcG9ydGVkUGFyYW1ldGVycykpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gdmFyaWFudHM6IF8uY2xvbmVEZWVwKGdldEFjdGl2ZVByb2R1Y3Qoc3RhdGUpLnZhcmlhbnRzKSwK</text>
+        <text encoding="base64">ICAgICAgICAvLyAkc2NvcGUuJHdhdGNoKCckY3RybC5jYXRhbG9nRXJyb3JzJywgKCkgPT4gdGhpcy5zZXRWYXJpYW50TW9kZWwoc3VwcG9ydGVkUGFyYW1ldGVycykpOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>

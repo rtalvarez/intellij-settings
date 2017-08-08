@@ -740,11 +740,11 @@
         <mark key="^" line="9" column="7" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/routes/handlers/appointments/main.go" timestamp="1502154266030">
-        <mark key="[" line="169" column="19" />
-        <mark key="]" line="169" column="23" />
-        <mark key="." line="169" column="23" />
-        <mark key="^" line="169" column="23" />
+      <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/routes/handlers/appointments/main.go" timestamp="1502155304141">
+        <mark key="[" line="194" column="0" />
+        <mark key="]" line="175" column="41" />
+        <mark key="." line="175" column="41" />
+        <mark key="^" line="175" column="41" />
       </file>
       <file name="$USER_HOME$/labs/labs-fe-bb/app/javascripts/utils/FacebookOAuth.js" timestamp="1495906592044">
         <mark key="[" line="79" column="74" />
@@ -884,11 +884,11 @@
         <mark key="." line="20" column="3" />
         <mark key="^" line="20" column="3" />
       </file>
-      <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/db/appointments.go" timestamp="1502154182449">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="334" column="16" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/db/appointments.go" timestamp="1502156419707">
+        <mark key="[" line="327" column="61" />
+        <mark key="]" line="306" column="43" />
+        <mark key="^" line="306" column="43" />
+        <mark key="." line="306" column="43" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/containers/shared/shipping-policies/shipping-policies.reducer.js" timestamp="1500481259019">
         <mark key="[" line="23" column="43" />
@@ -1298,11 +1298,11 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/routes/main.go" timestamp="1502154260497">
-        <mark key="[" line="45" column="46" />
-        <mark key="]" line="47" column="59" />
-        <mark key="^" line="47" column="59" />
-        <mark key="." line="47" column="59" />
+      <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/routes/main.go" timestamp="1502155102142">
+        <mark key="[" line="42" column="53" />
+        <mark key="]" line="42" column="47" />
+        <mark key="^" line="42" column="47" />
+        <mark key="." line="42" column="47" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/provider-settings-form/ebay/shipping-and-returns/shipping-options/domestic/ebay-domestic-shipping-options.directive.js" timestamp="1491581714315">
         <mark key="[" line="9" column="38" />
@@ -1693,6 +1693,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/utils/time.go" timestamp="1502155752874">
+        <mark key="[" line="7" column="45" />
       </file>
       <file name="$USER_HOME$/labs/labs-fe-bb/dist/index.html" timestamp="1497456109370">
         <mark key="[" line="22" column="0" />
@@ -3017,13 +3020,13 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>currentDay</text>
+        <text>start</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQl7CgkJCXVybDogYmFzZVVybCArICAiL2FwcG9pbnRtZW50cy86aWQiLAoJCQltZXRob2Q6ICJHRVQiLAoJCQloYW5kbGVyOiBhcHBvaW50bWVudHMuR2V0QXBwb2ludG1lbnRCeUlkLAoJCX0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSJ0aW1lIgo=</text>
+        <text encoding="base64">CQlmbXQuUHJpbnRsbigpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3041,28 +3044,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWRhdGVzRm9yUXVlcnkgOj0gc3RyaW5ncy5Kb2luKGRhdGVzLCAiLCIpCg==</text>
+        <text encoding="base64">CSJ0aW1lIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWRhdGVzRm9yUXVlcnkgOj0gc3RyaW5ncy5Kb2luKGRhdGVzLCAiLCIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlkYXRlcyA9IGFwcGVuZChkYXRlcywgZ2V0RGF0ZUxpa2UoY3VycmVudERheSkpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CWR1cmF0aW9uIDo9IHRpbWUuRHVyYXRpb24oaW50NjQodGltZS5EdXJhdGlvbi5Ib3VycygyNCkpKQoKCW5leHREYXkgOj0gY3VycmVudC5BZGQoZHVyYXRpb24pCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQlkYXRlcyA9IGFwcGVuZChkYXRlcywgZ2V0RGF0ZUxpa2UoY3VycmVudERheSkpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CWR1cmF0aW9uIDo9IHRpbWUuRHVyYXRpb24oaW50NjQodGltZS5EdXJhdGlvbi5Ib3VycygyNCkpKQoKCW5leHREYXkgOj0gY3VycmVudC5BZGQoZHVyYXRpb24pCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CXN0YXJ0IDo9IGNvbnRleHQuUXVlcnkoInN0YXJ0IikKCWVuZCA6PSBjb250ZXh0LlF1ZXJ5KCJlbmQiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CXN0YXJ0IDo9IGNvbnRleHQuUXVlcnkoInN0YXJ0IikKCWVuZCA6PSBjb250ZXh0LlF1ZXJ5KCJlbmQiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CW5vdyA6PSB0aW1lLk5vdygpCgltYXhNb250aCA6PSBub3cuTW9udGgoKQo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>

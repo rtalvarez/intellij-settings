@@ -590,7 +590,7 @@
         <mark key="^" line="47" column="20" />
         <mark key="." line="47" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502152256308">
+      <file name="/Dummy.txt" timestamp="1502153221140">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
@@ -740,11 +740,11 @@
         <mark key="^" line="9" column="7" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/routes/handlers/appointments/main.go" timestamp="1502152199168">
-        <mark key="[" line="185" column="47" />
-        <mark key="]" line="185" column="55" />
-        <mark key="." line="185" column="55" />
-        <mark key="^" line="185" column="55" />
+      <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/routes/handlers/appointments/main.go" timestamp="1502154266030">
+        <mark key="[" line="169" column="19" />
+        <mark key="]" line="169" column="23" />
+        <mark key="." line="169" column="23" />
+        <mark key="^" line="169" column="23" />
       </file>
       <file name="$USER_HOME$/labs/labs-fe-bb/app/javascripts/utils/FacebookOAuth.js" timestamp="1495906592044">
         <mark key="[" line="79" column="74" />
@@ -884,11 +884,11 @@
         <mark key="." line="20" column="3" />
         <mark key="^" line="20" column="3" />
       </file>
-      <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/db/appointments.go" timestamp="1502152298290">
-        <mark key="[" line="300" column="7" />
-        <mark key="]" line="300" column="25" />
-        <mark key="^" line="300" column="25" />
-        <mark key="." line="300" column="25" />
+      <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/db/appointments.go" timestamp="1502154182449">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="334" column="16" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/containers/shared/shipping-policies/shipping-policies.reducer.js" timestamp="1500481259019">
         <mark key="[" line="23" column="43" />
@@ -1298,11 +1298,11 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/routes/main.go" timestamp="1501028324276">
-        <mark key="[" line="52" column="29" />
-        <mark key="]" line="52" column="41" />
-        <mark key="^" line="52" column="41" />
-        <mark key="." line="52" column="41" />
+      <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/routes/main.go" timestamp="1502154260497">
+        <mark key="[" line="45" column="46" />
+        <mark key="]" line="47" column="59" />
+        <mark key="^" line="47" column="59" />
+        <mark key="." line="47" column="59" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/provider-settings-form/ebay/shipping-and-returns/shipping-options/domestic/ebay-domestic-shipping-options.directive.js" timestamp="1491581714315">
         <mark key="[" line="9" column="38" />
@@ -3017,13 +3017,13 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>GetAppointmentCountByMonth</text>
+        <text>currentDay</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgICAgICAgICB0OiB7eyAkY3RybC5zaG93T3B0aW9uYWxGaWVsZHMgfX0gfHwgaToge3sgJGN0cmwuc2NoZW1hRm9ybUluaXRpYWxpemVkIH19CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">CQl7CgkJCXVybDogYmFzZVVybCArICAiL2FwcG9pbnRtZW50cy86aWQiLAoJCQltZXRob2Q6ICJHRVQiLAoJCQloYW5kbGVyOiBhcHBvaW50bWVudHMuR2V0QXBwb2ludG1lbnRCeUlkLAoJCX0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSJ0aW1lIgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3041,28 +3041,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXN0YXJ0IDo9IGNvbnRleHQuUXVlcnkoInN0YXJ0IikKCWVuZCA6PSBjb250ZXh0LlF1ZXJ5KCJlbmQiKQo=</text>
+        <text encoding="base64">CWRhdGVzRm9yUXVlcnkgOj0gc3RyaW5ncy5Kb2luKGRhdGVzLCAiLCIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CW5vdyA6PSB0aW1lLk5vdygpCgltYXhNb250aCA6PSBub3cuTW9udGgoKQo=</text>
+        <text encoding="base64">CQlkYXRlcyA9IGFwcGVuZChkYXRlcywgZ2V0RGF0ZUxpa2UoY3VycmVudERheSkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWR1cmF0aW9uIDo9IHRpbWUuRHVyYXRpb24oaW50NjQodGltZS5EdXJhdGlvbi5Ib3VycygyNCkpKQoKCW5leHREYXkgOj0gY3VycmVudC5BZGQoZHVyYXRpb24pCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">CXN0YXJ0IDo9IGNvbnRleHQuUXVlcnkoInN0YXJ0IikKCWVuZCA6PSBjb250ZXh0LlF1ZXJ5KCJlbmQiKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0aGlzLnNjaGVtYUZvcm1Nb2RlbCA9IHt9OwogICAgICAgIC8vIHRoaXMuc2hvd09wdGlvbmFsRmllbGRzID0gZmFsc2U7Cg==</text>
+        <text encoding="base64">CW5vdyA6PSB0aW1lLk5vdygpCgltYXhNb250aCA6PSBub3cuTW9udGgoKQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>

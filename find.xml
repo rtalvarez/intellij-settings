@@ -5,9 +5,8 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="scss" />
+    <option name="FILE_MASK" value="*.go" />
     <recentFileMasks>
-      <mask>*.hbs</mask>
       <mask>*.hb</mask>
       <mask>*.htm,</mask>
       <mask>*scal</mask>
@@ -17,7 +16,6 @@
       <mask>*.scala</mask>
       <mask>*.scal</mask>
       <mask>*.t</mask>
-      <mask>*.go</mask>
       <mask>*.g</mask>
       <mask>*.php</mask>
       <mask>*.ph</mask>
@@ -32,11 +30,13 @@
       <mask>*.scs</mask>
       <mask>*.sc</mask>
       <mask>*.s</mask>
-      <mask>*.</mask>
-      <mask>*</mask>
-      <mask>sc</mask>
-      <mask>scs</mask>
       <mask>scss</mask>
+      <mask>scs</mask>
+      <mask>sc</mask>
+      <mask>s</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.go</mask>
     </recentFileMasks>
   </component>
 </application>

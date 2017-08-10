@@ -1695,11 +1695,11 @@
         <mark key="^" line="51" column="46" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/bigcommerce/app/templates/admin/orders/index.html" timestamp="1502399157589">
-        <mark key="[" line="1074" column="24" />
-        <mark key="]" line="1076" column="32" />
-        <mark key="." line="1076" column="32" />
-        <mark key="^" line="1076" column="32" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/bigcommerce/app/templates/admin/orders/index.html" timestamp="1502399963305">
+        <mark key="[" line="1104" column="5" />
+        <mark key="]" line="1114" column="6" />
+        <mark key="." line="1114" column="6" />
+        <mark key="^" line="1114" column="6" />
       </file>
       <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/create/components/studies-info/components/photo-study/photo-study.tpl.html" timestamp="1501550080028">
         <mark key="[" line="14" column="0" />
@@ -3065,7 +3065,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>s</text>
+        <text>NEW</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqc2NoYW5uZWxcPg==</text>

@@ -1,11 +1,13 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="*.scala" />
     <recentFileMasks>
       <mask>*.ht</mask>
       <mask>*.h</mask>
@@ -20,12 +22,9 @@
       <mask>*.ph</mask>
       <mask>*.p</mask>
       <mask>*.j</mask>
-      <mask>*.scala</mask>
-      <mask>*.scal</mask>
       <mask>*.sca</mask>
       <mask>*.sc</mask>
       <mask>*.s</mask>
-      <mask>*.</mask>
       <mask>*.js</mask>
       <mask>s</mask>
       <mask>js</mask>
@@ -37,6 +36,9 @@
       <mask>jschannel.</mask>
       <mask>jschannel.js</mask>
       <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.scal</mask>
+      <mask>*.scala</mask>
     </recentFileMasks>
   </component>
 </application>

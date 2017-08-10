@@ -1,11 +1,13 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*.go" />
     <recentFileMasks>
       <mask>*.ht</mask>
       <mask>*.h</mask>
@@ -14,9 +16,7 @@
       <mask>scss</mask>
       <mask>scs</mask>
       <mask>sc</mask>
-      <mask>*.go</mask>
       <mask>*.g</mask>
-      <mask>*.ph</mask>
       <mask>*.j</mask>
       <mask>*.sca</mask>
       <mask>*.sc</mask>
@@ -34,9 +34,11 @@
       <mask>*.scala</mask>
       <mask>*.scal</mask>
       <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.p</mask>
       <mask>*.php</mask>
+      <mask>*.ph</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*.go</mask>
     </recentFileMasks>
   </component>
 </application>

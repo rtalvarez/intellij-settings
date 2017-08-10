@@ -2,41 +2,41 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.scala" />
+    <option name="FILE_MASK" value="*" />
     <recentFileMasks>
-      <mask>*.hb</mask>
-      <mask>*.htm,</mask>
-      <mask>*scal</mask>
-      <mask>*sca</mask>
-      <mask>*sc</mask>
-      <mask>*s</mask>
-      <mask>*.scal</mask>
-      <mask>*.t</mask>
-      <mask>*.html</mask>
-      <mask>*.htm</mask>
       <mask>*.ht</mask>
       <mask>*.h</mask>
       <mask>*.scss</mask>
       <mask>*.scs</mask>
-      <mask>*.sc</mask>
-      <mask>*.s</mask>
       <mask>scss</mask>
       <mask>scs</mask>
       <mask>sc</mask>
-      <mask>s</mask>
       <mask>*.go</mask>
       <mask>*.g</mask>
       <mask>*.php</mask>
       <mask>*.ph</mask>
       <mask>*.p</mask>
-      <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*</mask>
       <mask>*.scala</mask>
+      <mask>*.scal</mask>
+      <mask>*.sca</mask>
+      <mask>*.sc</mask>
+      <mask>*.s</mask>
+      <mask>*.</mask>
+      <mask>*.js</mask>
+      <mask>s</mask>
+      <mask>js</mask>
+      <mask>jsc</mask>
+      <mask>jsch</mask>
+      <mask>jscha</mask>
+      <mask>jschan</mask>
+      <mask>jschannel</mask>
+      <mask>jschannel.</mask>
+      <mask>jschannel.js</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>

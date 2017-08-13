@@ -2903,11 +2903,11 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="3" column="41" />
       </file>
-      <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/manage/manage-appointments.component.js" timestamp="1502652658144">
-        <mark key="[" line="7" column="85" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="22" column="59" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/manage/manage-appointments.component.js" timestamp="1502657516047">
+        <mark key="[" line="32" column="82" />
+        <mark key="]" line="32" column="79" />
+        <mark key="^" line="32" column="79" />
+        <mark key="." line="32" column="79" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/modals/amazon-category-approval/amazon-category-approval.controller.js" timestamp="1502119953285">
         <mark key="[" line="13" column="54" />
@@ -3083,7 +3083,7 @@
         <text encoding="base64">ICAgICAgICB0aGlzLl9jYWxlbmRhci5zZXREYXlDb250ZW50KGRhdGUsICc8ZGl2IGNsYXNzPSJjYWxlbmRhci1kb3QiPjwvZGl2PicpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLl9jYWxlbmRhci5zZXREYXlDb250ZW50KGRhdGUsICc8ZGl2IGNsYXNzPSJjYWxlbmRhci1kb3QiPjwvZGl2PicpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3101,28 +3101,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9InRlc3QiIG5nLXJlcGVhdD0iZG90IGluICRjdHJsLmRvdHMiPndhc2QgZG90PC9kaXY+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9InRlc3QiIG5nLXJlcGVhdD0iZG90IGluICRjdHJsLmRvdHMiPndhc2QgZG90PC9kaXY+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLl8kY29tcGlsZSA9ICRjb21waWxlOwogICAgICAgIHRoaXMuXyRyb290U2NvcGUgPSAkcm9vdFNjb3BlOwogICAgICAgIHRoaXMuXyR0aW1lb3V0ID0gJHRpbWVvdXQ7CgogICAgICAgIHRoaXMuZG90cyA9IFsxLDIsM107Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLl8kY29tcGlsZSA9ICRjb21waWxlOwogICAgICAgIHRoaXMuXyRyb290U2NvcGUgPSAkcm9vdFNjb3BlOwogICAgICAgIHRoaXMuXyR0aW1lb3V0ID0gJHRpbWVvdXQ7CgogICAgICAgIHRoaXMuZG90cyA9IFsxLDIsM107Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5fJHRpbWVvdXQoKCkgPT4gewogICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ2QnLCBkb3RzKQogICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuX2NhbGVuZGFyLnNldERheUNvbnRlbnQobmV3IERhdGUoY291bnQuZGF0ZSksIGRvdHMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5fJHRpbWVvdXQoKCkgPT4gewogICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ2QnLCBkb3RzKQogICAgICAgICAgICB9KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gY29uc3QgZG90VHBsID0gJzxkaXYgY2xhc3M9ImNhbGVuZGFyLWRvdCI+PC9kaXY+JzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuX2NhbGVuZGFyLnNldERheUNvbnRlbnQobmV3IERhdGUoY291bnQuZGF0ZSksIGRvdHMpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBzY29wZSA9IHRoaXMuXyRyb290U2NvcGUuJG5ldyh0cnVlKTsKICAgICAgICBzY29wZS5kb3RzID0gXy5yYW5nZShudW1Eb3RzKTsKCiAgICAgICAgcmV0dXJuIHRoaXMuXyRjb21waWxlKGFuZ3VsYXIuZWxlbWVudChkb3RUcGwpKShzY29wZSk7Cg==</text>
+        <text encoding="base64">Ly8gY29uc3QgZG90VHBsID0gJzxkaXYgY2xhc3M9ImNhbGVuZGFyLWRvdCI+PC9kaXY+JzsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>

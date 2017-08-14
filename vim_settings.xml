@@ -463,11 +463,11 @@
         <mark key="." line="77" column="35" />
         <mark key="^" line="77" column="35" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/services/services.module.js" timestamp="1497022909577">
-        <mark key="[" line="53" column="38" />
-        <mark key="]" line="53" column="58" />
-        <mark key="." line="53" column="58" />
-        <mark key="^" line="53" column="58" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/services/services.module.js" timestamp="1502742626452">
+        <mark key="[" line="3" column="86" />
+        <mark key="]" line="38" column="60" />
+        <mark key="." line="38" column="60" />
+        <mark key="^" line="38" column="60" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/amazon-category-mapping/amazon-category-mapping.controller.js" timestamp="1493911455289">
         <mark key="[" line="3" column="0" />
@@ -613,7 +613,7 @@
         <mark key="^" line="47" column="20" />
         <mark key="." line="47" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502736648121">
+      <file name="/Dummy.txt" timestamp="1502742181754">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1022,6 +1022,12 @@
         <mark key="^" line="6" column="32" />
         <mark key="." line="6" column="32" />
       </file>
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/services/amazon-option-mapping/amazon-option-mapping.api.js" timestamp="1502742678466">
+        <mark key="[" line="4" column="55" />
+        <mark key="]" line="4" column="54" />
+        <mark key="^" line="4" column="54" />
+        <mark key="." line="4" column="54" />
+      </file>
       <file name="$USER_HOME$/labs/labs-fe-bb/app/javascripts/shared/TypeaheadView.js" timestamp="1497453220397">
         <mark key="[" line="1" column="70" />
         <mark key="]" line="1" column="71" />
@@ -1094,6 +1100,7 @@
         <mark key="^" line="14" column="12" />
         <mark key="." line="14" column="12" />
       </file>
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/services/listings/listings.api.js" timestamp="1502742673795" />
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/shared/brands/brands.selectors.js" timestamp="1501695597031">
         <mark key="[" line="7" column="1" />
         <mark key="]" line="6" column="22" />
@@ -1460,11 +1467,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="12" column="23" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/listing/amazon/containers/category-chooser/shared/category-chooser.actions.js" timestamp="1502737676717">
-        <mark key="[" line="24" column="67" />
-        <mark key="]" line="24" column="65" />
-        <mark key="^" line="24" column="65" />
-        <mark key="." line="24" column="65" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/listing/amazon/containers/category-chooser/shared/category-chooser.actions.js" timestamp="1502742172559">
+        <mark key="[" line="5" column="55" />
+        <mark key="]" line="5" column="52" />
+        <mark key="^" line="5" column="52" />
+        <mark key="." line="5" column="52" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/sass/components/shippingPolicySlideout/_component.scss" timestamp="1496436612627">
         <mark key="[" line="0" column="32" />
@@ -2321,6 +2328,12 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="15" column="79" />
       </file>
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/services/amazon-option-mapping/amazon-option-mapping.service.js" timestamp="1502742564310">
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="1" column="37" />
+        <mark key="^" line="1" column="37" />
+        <mark key="." line="1" column="37" />
+      </file>
       <file name="$USER_HOME$/labs/ng-labs/src/app/components/nav-bar/nav-bar.constants.js" timestamp="1499814540256">
         <mark key="[" line="4" column="21" />
         <mark key="]" line="4" column="25" />
@@ -3102,7 +3115,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>dismiss</text>
+        <text>products</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqc2NoYW5uZWxcPg==</text>

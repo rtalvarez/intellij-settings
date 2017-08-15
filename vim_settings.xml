@@ -2661,11 +2661,11 @@
         <mark key="^" line="14" column="67" />
         <mark key="." line="14" column="67" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/listing/amazon/containers/option-mapping/option-mapping.component.js" timestamp="1502818849472">
-        <mark key="[" line="58" column="47" />
-        <mark key="]" line="58" column="44" />
-        <mark key="." line="58" column="44" />
-        <mark key="^" line="58" column="44" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/listing/amazon/containers/option-mapping/option-mapping.component.js" timestamp="1502821505490">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+        <mark key="^" line="63" column="48" />
       </file>
       <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/sqllabs/patients.go" timestamp="1500945175221">
         <mark key="[" line="6" column="37" />
@@ -2954,11 +2954,11 @@
         <mark key="." line="61" column="21" />
         <mark key="^" line="61" column="21" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/listing/amazon/containers/category-chooser/shared/category-chooser.reducer.js" timestamp="1502815410119">
-        <mark key="[" line="26" column="80" />
-        <mark key="]" line="26" column="55" />
-        <mark key="." line="26" column="55" />
-        <mark key="^" line="26" column="55" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/listing/amazon/containers/category-chooser/shared/category-chooser.reducer.js" timestamp="1502821266823">
+        <mark key="[" line="21" column="25" />
+        <mark key="]" line="21" column="55" />
+        <mark key="." line="21" column="55" />
+        <mark key="^" line="21" column="55" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/listing/amazon/containers/option-mapping/option-mapping.tpl.html" timestamp="1502809728668">
         <mark key="[" line="3" column="42" />
@@ -3116,7 +3116,7 @@
         <text encoding="base64">ZXhwb3J0IGNvbnN0IGdldE9wdGlvbk1hcHBpbmdDaG9pY2VzID0gY3JlYXRlU2VsZWN0b3IoCiAgICBnZXRSb290LAogICAgZ2V0UGFyYW0sCiAgICAoc3RhdGUsIGlkKSA9PiBzdGF0ZS5vcHRpb25NYXBwaW5nQ2hvaWNlc1tpZF0KKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGdldFBhcmFtLAo=</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3137,25 +3137,25 @@
         <text encoding="base64">ICAgIGdldFBhcmFtLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4geyAuLi5zdGF0ZSwgb3B0aW9uTWFwcGluZ0Nob2ljZXM6IFsgLi4ucGF5bG9hZC5wb3NzaWJpbGl0aWVzIF0gfTsK</text>
+        <text encoding="base64">ICAgIGdldFBhcmFtLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4geyAuLi5zdGF0ZSwgb3B0aW9uTWFwcGluZ0Nob2ljZXM6IFsgLi4ucGF5bG9hZC5wb3NzaWJpbGl0aWVzIF0gfTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNlbGVjdE9wdGlvbnMgPSB0aGlzLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnNlbGVjdE9wdGlvbnMgPSB0aGlzLgo=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICByZXR1Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">cm4gZGlzcGF0Y2ggPT4gewogICAgICAgICAgICBqCiAgICAgICAgfQ==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>

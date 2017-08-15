@@ -1473,11 +1473,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="12" column="23" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/listing/amazon/containers/category-chooser/shared/category-chooser.actions.js" timestamp="1502815292454">
-        <mark key="[" line="33" column="9" />
-        <mark key="]" line="51" column="49" />
-        <mark key="^" line="51" column="49" />
-        <mark key="." line="51" column="49" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/listing/amazon/containers/category-chooser/shared/category-chooser.actions.js" timestamp="1502824688485">
+        <mark key="[" line="39" column="20" />
+        <mark key="]" line="40" column="9" />
+        <mark key="^" line="40" column="9" />
+        <mark key="." line="40" column="9" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/sass/components/shippingPolicySlideout/_component.scss" timestamp="1496436612627">
         <mark key="[" line="0" column="32" />
@@ -2217,11 +2217,11 @@
         <mark key="^" line="2" column="25" />
         <mark key="." line="2" column="25" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/listing/amazon/containers/category-chooser/shared/category-chooser.actions.types.js" timestamp="1502809992303">
-        <mark key="[" line="8" column="73" />
-        <mark key="]" line="8" column="73" />
-        <mark key="^" line="8" column="73" />
-        <mark key="." line="8" column="73" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/listing/amazon/containers/category-chooser/shared/category-chooser.actions.types.js" timestamp="1502824667151">
+        <mark key="[" line="9" column="55" />
+        <mark key="]" line="9" column="53" />
+        <mark key="^" line="9" column="53" />
+        <mark key="." line="9" column="53" />
       </file>
       <file name="$USER_HOME$/labs/labs-be/utils/studies.go" timestamp="1496008343908">
         <mark key="[" line="3" column="0" />
@@ -2433,11 +2433,11 @@
         <mark key="." line="87" column="97" />
         <mark key="^" line="87" column="97" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/listing/amazon/containers/category-chooser/shared/category-chooser.selectors.js" timestamp="1502817574137">
-        <mark key="[" line="15" column="36" />
-        <mark key="]" line="15" column="34" />
-        <mark key="^" line="15" column="34" />
-        <mark key="." line="15" column="34" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/listing/amazon/containers/category-chooser/shared/category-chooser.selectors.js" timestamp="1502824716688">
+        <mark key="[" line="29" column="1" />
+        <mark key="]" line="28" column="24" />
+        <mark key="^" line="28" column="24" />
+        <mark key="." line="28" column="24" />
       </file>
       <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/utils/facebook.go" timestamp="1500514527177">
         <mark key="[" line="23" column="0" />
@@ -2661,11 +2661,11 @@
         <mark key="^" line="14" column="67" />
         <mark key="." line="14" column="67" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/listing/amazon/containers/option-mapping/option-mapping.component.js" timestamp="1502823088383">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="54" />
-        <mark key="." line="58" column="0" />
-        <mark key="^" line="57" column="31" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/listing/amazon/containers/option-mapping/option-mapping.component.js" timestamp="1502824893184">
+        <mark key="[" line="85" column="30" />
+        <mark key="]" line="85" column="30" />
+        <mark key="." line="85" column="30" />
+        <mark key="^" line="85" column="30" />
       </file>
       <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/sqllabs/patients.go" timestamp="1500945175221">
         <mark key="[" line="6" column="37" />
@@ -2954,11 +2954,11 @@
         <mark key="." line="61" column="21" />
         <mark key="^" line="61" column="21" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/listing/amazon/containers/category-chooser/shared/category-chooser.reducer.js" timestamp="1502821266823">
-        <mark key="[" line="21" column="25" />
-        <mark key="]" line="21" column="55" />
-        <mark key="." line="21" column="55" />
-        <mark key="^" line="21" column="55" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/listing/amazon/containers/category-chooser/shared/category-chooser.reducer.js" timestamp="1502824654810">
+        <mark key="[" line="13" column="50" />
+        <mark key="]" line="13" column="47" />
+        <mark key="." line="13" column="47" />
+        <mark key="^" line="13" column="47" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/listing/amazon/containers/option-mapping/option-mapping.tpl.html" timestamp="1502809728668">
         <mark key="[" line="3" column="42" />
@@ -3107,7 +3107,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>before</text>
+        <text>const</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqc2NoYW5uZWxcPg==</text>
@@ -3116,7 +3116,7 @@
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnYmVmb3JlJywgdGhpcy5zZWxlY3Rpb25PcmRlcik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5zZWxlY3Rpb25PcmRlci5wdXNoKG9wdGlvbk1hcHBpbmdJZCk7Cg==</text>
+        <text encoding="base64">ICAgIHsgfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3134,28 +3134,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWRzVG9VbnNldCA9IF8ubGFzdCh0aGlzLnNlbGVjdGlvbk9yZGVyLCB0aGlzLnNlbGVjdGlvbk9yZGVyLmxlbmd0aCAtIHNlbGVjdGVkT3JkZXJJbmRleCAtIDEpOwogICAgICAgICAgICB0aGlzLnNlbGVjdGlvbk9yZGVyID0gXy5maXJzdCh0aGlzLnNlbGVjdGlvbk9yZGVyLCBzZWxlY3RlZE9yZGVySW5kZXggKyAxKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb25zdCBzZWxlY3RlZE9yZGVySW5kZXggPSBfLmZpbmRJbmRleCh0aGlzLnNlbGVjdGlvbk9yZGVyLCBvcHRpb25NYXBwaW5nSWQpOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNlbGVjdGlvbk9yZGVyLnB1c2gob3B0aW9uTWFwcGluZ0lkKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnYWZ0ZXInLCB0aGlzLnNlbGVjdGlvbk9yZGVyKTsKICAgICAgICBjb25zb2xlLmxvZygnaWRzdG9kZWxldGUnLCBpZHNUb1Vuc2V0KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnaScsIG9wdGlvbk1hcHBpbmdzLCBvcHRpb25NYXBwaW5nSWQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb25zdCBzZWxlY3RlZE9yZGVySW5kZXggPSBfLmZpbmRJbmRleCh0aGlzLnNlbGVjdGlvbk9yZGVyLCBvcHRpb25NYXBwaW5nSWQpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGdldFBhcmFtLAo=</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGdldFBhcmFtLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>

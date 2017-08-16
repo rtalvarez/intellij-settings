@@ -3,10 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.service.js" />
+    <option name="FILE_MASK" value="*" />
     <recentFileMasks>
-      <mask>js</mask>
-      <mask>jsc</mask>
       <mask>jsch</mask>
       <mask>jscha</mask>
       <mask>jschan</mask>
@@ -25,9 +23,6 @@
       <mask>*.h</mask>
       <mask>*.html</mask>
       <mask>*.htm</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.s</mask>
       <mask>*.ser</mask>
       <mask>*.serv</mask>
       <mask>*.servi</mask>
@@ -35,6 +30,11 @@
       <mask>*.service</mask>
       <mask>*.service.</mask>
       <mask>*.service.js</mask>
+      <mask>*.service.j</mask>
+      <mask>*.se</mask>
+      <mask>*.s</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>

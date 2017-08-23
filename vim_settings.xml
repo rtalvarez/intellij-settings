@@ -3109,11 +3109,11 @@
         <mark key="^" line="14" column="7" />
         <mark key="." line="14" column="7" />
       </file>
-      <file name="$USER_HOME$/labs/ng-labs/src/app/profile/components/profile-summary/profile-summary.scss" timestamp="1503445945693">
-        <mark key="[" line="18" column="5" />
-        <mark key="]" line="21" column="24" />
-        <mark key="^" line="21" column="24" />
-        <mark key="." line="21" column="24" />
+      <file name="$USER_HOME$/labs/ng-labs/src/app/profile/components/profile-summary/profile-summary.scss" timestamp="1503529566450">
+        <mark key="[" line="9" column="18" />
+        <mark key="]" line="9" column="25" />
+        <mark key="^" line="9" column="25" />
+        <mark key="." line="9" column="25" />
       </file>
       <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/db/adminFeatures.go" timestamp="1500936046987">
         <mark key="[" line="19" column="34" />
@@ -3289,7 +3289,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>Pattern</text>
+        <text>absolute</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqc2NoYW5uZWxcPg==</text>

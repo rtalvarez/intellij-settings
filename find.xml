@@ -3,26 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="*.spec.js" />
     <recentFileMasks>
-      <mask>jschannel.</mask>
-      <mask>jschannel.js</mask>
-      <mask>*.scala</mask>
-      <mask>*.scal</mask>
-      <mask>*.go</mask>
-      <mask>*.g</mask>
-      <mask>*.ser</mask>
-      <mask>*.serv</mask>
-      <mask>*.servi</mask>
-      <mask>*service</mask>
-      <mask>*.service</mask>
-      <mask>*.service.</mask>
-      <mask>*.service.js</mask>
-      <mask>*.service.j</mask>
-      <mask>*.se</mask>
-      <mask>*.php</mask>
-      <mask>*.ph</mask>
-      <mask>*.p</mask>
       <mask>*.scss</mask>
       <mask>*.scs</mask>
       <mask>*.sc</mask>
@@ -33,8 +15,26 @@
       <mask>*.htm</mask>
       <mask>*.ht</mask>
       <mask>*.h</mask>
-      <mask>*.</mask>
       <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.a</mask>
+      <mask>*.ac</mask>
+      <mask>*.acti</mask>
+      <mask>*.actio</mask>
+      <mask>*.action</mask>
+      <mask>*.actions</mask>
+      <mask>*.actions.spec</mask>
+      <mask>*.actions.spe</mask>
+      <mask>*.actions.js</mask>
+      <mask>*.actions.j</mask>
+      <mask>*.actions.</mask>
+      <mask>*.actions.s</mask>
+      <mask>*.actions.sp</mask>
+      <mask>*.actions.spec.</mask>
+      <mask>*.actions.spec.js</mask>
+      <mask>*.s.spec.js</mask>
+      <mask>*s.spec.js</mask>
+      <mask>*.spec.js</mask>
     </recentFileMasks>
   </component>
 </application>

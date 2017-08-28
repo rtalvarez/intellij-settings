@@ -1845,11 +1845,11 @@
         <mark key="^" line="1" column="103" />
         <mark key="." line="1" column="103" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/listing/base-listing.controller.js" timestamp="1503948210548">
-        <mark key="[" line="112" column="57" />
-        <mark key="]" line="113" column="16" />
-        <mark key="." line="113" column="16" />
-        <mark key="^" line="113" column="16" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/listing/base-listing.controller.js" timestamp="1503950253930">
+        <mark key="[" line="200" column="89" />
+        <mark key="]" line="200" column="89" />
+        <mark key="." line="200" column="89" />
+        <mark key="^" line="200" column="89" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/listing/ebay/ebay-listing.spec.js" timestamp="1497289458955">
         <mark key="[" line="126" column="36" />
@@ -3393,7 +3393,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>date</text>
+        <text>distinct</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqc2NoYW5uZWxcPg==</text>
@@ -3420,28 +3420,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkYXRlLCB0aGlzLnNlbGVjdGVkRGF0ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2NyZWF0ZSB0b2tlbm5lcmlubycpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnbG9nZXJpbm8nKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gXy51bmlxdWUoYWxsVmFyaWFudHMuY29uY2F0KGNoZWNrZWRWYXJpYW50c0luRm9ybSkpOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhmaXJzdERheSwgbGFzdERheSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkYXRlLCB0aGlzLnNlbGVjdGVkRGF0ZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncCcsICRzdGF0ZVBhcmFtcywgYXBwb2ludG1lbnRzQnlEYXRlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2NyZWF0ZSB0b2tlbm5lcmlubycpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnbG9nZXJpbm8nKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWQtbGlzdC1pdGVtCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>

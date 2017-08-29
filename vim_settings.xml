@@ -423,6 +423,9 @@
         <mark key="." line="0" column="59" />
         <mark key="^" line="0" column="59" />
       </file>
+      <file name="$USER_HOME$/.gopath/src/github.com/deini/bukibot-go/bukibot/telegram/struct.go" timestamp="1504027268507">
+        <mark key="[" line="18" column="1" />
+      </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-pos/src/app/directives/square-locations/square-locations.directive.js" timestamp="1493671981420">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -713,7 +716,7 @@
         <mark key="^" line="47" column="20" />
         <mark key="." line="47" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503951796600">
+      <file name="/Dummy.txt" timestamp="1504027240447">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
@@ -1461,6 +1464,11 @@
         <mark key="^" line="0" column="22" />
         <mark key="." line="0" column="22" />
       </file>
+      <file name="$USER_HOME$/.gopath/src/github.com/deini/bukibot-go/bukibot/telegram/main.go" timestamp="1504027343881">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/containers/shared/shipping-policy-slideout/shipping-policy-slideout.actions.js" timestamp="1501187700134">
         <mark key="[" line="87" column="30" />
         <mark key="]" line="87" column="33" />
@@ -1509,11 +1517,11 @@
         <mark key="^" line="12" column="24" />
         <mark key="." line="12" column="24" />
       </file>
-      <file name="$USER_HOME$/.gopath/src/github.com/deini/bukibot-go/bukibot/cats/facts.go" timestamp="1504026988124">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="15" column="36" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/.gopath/src/github.com/deini/bukibot-go/bukibot/cats/facts.go" timestamp="1504027484121">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="24" column="49" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/labs/ng-labs/src/app/components/nav-bar/nav-bar.component.js" timestamp="1498091154205">
         <mark key="[" line="13" column="4" />
@@ -2243,6 +2251,12 @@
         <mark key="]" line="2" column="64" />
         <mark key="^" line="2" column="64" />
         <mark key="." line="2" column="64" />
+      </file>
+      <file name="$USER_HOME$/.gopath/src/github.com/deini/bukibot-go/bukibot/cats/main.go" timestamp="1504027158132">
+        <mark key="[" line="7" column="48" />
+        <mark key="]" line="8" column="23" />
+        <mark key="^" line="8" column="23" />
+        <mark key="." line="8" column="23" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/shared/errors/errors.actions.types.js" timestamp="1500919729523">
         <mark key="[" line="1" column="0" />
@@ -3398,10 +3412,10 @@
         <text encoding="base64">XDxqc2NoYW5uZWxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXV0aWxzLlBhbmljT25FcnJvcihlcnIpCg==</text>
+        <text encoding="base64">CQlwYW5pYygiSFRUUCByZXF1ZXN0IGVycm9yOiIgKyBlcnIuRXJyb3IoKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlvcy5FeGl0KDEpCg==</text>
+        <text encoding="base64">CQlwYW5pYygiSFRUUCByZXF1ZXN0IGVycm9yOiIgKyBlcnIuRXJyb3IoKSkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3419,28 +3433,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBHcmFiIGxpc3RpbmdzIGZyb20gZm9ybSBhbmQgbW9kZWwKICAgICAgICBjb25zdCBjaGVja2VkVmFyaWFudHMgPSB0aGlzLl9nZXRDaGVja2VkVmFyaWFudHMoKTsKICAgICAgICBjb25zdCB1bmNoZWNrZWRWYXJpYW50cyA9IHRoaXMuX2dldFVuY2hlY2tlZFZhcmlhbnRzKCk7CiAgICAgICAgY29uc3QgYWxsVmFyaWFudHMgPSBjaGVja2VkVmFyaWFudHMuY29uY2F0KHVuY2hlY2tlZFZhcmlhbnRzKTsKCg==</text>
+        <text encoding="base64">CSJvcyIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBhbGxWYXJpYW50cyA9IHRoaXMucHJvZHVjdC52YXJpYW50czsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBHcmFiIGxpc3RpbmdzIGZyb20gZm9ybSBhbmQgbW9kZWwKICAgICAgICAvLyBjb25zdCBjaGVja2VkVmFyaWFudHMgPSB0aGlzLl9nZXRDaGVja2VkVmFyaWFudHMoKTsKICAgICAgICAvLyBjb25zdCB1bmNoZWNrZWRWYXJpYW50cyA9IHRoaXMuX2dldFVuY2hlY2tlZFZhcmlhbnRzKCk7CiAgICAgICAgLy8gY29uc3QgdW5yZW5kZXJlZFZhcmlhbnRzID0gXy5sYXN0KHRoaXMucHJvZHVjdC52YXJpYW50cywgY2hlY2tlZFZhcmlhbnRzLmxlbmd0aCArIHVuY2hlY2tlZFZhcmlhbnRzLmxlbmd0aCk7CiAgICAgICAgLy8gY29uc3QgYWxsVmFyaWFudHMgPSBjaGVja2VkVmFyaWFudHMuY29uY2F0KHVuY2hlY2tlZFZhcmlhbnRzKTsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZnVuYyBnZXRHZW5lcmljUmVzcG9uc2UoKSBSZXNwb25zZSB7CglyZXR1cm4gUmVzcG9uc2V7CgkJCgl9Cn0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQlvcy5FeGl0KDEpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQlmbXQuUHJpbnRsbihlcnIpCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">CQlvcy5FeGl0KDEpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBHcmFiIGxpc3RpbmdzIGZyb20gZm9ybSBhbmQgbW9kZWwKICAgICAgICBjb25zdCBjaGVja2VkVmFyaWFudHMgPSB0aGlzLl9nZXRDaGVja2VkVmFyaWFudHMoKTsKICAgICAgICBjb25zdCB1bmNoZWNrZWRWYXJpYW50cyA9IHRoaXMuX2dldFVuY2hlY2tlZFZhcmlhbnRzKCk7CiAgICAgICAgY29uc3QgYWxsVmFyaWFudHMgPSBjaGVja2VkVmFyaWFudHMuY29uY2F0KHVuY2hlY2tlZFZhcmlhbnRzKTsKCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>

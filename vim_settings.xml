@@ -9,6 +9,12 @@
         <mark key="^" line="2" column="50" />
         <mark key="." line="2" column="50" />
       </file>
+      <file name="$USER_HOME$/.gopath/src/github.com/deini/bukibot-go/bukibot/rabbit/util.go" timestamp="1504025703720">
+        <mark key="[" line="25" column="35" />
+        <mark key="]" line="26" column="33" />
+        <mark key="^" line="26" column="33" />
+        <mark key="." line="26" column="33" />
+      </file>
       <file name="$USER_HOME$/labs/labs-fe-bb/app/javascripts/utils/BaseOAuth.js" timestamp="1493581551368">
         <mark key="[" line="12" column="46" />
         <mark key="]" line="13" column="53" />
@@ -1027,13 +1033,6 @@
         <mark key="]" line="20" column="3" />
         <mark key="." line="20" column="3" />
         <mark key="^" line="20" column="3" />
-      </file>
-      <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/db/appointments.go" timestamp="1503944763980">
-        <mark key="'" line="67" column="0" />
-        <mark key="[" line="154" column="47" />
-        <mark key="]" line="154" column="44" />
-        <mark key="." line="154" column="44" />
-        <mark key="^" line="154" column="44" />
       </file>
       <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/manage/day/appointment-day.scss" timestamp="1502754250920">
         <mark key="[" line="3" column="5" />
@@ -2201,6 +2200,12 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
+      <file name="$USER_HOME$/.gopath/src/github.com/deini/bukibot-go/bukibot/rabbit/constants.go" timestamp="1504026262344">
+        <mark key="[" line="27" column="54" />
+        <mark key="]" line="27" column="57" />
+        <mark key="^" line="27" column="57" />
+        <mark key="." line="27" column="57" />
+      </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/listing/pinterest/pinterest-listing.tpl.html" timestamp="1501856349473">
         <mark key="[" line="30" column="46" />
         <mark key="]" line="30" column="54" />
@@ -2374,13 +2379,6 @@
         <mark key="]" line="95" column="75" />
         <mark key="^" line="95" column="75" />
         <mark key="." line="95" column="75" />
-      </file>
-      <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/routes/handlers/patients/main.go" timestamp="1503943111894">
-        <mark key="'" line="86" column="0" />
-        <mark key="[" line="67" column="45" />
-        <mark key="]" line="67" column="50" />
-        <mark key="^" line="67" column="50" />
-        <mark key="." line="67" column="50" />
       </file>
       <file name="$USER_HOME$/labs/labs-be/emailTemplates/promoTest.html" timestamp="1495898113067">
         <mark key="[" line="1" column="20" />
@@ -3218,13 +3216,6 @@
         <mark key="^" line="18" column="84" />
         <mark key="." line="18" column="84" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/listing/amazon/containers/category-chooser/category-chooser.component.js" timestamp="1503607370953">
-        <mark key="'" line="132" column="0" />
-        <mark key="[" line="27" column="24" />
-        <mark key="]" line="27" column="24" />
-        <mark key="^" line="27" column="24" />
-        <mark key="." line="27" column="24" />
-      </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/listing/amazon/containers/category-chooser/shared/category-chooser.reducer.js" timestamp="1503506512891">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="3" column="0" />
@@ -3393,7 +3384,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>allVariants</text>
+        <text>port</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqc2NoYW5uZWxcPg==</text>

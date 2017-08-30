@@ -1212,10 +1212,11 @@
         <mark key="^" line="15" column="25" />
         <mark key="." line="15" column="25" />
       </file>
-      <file name="$USER_HOME$/.gopath/src/github.com/deini/bukibot-go/bukibot/translate/main.go" timestamp="1504054901249">
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="0" />
-        <mark key="." line="86" column="0" />
+      <file name="$USER_HOME$/.gopath/src/github.com/deini/bukibot-go/bukibot/translate/main.go" timestamp="1504058829445">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="55" column="58" />
+        <mark key="." line="55" column="58" />
+        <mark key="^" line="55" column="58" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/provider-settings-form/amazon/amazon-resource-links/amazon-resource-links.directive.js" timestamp="1494524239500">
         <mark key="[" line="8" column="20" />
@@ -3401,28 +3402,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXJldHVybiAiTGFzIG9wY2lvbmVzIHF1ZSBsZSBtYW5lam8gc29uOiBgdHJhbnNsYXRlICVpbnB1dCAtPiAldGFyZ2V0YCwgYHRyYW5zbGF0ZSBvcGNpb25lcyAldGFyZ2V0YCwgbyBgdHJhbnNsYXRlIHBhcm8gbGVuZ3VhamVzYCIK</text>
+        <text encoding="base64">CXRyYW5zbGF0aW9uIDo9IGdldFRyYW5zbGF0aW9uKHRyYW5zbGF0ZVF1ZXJ5LCB0YXJnZXQpCglyZXR1cm4gdHJhbnNsYXRpb24uRGF0YS5UcmFuc2xhdGlvbnNbMF0uVHJhbnNsYXRlZFRleHQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJcmV0dXJuIHN0cmluZ3MuSm9pbihTVVBQT1JURURfTEFOR1VBR0VTLCAiLCAiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQoJcmV0dXJuICJMZSBtYW5lam8gbGFzIGNsYXZlczogIiArIHN0cmluZ3MuSm9pbihTVVBQT1JURURfTEFOR1VBR0VTLCAiLCAiKSArICIuIFBlcm8gdGVuZ2EgZW4gY3VlbnRhIHF1ZSBubyB0b2RhcyBmdW5jaW9uYW4gY29uIHRvZGFzLiBQYXJhIgo=</text>
+        <text encoding="base64">CWlzVmFsaWQgOj0gZmFsc2UK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXJldHVybiBgTGUgbWFuZWpvIGxhcyBjbGF2ZXM6IGAgKyBzdHJpbmdzLkpvaW4oU1VQUE9SVEVEX0xBTkdVQUdFUywgIiwgIikgK2AK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQljbG9zZUNob2ljZXMgPSBhcHBlbmQoY2xvc2VDaG9pY2VzLCBsYW5nKQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlyZXR1cm4gZ2V0SGVscENvbW1hbmQoKQo=</text>
+        <text encoding="base64">CXJldHVybiAiTGFzIG9wY2lvbmVzIHF1ZSBsZSBtYW5lam8gc29uOiBgdHJhbnNsYXRlICVpbnB1dCAtPiAldGFyZ2V0YCwgYHRyYW5zbGF0ZSBvcGNpb25lcyAldGFyZ2V0YCwgbyBgdHJhbnNsYXRlIHBhcm8gbGVuZ3VhamVzYCIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CSJzdHJpbmdzIgo=</text>
+        <text encoding="base64">CQkJcmV0dXJuIHN0cmluZ3MuSm9pbihTVVBQT1JURURfTEFOR1VBR0VTLCAiLCAiKQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>

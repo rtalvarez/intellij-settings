@@ -779,6 +779,12 @@
         <mark key="^" line="4" column="49" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/.gopath/src/github.com/deini/bukibot-go/bukibot/translate/options.go" timestamp="1504052739963">
+        <mark key="[" line="46" column="43" />
+        <mark key="]" line="46" column="43" />
+        <mark key="^" line="46" column="43" />
+        <mark key="." line="46" column="43" />
+      </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/containers/create-return-policy/components/create-return-policy/create-return-policy.component.js" timestamp="1501609760450">
         <mark key="[" line="5" column="18" />
         <mark key="]" line="6" column="35" />
@@ -1206,11 +1212,10 @@
         <mark key="^" line="15" column="25" />
         <mark key="." line="15" column="25" />
       </file>
-      <file name="$USER_HOME$/.gopath/src/github.com/deini/bukibot-go/bukibot/translate/main.go" timestamp="1504040381127">
-        <mark key="[" line="15" column="32" />
-        <mark key="]" line="16" column="23" />
-        <mark key="^" line="16" column="23" />
-        <mark key="." line="16" column="23" />
+      <file name="$USER_HOME$/.gopath/src/github.com/deini/bukibot-go/bukibot/translate/main.go" timestamp="1504054901249">
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/provider-settings-form/amazon/amazon-resource-links/amazon-resource-links.directive.js" timestamp="1494524239500">
         <mark key="[" line="8" column="20" />
@@ -2479,11 +2484,11 @@
         <mark key="^" line="3" column="26" />
         <mark key="." line="3" column="26" />
       </file>
-      <file name="$USER_HOME$/.gopath/src/github.com/deini/bukibot-go/bukibot/translate/translate.go" timestamp="1504039941959">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="29" column="40" />
-        <mark key="^" line="29" column="40" />
-        <mark key="." line="29" column="40" />
+      <file name="$USER_HOME$/.gopath/src/github.com/deini/bukibot-go/bukibot/translate/translate.go" timestamp="1504054118978">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="13" column="42" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/settings.controller.js" timestamp="1501083980775">
         <mark key="[" line="10" column="57" />
@@ -2924,6 +2929,12 @@
         <mark key="." line="1" column="19" />
         <mark key="^" line="1" column="19" />
       </file>
+      <file name="$USER_HOME$/.gopath/src/github.com/deini/bukibot-go/bukibot/translate/constants.go" timestamp="1504051593355">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="2" />
+        <mark key="^" line="2" column="2" />
+        <mark key="." line="2" column="2" />
+      </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/provider-settings-form/amazon/amazon-settings-form.tpl.html" timestamp="1495725463174">
         <mark key="[" line="7" column="59" />
         <mark key="]" line="7" column="59" />
@@ -3116,11 +3127,11 @@
         <mark key="^" line="41" column="45" />
         <mark key="." line="41" column="45" />
       </file>
-      <file name="$USER_HOME$/.gopath/src/github.com/deini/bukibot-go/bukibot/translate/struct.go" timestamp="1504038647599">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="7" column="49" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/.gopath/src/github.com/deini/bukibot-go/bukibot/translate/struct.go" timestamp="1504052205216">
+        <mark key="[" line="12" column="1" />
+        <mark key="]" line="11" column="40" />
+        <mark key="^" line="11" column="40" />
+        <mark key="." line="11" column="40" />
       </file>
       <file name="$USER_HOME$/labs/labs-fe-bb/app/javascripts/appointments/create/ConfirmAppointmentView.js" timestamp="1497453124181">
         <mark key="[" line="1" column="104" />
@@ -3369,10 +3380,10 @@
         <text encoding="base64">XDxqc2NoYW5uZWxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlwYW5pYygiSFRUUCBlcnJvciAoMikiICsgZXJyLkVycm9yKCkpCg==</text>
+        <text encoding="base64">CXJldHVybiBzdHJpbmdzLkpvaW4oYW5zd2VyLCAiLlxuIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSJmbXQiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3390,28 +3401,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXJldHVybiAiTGFzIG9wY2lvbmVzIHF1ZSBsZSBtYW5lam8gc29uOiBgdHJhbnNsYXRlICVpbnB1dCAtPiAldGFyZ2V0YCwgYHRyYW5zbGF0ZSBvcGNpb25lcyAldGFyZ2V0YCwgbyBgdHJhbnNsYXRlIHBhcm8gbGVuZ3VhamVzYCIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKCJDb21tYW5kcyIsIGNvbW1hbmRzLCBsZW4oY29tbWFuZHMpKQo=</text>
+        <text encoding="base64">CQkJcmV0dXJuIHN0cmluZ3MuSm9pbihTVVBQT1JURURfTEFOR1VBR0VTLCAiLCAiKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQoJcmV0dXJuICJMZSBtYW5lam8gbGFzIGNsYXZlczogIiArIHN0cmluZ3MuSm9pbihTVVBQT1JURURfTEFOR1VBR0VTLCAiLCAiKSArICIuIFBlcm8gdGVuZ2EgZW4gY3VlbnRhIHF1ZSBubyB0b2RhcyBmdW5jaW9uYW4gY29uIHRvZGFzLiBQYXJhIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXZhciB2YWx1ZSBzdHJpbmcK</text>
+        <text encoding="base64">CXJldHVybiBgTGUgbWFuZWpvIGxhcyBjbGF2ZXM6IGAgKyBzdHJpbmdzLkpvaW4oU1VQUE9SVEVEX0xBTkdVQUdFUywgIiwgIikgK2AK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlyZXR1cm4gIkhUVFAgZXJyb3IgKDEpOiAiICsgZXJyLkVycm9yKCkK</text>
+        <text encoding="base64">CQlyZXR1cm4gZ2V0SGVscENvbW1hbmQoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlyZXR1cm4gIkhUVFAgZXJyb3IgKDEpOiAiICsgZXJyLkVycm9yKCkK</text>
+        <text encoding="base64">CSJzdHJpbmdzIgo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>

@@ -1784,11 +1784,11 @@
         <mark key="." line="15" column="27" />
         <mark key="^" line="15" column="27" />
       </file>
-      <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/play/files/products/main.go" timestamp="1502480695625">
-        <mark key="[" line="72" column="34" />
-        <mark key="]" line="74" column="30" />
-        <mark key="." line="74" column="30" />
-        <mark key="^" line="74" column="30" />
+      <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/play/files/products/main.go" timestamp="1504190141160">
+        <mark key="[" line="83" column="35" />
+        <mark key="]" line="83" column="35" />
+        <mark key="." line="83" column="35" />
+        <mark key="^" line="83" column="35" />
       </file>
       <file name="$USER_HOME$/labs/ng-labs/src/app/profile/components/profile-summary/components/components.module.js" timestamp="1503532070030">
         <mark key="[" line="3" column="59" />
@@ -3510,7 +3510,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>promises</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqc2NoYW5uZWxcPg==</text>
@@ -3519,7 +3519,7 @@
         <text encoding="base64">ICAgICAgICBfLmRlZmF1bHRzKG9wdGlvbnMsIHsKICAgICAgICAgICAgdGltZW91dDogdGhpcy5fY2FuY2VsRmV0Y2hQcm9kdWN0c1Byb21pc2UucHJvbWlzZSwKICAgICAgICAgICAgY2FjaGU6IHRoaXMuX2RlZmF1bHRDYWNoZSwKICAgICAgICB9KTsKCiAgICAgICAgcmV0dXJuIHRoaXMuXyRodHRwLmdldChSRVNPVVJDRV9VUkxTLlBST0RVQ1RTLCBvcHRpb25zKQogICAgICAgICAgICAudGhlbigoeyBkYXRhIH0pID0+ICh7CiAgICAgICAgICAgICAgICBwcm9kdWN0czogdGhpcy5zZXRQcm9kdWN0cyhkYXRhLmRhdGEpLAogICAgICAgICAgICAgICAgbWV0YTogZGF0YS5tZXRhLAogICAgICAgICAgICB9KSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC50aGVuKGRhdGEgPT4gY29uc29sZS5sb2coJ2QnLCBkYXRhKSk7Cg==</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKCJSZWFkIHJlcXVlc3QiKQoKCWZtdC5QcmludGxuKCJVbm1hcnNoYWxlZCByZXNwb25zZSIpCglmbXQuUHJpbnRsbigiUmVzcG9uc2UgaXMiLCBzdHJpbmcocmVzcEJvZHkpKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3537,25 +3537,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC50aGVuKGRhdGEgPT4gY29uc29sZS5sb2coJ2QnLCBkYXRhKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB1c2VkTGVuZ3RoID0gZnJhZ21lbnRzLmpvaW4oJycpLmxlbmd0aDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB1c2VkTGVuZ3RoID0gZnJhZ21lbnRzLmpvaW4oJycpLmxlbmd0aDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>

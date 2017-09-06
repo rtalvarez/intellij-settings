@@ -488,6 +488,12 @@
         <mark key="." line="2" column="33" />
         <mark key="^" line="2" column="33" />
       </file>
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/services/amazon-asin-matching/amazon-asin-matching.api.js" timestamp="1504724949200">
+        <mark key="[" line="5" column="87" />
+        <mark key="]" line="5" column="85" />
+        <mark key="^" line="5" column="85" />
+        <mark key="." line="5" column="85" />
+      </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/sass/components/providerSettings/_providerSettings.scss" timestamp="1498055600178">
         <mark key="[" line="59" column="0" />
         <mark key="]" line="59" column="0" />
@@ -512,11 +518,11 @@
         <mark key="^" line="11" column="39" />
         <mark key="." line="11" column="39" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/services/services.module.js" timestamp="1502742626452">
-        <mark key="[" line="3" column="86" />
-        <mark key="]" line="38" column="60" />
-        <mark key="." line="38" column="60" />
-        <mark key="^" line="38" column="60" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/services/services.module.js" timestamp="1504724619426">
+        <mark key="[" line="36" column="57" />
+        <mark key="]" line="38" column="59" />
+        <mark key="." line="38" column="59" />
+        <mark key="^" line="38" column="59" />
       </file>
       <file name="$USER_HOME$/labs/ng-labs/src/app/profile/components/profile-summary/components/appointment-list/appointment-list.tpl.html" timestamp="1503945868497">
         <mark key="[" line="19" column="7" />
@@ -620,10 +626,11 @@
         <mark key="^" line="15" column="37" />
         <mark key="." line="15" column="37" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/listing/amazon/shared/amazon-listing.actions.js" timestamp="1503503430236">
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="114" column="0" />
-        <mark key="." line="114" column="0" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/listing/amazon/shared/amazon-listing.actions.js" timestamp="1504725046729">
+        <mark key="[" line="17" column="22" />
+        <mark key="]" line="18" column="19" />
+        <mark key="." line="18" column="19" />
+        <mark key="^" line="18" column="19" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/directives/product-overrides/amazon-product-overrides/amazon-product-overrides.directive.js" timestamp="1503325206034">
         <mark key="[" line="14" column="0" />
@@ -689,7 +696,7 @@
         <mark key="^" line="47" column="20" />
         <mark key="." line="47" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504709161096">
+      <file name="/Dummy.txt" timestamp="1504725262797">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
@@ -1040,11 +1047,11 @@
         <mark key="^" line="233" column="43" />
         <mark key="." line="233" column="43" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/provider-settings-form/amazon/amazon-settings-form.controller.js" timestamp="1496154924934">
-        <mark key="[" line="19" column="31" />
-        <mark key="]" line="20" column="3" />
-        <mark key="." line="20" column="3" />
-        <mark key="^" line="20" column="3" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/provider-settings-form/amazon/amazon-settings-form.controller.js" timestamp="1504725472109">
+        <mark key="[" line="151" column="0" />
+        <mark key="]" line="151" column="0" />
+        <mark key="^" line="188" column="14" />
+        <mark key="." line="151" column="0" />
       </file>
       <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/manage/day/appointment-day.scss" timestamp="1502754250920">
         <mark key="[" line="3" column="5" />
@@ -1729,11 +1736,11 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/listing/amazon/amazon-listing.controller.js" timestamp="1504722482552">
-        <mark key="[" line="408" column="34" />
-        <mark key="]" line="409" column="51" />
-        <mark key="^" line="409" column="51" />
-        <mark key="." line="409" column="51" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/listing/amazon/amazon-listing.controller.js" timestamp="1504724889795">
+        <mark key="[" line="336" column="51" />
+        <mark key="]" line="336" column="49" />
+        <mark key="^" line="336" column="49" />
+        <mark key="." line="336" column="49" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/provider-settings-form/facebook/refactor/facebook-settings-form.controller.js" timestamp="1494864465470">
         <mark key="[" line="57" column="41" />
@@ -2282,6 +2289,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="^" line="6" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/services/amazon-asin-matching/amazon-asin-matching.service.js" timestamp="1504724550509">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="11" column="7" />
       </file>
       <file name="$USER_HOME$/labs/ng-labs/src/app/components/side-nav/side-nav.component.js" timestamp="1501800267971">
         <mark key="[" line="25" column="5" />
@@ -3157,10 +3170,11 @@
         <mark key="^" line="1" column="62" />
         <mark key="." line="1" column="62" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/listing/amazon/shared/amazon-listing.actions.types.js" timestamp="1503503435294">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/listing/amazon/shared/amazon-listing.actions.types.js" timestamp="1504723786941">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="11" column="70" />
+        <mark key="^" line="0" column="39" />
+        <mark key="." line="11" column="70" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-pos/src/app/modals/square-locations-modal/square-locations-modal.tpl.html" timestamp="1493671446790">
         <mark key="[" line="41" column="50" />
@@ -3511,16 +3525,16 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>product</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqc2NoYW5uZWxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8bGkgY2xhc3M9ImFtYXpvblZhcmlhbnRzVGFibGUtdGFibGVIZWFkZXIiIHRyYW5zbGF0ZT5QcmljZTwvbGk+Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5fJGh0dHAuZ2V0KHVybCkKICAgICAgICAgICAgLnRoZW4oKHsgZGF0YSB9KSA9PiBkYXRhKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIENIRUNLT1VUX1ZBTlRJVjo6RVhQRVJJTUVOVF9OQU1FID0+IFsKICAgICAgICAnZGVzY3JpcHRpb24nID0+ICdFbmFibGUgdGhlIFZhbnRpdiBwYXltZW50IHByb3ZpZGVyJywKICAgICAgICAncmFtcHVwJyA9PiAxMDAsCiAgICBdLAogICAgQWZ0ZXJwYXlTZXJ2aWNlOjpFWFBFUklNRU5UX05BTUUgPT4gWwogICAgICAgICdkZXNjcmlwdGlvbicgPT4gJ0VuYWJsZSB0aGUgQWZ0ZXJwYXkgcGF5bWVudCBwcm92aWRlcicsCiAgICAgICAgJ3JhbXB1cCcgPT4gMTAwLAogICAgXSwKICAgIFNxdWFyZVYyU2VydmljZTo6RVhQRVJJTUVOVF9OQU1FID0+IFsKICAgICAgICAnZGVzY3JpcHRpb24nID0+ICdFbmFibGUgdGhlIFNxdWFyZSBWMiBwYXltZW50IHByb3ZpZGVyJywKICAgICAgICAncmFtcHVwJyA9PiAxMDAsCiAgICBdLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3538,28 +3552,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIXRoaXMuYWNjb3VudFZhbGlkaXR5KSB7CiAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PHNtYWxsIGNsYXNzPSJhbWF6b25DYXRlZ29yeUNob29zZXItaW5jb21wYXRpYmxlQ2F0ZWdvcnkiIG5nLWlmPSIkY3RybC5jYW5ub3RMaXN0SW5DYXRlZ29yeSgpIj4KICAgIFRoZSBwcm9kdWN0IG9wdGlvbnMgZm9yIHRoaXMgcHJvZHVjdCBhcmUgbm90IGNvbXBhdGlibGUgd2l0aCB0aGlzIEFtYXpvbiBjYXRlZ29yeS4gQ2hhbmdlIHlvdXIgb3B0aW9ucyBvciBzZWxlY3QgYSBkaWZmZXJlbnQgY2F0ZWdvcnkgdG8gbGlzdCBpbi4KPC9zbWFsbD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnbScsIG1hdGNoZXMpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gIXRoaXMuaGFzTWFwcGluZ0Nob2ljZXM7Cg==</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5fZXhwZXJpbWVudHMuaXNFeHBlcmltZW50T24oJ09NTkktJykK</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm5zIHtmdW5jdGlvbigqKX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXJhbWV0ZXJzOiB1bmRlZmluZWQsCg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogCiAgICAgKiBAcGFyYW0ge051bWJlcn0gcGF5bG9hZCBUaAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXJhbWV0ZXJzOiB1bmRlZmluZWQsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFyYW1ldGVycywK</text>
+        <text encoding="base64">ICAgIGZldGNoT3B0aW9uTWFwcGluZ0Nob2ljZXMocGF0aCkgewogICAgICAgIGNvbnN0IHVybCA9IHRoaXMuX2FwaS5vcHRpb25NYXBwaW5nQ2hvaWNlcyhwYXRoKTsKCiAgICAgICAgcmV0dXJuIHRoaXMuXyRodHRwLmdldCh1cmwpCiAgICAgICAgICAgIC50aGVuKCh7IGRhdGEgfSkgPT4gZGF0YSk7CiAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>

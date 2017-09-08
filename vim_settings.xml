@@ -2396,11 +2396,11 @@
         <mark key="^" line="95" column="75" />
         <mark key="." line="95" column="75" />
       </file>
-      <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/routes/handlers/patients/main.go" timestamp="1504817784391">
-        <mark key="[" line="36" column="61" />
-        <mark key="]" line="36" column="66" />
-        <mark key="^" line="36" column="66" />
-        <mark key="." line="36" column="66" />
+      <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/routes/handlers/patients/main.go" timestamp="1504881301900">
+        <mark key="[" line="37" column="39" />
+        <mark key="]" line="37" column="39" />
+        <mark key="^" line="37" column="39" />
+        <mark key="." line="37" column="39" />
       </file>
       <file name="$USER_HOME$/labs/labs-be/emailTemplates/promoTest.html" timestamp="1495898113067">
         <mark key="[" line="1" column="20" />
@@ -2721,11 +2721,11 @@
         <mark key="." line="30" column="91" />
         <mark key="^" line="30" column="91" />
       </file>
-      <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/utils/secure.go" timestamp="1504816526460">
-        <mark key="[" line="14" column="17" />
-        <mark key="]" line="14" column="17" />
-        <mark key="." line="14" column="17" />
-        <mark key="^" line="14" column="17" />
+      <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/utils/secure.go" timestamp="1504881272839">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="24" column="32" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/containers/settings-form/containers/shipping-policy-slideout/shared/shipping-policy-slideout.actions.types.js" timestamp="1500909551759">
         <mark key="[" line="0" column="63" />
@@ -2956,11 +2956,11 @@
         <mark key="^" line="187" column="18" />
         <mark key="." line="198" column="0" />
       </file>
-      <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/sqllabs/patients.go" timestamp="1504816796045">
-        <mark key="[" line="11" column="33" />
-        <mark key="]" line="5" column="20" />
-        <mark key="." line="5" column="20" />
-        <mark key="^" line="5" column="20" />
+      <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/sqllabs/patients.go" timestamp="1504881383127">
+        <mark key="[" line="8" column="22" />
+        <mark key="]" line="13" column="6" />
+        <mark key="." line="13" column="6" />
+        <mark key="^" line="13" column="6" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/listing/amazon/components/option-mapping-trigger/option-mapping-trigger.tpl.html" timestamp="1502982069060">
         <mark key="[" line="2" column="41" />
@@ -3458,7 +3458,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>UpsertUser</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqc2NoYW5uZWxcPg==</text>
@@ -3467,7 +3467,7 @@
         <text encoding="base64">ICAgICAgICA8bmctcGx1cmFsaXplCiAgICAgICAgICAgIGNvdW50PSIkY3RybC5nZXRNYXRjaGVkQ291bnQoKSIKICAgICAgICAgICAgd2hlbj0iJGN0cmwuZ2V0UGx1cmFsaXplZFZhcmlhbnRUZXh0KCkiPgogICAgICAgIDwvbmctcGx1cmFsaXplPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlpZCA6PSBDcmVhdGVQYXRpZW50KHVzZXIsIGZhbHNlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3485,28 +3485,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnVuYyBDcmVhdGVQcm92aWRlclVzZXIodXNlciBtb2RlbHMuUGF0aWVudCwgcHJvdmlkZXIgc3RyaW5nKSBzdHJpbmcgewoJCQp9Cg==</text>
+        <text encoding="base64">Y29uc3QgKAoJUFdfU0FMVF9CWVRFUyA9IDMyCglQV19IQVNIX0JZVEVTID0gNjQKKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnVuYyBDcmVhdGVQcm92aWRlclBhdGllbnQodXNlciBtb2RlbHMuUGF0aWVudCkgaW50IHsKCQp9Cg==</text>
+        <text encoding="base64">CSJjcnlwdG8vcmFuZCIKCSJpbyIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlpZCA6PSAK</text>
+        <text encoding="base64">CSJnb2xhbmcub3JnL3gvY3J5cHRvL3NjcnlwdCIKCSJmbXQiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWlmCg==</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKHN0cmluZyhoYXNoZWRQYXNzd29yZCkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CS8vIENvbXBhcmluZyB0aGUgcGFzc3dvcmQgd2l0aCB0aGUgaGFzaAoJZXJyID0gYmNyeXB0LkNvbXBhcmVIYXNoQW5kUGFzc3dvcmQoaGFzaGVkUGFzc3dvcmQsIHBhc3N3b3JkKQoJZm10LlByaW50bG4oZXJyKSAvLyBuaWwgbWVhbnMgaXQgaXMgYSBtYXRjaAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlxdWVyeSA9IGBpbnNlcnQgaW50byBQYXRpZW50cyAoZmlyc3ROYW1lLCBsYXN0TmFtZSwgZGF0ZU9mQmlydGgsIGVtYWlsKQoJCQl2YWx1ZXMgKD8sID8sID8sID8pYAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CSJsb2ciCg==</text>
+        <text encoding="base64">CXBhc3N3b3JkIDo9IFtdYnl0ZSgiTXlEYXJrU2VjcmV0IikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWlmIGVyciAhPSBuaWwgewoJCWxvZy5GYXRhbChlcnIpCgl9Cg==</text>
+        <text encoding="base64">CSJnb2xhbmcub3JnL3gvY3J5cHRvL3NjcnlwdCIK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>

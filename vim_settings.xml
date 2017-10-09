@@ -733,11 +733,10 @@
         <mark key="]" line="352" column="0" />
         <mark key="." line="352" column="0" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-pos/src/app/directives/provider-config/provider-config.controller.js" timestamp="1498586008079">
-        <mark key="[" line="74" column="37" />
-        <mark key="]" line="74" column="43" />
-        <mark key="." line="74" column="43" />
-        <mark key="^" line="74" column="43" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-pos/src/app/directives/provider-config/provider-config.controller.js" timestamp="1507572618611">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/containers/settings-form/containers/create-shipping-policy/shared/create-shipping-policy.actions.js" timestamp="1499720241029">
         <mark key="[" line="11" column="56" />
@@ -769,7 +768,7 @@
         <mark key="^" line="47" column="20" />
         <mark key="." line="47" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507564568192">
+      <file name="/Dummy.txt" timestamp="1507572636497">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
@@ -3427,11 +3426,11 @@
         <mark key="^" line="4" column="71" />
         <mark key="." line="4" column="71" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-pos/src/app/modals/square-locations-modal/square-locations-modal.tpl.html" timestamp="1493671446790">
-        <mark key="[" line="41" column="50" />
-        <mark key="]" line="41" column="60" />
-        <mark key="." line="41" column="60" />
-        <mark key="^" line="41" column="60" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-pos/src/app/modals/square-locations-modal/square-locations-modal.tpl.html" timestamp="1507572648856">
+        <mark key="[" line="17" column="56" />
+        <mark key="]" line="17" column="55" />
+        <mark key="." line="17" column="55" />
+        <mark key="^" line="17" column="55" />
       </file>
       <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/db/main.go" timestamp="1498676074577">
         <mark key="[" line="8" column="0" />
@@ -3808,7 +3807,7 @@
         <text encoding="base64">ICAgICAgICAkc2NvcGUuJG9uKCckZGVzdHJveScsICgpID0+IHRoaXMuX3Vuc3Vic2NyaWJlKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3F1YXJlU2VydmljZS5mZXRjaEF1dGgoKQogICAgICAgICAgICAgICAgLnRoZW4oYXV0aCA9PiB7CiAgICAgICAgICAgICAgICAgICAgY29uc3QgaGFzQXV0aCA9IGF1dGguc3RhdHVzID09PSAnY29ubmVjdGVkJzsKCiAgICAgICAgICAgICAgICAgICAgY3RybC5uZWVkc1NldHVwID0gaGFzQXV0aCAmJiAhYXV0aC5sb2NhdGlvbl9pZDsKICAgICAgICAgICAgICAgICAgICBjdHJsLmhhc1YyQXV0aCA9IGhhc0F1dGggJiYgYXV0aC5sb2NhdGlvbl9pZDsKCiAgICAgICAgICAgICAgICAgICAgaWYgKGN0cmwubmVlZHNTZXR1cCkgewogICAgICAgICAgICAgICAgICAgICAgICBjaG9vc2VTcXVhcmVMb2NhdGlvbigpOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3826,28 +3825,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGViYXlDaGFubmVsTWFuYWdlbWVudC5oYXNBY3RpdmVJbnRlZ3JhdGlvbigpCiAgICAgICAgICAgICAgICAudGhlbihoYXNBY3RpdmVJbnRlZ3JhdGlvbiA9PiB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGViYXlDaGFubmVsTWFuYWdlbWVudC5oYXNBY3RpdmVJbnRlZ3JhdGlvbigpCiAgICAgICAgICAgICAgICAudGhlbihoYXNBY3RpdmVJbnRlZ3JhdGlvbiA9PiB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3AnLCBwb2xsSWQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2cocmVzcG9uc2UpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3AnLCBwb2xsSWQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJvZ3Jlc3MgPSBwcm9ncmVzcyA/IHByb2dyZXNzICsgMSA6IHJlc3BvbnNlLnByb2dyZXNzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2cocmVzcG9uc2UpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJvZ3Jlc3MgPSBwcm9ncmVzcyArIDEgfHwgTnVtYmVyKHJlc3BvbnNlLnByb2dyZXNzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJvZ3Jlc3MgPSBwcm9ncmVzcyA/IHByb2dyZXNzICsgMSA6IHJlc3BvbnNlLnByb2dyZXNzOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJvZ3Jlc3MrKzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJvZ3Jlc3MgPSBwcm9ncmVzcyArIDEgfHwgTnVtYmVyKHJlc3BvbnNlLnByb2dyZXNzKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAudGhlbihyZXF1aXJlKCcuL3Ryb2xsJykpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJvZ3Jlc3MrKzsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>

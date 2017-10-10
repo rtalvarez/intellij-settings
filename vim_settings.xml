@@ -2017,11 +2017,11 @@
         <mark key="^" line="0" column="62" />
         <mark key="." line="0" column="62" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/import-tab/containers/import-health/import-health.component.js" timestamp="1507662768569">
-        <mark key="[" line="7" column="5" />
-        <mark key="]" line="5" column="15" />
-        <mark key="^" line="5" column="15" />
-        <mark key="." line="5" column="15" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/import-tab/containers/import-health/import-health.component.js" timestamp="1507664779742">
+        <mark key="[" line="23" column="44" />
+        <mark key="]" line="23" column="49" />
+        <mark key="." line="23" column="49" />
+        <mark key="^" line="23" column="49" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ebay-policy-generator/src/main/scala/FulfillmentPolicy.scala" timestamp="1499715874131">
         <mark key="[" line="11" column="0" />
@@ -2543,11 +2543,11 @@
         <mark key="." line="24" column="72" />
         <mark key="^" line="24" column="72" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/import-tab/shared/import-health/import-health.actions.js" timestamp="1507663298845">
-        <mark key="[" line="37" column="5" />
-        <mark key="]" line="36" column="25" />
-        <mark key="^" line="36" column="25" />
-        <mark key="." line="36" column="25" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/import-tab/shared/import-health/import-health.actions.js" timestamp="1507664560020">
+        <mark key="[" line="3" column="31" />
+        <mark key="]" line="3" column="30" />
+        <mark key="^" line="3" column="30" />
+        <mark key="." line="3" column="30" />
       </file>
       <file name="$USER_HOME$/labs/labs-fe-bb/app/javascripts/appointments/create/CapturePatientView.js" timestamp="1497453045881">
         <mark key="[" line="1" column="96" />
@@ -2784,8 +2784,8 @@
         <mark key="." line="204" column="20" />
         <mark key="^" line="204" column="20" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/import-tab/shared/shared.module.js" timestamp="1507223537804">
-        <mark key="[" line="5" column="54" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/import-tab/shared/shared.module.js" timestamp="1507664603179">
+        <mark key="[" line="4" column="100" />
         <mark key="]" line="5" column="54" />
         <mark key="^" line="5" column="54" />
         <mark key="." line="5" column="54" />
@@ -2902,9 +2902,9 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="38" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/import-tab/containers/import-progress/import-progress.component.js" timestamp="1507656965499">
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/import-tab/containers/import-progress/import-progress.component.js" timestamp="1507664650858">
         <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
+        <mark key="]" line="24" column="114" />
         <mark key="^" line="21" column="7" />
         <mark key="." line="24" column="0" />
       </file>
@@ -3870,16 +3870,16 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>importHealrthReducer</text>
+        <text>dispatch</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqc2NoYW5uZWxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZ1bmN0aW9uIGZldGNoTGF0ZXN0SW1wb3J0UmVxdWVzdCgpIHsKICAgICAgICByZXR1cm4gewogICAgICAgICAgICB0eXBlOiBhY3Rpb25UeXBlcy5GRVRDSF9MQVRFU1RfU1lOQ19SRVFVRVNULAogICAgICAgIH07CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLl91bnN1YnNjcmliZSA9ICRuZ1JlZHV4LmNvbm5lY3QodGhpcy5tYXBTdGF0ZVRvVGhpcy5iaW5kKHRoaXMpLCBtYXBBY3Rpb25zLmJpbmQodGhpcywgYWN0aW9ucykpKHRoaXMpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IGdldElzUG9sbGluZyA9IGNyZWF0ZVNlbGVjdG9yKAogICAgZ2V0U3RhdGUsCiAgICAoc3RhdGUpID0+IHN0YXRlLmlzUG9sbGluZwopOwoKZXhwb3J0IGNvbnN0IGdldFN5bmNJZCA9IGNyZWF0ZVNlbGVjdG9yKAogICAgZ2V0U3RhdGUsCiAgICBzdGF0ZSA9PiBzdGF0ZS5zeW5jSWQKKTsKCmV4cG9ydCBjb25zdCBnZXRQZXJjZW50YWdlID0gY3JlYXRlU2VsZWN0b3IoCiAgICBnZXRTdGF0ZSwKICAgIHN0YXRlID0+IHN0YXRlLnBlcmNlbnRhZ2UKKTsKCmV4cG9ydCBjb25zdCBnZXRJc0NvbXBsZXRlID0gY3JlYXRlU2VsZWN0b3IoCiAgICBnZXRTdGF0ZSwKICAgIHN0YXRlID0+IHN0YXRlLmlzQ29tcGxldGUKKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3900,27 +3900,27 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLl91bnN1YnNjcmliZSA9ICRuZ1JlZHV4LmNvbm5lY3QodGhpcy5tYXBTdGF0ZVRvVGhpcywgaW1wb3J0SGVhbHRoQWN0aW9ucykK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IGdldElzUG9sbGluZyA9IGNyZWF0ZVNlbGVjdG9yKAogICAgZ2V0U3RhdGUsCiAgICAoc3RhdGUpID0+IHN0YXRlLmlzUG9sbGluZwopOwoKZXhwb3J0IGNvbnN0IGdldFN5bmNJZCA9IGNyZWF0ZVNlbGVjdG9yKAogICAgZ2V0U3RhdGUsCiAgICBzdGF0ZSA9PiBzdGF0ZS5zeW5jSWQKKTsKCmV4cG9ydCBjb25zdCBnZXRQZXJjZW50YWdlID0gY3JlYXRlU2VsZWN0b3IoCiAgICBnZXRTdGF0ZSwKICAgIHN0YXRlID0+IHN0YXRlLnBlcmNlbnRhZ2UKKTsKCmV4cG9ydCBjb25zdCBnZXRJc0NvbXBsZXRlID0gY3JlYXRlU2VsZWN0b3IoCiAgICBnZXRTdGF0ZSwKICAgIHN0YXRlID0+IHN0YXRlLmlzQ29tcGxldGUKKTsK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="8">
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="7" type="8">
         <text>export const FETCH_LATEST_SYNC_FAILURE = 'EBAY_SETTINGS/IMPORT/FETCH_LATEST_SYNC_FAILURE';
 export const FETCH_LATEST_SYNC_REQUEST = 'EBAY_SETTINGS/IMPORT/FETCH_LATEST_SYNC_REQUEST';
 export const FETCH_LATEST_SYNC_SUCCESS = 'EBAY_SETTINGS/IMPORT/FETCH_LATEST_SYNC_SUCCESS';</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnbG9hZGVkJywgdXJsKTsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">PGJjZS1pbXBvcnQtaGVhbHRoPjwvYmNlLWltcG9ydC1oZWFsdGg+Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">PCEtLU1PQ0sgRUxFTUVOVDo6IENIQU5HRSBGT1IgQUNUVUFMIENPTVBPTkVOVC0tPgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCBhOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>

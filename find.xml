@@ -3,12 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
-      <mask>*.actions.spec</mask>
-      <mask>*.actions.spe</mask>
-      <mask>*.actions.js</mask>
-      <mask>*.actions.j</mask>
       <mask>*.actions.</mask>
       <mask>*.actions.s</mask>
       <mask>*.actions.sp</mask>
@@ -18,7 +14,6 @@
       <mask>*s.spec.js</mask>
       <mask>*.spec.js</mask>
       <mask>*.spec.j</mask>
-      <mask>*.s</mask>
       <mask>*</mask>
       <mask>.js</mask>
       <mask>.j</mask>
@@ -33,8 +28,13 @@
       <mask>*.tpl.html</mask>
       <mask>*.tpl.htm</mask>
       <mask>*.t</mask>
-      <mask>*.</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.s</mask>
+      <mask>*.sc</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>

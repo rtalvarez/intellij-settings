@@ -79,11 +79,11 @@
         <mark key="^" line="10" column="28" />
         <mark key="." line="10" column="28" />
       </file>
-      <file name="$USER_HOME$/labs/ng-labs/webpack.config.js" timestamp="1508173741789">
-        <mark key="[" line="23" column="7" />
-        <mark key="]" line="24" column="30" />
-        <mark key="." line="24" column="30" />
-        <mark key="^" line="24" column="30" />
+      <file name="$USER_HOME$/labs/ng-labs/webpack.config.js" timestamp="1508176201824">
+        <mark key="[" line="24" column="30" />
+        <mark key="]" line="25" column="31" />
+        <mark key="." line="25" column="31" />
+        <mark key="^" line="25" column="31" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/containers/create-shipping-policies/create-shipping-policies.tpl.html" timestamp="1499784945796">
         <mark key="[" line="0" column="4" />
@@ -525,11 +525,11 @@
         <mark key="^" line="9" column="41" />
         <mark key="." line="9" column="41" />
       </file>
-      <file name="$USER_HOME$/labs/ng-labs/package.json" timestamp="1507915585826">
-        <mark key="[" line="45" column="68" />
-        <mark key="]" line="43" column="0" />
-        <mark key="^" line="20" column="26" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/labs/ng-labs/package.json" timestamp="1508176868456">
+        <mark key="[" line="45" column="52" />
+        <mark key="]" line="45" column="33" />
+        <mark key="^" line="45" column="33" />
+        <mark key="." line="45" column="33" />
       </file>
       <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/db/email.go" timestamp="1496010652354">
         <mark key="[" line="60" column="69" />
@@ -4045,7 +4045,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBsb2FkZXI6IFsnYmFiZWwtbG9hZGVyJywgJ3VnbGlmeS1sb2FkZXInXSwK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zb3J0</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -4060,11 +4060,11 @@
         <entry encoding="base64">XDxqc2NoYW5uZWxcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>wq</entry>
         <entry>sort</entry>
         <entry>w</entry>
         <entry>action emacsIDEAs.AceJump</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />

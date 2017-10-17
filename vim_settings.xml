@@ -197,11 +197,11 @@
         <mark key="^" line="0" column="32" />
         <mark key="." line="0" column="32" />
       </file>
-      <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/utils/urls.go" timestamp="1495904171968">
-        <mark key="[" line="24" column="42" />
-        <mark key="]" line="24" column="44" />
-        <mark key="^" line="24" column="44" />
-        <mark key="." line="24" column="44" />
+      <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/utils/urls.go" timestamp="1508273559982">
+        <mark key="[" line="11" column="1" />
+        <mark key="]" line="28" column="44" />
+        <mark key="^" line="28" column="44" />
+        <mark key="." line="28" column="44" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/provider-settings-form/amazon/amazon-category-mapping/amazon-category-mapping.tpl.html" timestamp="1495824109055">
         <mark key="[" line="155" column="52" />
@@ -539,11 +539,10 @@
         <mark key="^" line="46" column="33" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/db/email.go" timestamp="1496010652354">
-        <mark key="[" line="60" column="69" />
-        <mark key="]" line="62" column="38" />
-        <mark key="." line="62" column="38" />
-        <mark key="^" line="62" column="38" />
+      <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/db/email.go" timestamp="1508273725842">
+        <mark key="]" line="113" column="15" />
+        <mark key="." line="113" column="15" />
+        <mark key="^" line="113" column="15" />
       </file>
       <file name="$USER_HOME$/labs/ng-labs/src/app/contact/contact.module.js" timestamp="1498014693203">
         <mark key="[" line="4" column="46" />
@@ -706,8 +705,8 @@
         <mark key="^" line="8" column="68" />
         <mark key="." line="8" column="68" />
       </file>
-      <file name="$USER_HOME$/labs/labs-email/src/partials/welcome-v2/welcome-v2-header.html" timestamp="1508271790038">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/labs/labs-email/src/partials/welcome-v2/welcome-v2-header.html" timestamp="1508273828838">
+        <mark key="[" line="21" column="33" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="21" column="48" />
         <mark key="." line="0" column="0" />
@@ -990,8 +989,8 @@
         <mark key="^" line="11" column="25" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/labs/labs-email/src/partials/welcome-v2/welcome-v2-footer.html" timestamp="1508271654724">
-        <mark key="[" line="26" column="0" />
+      <file name="$USER_HOME$/labs/labs-email/src/partials/welcome-v2/welcome-v2-footer.html" timestamp="1508273837006">
+        <mark key="[" line="18" column="33" />
         <mark key="]" line="26" column="0" />
         <mark key="^" line="0" column="9" />
         <mark key="." line="26" column="0" />
@@ -1070,6 +1069,9 @@
         <mark key="]" line="28" column="25" />
         <mark key="^" line="28" column="25" />
         <mark key="." line="28" column="25" />
+      </file>
+      <file name="$USER_HOME$/labs/labs-email/copyTemplates.sh" timestamp="1508277245257">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/containers/settings-form/containers/shipping-policy-slideout/shared/shipping-policy-slideout.reducer.js" timestamp="1500911165566">
         <mark key="[" line="44" column="10" />
@@ -1824,7 +1826,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/emailTemplates/welcome.html" timestamp="1508270167726" />
+      <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/emailTemplates/welcome.html" timestamp="1508273182845" />
       <file name="$USER_HOME$/labs/ng-labs/src/app/components/nav-bar/components/side-nav/side-nav.component.js" timestamp="1498008154386">
         <mark key="[" line="11" column="19" />
         <mark key="]" line="11" column="17" />

@@ -810,7 +810,7 @@
         <mark key="^" line="47" column="20" />
         <mark key="." line="47" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508177850148">
+      <file name="/Dummy.txt" timestamp="1508253008372">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
@@ -2563,7 +2563,7 @@
         <mark key="^" line="27" column="57" />
         <mark key="." line="27" column="57" />
       </file>
-      <file name="$USER_HOME$/labs/ng-labs/src/app/home/home.config.js" timestamp="1507839005956">
+      <file name="$USER_HOME$/labs/ng-labs/src/app/home/home.config.js" timestamp="1508253018756">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
@@ -3749,17 +3749,16 @@
         <mark key="^" line="22" column="1" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/create/create-appointment.config.js" timestamp="1501257257604">
-        <mark key="[" line="0" column="47" />
-        <mark key="]" line="0" column="44" />
-        <mark key="." line="0" column="44" />
-        <mark key="^" line="0" column="44" />
+      <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/create/create-appointment.config.js" timestamp="1508253037030">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="21" column="46" />
       </file>
-      <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/appointments.config.js" timestamp="1498092970198">
+      <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/appointments.config.js" timestamp="1508253063786">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
-        <mark key="^" line="3" column="41" />
       </file>
       <file name="$USER_HOME$/labs/ng-labs/src/app/directives/loading-overlay/loading-overlay.directive.js" timestamp="1507912691608">
         <mark key="[" line="2" column="0" />
@@ -4008,7 +4007,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIGxvYWRlcjogJ2JhYmVsLWxvYWRlcicsCiAgICAgICAgICAgICAgICAgICAgICAgIG9wdGlvbnM6IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHF1ZXJ5OiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHJlc2V0czogWwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBbJ2JhYmVsLXByZXNldC1lczIwMTUnXQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIF0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJjbGVhbi13ZWJwYWNrLXBsdWdpbiI6ICJeMC4xLjE3IiwK</text>
+        <text encoding="base64">ICAgICAgICBvbkVudGVyOiAoKSA9PiB7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKCdlbnRlciBhcHBvaW50c21lbnRzIGNvbmZpZycpCiAgICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -4026,19 +4025,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgQ29weVdlYnBhY2tQbHVnaW4gPSByZXF1aXJlKCdjb3B5LXdlYnBhY2stcGx1Z2luJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb21wb25lbnQ6ICdjcmVhdGVBcHBvaW50bWVudCcsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRyb2xsZXI6IGFuZ3VsYXIubm9vcCwKICAgICAgICAgICAgICAgIHRlbXBsYXRlLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ3dhc2QnKTsK</text>
+        <text encoding="base64">ICAgICAgICBvbkVudGVyOiAoKSA9PiB7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKCdlbnRlciBjcmVhdGUgYXBwIGNvbmZpZycpCiAgICAgICAgfSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICJjbGVhbi13ZWJwYWNrLXBsdWdpbiI6ICJeMC4xLjE3IiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG5ldyBDbGVhbldlYnBhY2tQbHVnaW4oWydkaXN0J10sIHsKICAgICAgICByb290OiBwcm9jZXNzLmN3ZCgpLAogICAgICAgIHZlcmJvc2U6IHRydWUsCiAgICB9KSwK</text>
+        <text encoding="base64">Y29uc3QgQ29weVdlYnBhY2tQbHVnaW4gPSByZXF1aXJlKCdjb3B5LXdlYnBhY2stcGx1Z2luJyk7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -4047,7 +4046,7 @@
         <text encoding="base64">Y29uc29sZS5sb2coJ3dhc2QnKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZpbGVuYW1lOiAnYXBwLltjaHVua2hhc2hdLmNzcycsCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>

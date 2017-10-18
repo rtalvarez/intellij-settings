@@ -823,7 +823,7 @@
         <mark key="^" line="47" column="20" />
         <mark key="." line="47" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508345298868">
+      <file name="/Dummy.txt" timestamp="1508348538001">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
@@ -990,11 +990,11 @@
         <mark key="^" line="11" column="25" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/import-tab/import-tab.spec.js" timestamp="1508346209444">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="^" line="19" column="45" />
-        <mark key="." line="49" column="0" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/import-tab/import-tab.spec.js" timestamp="1508350002412">
+        <mark key="[" line="68" column="48" />
+        <mark key="]" line="68" column="48" />
+        <mark key="^" line="68" column="48" />
+        <mark key="." line="68" column="48" />
       </file>
       <file name="$USER_HOME$/labs/labs-email/src/partials/welcome-v2/welcome-v2-footer.html" timestamp="1508273837006">
         <mark key="[" line="18" column="33" />
@@ -3972,7 +3972,7 @@
         <mark key="." line="26" column="29" />
         <mark key="^" line="26" column="29" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/shared/settings-tabs/settings-tabs.actions.spec.js" timestamp="1508345373276" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/shared/settings-tabs/settings-tabs.actions.spec.js" timestamp="1508349584906" />
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/square-redirect/square-redirect.tpl.html" timestamp="1493406736322">
         <mark key="[" line="12" column="5" />
         <mark key="]" line="43" column="7" />
@@ -4081,7 +4081,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>fetchLatestImport</text>
+        <text encoding="base64">Y29uc3Qg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqc2NoYW5uZWxcPg==</text>
@@ -4090,7 +4090,7 @@
         <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0SGVhbHRoQWN0aW9ucywKICAgICAgICAgICAgaW1wb3J0U3RhcnRBY3Rpb25zLAogICAgICAgICAgICBpbXBvcnRQcm9ncmVzc0FjdGlvbnMsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0SGVhbHRoQWN0aW9ucywKICAgICAgICAgICAgaW1wb3J0U3RhcnRBY3Rpb25zLAogICAgICAgICAgICBpbXBvcnRQcm9ncmVzc0FjdGlvbnMsCg==</text>
+        <text encoding="base64">ICAgICAgICBtb2R1bGUoJHByb3ZpZGUgPT4gewogICAgICAgICAgICAkcHJvdmlkZS52YWx1ZSgnaW1wb3J0SGVhbHRoQWN0aW9ucycsIGltcG9ydEhlYWx0aEFjdGlvbnMpOwogICAgICAgICAgICAkcHJvdmlkZS52YWx1ZSgnaW1wb3J0U3RhcnRBY3Rpb25zJywgaW1wb3J0UHJvZ3Jlc3NBY3Rpb25zKTsKICAgICAgICAgICAgJHByb3ZpZGUudmFsdWUoJ2ltcG9ydFByb2dyZXNzQWN0aW9ucycsIGltcG9ydFByb2dyZXNzQWN0aW9ucyk7CiAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -4108,28 +4108,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmV0Y2hJbXBvcnRJblByb2dyZXNzCg==</text>
+        <text encoding="base64">ICAgICAgICBtb2R1bGUoJHByb3ZpZGUgPT4gewogICAgICAgICAgICAkcHJvdmlkZS52YWx1ZSgnaW1wb3J0SGVhbHRoQWN0aW9ucycsIGltcG9ydEhlYWx0aEFjdGlvbnMpOwogICAgICAgICAgICAkcHJvdmlkZS52YWx1ZSgnaW1wb3J0U3RhcnRBY3Rpb25zJywgaW1wb3J0UHJvZ3Jlc3NBY3Rpb25zKTsKICAgICAgICAgICAgJHByb3ZpZGUudmFsdWUoJ2ltcG9ydFByb2dyZXNzQWN0aW9ucycsIGltcG9ydFByb2dyZXNzQWN0aW9ucyk7CiAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmV0Y2hJbXBvcnRJblByb2dyZXNzOiBhbmd1bGFyLm5vb3AsCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWZpbmVkTW9kdWxlLmNvbnRyb2xsZXIoJ3Rlc3RDdHJsJywgRWJheUltcG9ydFRhYkNvbnRyb2xsZXIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHN0YXRlLAo=</text>
+        <text encoding="base64">ICAgICAgICBtb2R1bGUgPSBhbmd1bGFyLm1vZHVsZSgnVGVzdE1vZHVsZScsIFsnbmdSZWR1eCddKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJG1vZGFsLAo=</text>
+        <text encoding="base64">ICAgICAgICBhbmd1bGFyLm1vY2subW9kdWxlKG1vZHVsZSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkc2NvcGUgPSAkaW5qZWN0b3IuZ2V0KCckcm9vdFNjb3BlJykuJG5ldygpOwo=</text>
+        <text encoding="base64">ICAgICAgICBhbmd1bGFyLm1vY2subW9kdWxlKG1vZHVsZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxldCAkc3RhdGU7Cg==</text>
+        <text encoding="base64">ICAgICAgICBtb2R1bGUgPSBhbmd1bGFyLm1vZHVsZSgnVGVzdE1vZHVsZScsIFsnbmdSZWR1eCddKTsKICAgICAgICBhbmd1bGFyLm1vY2subW9kdWxlKG1vZHVsZSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxldCAkbW9kYWw7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBtb2R1bGUgPSBhbmd1bGFyLm1vZHVsZSgnVGVzdE1vZHVsZScsIFsnbmdSZWR1eCddKTsKICAgICAgICBhbmd1bGFyLm1vY2subW9kdWxlKG1vZHVsZSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkbW9kYWwgPSB7IG9wZW46IGphc21pbmUuY3JlYXRlU3B5KCdvcGVuJykgfTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>

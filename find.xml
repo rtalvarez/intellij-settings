@@ -3,9 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.actions.spec.js" />
+    <option name="FILE_MASK" value="*" />
     <recentFileMasks>
-      <mask>.tpl</mask>
       <mask>.tpl.</mask>
       <mask>.tpl.h</mask>
       <mask>.tpl.ht</mask>
@@ -20,10 +19,6 @@
       <mask>*.s</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.a</mask>
-      <mask>*.ac</mask>
       <mask>*.act</mask>
       <mask>*.acti</mask>
       <mask>*.actio</mask>
@@ -33,8 +28,13 @@
       <mask>*.actions.sp</mask>
       <mask>*.actions.spe</mask>
       <mask>*.actions.spec</mask>
-      <mask>*.actions.spec.</mask>
       <mask>*.actions.spec.js</mask>
+      <mask>*.actions.spec.j</mask>
+      <mask>*.actions.spec.</mask>
+      <mask>*.ac</mask>
+      <mask>*.a</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>

@@ -2329,11 +2329,11 @@
         <mark key="^" line="55" column="45" />
         <mark key="." line="55" column="45" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/services/import/ebay/ebay-import.service.js" timestamp="1508863099499">
-        <mark key="[" line="39" column="27" />
-        <mark key="]" line="39" column="29" />
-        <mark key="." line="39" column="29" />
-        <mark key="^" line="39" column="29" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/services/import/ebay/ebay-import.service.js" timestamp="1508869184007">
+        <mark key="[" line="26" column="43" />
+        <mark key="]" line="26" column="42" />
+        <mark key="." line="26" column="42" />
+        <mark key="^" line="26" column="42" />
       </file>
       <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/create/components/studies-info/components/photo-study/photo-study.tpl.html" timestamp="1501550080028">
         <mark key="[" line="14" column="0" />
@@ -2724,11 +2724,11 @@
         <mark key="." line="24" column="72" />
         <mark key="^" line="24" column="72" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/import-tab/shared/import-health/import-health.actions.js" timestamp="1508510434291">
-        <mark key="[" line="21" column="38" />
-        <mark key="]" line="24" column="19" />
-        <mark key="." line="24" column="19" />
-        <mark key="^" line="24" column="19" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/import-tab/shared/import-health/import-health.actions.js" timestamp="1508869244778">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="15" column="32" />
       </file>
       <file name="$USER_HOME$/labs/labs-fe-bb/app/javascripts/appointments/create/CapturePatientView.js" timestamp="1497453045881">
         <mark key="[" line="1" column="96" />
@@ -4125,7 +4125,7 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gYCR7dGhpcy5fYmFzZVBhdGh9LyR7aWR9L2NhbmNlbGA7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybnMge2Z1bmN0aW9uKCopfQogICAgICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnZXJyb3InLCBlcnJvcikK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -4143,22 +4143,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSB7IE51bWJlciB9IHBheWxvYWQgVGhlIHN5bmNJZAo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybnMge2Z1bmN0aW9uKCopfQogICAgICovCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSB7IE51bWJlciB9IHBheWxvYWQgVGhlIHN5bmNJZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYCR7dGhpcy5fYmFzZVBhdGh9LyR7aWR9L3N0YXJ0YDsK</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYCR7dGhpcy5fYmFzZVBhdGh9P2F1dG9fc3RhcnQ9dHJ1ZWA7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gYCR7dGhpcy5fYmFzZVBhdGh9LyR7aWR9L3N0YXJ0YDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYCR7dGhpcy5fYmFzZVBhdGh9LyR7aWR9L2NhbmNlbGA7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gYCR7dGhpcy5fYmFzZVBhdGh9P2F1dG9fc3RhcnQ9dHJ1ZWA7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5fYmFzZVBhdGg7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gYCR7dGhpcy5fYmFzZVBhdGh9LyR7aWR9L2NhbmNlbGA7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4278,10 +4278,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyByZXR1cm4gYCR7dGhpcy5fYmFzZVBhdGh9L2luLXByb2dyZXNzYDsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5fYmFzZVBhdGg7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYCR7dGhpcy5fYmFzZVBhdGh9L2xhdGVzdGA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyByZXR1cm4gYCR7dGhpcy5fYmFzZVBhdGh9L2luLXByb2dyZXNzYDsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>

@@ -375,11 +375,6 @@
         <mark key="." line="27" column="21" />
         <mark key="^" line="27" column="21" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/import-tab/shared/import-progress/import-progress.actions.types.js" timestamp="1508775750511">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="3" column="77" />
-        <mark key="." line="3" column="77" />
-      </file>
       <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/models/appointments.go" timestamp="1503944842425">
         <mark key="[" line="10" column="10" />
         <mark key="]" line="16" column="24" />
@@ -638,6 +633,12 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="38" column="94" />
       </file>
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/sass/components/_components.scss" timestamp="1508958884894">
+        <mark key="[" line="59" column="25" />
+        <mark key="]" line="61" column="41" />
+        <mark key="^" line="61" column="41" />
+        <mark key="." line="61" column="41" />
+      </file>
       <file name="$USER_HOME$/labs/ng-labs/src/app/home/home.module.js" timestamp="1507912695072">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -782,7 +783,7 @@
         <mark key="^" line="47" column="20" />
         <mark key="." line="47" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508875018993">
+      <file name="/Dummy.txt" timestamp="1508959526801">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
@@ -1101,6 +1102,13 @@
         <mark key="]" line="5" column="84" />
         <mark key="." line="5" column="84" />
         <mark key="^" line="5" column="84" />
+      </file>
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/provider-settings-form/pinterest/pinterest-settings-form.tpl.html" timestamp="1508962781104">
+        <mark key="a" line="229" column="87" />
+        <mark key="[" line="229" column="40" />
+        <mark key="]" line="229" column="50" />
+        <mark key="^" line="229" column="50" />
+        <mark key="." line="229" column="50" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-pos/src/app/directives/provider-config/provider-config.tpl.html" timestamp="1498507682688">
         <mark key="[" line="45" column="0" />
@@ -1865,6 +1873,12 @@
         <mark key="." line="20" column="89" />
         <mark key="^" line="20" column="89" />
       </file>
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/sass/components/pinterestSettingsForm/_pinterestSettingsForm.scss" timestamp="1508961566615">
+        <mark key="[" line="18" column="35" />
+        <mark key="]" line="18" column="35" />
+        <mark key="^" line="18" column="35" />
+        <mark key="." line="18" column="35" />
+      </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/bigcommerce/admin/init.php" timestamp="1493056393066">
         <mark key="[" line="185" column="0" />
         <mark key="]" line="185" column="47" />
@@ -2160,6 +2174,12 @@
         <mark key="^" line="15" column="21" />
         <mark key="." line="15" column="21" />
       </file>
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/sass/components/pinterestSettingsForm/_component.scss" timestamp="1508958863268">
+        <mark key="[" line="0" column="31" />
+        <mark key="]" line="0" column="31" />
+        <mark key="^" line="0" column="31" />
+        <mark key="." line="0" column="31" />
+      </file>
       <file name="$USER_HOME$/labs/ng-labs/src/app/directives/loading-overlay/loading-overlay.tpl.html" timestamp="1507602291702">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -2243,6 +2263,12 @@
         <mark key="]" line="14" column="28" />
         <mark key="^" line="14" column="28" />
         <mark key="." line="14" column="28" />
+      </file>
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/provider-settings-form/pinterest/pinterest-settings-form.controller.js" timestamp="1508960699557">
+        <mark key="[" line="43" column="45" />
+        <mark key="]" line="43" column="49" />
+        <mark key="^" line="43" column="49" />
+        <mark key="." line="43" column="49" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/settings-tab/containers/settings-form/shared/settings-form.selectors.js" timestamp="1507739705938">
         <mark key="[" line="7" column="1" />
@@ -3463,6 +3489,10 @@
         <mark key="^" line="21" column="35" />
         <mark key="." line="21" column="35" />
       </file>
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/settings-tab/components/shipping-policy-form/shipping-policy-form.tpl.html" timestamp="1508959678064">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="38" column="17" />
+      </file>
       <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/create/components/studies-info/components/cast-model-study/cast-model-study.tpl.html" timestamp="1501550088559">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -3875,16 +3905,16 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>state</text>
+        <text>label</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqc2NoYW5uZWxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHsKICAgIGdldFN5bmNJZCwKICAgIGdldElzQ29tcGxldGUsCn0gZnJvbSAnLi9zaGFyZWQvaW1wb3J0LXByb2dyZXNzL2ltcG9ydC1wcm9ncmVzcy5zZWxlY3RvcnMnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxidXR0b24gY2xhc3M9ImJ1dHRvbiBidXR0b24tLWljb24gYnV0dG9uLS1pbnB1dEFjdGlvbiI+CiAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9InUtaGlkZGVuVmlzdWFsbHkiPlNlYXJjaDwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICA8aWNvbiBnbHlwaD0iaWMtc2VhcmNoIj48L2ljb24+CiAgICAgICAgICAgICAgICA8L2J1dHRvbj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC50aGVuKHN5bmMgPT4gewogICAgICAgICAgICAgICAgICAgIC8vIGNvbnN0IGNyZWF0ZWRTeW5jID0gXy5maW5kKHN5bmNzLCBzeW5jID0+IHN5bmMuY2hhbm5lbCA9PT0gUFJPVklERVJfSURTLkVCQVkgJiYgc3luYy50eXBlID09PSAnaW1wb3J0Jyk7CiAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ2NjJywgc3luYyk7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHBvbGxJbXBvcnRTdGFydGluZygpOwogICAgICAgICAgICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICA8bGFiZWwgY2xhc3M9ImZvcm0tbGFiZWwiIGZvcj0idGVybXNBY2NlcHRlZCIgdHJhbnNsYXRlPlRlcm1zIG9mIFNlcnZpY2U8L2xhYmVsPgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3902,22 +3932,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgbmctcmVxdWlyZWQ9InRydWUiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gewogICAgICAgICAgICAvLyAgICAgInN5bmNzIjogW3sKICAgICAgICAgICAgLy8gICAgICJjaGFubmVsIjogImViYXkiLAogICAgICAgICAgICAvLyAgICAgInN0b3JlX2lkIjogMTUwMjIyMzU3NCwKICAgICAgICAgICAgLy8gICAgICJpZCI6IDIsCiAgICAgICAgICAgIC8vICAgICAic3RhdHVzIjogIk5PVF9SVU5OSU5HIiwKICAgICAgICAgICAgLy8gICAgICJjcmVhdGVkX2F0IjogIjIwMTctMTAtMjRUMTM6NDQ6MjIuMDAwLTA1OjAwIiwKICAgICAgICAgICAgLy8gICAgICJ0eXBlIjogImltcG9ydCIKICAgICAgICAgICAgLy8gfV0KICAgICAgICAgICAgLy8gfQo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIDxmaWVsZHNldCBjbGFzcz0iZm9ybS1maWVsZHNldCI+CiAgICAgICAgPGxlZ2VuZCBjbGFzcz0iZm9ybS1sZWdlbmQiIHRyYW5zbGF0ZT5Db25maWd1cmF0aW9uPC9sZWdlbmQ+CiAgICAgICAgPGRpdiBjbGFzcz0iZm9ybS1ib2R5Ij4KICAgICAgICAgICAgPHNlY3Rpb24gbmctaWY9IiRjdHJsLnNob3dPcHRpb25NYXBwaW5nRm9ybSgpIiBkYXRhLXRlc3Q9InByb2R1Y3Qtb3B0aW9ucy1zZWN0aW9uIj4KICAgICAgICAgICAgICAgIDxoMyBjbGFzcz0icHJvdmlkZXJTZXR0aW5ncy1vcHRpb25zSGVhZGVyIiB0cmFuc2xhdGU+Q29sb3JzIGFuZCBTaXplczwvaDM+CgoKICAgICAgICAgICAgICAgIDxmb3JtLWZpZWxkIG5nLWlmPSIkY3RybC5tYXRlcmlhbE9wdGlvbnNFbmFibGVkIj4KICAgICAgICAgICAgICAgICAgICA8bGFiZWwgY2xhc3M9ImZvcm0tbGFiZWwiIHRyYW5zbGF0ZT5NYXRlcmlhbCBPcHRpb25zIDxzbWFsbD4ob3B0aW9uYWwpPC9zbWFsbD48L2xhYmVsPgogICAgICAgICAgICAgICAgPC9mb3JtLWZpZWxkPgoKICAgICAgICAgICAgPC9zZWN0aW9uPgoKICAgICAgICAgICAgPGZvcm0tZmllbGQgcHJvcGVydHk9InRlcm1zQWNjZXB0ZWQiPgoKICAgICAgICAgICAgICAgIDxmb3JtLWZpZWxkLWVycm9ycz4KICAgICAgICAgICAgICAgICAgICA8Zm9ybS1maWVsZC1lcnJvciB2YWxpZGF0ZT0icmVxdWlyZWQiPnt7ICdZb3UgbXVzdCBhY2NlcHQgdGhlIFBpbnRlcmVzdCB0ZXJtcyBvZiBzZXJ2aWNlIHRvIHVzZSB0aGlzIGZlYXR1cmUuJyB8IHRyYW5zbGF0ZSB9fTwvZm9ybS1maWVsZC1lcnJvcj4KICAgICAgICAgICAgICAgIDwvZm9ybS1maWVsZC1lcnJvcnM+CiAgICAgICAgICAgIDwvZm9ybS1maWVsZD4KICAgICAgICA8L2Rpdj4KICAgIDwvZmllbGRzZXQ+Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZ2V0SXNJbXBvcnRTdGFydGluZyB9IGZyb20gJy4vLi4vLi4vc2hhcmVkL2ltcG9ydC1zdGFydC9pbXBvcnQtc3RhcnQuc2VsZWN0b3JzJzsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXNJbXBvcnRTdGFydGluZzogZ2V0SXNJbXBvcnRTdGFydGluZyhzdGF0ZSksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxsYWJlbCBjbGFzcz0iZm9ybS1sYWJlbCIgdHJhbnNsYXRlPlRlcm1zIG9mIFNlcnZpY2U8L2xhYmVsPgogICAgICAgICAgICAgICAgPGlucHV0IGNsYXNzPSJmb3JtLWNoZWNrYm94IgogICAgICAgICAgICAgICAgICAgICAgIG5nLW1vZGVsPSIkY3RybC5wcm92aWRlckRldGFpbHMudGVybXNBY2NlcHRlZCIKICAgICAgICAgICAgICAgICAgICAgICBuZy1yZXF1aXJlZD0idHJ1ZSIKICAgICAgICAgICAgICAgICAgICAgICBpZD0idGVybXNBY2NlcHRlZCIKICAgICAgICAgICAgICAgICAgICAgICBuYW1lPSJ0ZXJtc0FjY2VwdGVkIgogICAgICAgICAgICAgICAgICAgICAgIHR5cGU9ImNoZWNrYm94Ij4KICAgICAgICAgICAgICAgIDxsYWJlbCBjbGFzcz0iZm9ybS1sYWJlbCBwcm92aWRlclNldHRpbmdzLXRlcm1zQWNjZXB0ZWQiIGZvcj0idGVybXNBY2NlcHRlZCIgdHJhbnNsYXRlPkkgaGF2ZSByZWFkIGFuZCBhZ3JlZSB0byB0aGUKICAgICAgICAgICAgICAgICAgICA8YSBkYXRhLXRlc3Q9InBpbnRlcmVzdFRlcm1zTGluayIgbmctaHJlZj0ie3sgOjokY3RybC5waW50ZXJlc3RUZXJtc1VybCB9fSIgdGFyZ2V0PSJfYmxhbmsiIHRyYW5zbGF0ZT5QaW50ZXJlc3QgTWVyY2hhbnQgVGVybXMgb2YgU2VydmljZS48L2E+CiAgICAgICAgICAgICAgICAgICAgQnkgc3VibWl0dGluZyB0aGVzZSBzZXR0aW5ncyB5b3UgYWxzbyBhZ3JlZSB0byB0aGUKICAgICAgICAgICAgICAgICAgICA8YSBkYXRhLXRlc3Q9InBpbnRlcmVzdEJ1c2luZXNzVGVybXNMaW5rIiBuZy1ocmVmPSJ7eyA6OiRjdHJsLnBpbnRlcmVzdEJ1c2luZXNzVGVybXNVcmwgfX0iIHRhcmdldD0iX2JsYW5rIiB0cmFuc2xhdGU+UGludGVyZXN0IEJ1c2luZXNzIFRlcm1zIG9mIFNlcnZpY2U8L2E+CiAgICAgICAgICAgICAgICAgICAgYW5kIHdlIHdpbGwgYXV0b21hdGljYWxseSBjb252ZXJ0IHlvdXIgYWNjb3VudCB0byBhIFBpbnRlcmVzdCBCdXNpbmVzcyBhY2NvdW50IGlmIG5lZWRlZC4gQ29udmVydGluZyB0byBhIGJ1c2luZXNzIGFjY291bnQgd2lsbCBub3QgYWZmZWN0IHlvdXIgUGlucywgYm9hcmRzLCBhbmQgZm9sbG93ZXJzLgogICAgICAgICAgICAgICAgPC9sYWJlbD4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsb2FkaW5nLW92ZXJsYXk9IiRjdHJsLmlzSW1wb3J0U3RhcnRpbmciCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4037,10 +4067,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsb2FkaW5nLW92ZXJsYXk9IiRjdHJsLmlzSW1wb3J0U3RhcnRpbmciCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Zm9ybS1jaGVja2JveC1saXN0IGlucHV0LW5hbWU9Im1hdGVyaWFsT3B0aW9ucyIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5nLW1vZGVsPSIkY3RybC5wcm92aWRlckRldGFpbHMubWF0ZXJpYWxPcHRpb25zIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGZvcm0tY2hlY2tib3gtbGlzdC1vcHRpb24gb3B0aW9uLWlkPSJvcHRpb24uaWQiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRhdGEtdGVzdD0ibWF0ZXJpYWwtbGlzdC1vcHRpb24iCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5nLXJlcGVhdD0ib3B0aW9uIGluICRjdHJsLnByb2R1Y3RPcHRpb25zIHRyYWNrIGJ5IG9wdGlvbi5pZCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB7eyBvcHRpb24ubmFtZSB9fSAoe3sgb3B0aW9uLmRpc3BsYXlfbmFtZSB9fSkKICAgICAgICAgICAgICAgICAgICAgICAgPC9mb3JtLWNoZWNrYm94LWxpc3Qtb3B0aW9uPgogICAgICAgICAgICAgICAgICAgIDwvZm9ybS1jaGVja2JveC1saXN0Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGdldElzQ29tcGxldGUsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>

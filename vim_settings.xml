@@ -1103,12 +1103,12 @@
         <mark key="." line="5" column="84" />
         <mark key="^" line="5" column="84" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/provider-settings-form/pinterest/pinterest-settings-form.tpl.html" timestamp="1509032266039">
-        <mark key="a" line="234" column="87" />
-        <mark key="[" line="247" column="78" />
-        <mark key="]" line="247" column="110" />
-        <mark key="^" line="247" column="110" />
-        <mark key="." line="247" column="110" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/provider-settings-form/pinterest/pinterest-settings-form.tpl.html" timestamp="1509033374290">
+        <mark key="a" line="240" column="87" />
+        <mark key="[" line="182" column="72" />
+        <mark key="]" line="183" column="60" />
+        <mark key="^" line="183" column="60" />
+        <mark key="." line="183" column="60" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-pos/src/app/directives/provider-config/provider-config.tpl.html" timestamp="1498507682688">
         <mark key="[" line="45" column="0" />
@@ -2270,11 +2270,11 @@
         <mark key="^" line="14" column="28" />
         <mark key="." line="14" column="28" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/provider-settings-form/pinterest/pinterest-settings-form.controller.js" timestamp="1509032467082">
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="." line="71" column="0" />
-        <mark key="^" line="70" column="27" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/provider-settings-form/pinterest/pinterest-settings-form.controller.js" timestamp="1509033443798">
+        <mark key="[" line="113" column="31" />
+        <mark key="]" line="114" column="32" />
+        <mark key="." line="114" column="32" />
+        <mark key="^" line="114" column="32" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/settings-tab/containers/settings-form/shared/settings-form.selectors.js" timestamp="1507739705938">
         <mark key="[" line="7" column="1" />
@@ -3911,16 +3911,16 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>productOptions</text>
+        <text>results</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqc2NoYW5uZWxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxidXR0b24gY2xhc3M9ImJ1dHRvbiBidXR0b24tLWljb24gYnV0dG9uLS1pbnB1dEFjdGlvbiI+CiAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9InUtaGlkZGVuVmlzdWFsbHkiPlNlYXJjaDwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICA8aWNvbiBnbHlwaD0iaWMtc2VhcmNoIj48L2ljb24+CiAgICAgICAgICAgICAgICA8L2J1dHRvbj4K</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCByZXN1bHRzID0gdGhpcy5fcHJvZHVjdE9wdGlvbnNTZWFyY2hbb3B0aW9uTmFtZV0ucmVzdWx0czsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gXy5maXJzdCh0aGlzLnByb2R1Y3RPcHRpb25zLCB0aGlzLl9wcm9kdWN0T3B0aW9uc1Njcm9sbFtvcHRpb25OYW1lXSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3938,22 +3938,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnbG9hZCBtb3JlIG9wdGlvbnMnKTsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLl9wcm9kdWN0T3B0aW9uc1Njcm9sbFtvcHRpb25OYW1lXSArPSA1Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhvcHRpb25zU2xpY2UpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Zm9ybS1jaGVja2JveC1saXN0LW9wdGlvbiBvcHRpb24taWQ9Im9wdGlvbi5pZCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkYXRhLXRlc3Q9Im1hdGVyaWFsLWxpc3Qtb3B0aW9uIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5nLXJlcGVhdD0ib3B0aW9uIGluICRjdHJsLnByb2R1Y3RPcHRpb25zIHRyYWNrIGJ5IG9wdGlvbi5pZCI+CiAgICAgICAgICAgICAgICAgICAgICAgIHt7IG9wdGlvbi5uYW1lIH19ICh7eyBvcHRpb24uZGlzcGxheV9uYW1lIH19KQogICAgICAgICAgICAgICAgICAgIDwvZm9ybS1jaGVja2JveC1saXN0LW9wdGlvbj4K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0cy5sZW5ndGggPyByZXN1bHRzIDogXy5maWx0ZXIoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCByZXN1bHRzID0gdGhpcy5fcHJvZHVjdE9wdGlvbnNTZWFyY2hbb3B0aW9uTmFtZV0ucmVzdWx0czsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Zm9ybS1jaGVja2JveC1saXN0LW9wdGlvbiBvcHRpb24taWQ9Im9wdGlvbi5pZCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkYXRhLXRlc3Q9InNpemUtbGlzdC1vcHRpb24iCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbmctcmVwZWF0PSJvcHRpb24gaW4gJGN0cmwucHJvZHVjdE9wdGlvbnMgdHJhY2sgYnkgb3B0aW9uLmlkIj4KICAgICAgICAgICAgICAgICAgICAgICAge3sgb3B0aW9uLm5hbWUgfX0gKHt7IG9wdGlvbi5kaXNwbGF5X25hbWUgfX0pCiAgICAgICAgICAgICAgICAgICAgPC9mb3JtLWNoZWNrYm94LWxpc3Qtb3B0aW9uPgo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gXy5maWx0ZXIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLl9sb2FkZWRQcm9kdWN0T3B0aW9ucyA9IDU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNjcm9sbDogNSwK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4073,10 +4073,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnYWxpdmU/JykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>

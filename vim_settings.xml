@@ -273,6 +273,12 @@
         <mark key="^" line="2" column="73" />
         <mark key="." line="2" column="73" />
       </file>
+      <file name="$USER_HOME$/labs/ng-labs/src/app/login/oid/components/oid-login-form/oid-login-form.constants.js" timestamp="1509133874649">
+        <mark key="[" line="2" column="113" />
+        <mark key="]" line="2" column="111" />
+        <mark key="^" line="2" column="111" />
+        <mark key="." line="2" column="111" />
+      </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-onboarding/src/app/_common/templates/directives/square-import-card.tpl.html" timestamp="1507574569129">
         <mark key="[" line="0" column="18" />
         <mark key="]" line="74" column="58" />
@@ -422,11 +428,11 @@
         <mark key="." line="84" column="0" />
         <mark key="^" line="10" column="38" />
       </file>
-      <file name="$USER_HOME$/labs/ng-labs/src/app/accounts/create/create-account.component.js" timestamp="1507912594934">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="23" column="48" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/labs/ng-labs/src/app/accounts/create/create-account.component.js" timestamp="1509133292199">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="10" column="34" />
       </file>
       <file name="$USER_HOME$/labs/ng-labs/src/app/contact/contact.tpl.html" timestamp="1498014701492">
         <mark key="[" line="0" column="0" />
@@ -770,6 +776,9 @@
         <mark key="]" line="14" column="12" />
         <mark key="^" line="14" column="12" />
         <mark key="." line="14" column="12" />
+      </file>
+      <file name="$USER_HOME$/labs/ng-labs/src/app/accounts/create/components/account-created/account-created.scss" timestamp="1509132042081">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/containers/settings-form/containers/create-shipping-policy/shared/create-shipping-policy.actions.js" timestamp="1499720241029">
         <mark key="[" line="11" column="56" />
@@ -1746,6 +1755,12 @@
         <mark key="^" line="197" column="47" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/labs/ng-labs/src/app/accounts/create/components/account-created/account-created.tpl.html" timestamp="1509133514066">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="19" column="0" />
+        <mark key="." line="32" column="0" />
+      </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/listing/amazon/containers/category-chooser/category-chooser.module.js" timestamp="1502905463557">
         <mark key="[" line="5" column="68" />
         <mark key="]" line="5" column="66" />
@@ -2131,10 +2146,10 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="13" column="55" />
       </file>
-      <file name="$USER_HOME$/labs/ng-labs/src/app/login/oid/components/oid-login-form/oid-login-form.component.js" timestamp="1507842975131">
+      <file name="$USER_HOME$/labs/ng-labs/src/app/login/oid/components/oid-login-form/oid-login-form.component.js" timestamp="1509133873353">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
-        <mark key="^" line="22" column="57" />
+        <mark key="^" line="22" column="81" />
         <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/form-validators/unique-registered-brand.js" timestamp="1495639499013">
@@ -2233,7 +2248,6 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/settings-tab/containers/settings-form/components/multiple-shipping-policies/multiple-shipping-policies.tpl.html" timestamp="1509051751845" />
       <file name="$USER_HOME$/labs/labs-fe-bb/dist/index.html" timestamp="1497456109370">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -2660,7 +2674,6 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="6" column="7" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/settings-tab/containers/settings-form/components/multiple-return-policies/multiple-return-policies.tpl.html" timestamp="1509051802956" />
       <file name="$USER_HOME$/labs/ng-labs/src/app/contact/components/contact-form/contact-form.component.js" timestamp="1507912684767">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -2938,6 +2951,9 @@
         <mark key="^" line="1" column="10" />
         <mark key="." line="1" column="10" />
       </file>
+      <file name="$USER_HOME$/labs/ng-labs/src/app/accounts/create/components/components.module.js" timestamp="1509132311522">
+        <mark key="[" line="0" column="93" />
+      </file>
       <file name="$USER_HOME$/labs/labs-fe-bb/app/javascripts/appointments/create/CaptureDoctorView.js" timestamp="1497453057680">
         <mark key="[" line="1" column="94" />
         <mark key="]" line="1" column="95" />
@@ -3202,17 +3218,23 @@
         <mark key="^" line="35" column="57" />
         <mark key="." line="16" column="19" />
       </file>
-      <file name="$USER_HOME$/labs/ng-labs/src/app/accounts/create/create-account.tpl.html" timestamp="1507676045316">
-        <mark key="[" line="2" column="28" />
-        <mark key="]" line="4" column="40" />
-        <mark key="^" line="4" column="40" />
-        <mark key="." line="4" column="40" />
+      <file name="$USER_HOME$/labs/ng-labs/src/app/accounts/create/components/account-created/account-created.component.js" timestamp="1509132252310">
+        <mark key="[" line="16" column="1" />
+        <mark key="]" line="15" column="12" />
+        <mark key="^" line="15" column="12" />
+        <mark key="." line="15" column="12" />
       </file>
-      <file name="$USER_HOME$/labs/ng-labs/src/app/accounts/create/components/create-account-form/create-account-form.tpl.html" timestamp="1507842316526">
-        <mark key="[" line="21" column="12" />
-        <mark key="]" line="21" column="34" />
-        <mark key="." line="21" column="34" />
+      <file name="$USER_HOME$/labs/ng-labs/src/app/accounts/create/create-account.tpl.html" timestamp="1509133486218">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="1" column="22" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/labs/ng-labs/src/app/accounts/create/components/create-account-form/create-account-form.tpl.html" timestamp="1509133509745">
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="130" column="13" />
         <mark key="^" line="21" column="34" />
+        <mark key="." line="119" column="0" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/containers/settings-form/containers/multiple-shipping-policies/shared/multiple-shipping-policies.actions.js" timestamp="1500302340926">
         <mark key="[" line="10" column="0" />
@@ -3513,10 +3535,6 @@
         <mark key="]" line="21" column="35" />
         <mark key="^" line="21" column="35" />
         <mark key="." line="21" column="35" />
-      </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/settings-tab/components/shipping-policy-form/shipping-policy-form.tpl.html" timestamp="1508959678064">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="38" column="17" />
       </file>
       <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/create/components/studies-info/components/cast-model-study/cast-model-study.tpl.html" timestamp="1501550088559">
         <mark key="[" line="15" column="0" />
@@ -3930,16 +3948,16 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">aW5maW5pdGUtc2Nyb2xsLWNvbnRhaW5lcj0iJyNwaW50ZXJlc3RTZXR0aW5ncy1pbmZpbml0ZVNjcm9sbENvbnRhaW5lci1jb2xvciciPg==</text>
+        <text>row</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqc2NoYW5uZWxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2IGluZmluaXRlLXNjcm9sbD0iJGN0cmwubG9hZE1vcmVPcHRpb25zKCdjb2xvcicpIiBpbmZpbml0ZS1zY3JvbGwtY29udGFpbmVyPSInI3BpbnRlcmVzdFNldHRpbmdzLWluZmluaXRlU2Nyb2xsQ29udGFpbmVyLWNvbG9yJyI+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGxheW91dD0iY29sdW1uIj4KICAgICAgICAgICAgPHNtYWxsIGNsYXNzPSJhY2NvdW50LWNyZWF0aW9uLW5vdGljZSI+CiAgICAgICAgICAgICAgICA8bWQtaWNvbj5sb2NrPC9tZC1pY29uPgogICAgICAgICAgICAgICAgTm9zb3Ryb3MgdG9tYW1vcyB0dSBwcml2YWNpZGFkIHNlcmlhbWVudGUuIFVzYW1vcyBlbmNyaXB0YWNpb24gZGUgZGF0b3MgeSBsb3MgbWFzIGFsdG9zCiAgICAgICAgICAgICAgICBlc3RhbmRhcmVzIGRlIHNlZ3VyaWRhZCBwYXJhIHByb3RlZ2VyIHR1IGluZm9ybWFjaW9uLgogICAgICAgICAgICA8L3NtYWxsPgoKICAgICAgICAgICAgPHNtYWxsIGNsYXNzPSJhY2NvdW50LWNyZWF0aW9uLW5vdGljZSI+CiAgICAgICAgICAgICAgICA8bWQtaWNvbj5kZXNjcmlwdGlvbjwvbWQtaWNvbj4KICAgICAgICAgICAgICAgIEFsIGNyZWFyIHR1IGN1ZW50YSwgZXN0YXMgYWNlcHRhbmRvIGNvbiBudWVzdHJvcyA8YSBocmVmPSIvdGVybXMiPnRlcm1pbm9zIGRlIHNlcnZpY2lvPC9hPi4KICAgICAgICAgICAgPC9zbWFsbD4KICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzY3JpcHRMb2FkZXIgPSBqYXNtaW5lLmNyZWF0ZVNweSgnc2NyaXB0TG9hZGVyJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3957,22 +3975,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmVycm9yKGVycm9yKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3Qgc3luY3MgPSB7IHN5bmNzOiBbeyBpZDogMywgY29tcGxldGVkOiA1IH1dIH07Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsgdHlwZTogdHlwZXMuU1RBUlRfSU1QT1JUX1NVQ0NFU1MsIHBheWxvYWQ6IDEyMyB9LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsgdHlwZTogdHlwZXMuRkVUQ0hfTEFURVNUX0lNUE9SVF9TVUNDRVNTLCBwYXlsb2FkOiByZXNwb25zZS5zeW5jSWQgfSwK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4092,10 +4110,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Lm1haW5Db250YWluZXIgewogICAgcG9zaXRpb246IHJlbGF0aXZlOwogICAgdG9wOiAwOwoKfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vcG9zaXRpb246IHJlbGF0aXZlOwogICAgLy90b3A6IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8YWNjb3VudC1jcmVhdGVkIG5nLWlmPSIhJGN0cmwuY3JlYXRpbmdBY2NvdW50IiBwYXRpZW50PSIkY3RybC5wYXRpZW50Ij48L2FjY291bnQtY3JlYXRlZD4K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>

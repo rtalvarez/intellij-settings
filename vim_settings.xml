@@ -1103,11 +1103,11 @@
         <mark key="." line="5" column="84" />
         <mark key="^" line="5" column="84" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/provider-settings-form/pinterest/pinterest-settings-form.tpl.html" timestamp="1509115022190">
-        <mark key="[" line="285" column="7" />
-        <mark key="]" line="285" column="6" />
-        <mark key="." line="285" column="6" />
-        <mark key="^" line="285" column="6" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/provider-settings-form/pinterest/pinterest-settings-form.tpl.html" timestamp="1509119678932">
+        <mark key="[" line="171" column="20" />
+        <mark key="]" line="171" column="20" />
+        <mark key="." line="171" column="20" />
+        <mark key="^" line="171" column="20" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-pos/src/app/directives/provider-config/provider-config.tpl.html" timestamp="1498507682688">
         <mark key="[" line="45" column="0" />
@@ -3912,13 +3912,13 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>x</text>
+        <text encoding="base64">aW5maW5pdGUtc2Nyb2xsLWNvbnRhaW5lcj0iJyNwaW50ZXJlc3RTZXR0aW5ncy1pbmZpbml0ZVNjcm9sbENvbnRhaW5lci1jb2xvciciPg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqc2NoYW5uZWxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBvc2l0aW9uOiByZWxhdGl2ZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2IGluZmluaXRlLXNjcm9sbD0iJGN0cmwubG9hZE1vcmVPcHRpb25zKCdjb2xvcicpIiBpbmZpbml0ZS1zY3JvbGwtY29udGFpbmVyPSInI3BpbnRlcmVzdFNldHRpbmdzLWluZmluaXRlU2Nyb2xsQ29udGFpbmVyLWNvbG9yJyI+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImZvcm0tZmllbGQiPgogICAgICAgIDxpbnB1dCBjbGFzcz0iZm9ybS1jaGVja2JveCIKICAgICAgICAgICAgICAgbmctbW9kZWw9IiRjdHJsLnByb3ZpZGVyRGV0YWlscy50ZXJtc0FjY2VwdGVkIgogICAgICAgICAgICAgICBpZD0idGVybXNBY2NlcHRlZCIKICAgICAgICAgICAgICAgbmFtZT0idGVybXNBY2NlcHRlZCIKICAgICAgICAgICAgICAgdHlwZT0iY2hlY2tib3giCiAgICAgICAgICAgICAgIHJlcXVpcmVkPgogICAgICAgIDxsYWJlbCBjbGFzcz0iZm9ybS1sYWJlbCIgZm9yPSJ0ZXJtc0FjY2VwdGVkIiB0cmFuc2xhdGU+VGVybXMgb2YgU2VydmljZTwvbGFiZWw+CgogICAgICAgIDxwIGNsYXNzPSJwcm92aWRlclNldHRpbmdzLXRlcm1zQWNjZXB0ZWQiIHRyYW5zbGF0ZT5JIGhhdmUgcmVhZCBhbmQgYWdyZWUgdG8gdGhlCiAgICAgICAgICAgIDxhIGRhdGEtdGVzdD0icGludGVyZXN0VGVybXNMaW5rIiBuZy1ocmVmPSJ7eyA6OiRjdHJsLnBpbnRlcmVzdFRlcm1zVXJsIH19IiB0YXJnZXQ9Il9ibGFuayIgdHJhbnNsYXRlPlBpbnRlcmVzdCBNZXJjaGFudCBUZXJtcyBvZiBTZXJ2aWNlLjwvYT4KICAgICAgICAgICAgQnkgc3VibWl0dGluZyB0aGVzZSBzZXR0aW5ncyB5b3UgYWxzbyBhZ3JlZSB0byB0aGUKICAgICAgICAgICAgPGEgZGF0YS10ZXN0PSJwaW50ZXJlc3RCdXNpbmVzc1Rlcm1zTGluayIgbmctaHJlZj0ie3sgOjokY3RybC5waW50ZXJlc3RCdXNpbmVzc1Rlcm1zVXJsIH19IiB0YXJnZXQ9Il9ibGFuayIgdHJhbnNsYXRlPlBpbnRlcmVzdCBCdXNpbmVzcyBUZXJtcyBvZiBTZXJ2aWNlPC9hPgogICAgICAgICAgICBhbmQgd2Ugd2lsbCBhdXRvbWF0aWNhbGx5IGNvbnZlcnQgeW91ciBhY2NvdW50IHRvIGEgUGludGVyZXN0IEJ1c2luZXNzIGFjY291bnQgaWYgbmVlZGVkLiBDb252ZXJ0aW5nIHRvIGEgYnVzaW5lc3MgYWNjb3VudCB3aWxsIG5vdCBhZmZlY3QgeW91ciBQaW5zLCBib2FyZHMsIGFuZCBmb2xsb3dlcnMuCiAgICAgICAgPC9wPgogICAgPC9kaXY+Cg==</text>

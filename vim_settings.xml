@@ -381,11 +381,6 @@
         <mark key="." line="27" column="21" />
         <mark key="^" line="27" column="21" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/import-tab/shared/import-progress/import-progress.actions.types.js" timestamp="1508775750511">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="3" column="77" />
-        <mark key="." line="3" column="77" />
-      </file>
       <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/models/appointments.go" timestamp="1503944842425">
         <mark key="[" line="10" column="10" />
         <mark key="]" line="16" column="24" />
@@ -810,7 +805,7 @@
         <mark key="^" line="47" column="20" />
         <mark key="." line="47" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509130376814">
+      <file name="/Dummy.txt" timestamp="1509385754744">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
@@ -1130,11 +1125,11 @@
         <mark key="." line="5" column="84" />
         <mark key="^" line="5" column="84" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/provider-settings-form/pinterest/pinterest-settings-form.tpl.html" timestamp="1509126922311">
-        <mark key="[" line="49" column="18" />
-        <mark key="]" line="49" column="83" />
-        <mark key="." line="49" column="83" />
-        <mark key="^" line="49" column="83" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/provider-settings-form/pinterest/pinterest-settings-form.tpl.html" timestamp="1509387439282">
+        <mark key="[" line="270" column="96" />
+        <mark key="]" line="270" column="95" />
+        <mark key="^" line="270" column="95" />
+        <mark key="." line="270" column="95" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-pos/src/app/directives/provider-config/provider-config.tpl.html" timestamp="1498507682688">
         <mark key="[" line="45" column="0" />
@@ -1905,11 +1900,11 @@
         <mark key="." line="20" column="89" />
         <mark key="^" line="20" column="89" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/sass/components/pinterestSettingsForm/_pinterestSettingsForm.scss" timestamp="1509126772327">
-        <mark key="[" line="29" column="1" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="28" column="3" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/sass/components/pinterestSettingsForm/_pinterestSettingsForm.scss" timestamp="1509385232798">
+        <mark key="[" line="39" column="6" />
+        <mark key="]" line="39" column="4" />
+        <mark key="^" line="39" column="4" />
+        <mark key="." line="39" column="4" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/bigcommerce/admin/init.php" timestamp="1493056393066">
         <mark key="[" line="185" column="0" />
@@ -2296,11 +2291,12 @@
         <mark key="^" line="14" column="28" />
         <mark key="." line="14" column="28" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/provider-settings-form/pinterest/pinterest-settings-form.controller.js" timestamp="1509040669331">
-        <mark key="[" line="35" column="44" />
-        <mark key="]" line="37" column="7" />
-        <mark key="^" line="37" column="7" />
-        <mark key="." line="37" column="7" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/provider-settings-form/pinterest/pinterest-settings-form.controller.js" timestamp="1509386958694">
+        <mark key="'" line="163" column="0" />
+        <mark key="[" line="163" column="0" />
+        <mark key="]" line="165" column="107" />
+        <mark key="." line="165" column="107" />
+        <mark key="^" line="165" column="107" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/bigcommerce/Services/POS/src/Helpers/PinterestAccountDetails.php" timestamp="1509128295691" />
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/settings-tab/containers/settings-form/shared/settings-form.selectors.js" timestamp="1507739705938">
@@ -2542,11 +2538,6 @@
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
         <mark key="^" line="61" column="3" />
-      </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/sass/components/main/_main.scss" timestamp="1509126764828">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/.gopath/src/github.com/deini/bukibot-go/bukibot/rabbit/constants.go" timestamp="1504026262344">
         <mark key="[" line="27" column="54" />
@@ -3945,19 +3936,20 @@
       <jump line="67" column="0" filename="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/import-tab/containers/import-start/import-start.spec.js" />
       <jump line="57" column="0" filename="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/import-tab/shared/import-health/import-health.actions.spec.js" />
       <jump line="60" column="27" filename="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/shared/settings-tabs/settings-tabs.actions.js" />
+      <jump line="163" column="0" filename="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/provider-settings-form/pinterest/pinterest-settings-form.controller.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>row</text>
+        <text>colorOptions</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqc2NoYW5uZWxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGxheW91dD0iY29sdW1uIj4KICAgICAgICAgICAgPHNtYWxsIGNsYXNzPSJhY2NvdW50LWNyZWF0aW9uLW5vdGljZSI+CiAgICAgICAgICAgICAgICA8bWQtaWNvbj5sb2NrPC9tZC1pY29uPgogICAgICAgICAgICAgICAgTm9zb3Ryb3MgdG9tYW1vcyB0dSBwcml2YWNpZGFkIHNlcmlhbWVudGUuIFVzYW1vcyBlbmNyaXB0YWNpb24gZGUgZGF0b3MgeSBsb3MgbWFzIGFsdG9zCiAgICAgICAgICAgICAgICBlc3RhbmRhcmVzIGRlIHNlZ3VyaWRhZCBwYXJhIHByb3RlZ2VyIHR1IGluZm9ybWFjaW9uLgogICAgICAgICAgICA8L3NtYWxsPgoKICAgICAgICAgICAgPHNtYWxsIGNsYXNzPSJhY2NvdW50LWNyZWF0aW9uLW5vdGljZSI+CiAgICAgICAgICAgICAgICA8bWQtaWNvbj5kZXNjcmlwdGlvbjwvbWQtaWNvbj4KICAgICAgICAgICAgICAgIEFsIGNyZWFyIHR1IGN1ZW50YSwgZXN0YXMgYWNlcHRhbmRvIGNvbiBudWVzdHJvcyA8YSBocmVmPSIvdGVybXMiPnRlcm1pbm9zIGRlIHNlcnZpY2lvPC9hPi4KICAgICAgICAgICAgPC9zbWFsbD4KICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBkYXRhID0gdGhpcy5wcm9kdWN0T3B0aW9uc1NlYXJjaFtvcHRpb25OYW1lXTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3975,22 +3967,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxsYWJlbCBjbGFzcz0iaXMtc3JPbmx5IiBmb3I9Im1hdGVyaWFsT3B0aW9uc1NlYXJjaCI+PC9sYWJlbD4KICAgICAgICAgICAgICAgIDxpbnB1dCBjbGFzcz0iZm9ybS1pbnB1dCBoYXMtYWN0aW9uIgogICAgICAgICAgICAgICAgICAgICAgIHR5cGU9InRleHQiCiAgICAgICAgICAgICAgICAgICAgICAgbmFtZT0ibWF0ZXJpYWxPcHRpb25zU2VhcmNoIgogICAgICAgICAgICAgICAgICAgICAgIGlkPSJtYXRlcmlhbE9wdGlvbnNTZWFyY2giCiAgICAgICAgICAgICAgICAgICAgICAgbmctbW9kZWw9IiRjdHJsLnByb2R1Y3RPcHRpb25zU2VhcmNoLm1hdGVyaWFsLnF1ZXJ5IgogICAgICAgICAgICAgICAgICAgICAgIG5nLWNoYW5nZT0iJGN0cmwub25RdWVyeUNoYW5nZSgnbWF0ZXJpYWwnKSIKICAgICAgICAgICAgICAgICAgICAgICBwbGFjZWhvbGRlcj0iU2VhcmNoIG9wdGlvbnMiPgoKICAgICAgICAgICAgICAgIDxidXR0b24gY2xhc3M9ImJ1dHRvbiBidXR0b24tLWljb24gYnV0dG9uLS1pbnB1dEFjdGlvbiI+CiAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9InUtaGlkZGVuVmlzdWFsbHkiPlNlYXJjaDwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICA8aWNvbiBnbHlwaD0iaWMtc2VhcmNoIj48L2ljb24+CiAgICAgICAgICAgICAgICA8L2J1dHRvbj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cgo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0icGludGVyZXN0U2V0dGluZ3Mtc2VsZWN0QWxsIiBuZy1jbGFzcz0ieyAncGludGVyZXN0U2V0dGluZ3Mtc2VsZWN0QWxsLS1oaWRkZW4nOiAkY3RybC5pc1NlbGVjdEFsbEhpZGRlbignc2l6ZScpIH0iPgogICAgICAgICAgICAgICAgPGEgaHJlZj0iIyIgbmctY2xpY2s9IiRjdHJsLnNlbGVjdEFsbCgnc2l6ZScpIj5TZWxlY3QgYWxsPC9hPgogICAgICAgICAgICA8L2Rpdj4K</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InBpbnRlcmVzdFNldHRpbmdzLXNlbGVjdEFsbCIgbmctY2xhc3M9InsgJ3BpbnRlcmVzdFNldHRpbmdzLXNlbGVjdEFsbC0taGlkZGVuJzogJGN0cmwuaXNTZWxlY3RBbGxIaWRkZW4oJ2NvbG9yJykgfSI+CiAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iIyIgbmctY2xpY2s9IiRjdHJsLnNlbGVjdEFsbCgnY29sb3InKSI+U2VsZWN0IGFsbDwvYT4KICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4110,10 +4102,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxidXR0b24gY2xhc3M9ImJ1dHRvbiBidXR0b24tLWljb24gYnV0dG9uLS1pbnB1dEFjdGlvbiI+CiAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9InUtaGlkZGVuVmlzdWFsbHkiPlNlYXJjaDwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICA8aWNvbiBnbHlwaD0iaWMtc2VhcmNoIj48L2ljb24+CiAgICAgICAgICAgICAgICA8L2J1dHRvbj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8YWNjb3VudC1jcmVhdGVkIG5nLWlmPSIhJGN0cmwuY3JlYXRpbmdBY2NvdW50IiBwYXRpZW50PSIkY3RybC5wYXRpZW50Ij48L2FjY291bnQtY3JlYXRlZD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>

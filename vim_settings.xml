@@ -804,7 +804,7 @@
         <mark key="^" line="47" column="20" />
         <mark key="." line="47" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509463230997">
+      <file name="/Dummy.txt" timestamp="1509478070250">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
@@ -2026,11 +2026,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="9" column="41" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/import-tab/shared/import-start/import-start.actions.js" timestamp="1509130385419">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="^" line="56" column="47" />
-        <mark key="." line="55" column="0" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/import-tab/shared/import-start/import-start.actions.js" timestamp="1509478201248">
+        <mark key="[" line="52" column="62" />
+        <mark key="]" line="52" column="72" />
+        <mark key="^" line="52" column="72" />
+        <mark key="." line="52" column="72" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/sass/components/squareRedirect/_squareRedirect.scss" timestamp="1493315357852">
         <mark key="[" line="30" column="20" />
@@ -3931,7 +3931,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>progress</text>
+        <text>syncId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqc2NoYW5uZWxcPg==</text>

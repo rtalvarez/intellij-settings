@@ -1739,11 +1739,11 @@
         <mark key="^" line="38" column="35" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/import-tab/shared/import-start/import-start.actions.spec.js" timestamp="1509130236294">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
-        <mark key="^" line="3" column="53" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/import-tab/shared/import-start/import-start.actions.spec.js" timestamp="1509638233727">
+        <mark key="[" line="53" column="62" />
+        <mark key="]" line="53" column="70" />
+        <mark key="." line="53" column="70" />
+        <mark key="^" line="53" column="70" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/listing/amazon/containers/product-overrides/product-overrides.constants.js" timestamp="1501700023767">
         <mark key="[" line="13" column="0" />
@@ -3979,13 +3979,13 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>latestDate</text>
+        <text encoding="base64">cGF5bG9hZCA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqc2NoYW5uZWxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRpc3BhdGNoKHNldFBvbGxQcm9ncmVzcyhwcm9ncmVzcykpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsgdHlwZTogdHlwZXMuU1RBUlRfSU1QT1JUX1JFUVVFU1QsIHBheWxvYWQgfSwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZicsIGZvdW5kLCB0aGlzLmxpc3RpbmcpCg==</text>

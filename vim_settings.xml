@@ -2243,11 +2243,11 @@
         <mark key="^" line="55" column="45" />
         <mark key="." line="55" column="45" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/services/import/ebay/ebay-import.service.js" timestamp="1509720830173">
-        <mark key="[" line="11" column="57" />
-        <mark key="]" line="11" column="57" />
-        <mark key="." line="11" column="57" />
-        <mark key="^" line="11" column="57" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/services/import/ebay/ebay-import.service.js" timestamp="1509733766684">
+        <mark key="[" line="12" column="37" />
+        <mark key="]" line="12" column="37" />
+        <mark key="." line="12" column="37" />
+        <mark key="^" line="12" column="37" />
       </file>
       <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/create/components/studies-info/components/photo-study/photo-study.tpl.html" timestamp="1501550080028">
         <mark key="[" line="14" column="0" />
@@ -3405,12 +3405,11 @@
         <mark key="^" line="3" column="30" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/import-tab/shared/import-progress/import-progress.actions.js" timestamp="1509644915823">
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/import-tab/shared/import-progress/import-progress.actions.js" timestamp="1509733810165">
         <mark key="'" line="44" column="23" />
-        <mark key="[" line="81" column="46" />
-        <mark key="]" line="81" column="45" />
-        <mark key="." line="81" column="45" />
-        <mark key="^" line="81" column="45" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/directives/variants-table/ebay/ebay-variants-table.tpl.html" timestamp="1501858769514">
         <mark key="[" line="14" column="52" />
@@ -3992,7 +3991,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHsgdHlwZTogdHlwZXMuU1RBUlRfSU1QT1JUX1JFUVVFU1QsIHBheWxvYWQgfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IGMwZDMzZjYuLi4gQ2xlYW51cAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ2NhbGN1bGF0ZSBwZXJjZW50YWdlJywgcGVyY2VudGFnZSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -4010,22 +4009,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdyZXNwb25zZSBDT01QTEVURScpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECjw8PDw8PDwgSEVBRAo9PT09PT09Cj09PT09PT0KPj4+Pj4+PiA3MzA2MjU2Li4uIEF1dG8tZWJheSBpbXBvcnQgd29yawo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdzdW1tYXJ5IGlzIGVtcHR5Jyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ3BvbCByZXNwb25zZScsIHJlc3BvbnNlKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PT09PT09PQogICAgICAgICAgICAgICAgd2luZG93LmFuYWx5dGljcy50cmFjaygndHJvbGxzJywgeyB0cm9sbHM6IHRydWUgfSk7Cj4+Pj4+Pj4gNzMwNjI1Ni4uLiBBdXRvLWViYXkgaW1wb3J0IHdvcmsK</text>
+        <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IGMwZDMzZjYuLi4gQ2xlYW51cAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cjw8PDw8PDwgSEVBRAo+Pj4+Pj4+IGRkZjc1ZjkuLi4gZmVhdChlYmF5KTogT01OSS0zOTY2IC0gSW1wb3J0IHRvYXN0Cj09PT09PT0KPj4+Pj4+PiA3MzA2MjU2Li4uIEF1dG8tZWJheSBpbXBvcnQgd29yawo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECjw8PDw8PDwgSEVBRAo9PT09PT09Cj09PT09PT0KPj4+Pj4+PiA3MzA2MjU2Li4uIEF1dG8tZWJheSBpbXBvcnQgd29yawo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4145,10 +4144,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IDczMDYyNTYuLi4gQXV0by1lYmF5IGltcG9ydCB3b3JrCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBkZGY3NWY5Li4uIGZlYXQoZWJheSk6IE9NTkktMzk2NiAtIEltcG9ydCB0b2FzdAo=</text>
+        <text encoding="base64">PT09PT09PQogICAgICAgICAgICAgICAgd2luZG93LmFuYWx5dGljcy50cmFjaygndHJvbGxzJywgeyB0cm9sbHM6IHRydWUgfSk7Cj4+Pj4+Pj4gNzMwNjI1Ni4uLiBBdXRvLWViYXkgaW1wb3J0IHdvcmsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

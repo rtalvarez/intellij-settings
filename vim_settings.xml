@@ -1972,6 +1972,11 @@
         <mark key="." line="42" column="0" />
         <mark key="^" line="41" column="23" />
       </file>
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-add-edit-products/node_modules/ng-build/tasks/webpack/webpack.config.js" timestamp="1509997856829">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/create/components/studies-info/components/cephalometric-study/cephalometric-study.component.js" timestamp="1507912644777">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -3991,7 +3996,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLnNldHRpbmdzVGFic0FjdGlvbnMuZW5hYmxlVGFiKFBST1ZJREVSX0lEUy5FQkFZLCAnaW1wb3J0Jyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnRoZW4oKCkgPT4gdGhpcy5lbmFibGVUYWIoUFJPVklERVJfSURTLkVCQVksICdpbXBvcnQnKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICB0ZXN0OiAvXC5qcz8kLywKICAgICAgICAgICAgICAgICAgICBlbmZvcmNlOiAncHJlJywKICAgICAgICAgICAgICAgICAgICBsb2FkZXI6IHJlcXVpcmUucmVzb2x2ZSgnc291cmNlLW1hcC1sb2FkZXInKSwKICAgICAgICAgICAgICAgIH0sCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -4009,22 +4014,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnRoZW4oKCkgPT4gdGhpcy5lbmFibGVUYWIoUFJPVklERVJfSURTLkVCQVksICdpbXBvcnQnKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICh0aGlzLmZpcnN0VGltZVNldHVwKSB7CiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgaWYgKGlzSW1wb3J0RW5hYmxlZCkgewogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLnNldHRpbmdzVGFic0FjdGlvbnMuZW5hYmxlVGFiKFBST1ZJREVSX0lEUy5FQkFZLCAnaW1wb3J0Jyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICh0aGlzLmZpcnN0VGltZVNldHVwKSB7CiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgaWYgKGlzSW1wb3J0RW5hYmxlZCkgewogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLnNldHRpbmdzVGFic0FjdGlvbnMuZW5hYmxlVGFiKFBST1ZJREVSX0lEUy5FQkFZLCAnaW1wb3J0Jyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLmltcG9ydFByb2R1Y3RzKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4144,10 +4149,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLmltcG9ydFByb2R1Y3RzKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIXRoaXMuZmlyc3RUaW1lU2V0dXAgJiYgaXMpIHsKICAgICAgICAgICAgdGhpcy5zZXR0aW5nc1RhYnNBY3Rpb25zLmVuYWJsZVRhYihQUk9WSURFUl9JRFMuRUJBWSwgJ2ltcG9ydCcpOwogICAgICAgIH0KCiAgICAgICAgaWYgKCF0aGlzLl9leHBlcmltZW50cy5pc0V4cGVyaW1lbnRPbihPTU5JQ0hBTk5FTF9FWFBFUklNRU5UUy5FQkFZX0lNUE9SVCkpIHsKICAgICAgICAgICAgY29uc29sZS5sb2coJ2Rpc2FibGVkIHRhYicpOwogICAgICAgICAgICB0aGlzLnNldHRpbmdzVGFic0FjdGlvbnMuZGlzYWJsZVRhYihQUk9WSURFUl9JRFMuRUJBWSwgJ2ltcG9ydCcpOwogICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

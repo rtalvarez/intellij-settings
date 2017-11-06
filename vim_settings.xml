@@ -177,11 +177,11 @@
         <mark key="^" line="0" column="32" />
         <mark key="." line="0" column="32" />
       </file>
-      <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/routes/handlers/debug/main.go" timestamp="1508278680617">
-        <mark key="[" line="10" column="41" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="20" column="19" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/routes/handlers/debug/main.go" timestamp="1510004552616">
+        <mark key="[" line="21" column="33" />
+        <mark key="]" line="22" column="67" />
+        <mark key="^" line="22" column="67" />
+        <mark key="." line="22" column="67" />
       </file>
       <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/utils/urls.go" timestamp="1508281059707">
         <mark key="[" line="14" column="51" />
@@ -464,7 +464,6 @@
         <mark key="^" line="0" column="27" />
         <mark key="." line="0" column="27" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/bigcommerce/app/model/Repository/PinterestOptions.php" timestamp="1509129174734" />
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/containers/shared/shipping-policies/shipping-policies.selectors.js" timestamp="1500481300764">
         <mark key="[" line="7" column="1" />
         <mark key="]" line="6" column="36" />
@@ -1036,7 +1035,6 @@
         <mark key="^" line="15" column="28" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/listing/ebay/ebay-listing.config.js" timestamp="1509637116273" />
       <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/routes/handlers/appointments/main.go" timestamp="1503930900411">
         <mark key="[" line="179" column="9" />
         <mark key="]" line="179" column="8" />
@@ -1366,6 +1364,12 @@
         <mark key="]" line="16" column="18" />
         <mark key="." line="16" column="18" />
         <mark key="^" line="16" column="18" />
+      </file>
+      <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/utils/loggly.go" timestamp="1510004304231">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="24" />
+        <mark key="." line="17" column="24" />
+        <mark key="^" line="17" column="24" />
       </file>
       <file name="$USER_HOME$/labs/labs-fe-bb/app/javascripts/admin/AdminCalendarView.js" timestamp="1497452956285">
         <mark key="[" line="1" column="79" />
@@ -2326,7 +2330,6 @@
         <mark key="^" line="14" column="28" />
         <mark key="." line="14" column="28" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/bigcommerce/Services/POS/src/Helpers/PinterestAccountDetails.php" timestamp="1509128295691" />
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/settings-tab/containers/settings-form/shared/settings-form.selectors.js" timestamp="1507739705938">
         <mark key="[" line="7" column="1" />
         <mark key="]" line="6" column="35" />
@@ -2704,6 +2707,12 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="6" column="7" />
       </file>
+      <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/models/loggly.go" timestamp="1510003807655">
+        <mark key="[" line="3" column="19" />
+        <mark key="]" line="5" column="9" />
+        <mark key="^" line="5" column="9" />
+        <mark key="." line="5" column="9" />
+      </file>
       <file name="$USER_HOME$/labs/ng-labs/src/app/contact/components/contact-form/contact-form.component.js" timestamp="1507912684767">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -3058,6 +3067,12 @@
         <mark key="]" line="5" column="17" />
         <mark key="^" line="5" column="17" />
         <mark key="." line="5" column="17" />
+      </file>
+      <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/routes/handlers/auth/oid.go" timestamp="1510004464491">
+        <mark key="[" line="33" column="46" />
+        <mark key="]" line="33" column="64" />
+        <mark key="." line="33" column="64" />
+        <mark key="^" line="33" column="64" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/modals/prevalidated-products-modal/prevalidated-products-modal.tpl.html" timestamp="1508859956246">
         <mark key="[" line="0" column="12" />
@@ -3987,16 +4002,16 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>enableTab</text>
+        <text>incorrect</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqc2NoYW5uZWxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLnNldHRpbmdzVGFic0FjdGlvbnMuZW5hYmxlVGFiKFBST1ZJREVSX0lEUy5FQkFZLCAnaW1wb3J0Jyk7Cg==</text>
+        <text encoding="base64">CQkJZ28gdXRpbHMuUG9zdExvZ2dseUVycm9yKCJVc2VyIGxvZ2dpbiBwYXNzIGluY29ycmVjdCIsIHN0cmluZyhwYXRpZW50LklkKSwgIi9sb2dpbiIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICB0ZXN0OiAvXC5qcz8kLywKICAgICAgICAgICAgICAgICAgICBlbmZvcmNlOiAncHJlJywKICAgICAgICAgICAgICAgICAgICBsb2FkZXI6IHJlcXVpcmUucmVzb2x2ZSgnc291cmNlLW1hcC1sb2FkZXInKSwKICAgICAgICAgICAgICAgIH0sCg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -4014,22 +4029,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnRoZW4oKCkgPT4gdGhpcy5lbmFibGVUYWIoUFJPVklERVJfSURTLkVCQVksICdpbXBvcnQnKSkK</text>
+        <text encoding="base64">CgllbmNvZGVkLCBfIDo9IGpzb24uTWFyc2hhbChkYXRhKQoJYnVmZmVyIDo9IGJ5dGVzLk5ld0J1ZmZlcihlbmNvZGVkKQoKCXJlc3AsIF8gOj0gaHR0cC5Qb3N0KExPR0dMWV9VUkwsICJhcHBsaWNhdGlvbi9qc29uIiwgYnVmZmVyKQoJZGVmZXIgcmVzcC5Cb2R5LkNsb3NlKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzCg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CWVuY29kZWQsIF8gOj0ganNvbi5NYXJzaGFsKGRhdGEpCglidWZmZXIgOj0gYnl0ZXMuTmV3QnVmZmVyKGVuY29kZWQpCgoJcmVzcCwgXyA6PSBodHRwLlBvc3QoTE9HR0xZX1VSTCwgImFwcGxpY2F0aW9uL2pzb24iLCBidWZmZXIpCglkZWZlciByZXNwLkJvZHkuQ2xvc2UoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICh0aGlzLmZpcnN0VGltZVNldHVwKSB7CiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgaWYgKGlzSW1wb3J0RW5hYmxlZCkgewogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLnNldHRpbmdzVGFic0FjdGlvbnMuZW5hYmxlVGFiKFBST1ZJREVSX0lEUy5FQkFZLCAnaW1wb3J0Jyk7Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWRhdGEgOj0gbW9kZWxzLkxvZ2dseVBvc3R7CgkJTWVzc2FnZTogbWVzc2FnZSwKCQlVc2VySWQ6IHVzZXJJZCwKCQlSb3V0ZTogcm91dGUsCgkJU2V2ZXJpdHk6ICJFUlJPUiIsCgl9CgkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4149,10 +4164,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLmltcG9ydFByb2R1Y3RzKCk7Cg==</text>
+        <text encoding="base64">CQoJfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICB0ZXN0OiAvXC5qcz8kLywKICAgICAgICAgICAgICAgICAgICBlbmZvcmNlOiAncHJlJywKICAgICAgICAgICAgICAgICAgICBsb2FkZXI6IHJlcXVpcmUucmVzb2x2ZSgnc291cmNlLW1hcC1sb2FkZXInKSwKICAgICAgICAgICAgICAgIH0sCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

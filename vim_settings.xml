@@ -177,11 +177,11 @@
         <mark key="^" line="0" column="32" />
         <mark key="." line="0" column="32" />
       </file>
-      <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/routes/handlers/debug/main.go" timestamp="1510069472895">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="16" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/routes/handlers/debug/main.go" timestamp="1510071787635">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="19" column="155" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/utils/urls.go" timestamp="1508281059707">
         <mark key="[" line="14" column="51" />
@@ -249,11 +249,11 @@
         <mark key="^" line="4" column="78" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/routes/handlers/auth/facebook.go" timestamp="1504817708287">
-        <mark key="[" line="53" column="17" />
-        <mark key="]" line="53" column="17" />
-        <mark key="^" line="102" column="81" />
-        <mark key="." line="53" column="17" />
+      <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/routes/handlers/auth/facebook.go" timestamp="1510072630310">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="^" line="101" column="81" />
+        <mark key="." line="73" column="0" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/k2/integrations/ebay/src/main/scala/com/bigcommerce/k2/ebay/EbayOrderPollingActor.scala" timestamp="1502397944013">
         <mark key="[" line="87" column="71" />
@@ -284,6 +284,11 @@
         <mark key="]" line="2" column="111" />
         <mark key="^" line="2" column="111" />
         <mark key="." line="2" column="111" />
+      </file>
+      <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/routes/handlers/auth/main.go" timestamp="1510072655476">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-onboarding/src/app/_common/templates/directives/square-import-card.tpl.html" timestamp="1507574569129">
         <mark key="[" line="0" column="18" />
@@ -787,9 +792,6 @@
         <mark key="^" line="14" column="12" />
         <mark key="." line="14" column="12" />
       </file>
-      <file name="$USER_HOME$/labs/ng-labs/src/app/accounts/create/components/account-created/account-created.scss" timestamp="1509132042081">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/containers/settings-form/containers/create-shipping-policy/shared/create-shipping-policy.actions.js" timestamp="1499720241029">
         <mark key="[" line="11" column="56" />
         <mark key="]" line="11" column="70" />
@@ -820,7 +822,7 @@
         <mark key="^" line="47" column="20" />
         <mark key="." line="47" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510068652042">
+      <file name="/Dummy.txt" timestamp="1510071921217">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
@@ -1038,11 +1040,11 @@
         <mark key="^" line="15" column="28" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/routes/handlers/appointments/main.go" timestamp="1503930900411">
-        <mark key="[" line="179" column="9" />
-        <mark key="]" line="179" column="8" />
-        <mark key="." line="179" column="8" />
-        <mark key="^" line="179" column="8" />
+      <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/routes/handlers/appointments/main.go" timestamp="1510072545675">
+        <mark key="[" line="70" column="56" />
+        <mark key="]" line="72" column="64" />
+        <mark key="." line="72" column="64" />
+        <mark key="^" line="72" column="64" />
       </file>
       <file name="$USER_HOME$/labs/labs-fe-bb/app/javascripts/utils/FacebookOAuth.js" timestamp="1495906592044">
         <mark key="[" line="79" column="74" />
@@ -1368,10 +1370,11 @@
         <mark key="." line="16" column="18" />
         <mark key="^" line="16" column="18" />
       </file>
-      <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/utils/loggly.go" timestamp="1510068468408">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/utils/loggly.go" timestamp="1510071594897">
+        <mark key="[" line="19" column="24" />
+        <mark key="]" line="19" column="27" />
+        <mark key="^" line="19" column="27" />
+        <mark key="." line="19" column="27" />
       </file>
       <file name="$USER_HOME$/labs/labs-fe-bb/app/javascripts/admin/AdminCalendarView.js" timestamp="1497452956285">
         <mark key="[" line="1" column="79" />
@@ -1696,8 +1699,11 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/routes/main.go" timestamp="1510068538723">
-        <mark key="[" line="134" column="10" />
+      <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/routes/main.go" timestamp="1510071796044">
+        <mark key="[" line="135" column="0" />
+        <mark key="]" line="135" column="0" />
+        <mark key="^" line="133" column="32" />
+        <mark key="." line="135" column="0" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/provider-settings-form/ebay/shipping-and-returns/shipping-options/domestic/ebay-domestic-shipping-options.directive.js" timestamp="1491581714315">
         <mark key="[" line="9" column="38" />
@@ -1735,8 +1741,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="12" column="11" />
       </file>
-      <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/utils/main.go" timestamp="1510069709783">
-        <mark key="[" line="32" column="33" />
+      <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/utils/main.go" timestamp="1510072080044">
+        <mark key="[" line="37" column="73" />
+        <mark key="]" line="37" column="58" />
+        <mark key="^" line="37" column="58" />
+        <mark key="." line="37" column="58" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/shared/errors/errors.actions.js" timestamp="1500923985840">
         <mark key="[" line="9" column="27" />
@@ -3004,9 +3013,6 @@
         <mark key="^" line="1" column="10" />
         <mark key="." line="1" column="10" />
       </file>
-      <file name="$USER_HOME$/labs/ng-labs/src/app/accounts/create/components/components.module.js" timestamp="1509132311522">
-        <mark key="[" line="0" column="93" />
-      </file>
       <file name="$USER_HOME$/labs/labs-fe-bb/app/javascripts/appointments/create/CaptureDoctorView.js" timestamp="1497453057680">
         <mark key="[" line="1" column="94" />
         <mark key="]" line="1" column="95" />
@@ -3079,11 +3085,11 @@
         <mark key="^" line="5" column="17" />
         <mark key="." line="5" column="17" />
       </file>
-      <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/routes/handlers/auth/oid.go" timestamp="1510004464491">
-        <mark key="[" line="33" column="46" />
-        <mark key="]" line="33" column="64" />
-        <mark key="." line="33" column="64" />
-        <mark key="^" line="33" column="64" />
+      <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/routes/handlers/auth/oid.go" timestamp="1510071902768">
+        <mark key="[" line="20" column="37" />
+        <mark key="]" line="21" column="34" />
+        <mark key="." line="21" column="34" />
+        <mark key="^" line="21" column="34" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/modals/prevalidated-products-modal/prevalidated-products-modal.tpl.html" timestamp="1508859956246">
         <mark key="[" line="0" column="12" />
@@ -4013,16 +4019,16 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>StatusOK</text>
+        <text>paymentError</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqc2NoYW5uZWxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CWlmICFjaGVja0FkbWluKGNvbnRleHQpIHsKCQljb250ZXh0LkpTT04oaHR0cC5TdGF0dXNVbmF1dGhvcml6ZWQsIGdpbi5Ie30pCgkJcmV0dXJuCgl9Cg==</text>
+        <text encoding="base64">CQlsb2dnbHlEYXRhWyJwYXltZW50UmVzcCJdID0gcGF5bWVudFJlc3AuUmVmZXJlbmNlSWQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWFkZHJlc3MgOj0gY29udGV4dC5HZXRIZWFkZXIoIk9pZC1BZG1pbi1FbWFpbCIpCg==</text>
+        <text encoding="base64">Ly97Ci8vImFjY2Vzc190b2tlbiI6IjEvZkZBR1JOSnJ1MUZUejcwQnpoVDNaZyIsCi8vImV4cGlyZXNfaW4iOjM5MjAsCi8vInRva2VuX3R5cGUiOiJCZWFyZXIiLAovLyJyZWZyZXNoX3Rva2VuIjoiMS94RW9ETDRpVzNjeGxJN3lEYlNSRllORzAxa1ZLTTJDLTI1OUhPRjJhUWJJIgovL30K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -4043,19 +4049,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWlzQWRtaW4gOj0gZGIuSXNBZG1pbihhZGRyZXNzKQoKCWlmIGlzQWRtaW4gPT0gZmFsc2UgewoJCWNvbnRleHQuSlNPTihodHRwLlN0YXR1c1VuYXV0aG9yaXplZCwgZ2luLkh7fSkKCQlyZXR1cm4KCX0K</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKCJuZWVkcyBhcHBvaW50bWVudCIsIG5lZWRzQXBwb2ludG1lbnQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CSJnaXRodWIuY29tL2dvZ28vcHJvdG9idWYvdGVzdC9kYXRhIgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">CWZtdC5QcmludGxuKCJiZWZvcmUgbmVlZHMgYXBwb2ludG1lbnQiKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CWZtdC5QcmludGxuKCJJbmNvbWlnbiByZXF1ZXN0IiwganNvblJlcSkK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CWlmIGlzQWRtaW4gPT0gZmFsc2UgewoJCWNvbnRleHQuSlNPTihodHRwLlN0YXR1c1VuYXV0aG9yaXplZCwgZ2luLkh7fSkKCQlyZXR1cm4KCX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4175,10 +4181,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQl7CgkJCXVybDogYmFzZVVybCArICIvZGVidWcvbG9nZ2x5IiwKCQkJbWV0aG9kOiAiUE9TVCIsCgkJCWhhbmRsZXI6IGRlYnVnLlBvc3RUb0xvZ2dseSwKCQl9LAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWFkZHJlc3MgOj0gY29udGV4dC5HZXRIZWFkZXIoIk9pZC1BZG1pbi1FbWFpbCIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

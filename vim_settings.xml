@@ -749,11 +749,11 @@
         <mark key="." line="8" column="30" />
         <mark key="^" line="8" column="30" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/amazon/settings/settings-tab/containers/settings-form/components/brand-listing-preference/brand-listing-preference.component.js" timestamp="1510260091413">
-        <mark key="[" line="48" column="61" />
-        <mark key="]" line="48" column="60" />
-        <mark key="." line="48" column="60" />
-        <mark key="^" line="48" column="60" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/amazon/settings/settings-tab/containers/settings-form/components/brand-listing-preference/brand-listing-preference.component.js" timestamp="1510261458107">
+        <mark key="[" line="31" column="29" />
+        <mark key="]" line="32" column="26" />
+        <mark key="." line="32" column="26" />
+        <mark key="^" line="32" column="26" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-onboarding/src/app/_common/templates/modals/ebay-upsell-modal.tpl.html" timestamp="1501166396310">
         <mark key="[" line="16" column="19" />
@@ -882,11 +882,11 @@
         <mark key="^" line="20" column="49" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/amazon/settings/settings-tab/containers/settings-form/components/brand-listing-preference/brand-listing-preference.tpl.html" timestamp="1510260124911">
-        <mark key="[" line="26" column="96" />
-        <mark key="]" line="26" column="101" />
-        <mark key="." line="26" column="101" />
-        <mark key="^" line="26" column="101" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/amazon/settings/settings-tab/containers/settings-form/components/brand-listing-preference/brand-listing-preference.tpl.html" timestamp="1510261103098">
+        <mark key="[" line="12" column="88" />
+        <mark key="]" line="12" column="93" />
+        <mark key="." line="12" column="93" />
+        <mark key="^" line="12" column="93" />
       </file>
       <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/create/coming-soon/coming-soon.config.js" timestamp="1498089868583">
         <mark key="[" line="12" column="44" />
@@ -4155,7 +4155,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>preference</text>
+        <text>filter</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqc2NoYW5uZWxcPg==</text>
@@ -4164,7 +4164,7 @@
         <text encoding="base64">ICAgICAgICB0aGlzLmFtYXpvbkJyYW5kTGlzdGluZ1ByZWZlcmVuY2VBY3Rpb25zLnNldEJyYW5kKHsgYnJhbmRJZCwgcHJlZmVyZW5jZUlkIH0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5icmFuZHM7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -4185,19 +4185,19 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBjaG9zZW5CcmFuZHMgPSBfLm1hcCh0aGlzLnByZWZlcmVuY2VzLCBwcmVmZXJlbmNlID0+IHByZWZlcmVuY2UuYnJhbmQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG9uUHJlZmVyZW5jZUNoYW4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygyLCBicmFuZElkLCBwcmVmZXJlbmNlSWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygxLCBkLCBwcmVmZXJlbmNlSWQpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgIG9uUHJlZmVyZW5jZUNoYW4K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4317,10 +4317,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygyLCBicmFuZElkLCBwcmVmZXJlbmNlSWQpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBwcmVmZXJlbmNlcyA9IHN0YXRlLnByZWZlcmVuY2VzLnNsaWNlKCkuc3BsaWNlKHByZWZlcmVuY2VJbmRleCwgMSwgcHJlZmVyZW5jZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygxLCBkLCBwcmVmZXJlbmNlSWQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

@@ -851,7 +851,7 @@
         <mark key="^" line="47" column="20" />
         <mark key="." line="47" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510249856220">
+      <file name="/Dummy.txt" timestamp="1510255916650">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
@@ -882,11 +882,11 @@
         <mark key="^" line="20" column="49" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/amazon/settings/settings-tab/containers/settings-form/components/brand-listing-preference/brand-listing-preference.tpl.html" timestamp="1510246746824">
-        <mark key="[" line="30" column="115" />
-        <mark key="]" line="30" column="122" />
-        <mark key="." line="30" column="122" />
-        <mark key="^" line="30" column="122" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/amazon/settings/settings-tab/containers/settings-form/components/brand-listing-preference/brand-listing-preference.tpl.html" timestamp="1510255842858">
+        <mark key="[" line="44" column="58" />
+        <mark key="]" line="44" column="32" />
+        <mark key="." line="44" column="32" />
+        <mark key="^" line="44" column="32" />
       </file>
       <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/create/coming-soon/coming-soon.config.js" timestamp="1498089868583">
         <mark key="[" line="12" column="44" />
@@ -3006,11 +3006,11 @@
         <mark key="^" line="6" column="36" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/sass/components/amazonBrandListingPreference/_amazonBrandListingPreference.scss" timestamp="1510160176565">
-        <mark key="[" line="8" column="39" />
-        <mark key="]" line="8" column="39" />
-        <mark key="^" line="8" column="39" />
-        <mark key="." line="8" column="39" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/sass/components/amazonBrandListingPreference/_amazonBrandListingPreference.scss" timestamp="1510255946271">
+        <mark key="[" line="25" column="23" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="17" column="4" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/modals/listing-errors-dialog/listing-errors-dialog.tpl.html" timestamp="1502120429428">
         <mark key="[" line="20" column="82" />
@@ -3630,7 +3630,7 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/sass/components/amazonSettingsForm/_amazonSettingsForm.scss" timestamp="1495062235476">
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/sass/components/amazonSettingsForm/_amazonSettingsForm.scss" timestamp="1510255926504">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -4164,7 +4164,7 @@
         <text encoding="base64">ICAgICAgICAgICAgc3B5T24oY3RybCwgJ29uU2VsZWN0ZWRDYXRlZ29yeUNoYW5nZScpLmFuZC5jYWxsRmFrZSgoKSA9PiBjYXRlZ29yeURlZmVycmVkLnByb21pc2UpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxldCBzcGllczsK</text>
+        <text encoding="base64">ICAgIHN2ZyB7CiAgICAgICAgZmlsbDogcmVkOwogICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -4182,22 +4182,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxldCBnbG9iYWxEZWZlcnJlZDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdj4KICAgICAgICAgICAgICAgIDxzcGFuIGlkPSJhbWF6b25CcmFuZExpc3RpbmdQcmVmZXJlbmNlLWRlbGV0ZVByZWZlcmVuY2UiIGNsYXNzPSJpcy1zck9ubHkiPkRlbGV0ZSB0aGlzIGJyYW5kIGxpc3RpbmcgcHJlZmVyZW5jZTwvc3Bhbj4KICAgICAgICAgICAgICAgIDxhIGFyaWEtZGVzY3JpYmVkYnk9ImFtYXpvbkJyYW5kTGlzdGluZ1ByZWZlcmVuY2UtZGVsZXRlUHJlZmVyZW5jZSIgaHJlZj0iIyIgbmctY2xpY2s9IiRjdHJsLmRlbGV0ZVByZWZlcmVuY2VDbGljaygkZXZlbnQpIj4KICAgICAgICAgICAgICAgICAgICA8aWNvbiBjbGFzcz0iYW1hem9uQnJhbmRMaXN0aW5nUHJlZmVyZW5jZS1kZWxldGVQcmVmZXJlbmNlSWNvbiIgZ2x5cGg9ImljLXJlbW92ZS1jaXJjbGUiPjwvaWNvbj4KICAgICAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBkZWZlcnJlZCA9ICRxLmRlZmVyKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzZWxlY3QgbmFtZT0iYW1hem9uQnJhbmRMaXN0aW5nUHJlZmVyZW5jZS1wcmVmZXJlbmNlLXt7ICRpbmRleCB9fSIKICAgICAgICAgICAgICAgICAgICAgICAgbmctbW9kZWw9IiRjdHJsLnByZWZlcmVuY2VzWyRpbmRleF0ucHJlZmVyZW5jZSIKICAgICAgICAgICAgICAgICAgICAgICAgaWQ9ImFtYXpvbkJyYW5kTGlzdGluZ1ByZWZlcmVuY2UtcHJlZmVyZW5jZS17eyAkaW5kZXggfX0iCiAgICAgICAgICAgICAgICAgICAgICAgIG5nLW9wdGlvbnM9InByZWZlcmVuY2UubmFtZSBmb3IgcHJlZmVyZW5jZSBpbiAkY3RybC5nZXRQcmVmZXJlbmNlVHlwZXMoKSB0cmFjayBieSBwcmVmZXJlbmNlLmlkIgogICAgICAgICAgICAgICAgICAgICAgICBjbGFzcz0iZm9ybS1zZWxlY3QiPgogICAgICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9IiI+U2VsZWN0IGEgcHJlZmVyZW5jZTwvb3B0aW9uPgogICAgICAgICAgICAgICAgPC9zZWxlY3Q+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkcSA9ICRpbmplY3Rvci5nZXQoJyRxJyk7CiAgICAgICAgJHJvb3RTY29wZSA9ICRpbmplY3Rvci5nZXQoJyRyb290U2NvcGUnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCAkc3RhdGVQYXJhbXMgPSAkaW5qZWN0b3IuZ2V0KCckc3RhdGVQYXJhbXMnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxpY29uIGNsYXNzPSJhbWF6b25CcmFuZExpc3RpbmdQcmVmZXJlbmNlLWRlbGV0ZVByZWZlcmVuY2VJY29uIiBnbHlwaD0iaWMtcmVtb3ZlLWNpcmNsZSI+PC9pY29uPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCAkc3RhdGUgPSB7CiAgICAgICAgICAgICRvbjogYW5ndWxhci5ub29wLAogICAgICAgIH07Cg==</text>
+        <text encoding="base64">ICAgIGZpbGw6IHJlZDsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4317,10 +4317,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxldCBzcGllczsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJlZm9yZUVhY2goKCkgPT4gewoKICAgICAgICBjdHJsID0gbmV3IEViYXlMaXN0aW5nQ3RybCgKICAgICAgICAgICAgcGFyYW1zLiRtb2RhbCwKICAgICAgICAgICAgcGFyYW1zLiRuZ1JlZHV4LAogICAgICAgICAgICBwYXJhbXMuJHEsCiAgICAgICAgICAgIHBhcmFtcy4kc2NvcGUsCiAgICAgICAgICAgIHBhcmFtcy4kc3RhdGUsCiAgICAgICAgICAgIHBhcmFtcy4kc3RhdGVQYXJhbXMsCiAgICAgICAgICAgIHBhcmFtcy5CQ19BUFBfQ09ORklHLAogICAgICAgICAgICBwYXJhbXMuY2F0ZWdvcmllcywKICAgICAgICAgICAgcGFyYW1zLmNoYW5uZWxDb25maWcsCiAgICAgICAgICAgIHBhcmFtcy5jaGFubmVscywKICAgICAgICAgICAgcGFyYW1zLmNoYW5uZWxzUmVxdWlyZW1lbnRzLAogICAgICAgICAgICBwYXJhbXMuZWJheUNhdGVnb3J5Q2hvb3NlckFjdGlvbnMsCiAgICAgICAgICAgIHBhcmFtcy5lYmF5SXRlbVNwZWNpZmljc0FjdGlvbnMsCiAgICAgICAgICAgIHBhcmFtcy5lYmF5TGlzdGluZ0FjdGlvbnMsCiAgICAgICAgICAgIHBhcmFtcy5lYmF5TGlzdGluZ0RhdGEsCiAgICAgICAgICAgIHBhcmFtcy5lYmF5U2hpcHBpbmdQb2xpY2llcywKICAgICAgICAgICAgcGFyYW1zLmViYXlSZXR1cm5Qb2xpY2llcywKICAgICAgICAgICAgcGFyYW1zLmZsYXNoTWVzc2FnZXMsCiAgICAgICAgICAgIHBhcmFtcy5saXN0aW5nRXJyb3JzLAogICAgICAgICAgICBwYXJhbXMubGlzdGluZ3MsCiAgICAgICAgICAgIHBhcmFtcy5wcm9kdWN0LAogICAgICAgICAgICBwYXJhbXMucHJvZHVjdExpc3RTdGF0ZQogICAgICAgICk7CgogICAgICAgIGN0cmwuY2hhbm5lbEluc3RhbmNlID0geyBpZDogOSB9OwogICAgICAgIGN0cmwuZGVmYXVsdFNoaXBwaW5nUG9saWN5ID0ge307CgogICAgICAgIGN0cmwgPSBPYmplY3QuYXNzaWduKGN0cmwsIHsgZWJheUxpc3RpbmdBY3Rpb25zLCBlYmF5SXRlbVNwZWNpZmljc0FjdGlvbnMsIH0pOwogICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgIGxldCBnbG9iYWxEZWZlcnJlZDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

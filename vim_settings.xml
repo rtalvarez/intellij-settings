@@ -905,11 +905,11 @@
         <mark key="^" line="2" column="32" />
         <mark key="." line="2" column="32" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/modals/csv-listing-report/csv-listing-report.controller.js" timestamp="1510676095746">
-        <mark key="[" line="8" column="20" />
-        <mark key="]" line="7" column="160" />
-        <mark key="." line="7" column="160" />
-        <mark key="^" line="7" column="160" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/modals/csv-listing-report/csv-listing-report.controller.js" timestamp="1510677466272">
+        <mark key="[" line="7" column="174" />
+        <mark key="]" line="7" column="173" />
+        <mark key="." line="7" column="173" />
+        <mark key="^" line="7" column="173" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/bigcommerce/config/config.default.php" timestamp="1501179553235">
         <mark key="[" line="787" column="17" />
@@ -3283,11 +3283,11 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="36" column="3" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/modals/csv-listing-report/csv-listing-report.tpl.html" timestamp="1510676420106">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="19" column="35" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/modals/csv-listing-report/csv-listing-report.tpl.html" timestamp="1510677623536">
+        <mark key="[" line="19" column="18" />
+        <mark key="]" line="19" column="17" />
+        <mark key="^" line="19" column="17" />
+        <mark key="." line="19" column="17" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/provider-settings-form/amazon/amazon-brand-config/amazon-brand-config.directive.js" timestamp="1494454066429">
         <mark key="[" line="15" column="9" />
@@ -4248,7 +4248,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>Blah</text>
+        <text encoding="base64">ZG93bmxvYWQg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqc2NoYW5uZWxcPg==</text>

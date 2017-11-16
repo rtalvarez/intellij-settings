@@ -3079,10 +3079,11 @@
         <mark key="^" line="67" column="11" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/labs/ng-labs/src/app/index.html" timestamp="1510846719457">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/labs/ng-labs/src/app/index.html" timestamp="1510847792557">
+        <mark key="[" line="23" column="113" />
+        <mark key="]" line="22" column="50" />
+        <mark key="." line="22" column="50" />
+        <mark key="^" line="22" column="50" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/listing/ebay/directives/choose-shipping-policy/choose-shipping-policy.tpl.html" timestamp="1497901857823">
         <mark key="[" line="20" column="46" />
@@ -4343,7 +4344,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>message</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqc2NoYW5uZWxcPg==</text>

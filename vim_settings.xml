@@ -2537,11 +2537,11 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="16" column="30" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/directives/product-list-filters/product-list-filters.controller.js" timestamp="1510934692554">
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/directives/product-list-filters/product-list-filters.controller.js" timestamp="1510940499579">
         <mark key="'" line="92" column="17" />
         <mark key="[" line="150" column="29" />
-        <mark key="]" line="150" column="32" />
-        <mark key="." line="150" column="32" />
+        <mark key="]" line="150" column="29" />
+        <mark key="." line="150" column="29" />
         <mark key="^" line="150" column="32" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/containers/settings-form/components/multiple-shipping-policies/multiple-shipping-policies.tpl.html" timestamp="1501013753627">
@@ -4442,7 +4442,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">ZGlzYWJsZWQg</text>
+        <text>1000</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqc2NoYW5uZWxcPg==</text>

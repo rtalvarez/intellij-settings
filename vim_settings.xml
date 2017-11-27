@@ -1999,11 +1999,12 @@
         <mark key="." line="32" column="54" />
         <mark key="^" line="32" column="54" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/amazon/settings/settings-tab/containers/settings-form/settings-form.controller.js" timestamp="1510157582647">
-        <mark key="[" line="97" column="104" />
-        <mark key="]" line="98" column="25" />
-        <mark key="^" line="98" column="25" />
-        <mark key="." line="98" column="25" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/amazon/settings/settings-tab/containers/settings-form/settings-form.controller.js" timestamp="1511808634575">
+        <mark key="'" line="293" column="113" />
+        <mark key="[" line="295" column="0" />
+        <mark key="]" line="295" column="0" />
+        <mark key="^" line="293" column="85" />
+        <mark key="." line="295" column="0" />
       </file>
       <file name="$USER_HOME$/labs/ng-labs/src/app/contact/components/components.module.js" timestamp="1498015249042">
         <mark key="[" line="0" column="73" />
@@ -4307,7 +4308,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="0" filename="$USER_HOME$/bigcommerce-app-vm/codebases/ng-onboarding/src/app/_common/controllers/getting-started.js" />
       <jump line="26" column="0" filename="$USER_HOME$/bigcommerce-app-vm/codebases/ng-onboarding/src/app/_common/services/square/square.service.js" />
       <jump line="111" column="7" filename="$USER_HOME$/bigcommerce-app-vm/codebases/ng-onboarding/src/app/_common/services/square/square.service.js" />
       <jump line="72" column="12" filename="$USER_HOME$/bigcommerce-app-vm/codebases/ng-onboarding/src/app/_common/controllers/square-import-card.js" />
@@ -4407,6 +4407,7 @@
       <jump line="22" column="45" filename="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/directives/product-list-filters/product-list-filters.controller.js" />
       <jump line="80" column="17" filename="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/directives/product-list-filters/product-list-filters.controller.js" />
       <jump line="27" column="24" filename="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/services/listings/listings.service.js" />
+      <jump line="293" column="113" filename="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/amazon/settings/settings-tab/containers/settings-form/settings-form.controller.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -4419,7 +4420,7 @@
         <text encoding="base64">ICAgIDxidXR0b24gY2xhc3M9ImJ1dHRvbiBidXR0b24tLXByaW1hcnkiIG5nLWlmPSIkY3RybC5pc0xvYWRpbmciIGRpc2FibGVkIHRyYW5zbGF0ZT4KICAgICAgICBMb2FkaW5nIC4uLgogICAgPC9idXR0b24+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBMb2FkaW5nIC4uLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gdGhpcy5fY2hhbm5lbENvbmZpZy51cHNlcnRDaGFubmVsQ29uZmlncyh0aGlzLnByb3ZpZGVyTmFtZSwgdXBkYXRlZENoYW5uZWxDb25maWdzKSwK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -4437,22 +4438,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgWW91ciByZXBvcnQgaXMgcmVhZHkhIENsaWNrIGJlbG93IHRvIGRvd25sb2FkIGl0Lgo=</text>
+        <text encoding="base64">ICAgICAgICBMb2FkaW5nIC4uLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgWW91ciByZXBvcnQgaXMgcmVhZHkhIENsaWNrIGJlbG93IHRvIGRvd25sb2FkIGl0Lgo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgWW91ciByZXBvcnQgaXMgcmVhZHkhIENsaWNrIGJlbG93IHRvIGRvd25sb2FkIGl0Lgo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDI6MzAgUE0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDIzOTIzNTk4Mzc0OTYzNgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDI6MzAgUE0K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4572,10 +4573,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoZWNhcG5AcGlyYXRlcy5vcmcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDIzOTIzNTk4Mzc0OTYzNgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEVybmVzdG8gUGVyZXoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoZWNhcG5AcGlyYXRlcy5vcmcK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>

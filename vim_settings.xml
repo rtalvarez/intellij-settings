@@ -570,11 +570,11 @@
         <mark key="^" line="46" column="33" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/db/email.go" timestamp="1511986698559">
-        <mark key="[" line="55" column="40" />
-        <mark key="]" line="50" column="33" />
-        <mark key="." line="50" column="33" />
-        <mark key="^" line="50" column="33" />
+      <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/db/email.go" timestamp="1511987409603">
+        <mark key="[" line="123" column="16" />
+        <mark key="]" line="129" column="22" />
+        <mark key="." line="129" column="22" />
+        <mark key="^" line="129" column="22" />
       </file>
       <file name="$USER_HOME$/labs/ng-labs/src/app/contact/contact.module.js" timestamp="1498014693203">
         <mark key="[" line="4" column="46" />
@@ -870,7 +870,7 @@
         <mark key="^" line="47" column="20" />
         <mark key="." line="47" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511986528059">
+      <file name="/Dummy.txt" timestamp="1511987178526">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
@@ -1128,11 +1128,11 @@
         <mark key="^" line="15" column="28" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/routes/handlers/appointments/main.go" timestamp="1510605692442">
-        <mark key="[" line="187" column="55" />
-        <mark key="]" line="188" column="68" />
-        <mark key="." line="188" column="68" />
-        <mark key="^" line="188" column="68" />
+      <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/routes/handlers/appointments/main.go" timestamp="1511988072153">
+        <mark key="[" line="57" column="28" />
+        <mark key="]" line="57" column="33" />
+        <mark key="." line="57" column="33" />
+        <mark key="^" line="57" column="33" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/sass/components/csvListingReportModal/_csvListingReportModal.scss" timestamp="1510935414399">
         <mark key="[" line="14" column="23" />
@@ -1302,10 +1302,11 @@
         <mark key="^" line="10" column="30" />
         <mark key="." line="10" column="30" />
       </file>
-      <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/db/appointments.go" timestamp="1511986350301">
-        <mark key="[" line="234" column="0" />
-        <mark key="]" line="234" column="0" />
-        <mark key="." line="234" column="0" />
+      <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/db/appointments.go" timestamp="1511988257416">
+        <mark key="[" line="26" column="66" />
+        <mark key="]" line="20" column="33" />
+        <mark key="." line="20" column="33" />
+        <mark key="^" line="20" column="33" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/sass/components/ebayImportTab/_component.scss" timestamp="1508340414346">
         <mark key="[" line="0" column="23" />
@@ -3898,9 +3899,9 @@
         <mark key="^" line="90" column="62" />
         <mark key="." line="90" column="62" />
       </file>
-      <file name="$USER_HOME$/labs/labs-email/src/partials/order-v2/order-v2-studies.html" timestamp="1510869055691">
-        <mark key="[" line="5" column="14" />
-        <mark key="]" line="13" column="37" />
+      <file name="$USER_HOME$/labs/labs-email/src/partials/order-v2/order-v2-studies.html" timestamp="1511987133179">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="9" column="54" />
         <mark key="." line="13" column="37" />
         <mark key="^" line="13" column="37" />
       </file>
@@ -4160,6 +4161,12 @@
         <mark key="]" line="23" column="0" />
         <mark key="^" line="22" column="1" />
         <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/utils/random.go" timestamp="1511988008029">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="10" column="28" />
       </file>
       <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/create/create-appointment.config.js" timestamp="1510693673986">
         <mark key="[" line="14" column="20" />
@@ -4444,16 +4451,16 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>false</text>
+        <text>Studies</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqc2NoYW5uZWxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICQkQVBQT0lOVE1FTlRfVElNRQo=</text>
+        <text encoding="base64">ICAgIDwhLS08dHI+PHRkPlNoaXAncyBDYW5ub248L3RkPjx0ZD4kMTAwPC90ZD48L3RyPi0tPgogICAgPCEtLTx0cj48dGQ+U2hpcCdzIENhbm5vbjwvdGQ+PHRkPiQxMDA8L3RkPjwvdHI+LS0+CiAgICA8IS0tPHRyPjx0ZD5TaGlwJ3MgQ2Fubm9uPC90ZD48dGQ+JDEwMDwvdGQ+PC90cj4tLT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -4471,22 +4478,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWlmIGlzQW5ub255bW91cyB7CgkJcXVlcnkgPSBgaW5zZXJ0IGludG8gQW5ub255bW91c0RvY3RvcnMgKGZpcnN0TmFtZSwgbGFzdE5hbWUpCgkJCXZhbHVlcyAoPywgPylgCgl9IGVsc2Ugewo=</text>
+        <text encoding="base64">CWpzb25SZXEuQXBwb2ludG1lbnQuU3RhdHVzID0gCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CSJBbm5vbnltb3VzRG9jdG9ycyI6IGFubm9ueW1vdXNEb2N0b3JzU2NoZW1hLAoJIkFubm9ueW1vdXNQYXRpZW50cyI6IGFubm9ueW1vdXNQYXRpZW50c1NjaGVtYSwK</text>
+        <text encoding="base64">CSJmbXQiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnVuYyBHZW5lcmF0ZUNvbmZpcm1hdGlvbkNvZGUobGVuIGludCkgewoJZm9yIGkgOj0gMDsgaSA8IGxlbjsgaSsrIHsKCQlmbXQuUHJpbnRsbihlbmNvZGVUb1N0cmluZyg2KSkKCX0KfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CmZ1bmMgcHJvY2Vzc1BhdGllbnQoYXBwb2ludG1lbnQgKm1vZGVscy5BcHBvaW50bWVudCkgYm9vbCB7Cgl0eXBlIGFublBhdGllbnQgW11pbnRlcmZhY2V7fQoKCWlmIGFwcG9pbnRtZW50LlBhdGllbnQuSWQgPT0gMCB7CgkJYW5uUGF0aWVudFF1ZXJ5IDo9ICJpbnNlcnQgaW50byBBbm5vbnltb3VzUGF0aWVudHMgKGRhdGVPZkJpcnRoLCBmaXJzdE5hbWUsIGxhc3ROYW1lKSB2YWx1ZXMgKD8sID8sID8pIgoJCWFublBhdGllbnREYXRhIDo9IGFublBhdGllbnR7CgkJCWFwcG9pbnRtZW50LlBhdGllbnQuRGF0ZU9mQmlydGgsCgkJCWFwcG9pbnRtZW50LlBhdGllbnQuRmlyc3ROYW1lLAoJCQlhcHBvaW50bWVudC5QYXRpZW50Lkxhc3ROYW1lLAoJCX0KCgkJcGF0aWVudElkIDo9IEV4ZWNTdGF0ZW1lbnQoYW5uUGF0aWVudFF1ZXJ5LCBhbm5QYXRpZW50RGF0YSkKCQlhcHBvaW50bWVudC5QYXRpZW50LklkID0gcGF0aWVudElkCgoJCXJldHVybiB0cnVlCgl9CgoJcmV0dXJuIGZhbHNlCn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnVuYyBwcm9jZXNzRG9jdG9yKGFwcG9pbnRtZW50ICptb2RlbHMuQXBwb2ludG1lbnQpIGJvb2wgewoJdHlwZSBhbm5Eb2N0b3IgW11pbnRlcmZhY2V7fQoKCWlmIGFwcG9pbnRtZW50LkRvY3Rvci5JZCA9PSAwIHsKCQlhbm5Eb2N0b3JRdWVyeSA6PSAiaW5zZXJ0IGludG8gQW5ub255bW91c0RvY3RvcnMgKGZpcnN0TmFtZSwgbGFzdE5hbWUpIHZhbHVlcyAoPywgPykiCgkJYW5uRG9jdG9yRGF0YSA6PSBhbm5Eb2N0b3J7CgkJCWFwcG9pbnRtZW50LkRvY3Rvci5GaXJzdE5hbWUsCgkJCWFwcG9pbnRtZW50LkRvY3Rvci5MYXN0TmFtZSwKCQl9CgoJCWRvY3RvcklkIDo9IEV4ZWNTdGF0ZW1lbnQoYW5uRG9jdG9yUXVlcnksIGFubkRvY3RvckRhdGEpCgkJYXBwb2ludG1lbnQuRG9jdG9yLklkID0gZG9jdG9ySWQKCgkJcmV0dXJuIHRydWUKCX0KCglyZXR1cm4gZmFsc2UKfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0ICJmbXQiCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4606,7 +4613,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQl1cGRhdGVFbnRpdGllcyA9IGFwcGVuZCh1cGRhdGVFbnRpdGllcywgImlzQW5ub255bW91c0RvY3RvciA9ID8iKQoJCXVwZGF0ZVZhbHVlcyA9IGFwcGVuZCh1cGRhdGVWYWx1ZXMsIGlzQW5ub255bW91cykK</text>
+        <text encoding="base64">CS8vIFRPRE86IE1pc3Npbmcgd29yayBvbiBlTWFpbHMgcmVhZHkgZm9yIHByb2QK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>

@@ -2415,6 +2415,12 @@
         <mark key="." line="47" column="1" />
         <mark key="^" line="47" column="1" />
       </file>
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/omni-elements/src/bce-provider-marketing-content/component.js" timestamp="1512585650399">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
+        <mark key="^" line="50" column="47" />
+      </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/provider-settings-form/amazon/amazon-brand-config/amazon-brand-config.controller.js" timestamp="1495728935332">
         <mark key="[" line="69" column="65" />
         <mark key="]" line="69" column="62" />
@@ -3929,6 +3935,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="1" column="21" />
       </file>
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/omni-elements/src/bce-provider-marketing-content/story.js" timestamp="1512585817085">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="14" column="46" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/listing/amazon/components/product-overrides/product-overrides.component.js" timestamp="1512489703234">
         <mark key="[" line="6" column="17" />
         <mark key="]" line="18" column="0" />
@@ -4153,6 +4165,12 @@
         <mark key="]" line="39" column="0" />
         <mark key="^" line="47" column="70" />
         <mark key="." line="39" column="0" />
+      </file>
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/omni-elements/src/bce-provider-marketing-content/styles.scss" timestamp="1512585302187">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="201" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/services/channels-requirements/amazon/amazon-requirements.service.js" timestamp="1505161138335">
         <mark key="[" line="282" column="0" />
@@ -4502,16 +4520,16 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IV8uaXNFbXB0eShpZCkgJiYgaWQgIT09IDA=</text>
+        <text>one</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqc2NoYW5uZWxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogU2V0cyBhIGxpc3RpbmcgcHJlZmVyZW5jZSAobGluaywgbGluay9zeW5jKSBzcGVjaWZpZWQgYnkgYSByb3cgaW5kZXgKICAgICAqIEBwYXJhbSB7T2JqZWN0fSBwYXlsb2FkCiAgICAgKiBAcGFyYW0ge051bWJlcn0gcGF5bG9hZC5pbmRleCBUaGUgaW5kZXggb2YgdGhlIHJvdyB0byBkZWxldGUgdGhlIHByZWZlcmVuY2UKICAgICAqIEBwYXJhbSB7U3RyaW5nfSBwYXlsb2FkLmNoYW5uZWwgVGhlIGNoYW5uZWwgdG8gcGVyZm9ybSB0aGUgY2hhbmdlcyB0bwogICAgICogQHBhcmFtIHtTdHJpbmd9IHBheWxvYWQucHJlZmVyZW5jZVR5cGUgVGhlIHByZWZlcmVuY2UgdHlwZSB0aGF0IHdhcyBjaG9zZW4KICAgICAqIEByZXR1cm5zIHt7dHlwZSwgcGF5bG9hZDogKn19CiAgICAgKi8K</text>
+        <text encoding="base64">ICAgICAgICB0ZXh0OiAnRmVhdHVyZSBudW1iZXIgb25lIGlzIHZlcnkgZ29vZCcsCiAgICAgICAgdGl0bGU6ICdGZWF0dXJlIG51bWJlciAxJywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtYXRjaGVzWydDb3B5IG9mIENBUEU0NDQ0NDQ3MzMzMzMzMzMnXSA9ICdCMDEyNzgxMjM3JzsK</text>
+        <text encoding="base64">ICAgICAgc3VwcG9ydFVybDogJ2h0dHBzOi8vZ29vZ2xlLmNvbScsCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -4529,22 +4547,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygncicsIHJlc3BvbnNlKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3VybCcsIGJyYW5kVXJsVHBsKHsgaWQgfSkpOwo=</text>
+        <text encoding="base64">ICAgICAgaWQ6ICdpbnN0YWdyYW0nLAogICAgICBsb2dvVXJsOgogICAgICBuYW1lOiAnSW5zdGFncmFtJywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZmV0Y2ggYnJhYm5kJywgaWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAnaHR0cHM6Ly9taWNyb2FwcHMtaS5iaWdjb21tZXJjZS5jb20vZW1iZWRkYWJsZS92MS9zdGF0aWMvaW5zdGFncmFtLWxvZ28uc3ZnJywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtYXRjaGVzWydDb3B5IG9mIENBUEU0NDQ0NDQ3MzMzMzMzMzMnXSA9ICdCMDEyNzgxMjM3JzsK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CS8vZGF0YVsiJCRBUFBPSU5UTUVOVF9EQVkiXSA9IGRhdGUuV2Vla2RheSgpLlN0cmluZygpCg==</text>
+        <text encoding="base64">ICAgICAgICB7IHN0eWxlKHRoaXMsIHBhdHRlcm5MYWIoKSArIGNzcykgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkxOiBhcHBvaW50bWVudElkLAo=</text>
+        <text encoding="base64">ICB3aXRoQ29tcG9uZW50LAogIGRlZmF1bHRFdmVudHMsCik7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4664,10 +4682,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlmbXQuUHJpbnRsbigic3R1ZHkiLCBzdHVkeSwgc3R1ZHkuUHJpY2UsIHN0cmluZyhzdHVkeS5QcmljZSkpCg==</text>
+        <text encoding="base64">aW1wb3J0IGRlZmF1bHRFdmVudHMgZnJvbSAnLi4vLi4vdXRpbC9ldmVudHMnOwppbXBvcnQgbWl4aW4gZnJvbSAnLi4vLi4vdXRpbC9taXhpbic7CmltcG9ydCBwYXR0ZXJuTGFiIGZyb20gJy4uLy4uL3V0aWwvcGF0dGVybmxhYic7CmltcG9ydCBzdHlsZSBmcm9tICcuLi8uLi91dGlsL3N0eWxlJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKCJzdHVkeSIsIHN0dWR5KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>

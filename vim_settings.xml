@@ -51,11 +51,11 @@
         <mark key="^" line="9" column="39" />
         <mark key="." line="9" column="39" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/omni-elements/src/index.js" timestamp="1512587617267">
-        <mark key="[" line="15" column="11" />
-        <mark key="]" line="16" column="29" />
-        <mark key="^" line="16" column="29" />
-        <mark key="." line="16" column="29" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/omni-elements/src/index.js" timestamp="1512595616535">
+        <mark key="[" line="19" column="28" />
+        <mark key="]" line="19" column="33" />
+        <mark key="^" line="19" column="33" />
+        <mark key="." line="19" column="33" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/Gemfile" timestamp="1497456466943">
         <mark key="[" line="2" column="71" />
@@ -638,7 +638,7 @@
         <mark key="." line="136" column="0" />
         <mark key="^" line="136" column="0" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/omni-elements/stories/index.js" timestamp="1512587738724" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/omni-elements/stories/index.js" timestamp="1512595539474" />
       <file name="$USER_HOME$/labs/ng-labs/src/app/components/footer-bar/footer-bar.constants.js" timestamp="1498098661878">
         <mark key="[" line="11" column="21" />
         <mark key="]" line="11" column="39" />
@@ -898,7 +898,7 @@
         <mark key="^" line="47" column="20" />
         <mark key="." line="47" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512593928768">
+      <file name="/Dummy.txt" timestamp="1512595536392">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
@@ -3728,11 +3728,11 @@
         <mark key="." line="67" column="0" />
         <mark key="^" line="152" column="26" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/omni-elements/webpack/lib.js" timestamp="1512587647641">
-        <mark key="[" line="15" column="91" />
-        <mark key="]" line="15" column="91" />
-        <mark key="^" line="15" column="91" />
-        <mark key="." line="15" column="91" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/omni-elements/webpack/lib.js" timestamp="1512595638598">
+        <mark key="[" line="17" column="87" />
+        <mark key="]" line="17" column="98" />
+        <mark key="^" line="17" column="98" />
+        <mark key="." line="17" column="98" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/omni-elements/src/bce-provider-marketing-requirements/story.js" timestamp="1512593476367">
         <mark key="[" line="15" column="0" />
@@ -4546,13 +4546,13 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>You must visit google</text>
+        <text>header</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqc2NoYW5uZWxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPGxpIGNsYXNzPSJsaXN0SXRlbSI+CiAgICAgICAgICAgICAgICAgICAgPHN0cm9uZz57cmVxdWlyZW1lbnQudGV4dH08L3N0cm9uZz4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJyZXF1aXJlbWVudC1kZXRhaWxzLWNvbnRhaW5lciI+CiAgICAgICAgICAgICAgICAgICAgICA8cCBjbGFzcz0icmVxdWlyZW1lbnQtZGV0YWlscyI+e3JlcXVpcmVtZW50LnN1YnRleHR9PC9wPgogICAgICAgICAgICAgICAgICAgICAge3JlcXVpcmVtZW50LmxpbmtUZXh0ID8gKAogICAgICAgICAgICAgICAgICAgICAgICA8YQogICAgICAgICAgICAgICAgICAgICAgICAgIGNsYXNzPSJidXR0b24iCiAgICAgICAgICAgICAgICAgICAgICAgICAgaHJlZj17cmVxdWlyZW1lbnQubGlua1VybH0KICAgICAgICAgICAgICAgICAgICAgICAgICB0YXJnZXQ9Il9ibGFuayIKICAgICAgICAgICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICAgICAgICAgIHtyZXF1aXJlbWVudC5saW5rVGV4dH0KICAgICAgICAgICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICAgICAgICAgICAgKSA6IG51bGx9CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgIDwvbGk+Cg==</text>
+        <text encoding="base64">ICAgIEJjZVByb3ZpZGVyTWFya2V0aW5nSGVhZGVyOiByZXNvbHZlKHNvdXJjZURpcmVjdG9yeSwgJ2JjZS1wcm92aWRlci1tYXJrZXRpbmctaGVhZGVyJywgJ2luZGV4LmpzJyksCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAoCiAgICAgICAgICAgICAgICApOwo=</text>

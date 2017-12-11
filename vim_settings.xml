@@ -1991,10 +1991,6 @@
         <mark key="." line="24" column="10" />
         <mark key="^" line="24" column="10" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/omni-elements/src/bce-provider-marketing-header/story.js" timestamp="1513009537337">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="17" column="38" />
-      </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-onboarding/src/app/_common/services/app/app.service.js" timestamp="1499804578513">
         <mark key="[" line="25" column="18" />
         <mark key="]" line="25" column="18" />
@@ -2225,11 +2221,11 @@
         <mark key="^" line="0" column="32" />
         <mark key="." line="0" column="32" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/shared/channel-config/channel-config.actions.js" timestamp="1512071803358">
-        <mark key="[" line="268" column="0" />
-        <mark key="]" line="268" column="0" />
-        <mark key="." line="268" column="0" />
-        <mark key="^" line="273" column="73" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/shared/channel-config/channel-config.actions.js" timestamp="1513024190714">
+        <mark key="[" line="183" column="49" />
+        <mark key="]" line="184" column="20" />
+        <mark key="." line="184" column="20" />
+        <mark key="^" line="184" column="20" />
       </file>
       <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/utils/urls.go" timestamp="1508281059707">
         <mark key="[" line="14" column="51" />
@@ -3521,11 +3517,11 @@
         <mark key="^" line="6" column="41" />
         <mark key="." line="6" column="41" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/settings-tab/containers/settings-form/settings-form.component.js" timestamp="1513022311704">
-        <mark key="[" line="294" column="44" />
-        <mark key="]" line="296" column="33" />
-        <mark key="^" line="296" column="33" />
-        <mark key="." line="296" column="33" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/settings-tab/containers/settings-form/settings-form.component.js" timestamp="1513023244620">
+        <mark key="[" line="322" column="0" />
+        <mark key="]" line="322" column="0" />
+        <mark key="^" line="321" column="121" />
+        <mark key="." line="322" column="0" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/omni-elements/src/bce-import-start/styles.scss" timestamp="1512591760864">
         <mark key="[" line="23" column="1" />
@@ -3941,11 +3937,11 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="136" column="33" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/shared/channel-config/channel-config.actions.types.js" timestamp="1512057522318">
-        <mark key="[" line="21" column="17" />
-        <mark key="]" line="16" column="24" />
-        <mark key="." line="16" column="24" />
-        <mark key="^" line="16" column="24" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/shared/channel-config/channel-config.actions.types.js" timestamp="1513023892322">
+        <mark key="[" line="10" column="57" />
+        <mark key="]" line="10" column="55" />
+        <mark key="." line="10" column="55" />
+        <mark key="^" line="10" column="55" />
       </file>
       <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/manage/appointment/manage-appointment.module.js" timestamp="1501809206733">
         <mark key="[" line="5" column="19" />
@@ -4291,11 +4287,11 @@
         <mark key="." line="74" column="35" />
         <mark key="^" line="74" column="35" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/shared/channel-config/channel-config.reducer.js" timestamp="1512765815107">
-        <mark key="[" line="130" column="62" />
-        <mark key="]" line="132" column="11" />
-        <mark key="." line="132" column="11" />
-        <mark key="^" line="132" column="11" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/shared/channel-config/channel-config.reducer.js" timestamp="1513024072521">
+        <mark key="[" line="119" column="70" />
+        <mark key="]" line="121" column="62" />
+        <mark key="." line="121" column="62" />
+        <mark key="^" line="121" column="62" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/listing/amazon/components/components.module.js" timestamp="1503503129519">
         <mark key="[" line="3" column="0" />
@@ -4591,7 +4587,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>header</text>
+        <text>channelConfig</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqc2NoYW5uZWxcPg==</text>
@@ -4600,7 +4596,7 @@
         <text encoding="base64">ICAgICAgICAgIHsKICAgICAgICAgICAgdGl0bGU6ICdNZWdhIGZlYXR1cmUgMScsCiAgICAgICAgICAgIHRleHQ6CiAgICAgICAgICAgICAgJ0xvcmVtIGlwc3VtIGRvbG9yIHNpdCBhbWV0LCB3bmFkanNqZGogYXNqZGogYXNqZCBqYXNqZCBqYXNkaiBhc2ogZGphcyAsJywKICAgICAgICAgIH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCByZXN1bHQgPSBkaXNwYXRjaChzZXRDaGFubmVsQ29uZmlnKHsgY2hhbm5lbDogcGF5bG9hZC5jaGFubmVsLCAuLi5jb25maWcgfSkpOwogICAgICAgIGNvbnNvbGUubG9nKCdycicsIHJlc3VsdC5wYXlsb2FkKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -4618,22 +4614,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZWxldGUgdGhpcy5jaGFubmVsQ29uZmlnRGF0YS5lcnJvcnM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZWxldGUgdGhpcy5jaAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHsKICAgICAgICAgICAgdGl0bGU6ICdNZWdhIGZlYXR1cmUgMScsCiAgICAgICAgICAgIHRleHQ6CiAgICAgICAgICAgICAgJ0xvcmVtIGlwc3VtIGRvbG9yIHNpdCBhbWV0LCB3bmFkanNqZGogYXNqZGogYXNqZCBqYXNqZCBqYXNkaiBhc2ogZGphcyAsJywKICAgICAgICAgIH0sCiAgICAgICAgICB7CiAgICAgICAgICAgIHRpdGxlOiAnTWVnYSBmZWF0dXJlIDInLAogICAgICAgICAgICB0ZXh0OgogICAgICAgICAgICAgICdMb3JlbSBpcHN1bSBkb2xvciBzaXQgYW1ldCwgd25hZGpzamRqIGFzamRqIGFzamQgamFzamQgamFzZGogYXNqIGRqYXMgLCcsCiAgICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGljQ2hlY2tDaXJjbGUsIGljSW5mbykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5fY2hhbm5lbENvbmZpZy51cHNlcnRDaGFubmVsQ29uZmlncyh0aGlzLnByb3ZpZGVyTmFtZSwgY2hhbm5lbENvbmZpZ0RhdGEsIHRoaXMuZmlyc3RUaW1lU2V0dXApLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0dHQnLCB0aGlzLnN2Zyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkaXNwYXRjaChzZXRDaGFubmVsQ29uZmlnKCkpIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4753,7 +4749,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdydW5uaW5nJywgaGVhZGVyKTsK</text>
+        <text encoding="base64">ZnVuY3Rpb24gZ2V0TmV3TGlzdGluZ1ByZWZlcmVuY2VPdmVycmlkZSgpIHsKICAgIHJldHVybiB7IG92ZXJyaWRlX3R5cGU6ICdicmFuZCcgfTsKfQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>

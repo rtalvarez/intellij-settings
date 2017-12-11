@@ -973,11 +973,11 @@
         <mark key="." line="32" column="54" />
         <mark key="^" line="32" column="54" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/amazon/settings/settings-tab/containers/settings-form/settings-form.controller.js" timestamp="1513022412269">
-        <mark key="[" line="154" column="0" />
-        <mark key="]" line="154" column="0" />
-        <mark key="." line="154" column="0" />
-        <mark key="^" line="158" column="49" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/amazon/settings/settings-tab/containers/settings-form/settings-form.controller.js" timestamp="1513025909542">
+        <mark key="[" line="132" column="43" />
+        <mark key="]" line="133" column="40" />
+        <mark key="." line="133" column="40" />
+        <mark key="^" line="133" column="40" />
       </file>
       <file name="$USER_HOME$/labs/ng-labs/src/app/profile/components/components.module.js" timestamp="1503532153149">
         <mark key="[" line="4" column="2" />
@@ -2221,11 +2221,11 @@
         <mark key="^" line="0" column="32" />
         <mark key="." line="0" column="32" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/shared/channel-config/channel-config.actions.js" timestamp="1513024190714">
-        <mark key="[" line="183" column="49" />
-        <mark key="]" line="184" column="20" />
-        <mark key="." line="184" column="20" />
-        <mark key="^" line="184" column="20" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/shared/channel-config/channel-config.actions.js" timestamp="1513025746717">
+        <mark key="[" line="176" column="55" />
+        <mark key="]" line="178" column="20" />
+        <mark key="." line="178" column="20" />
+        <mark key="^" line="178" column="20" />
       </file>
       <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/utils/urls.go" timestamp="1508281059707">
         <mark key="[" line="14" column="51" />
@@ -4587,7 +4587,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>channelConfig</text>
+        <text>getA</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqc2NoYW5uZWxcPg==</text>
@@ -4596,7 +4596,7 @@
         <text encoding="base64">ICAgICAgICAgIHsKICAgICAgICAgICAgdGl0bGU6ICdNZWdhIGZlYXR1cmUgMScsCiAgICAgICAgICAgIHRleHQ6CiAgICAgICAgICAgICAgJ0xvcmVtIGlwc3VtIGRvbG9yIHNpdCBhbWV0LCB3bmFkanNqZGogYXNqZGogYXNqZCBqYXNqZCBqYXNkaiBhc2ogZGphcyAsJywKICAgICAgICAgIH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCByZXN1bHQgPSBkaXNwYXRjaChzZXRDaGFubmVsQ29uZmlnKHsgY2hhbm5lbDogcGF5bG9hZC5jaGFubmVsLCAuLi5jb25maWcgfSkpOwogICAgICAgIGNvbnNvbGUubG9nKCdycicsIHJlc3VsdC5wYXlsb2FkKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -4614,22 +4614,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gY29uc3Qgb3ZlcnJpZGVuS2V5cyA9IHt9OwogICAgICAgICAgICAvLwogICAgICAgICAgICAvLyBfLmZvckVhY2gocGF5bG9hZC5jaGFubmVsQ29uZmlnLCAoY29uZmlnVmFsdWUsIGNvbmZpZ0tleSkgPT4gewogICAgICAgICAgICAvLyAgICAgaWYgKF8uaXNBcnJheShjb25maWdWYWx1ZSkgJiYgXy5ldmVyeShjb25maWdWYWx1ZSwgdmFsdWUgPT4gXy5pc0VtcHR5KHZhbHVlKSkpIHsKICAgICAgICAgICAgLy8gICAgICAgICBvdmVycmlkZW5LZXlzW2NvbmZpZ0tleV0gPSBbXTsKICAgICAgICAgICAgLy8gICAgIH0KICAgICAgICAgICAgLy8gfSk7CiAgICAgICAgICAgIC8vCiAgICAgICAgICAgIC8vIGNvbnN0IGNvbmZpZyA9IHsgLi4ucGF5bG9hZC5jaGFubmVsQ29uZmlnLCAuLi5vdmVycmlkZW5LZXlzIH07CiAgICAgICAgICAgIC8vIGNvbnN0IHJlc3VsdCA9IGRpc3BhdGNoKHNldENoYW5uZWxDb25maWcoeyBjaGFubmVsOiBwYXlsb2FkLmNoYW5uZWwsIC4uLmNvbmZpZyB9KSk7CiAgICAgICAgICAgIC8vIGNvbnNvbGUubG9nKCdycicsIHJlc3VsdC5wYXlsb2FkKTsKICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCByZXN1bHQgPSBkaXNwYXRjaChzZXRDaGFubmVsQ29uZmlnKHsgY2hhbm5lbDogcGF5bG9hZC5jaGFubmVsLCAuLi5jb25maWcgfSkpOwogICAgICAgIGNvbnNvbGUubG9nKCdycicsIHJlc3VsdC5wYXlsb2FkKTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5fY2hhbm5lbENvbmZpZy51cHNlcnRDaGFubmVsQ29uZmlncyh0aGlzLnByb3ZpZGVyTmFtZSwgY2hhbm5lbENvbmZpZ0RhdGEsIHRoaXMuZmlyc3RUaW1lU2V0dXApLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkaXNwYXRjaChzZXRDaGFubmVsQ29uZmlnKCkpIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4749,10 +4749,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gZ2V0TmV3TGlzdGluZ1ByZWZlcmVuY2VPdmVycmlkZSgpIHsKICAgIHJldHVybiB7IG92ZXJyaWRlX3R5cGU6ICdicmFuZCcgfTsKfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5fY2hhbm5lbENvbmZpZy51cHNlcnRDaGFubmVsQ29uZmlncyh0aGlzLnByb3ZpZGVyTmFtZSwgY2hhbm5lbENvbmZpZ0RhdGEsIHRoaXMuZmlyc3RUaW1lU2V0dXApLAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>

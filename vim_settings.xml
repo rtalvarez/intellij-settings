@@ -1021,10 +1021,11 @@
         <mark key="." line="40" column="0" />
         <mark key="^" line="4" column="3" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/omni-elements/src/bce-panel/story.js" timestamp="1513114972798">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/omni-elements/src/bce-panel/story.js" timestamp="1513181635559">
+        <mark key="[" line="44" column="80" />
+        <mark key="]" line="44" column="79" />
+        <mark key="." line="44" column="79" />
+        <mark key="^" line="44" column="79" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/shared/shared.module.js" timestamp="1510760648606">
         <mark key="[" line="9" column="48" />
@@ -2215,11 +2216,6 @@
         <mark key="^" line="22" column="29" />
         <mark key="." line="11" column="85" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/omni-elements/src/bce-import-history/component.js" timestamp="1512770039714">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/import-tab/containers/import-health/import-health.tpl.html" timestamp="1508340086159">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -2255,11 +2251,6 @@
         <mark key="]" line="0" column="32" />
         <mark key="^" line="0" column="32" />
         <mark key="." line="0" column="32" />
-      </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/shared/channel-config/channel-config.actions.js" timestamp="1513028346103">
-        <mark key="[" line="157" column="0" />
-        <mark key="]" line="162" column="6" />
-        <mark key="." line="182" column="0" />
       </file>
       <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/utils/urls.go" timestamp="1508281059707">
         <mark key="[" line="14" column="51" />
@@ -4636,7 +4627,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">Y29uc2VjdGV0dXIgYWRpcGlzY2luZyBlbGl0LiBNb3JiaSB0aW5jaWR1bnQgc2l0IGFtZXQgbmlzbCBlZ2V0IGZpbmlidXMuIFN1c3BlbmRpc3NlIGVnZXQgbWkgaW4gdXJuYSBsYWNpbmlhIGNvbW1vZG8uPC9wPg==</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqc2NoYW5uZWxcPg==</text>
@@ -4645,7 +4636,7 @@
         <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJwYW5lbC1oZWFkZXIiPgogICAgICAgICAgPGgyIGNsYXNzPSJwYW5lbC10aXRsZSI+UGFuZWwgVGl0bGU8L2gyPgogICAgICAgICAgPHAgY2xhc3M9InBhbmVsLXRpdGxlLWRlc2NyaXB0aW9uIj5Mb3JlbSBpcHN1bSBkb2xvciBzaXQgYW1ldDwvcD4KICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgYWN0aW9uIH0gZnJvbSAnQHN0b3J5Ym9vay9hZGRvbi1hY3Rpb25zJzsK</text>
+        <text encoding="base64">ICAgICAgICAgIHBhbmVsVGl0bGVEZXNjcmlwdGlvbj0iU21hbGwgaW5mb3JtYXRpdmUgdGV4dCBhYm91dCB0aGUgY29udGVudHMgb2YgdGhlIHBhbmVsIgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -4663,22 +4654,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgYWN0aW9uIH0gZnJvbSAnQHN0b3J5Ym9vay9hZGRvbi1hY3Rpb25zJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNsb3QgLz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHNsb3QgLz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LnBhbmVsLWhlYWRlciwKLnBhbmVsLXN1YmhlYWRlciB7CiAgbWFyZ2luLWJvdHRvbTogc3BhY2luZygidGhpcmQiKTsKfQo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB7Lyo8ZGl2IGNsYXNzPSJwYW5lbCI+Ki99CiAgICAgICAgICB7Lyo8ZGl2IGNsYXNzPSJwYW5lbC1oZWFkZXIiPiovfQogICAgICAgICAgICB7Lyo8aDIgY2xhc3M9InBhbmVsLXRpdGxlIj5QYW5lbCBUaXRsZTwvaDI+Ki99CiAgICAgICAgICAgIHsvKjxwIGNsYXNzPSJwYW5lbC10aXRsZS1kZXNjcmlwdGlvbiI+TG9yZW0gaXBzdW0gZG9sb3Igc2l0IGFtZXQ8L3A+Ki99CiAgICAgICAgICB7Lyo8L2Rpdj4qL30KICAgICAgICAgIHsvKjxkaXYgY2xhc3M9InBhbmVsLWJvZHkiPiovfQogICAgICAgICAgICB7Lyo8aDMgY2xhc3M9InBhbmVsLWJvZHktdGl0bGUiPlNvbWUgUGFuZWwgQ29udGVudDwvaDM+Ki99CiAgICAgICAgICAgIHsvKjxwPlNob3VsZCBiZSBhYmxlIHRvIGhhbmRsZSBhbnkgdHlwZSBvZiBjb250ZW50LjwvcD4qL30KICAgICAgICAgIHsvKjwvZGl2PiovfQogICAgICAgIHsvKjwvZGl2PiovfQo=</text>
+        <text encoding="base64">LnBhbmVsLWhlYWRlciwKLnBhbmVsLXN1YmhlYWRlciB7CiAgbWFyZ2luLWJvdHRvbTogc3BhY2luZygidGhpcmQiKTsKfQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4798,7 +4789,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB7Lyo8ZGl2IGNsYXNzPSJwYW5lbCI+Ki99CiAgICAgICAgICB7Lyo8ZGl2IGNsYXNzPSJwYW5lbC1oZWFkZXIiPiovfQogICAgICAgICAgICB7Lyo8aDIgY2xhc3M9InBhbmVsLXRpdGxlIj5QYW5lbCBUaXRsZTwvaDI+Ki99CiAgICAgICAgICAgIHsvKjxwIGNsYXNzPSJwYW5lbC10aXRsZS1kZXNjcmlwdGlvbiI+TG9yZW0gaXBzdW0gZG9sb3Igc2l0IGFtZXQ8L3A+Ki99CiAgICAgICAgICB7Lyo8L2Rpdj4qL30KICAgICAgICAgIHsvKjxkaXYgY2xhc3M9InBhbmVsLWJvZHkiPiovfQogICAgICAgICAgICB7Lyo8aDMgY2xhc3M9InBhbmVsLWJvZHktdGl0bGUiPlNvbWUgUGFuZWwgQ29udGVudDwvaDM+Ki99CiAgICAgICAgICAgIHsvKjxwPlNob3VsZCBiZSBhYmxlIHRvIGhhbmRsZSBhbnkgdHlwZSBvZiBjb250ZW50LjwvcD4qL30KICAgICAgICAgIHsvKjwvZGl2PiovfQogICAgICAgIHsvKjwvZGl2PiovfQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>

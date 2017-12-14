@@ -890,7 +890,7 @@
         <mark key="^" line="14" column="52" />
         <mark key="." line="14" column="52" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513267721728">
+      <file name="/Dummy.txt" timestamp="1513268557172">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
@@ -3860,6 +3860,12 @@
         <mark key="^" line="0" column="38" />
         <mark key="." line="0" column="38" />
       </file>
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/import-tab/shared/import-history/import-history.reducer.js" timestamp="1513268705637">
+        <mark key="[" line="13" column="31" />
+        <mark key="]" line="13" column="37" />
+        <mark key="." line="13" column="37" />
+        <mark key="^" line="13" column="37" />
+      </file>
       <file name="$USER_HOME$/labs/labs-be/email/main.go" timestamp="1495900906054">
         <mark key="[" line="50" column="32" />
         <mark key="]" line="54" column="29" />
@@ -4628,7 +4634,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>progress</text>
+        <text>syncs</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqc2NoYW5uZWxcPg==</text>
@@ -4637,7 +4643,7 @@
         <text encoding="base64">PGJjZS1jb21wb25lbnQgY29tcG9uZW50PSJiY2UtaW1wb3J0LXN0YXJ0IgogICAgICAgICAgICAgICBwcm9wcz0iJGN0cmwucHJvcHMiPgo8L2JjZS1jb21wb25lbnQ+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3luY3M6IHBheWxvYWQsCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -4655,22 +4661,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">d2FzZDoKPGJjZS1jb21wb25lbnQgY29tcG9uZW50PSJiY2UtY2hhbm5lbC1yZXNvdXJjZXMiCiAgICAgICAgICAgICAgIHByb3BzPSIkY3RybC5wcm9wcyI+CjwvYmNlLWNvbXBvbmVudD4K</text>
+        <text encoding="base64">ICAgICAgICBqCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzb3VyY2VzID0gIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gewogICAgICAgICAgICAuLi5zdGF0ZSwKICAgICAgICAgICAgc3luY3M6IHBheWxvYWQsCiAgICAgICAgfTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBhbmVsVGl0bGVEZXNjcmlwdGlvbj0iU21hbGwgaW5mb3JtYXRpdmUgdGV4dCBhYm91dCB0aGUgY29udGVudHMgb2YgdGhlIHBhbmVsIgo=</text>
+        <text encoding="base64">ICAgICAgIH07Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgYWN0aW9uIH0gZnJvbSAnQHN0b3J5Ym9vay9hZGRvbi1hY3Rpb25zJzsK</text>
+      <register name="5" type="4">
+        <text encoding="base64">IHJldHVybiB7CiAgICAgICAgICAgIC4uLnN0YXRlLAogICAgICAgICAgICBzeW5jczogcGF5bG9hZCwKICAgICAgICA=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNsb3QgLz4K</text>
+        <text encoding="base64">d2FzZDoKPGJjZS1jb21wb25lbnQgY29tcG9uZW50PSJiY2UtY2hhbm5lbC1yZXNvdXJjZXMiCiAgICAgICAgICAgICAgIHByb3BzPSIkY3RybC5wcm9wcyI+CjwvYmNlLWNvbXBvbmVudD4K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4790,10 +4796,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzb3VyY2VzID0gIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgIHBhbmVsVGl0bGVEZXNjcmlwdGlvbj0iU21hbGwgaW5mb3JtYXRpdmUgdGV4dCBhYm91dCB0aGUgY29udGVudHMgb2YgdGhlIHBhbmVsIgo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>

@@ -3864,6 +3864,12 @@
         <mark key="^" line="0" column="38" />
         <mark key="." line="0" column="38" />
       </file>
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/import-tab/shared/import-history/import-history.reducer.spec.js" timestamp="1513281537784">
+        <mark key="[" line="13" column="54" />
+        <mark key="]" line="13" column="67" />
+        <mark key="^" line="13" column="67" />
+        <mark key="." line="13" column="67" />
+      </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/import-tab/shared/import-history/import-history.reducer.js" timestamp="1513268705637">
         <mark key="[" line="13" column="31" />
         <mark key="]" line="13" column="37" />
@@ -4644,16 +4650,16 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>tabExit</text>
+        <text>payload</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqc2NoYW5uZWxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PGJjZS1jb21wb25lbnQgY29tcG9uZW50PSJiY2UtaW1wb3J0LXN0YXJ0IgogICAgICAgICAgICAgICBwcm9wcz0iJGN0cmwucHJvcHMiPgo8L2JjZS1jb21wb25lbnQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsgaWQ6IDEsIHN1bW1hcnk6IHsgY29tcGxldGVkOiAxIH0gfSwKICAgICAgICAgICAgICAgIHsgaWQ6IDIsIHN1bW1hcnk6IHsgY29tcGxldGVkOiAxMiB9IH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdyZWFqc2RqYXMnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -4671,22 +4677,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdyZWFqc2RqYXMnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKF8uaXNFbXB0eShzdW1tYXJ5KSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICAgICAgICAgICAgICB9Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3luY3M6IHBheWxvYWQsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKF8uaXNFbXB0eShzdW1tYXJ5KSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICAgICAgICAgICAgICB9Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBqCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3luY3M6IHBheWxvYWQsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gewogICAgICAgICAgICAuLi5zdGF0ZSwKICAgICAgICAgICAgc3luY3M6IHBheWxvYWQsCiAgICAgICAgfTsK</text>
+        <text encoding="base64">ICAgICAgICBqCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIH07Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gewogICAgICAgICAgICAuLi5zdGF0ZSwKICAgICAgICAgICAgc3luY3M6IHBheWxvYWQsCiAgICAgICAgfTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4805,11 +4811,11 @@
           <key char="100" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IHJldHVybiB7CiAgICAgICAgICAgIC4uLnN0YXRlLAogICAgICAgICAgICBzeW5jczogcGF5bG9hZCwKICAgICAgICA=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgIH07Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">IHJldHVybiB7CiAgICAgICAgICAgIC4uLnN0YXRlLAogICAgICAgICAgICBzeW5jczogcGF5bG9hZCwKICAgICAgICA=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>

@@ -39,11 +39,11 @@
         <mark key="." line="1" column="12" />
         <mark key="^" line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/bce-elements/src/bce-app/actions/fetch.js" timestamp="1514315890576">
-        <mark key="[" line="77" column="44" />
-        <mark key="]" line="77" column="43" />
-        <mark key="." line="77" column="43" />
-        <mark key="^" line="77" column="43" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/bce-elements/src/bce-app/actions/fetch.js" timestamp="1514320933285">
+        <mark key="[" line="77" column="43" />
+        <mark key="]" line="77" column="47" />
+        <mark key="." line="77" column="47" />
+        <mark key="^" line="77" column="47" />
       </file>
       <file name="$USER_HOME$/labs/labs-email/src/partials/welcome-v2/welcome-v2-feature-1.html" timestamp="1510863542111">
         <mark key="[" line="13" column="101" />
@@ -4742,7 +4742,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>false</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqc2NoYW5uZWxcPg==</text>

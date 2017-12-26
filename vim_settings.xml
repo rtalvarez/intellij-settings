@@ -1263,10 +1263,11 @@
         <mark key="." line="21" column="36" />
         <mark key="^" line="21" column="36" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/instagram/about/config.json" timestamp="1514302634109">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/instagram/about/config.json" timestamp="1514303392312">
+        <mark key="[" line="42" column="30" />
+        <mark key="]" line="42" column="30" />
+        <mark key="." line="42" column="30" />
+        <mark key="^" line="42" column="30" />
       </file>
       <file name="$USER_HOME$/labs/ng-labs/src/app/login/components/login-form/login-form.constants.js" timestamp="1510779053441">
         <mark key="[" line="18" column="0" />
@@ -4721,7 +4722,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>{{ facebookShopRequirementMet }}</text>
+        <text>facebookShopRequirementMet</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqc2NoYW5uZWxcPg==</text>

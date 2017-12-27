@@ -2679,7 +2679,7 @@
         <mark key="^" line="47" column="20" />
         <mark key="." line="47" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1514315987502">
+      <file name="/Dummy.txt" timestamp="1514388386813">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
@@ -2970,11 +2970,11 @@
         <mark key="^" line="9" column="85" />
         <mark key="." line="9" column="23" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/bce-elements/src/bce-app/utils/state.js" timestamp="1514315700743">
-        <mark key="[" line="87" column="30" />
-        <mark key="]" line="87" column="55" />
-        <mark key="." line="88" column="64" />
-        <mark key="^" line="88" column="64" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/bce-elements/src/bce-app/utils/state.js" timestamp="1514388936864">
+        <mark key="[" line="93" column="44" />
+        <mark key="]" line="93" column="44" />
+        <mark key="." line="93" column="44" />
+        <mark key="^" line="93" column="44" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-pos/bower.json" timestamp="1493661626165">
         <mark key="[" line="36" column="71" />
@@ -4742,7 +4742,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>1</text>
+        <text>`</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqc2NoYW5uZWxcPg==</text>

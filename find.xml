@@ -7,8 +7,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*" />
     <recentFileMasks>
-      <mask>*.sc</mask>
-      <mask>*.s</mask>
       <mask>*.act</mask>
       <mask>*.acti</mask>
       <mask>*.actio</mask>
@@ -27,14 +25,16 @@
       <mask>*.ph</mask>
       <mask>*.p</mask>
       <mask>*.t</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
       <mask>*.html</mask>
       <mask>*.htm</mask>
       <mask>*.ht</mask>
       <mask>*.h</mask>
       <mask>*.go</mask>
       <mask>*.g</mask>
+      <mask>*.json</mask>
+      <mask>*.jso</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*</mask>
     </recentFileMasks>

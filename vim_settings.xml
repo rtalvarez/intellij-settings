@@ -458,11 +458,11 @@
         <mark key="^" line="8" column="13" />
         <mark key="." line="8" column="13" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/shared/settings-tabs/settings-tabs.reducer.js" timestamp="1507303432723">
-        <mark key="[" line="46" column="45" />
-        <mark key="]" line="46" column="45" />
-        <mark key="." line="46" column="45" />
-        <mark key="^" line="46" column="45" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/shared/settings-tabs/settings-tabs.reducer.js" timestamp="1515697269830">
+        <mark key="[" line="23" column="72" />
+        <mark key="]" line="23" column="78" />
+        <mark key="." line="23" column="78" />
+        <mark key="^" line="23" column="78" />
       </file>
       <file name="$USER_HOME$/labs/labs-fe-bb/app/javascripts/shared/MaterializeSelectView.js" timestamp="1497453238339">
         <mark key="[" line="2" column="86" />
@@ -1366,6 +1366,7 @@
         <mark key="^" line="50" column="30" />
         <mark key="." line="50" column="30" />
       </file>
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/amazon/settings/settings-tab/settings-tab.config.js" timestamp="1515697433107" />
       <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/manage/day/appointment-day.html" timestamp="1503930510839">
         <mark key="[" line="21" column="26" />
         <mark key="]" line="21" column="36" />
@@ -1943,6 +1944,12 @@
         <mark key="]" line="26" column="87" />
         <mark key="^" line="26" column="87" />
         <mark key="." line="26" column="87" />
+      </file>
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/amazon/settings/import-tab/import-tab.tpl.html" timestamp="1515697496741">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="9" />
+        <mark key="^" line="0" column="9" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="$USER_HOME$/labs/labs-fe-bb/app/javascripts/appointments/create/AppointmentDetailsView.js" timestamp="1497453034321">
         <mark key="[" line="1" column="104" />
@@ -3061,6 +3068,7 @@
         <mark key="^" line="34" column="90" />
         <mark key="." line="34" column="90" />
       </file>
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/amazon/settings/settings-tab/containers/settings-form/directives/resource-links/resource-links.controller.js" timestamp="1515684657427" />
       <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/manage/day/appointment-day.config.js" timestamp="1510606367083">
         <mark key="[" line="29" column="24" />
         <mark key="]" line="29" column="23" />
@@ -3371,7 +3379,7 @@
         <mark key="." line="14" column="20" />
         <mark key="^" line="14" column="20" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/amazon/settings/settings-tab/containers/settings-form/settings-form.component.js" timestamp="1515692633896">
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/amazon/settings/settings-tab/containers/settings-form/settings-form.component.js" timestamp="1515697192531">
         <mark key="[" line="280" column="96" />
         <mark key="]" line="280" column="103" />
         <mark key="^" line="280" column="103" />
@@ -3541,6 +3549,12 @@
         <mark key="]" line="25" column="33" />
         <mark key="." line="25" column="33" />
         <mark key="^" line="25" column="33" />
+      </file>
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/amazon/settings/import-tab/import-tab.config.js" timestamp="1515697443422">
+        <mark key="[" line="1" column="7" />
+        <mark key="]" line="1" column="6" />
+        <mark key="." line="1" column="6" />
+        <mark key="^" line="1" column="6" />
       </file>
       <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/create/components/studies-info/components/x-ray-study/x-ray-study.scss" timestamp="1499193584895">
         <mark key="[" line="1" column="0" />
@@ -4981,13 +4995,13 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>:</text>
+        <text>AmazonSettingsTabCtrl</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqc2NoYW5uZWxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogT3BlbnMgdGhlIG1vZGFsIHRvIGxldCB1c2VycyBjaG9vc2UgYSBiaWdjb21tZXJjZSBjYXRlZ29yeSBmb3IgYSBnaXZlbiBpbmRleAogICAgICogQHBhcmFtIHtOdW1iZXJ9IHBheWxvYWQgVGhlIGluZGV4IG9mIHRoZSBjYXRlZ29yeSB0byBjaG9vc2UKICAgICAqIEByZXR1cm5zIHtmdW5jdGlvbigqLCAqKX0KICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgaWQ6ICdyZXNvdXJjZXMnLAogICAgICAgICAgICAgICAgaGVhZGluZzogJ1Jlc291cmNlcycsCiAgICAgICAgICAgICAgICBlbmFibGVkOiBmYWxzZSwKICAgICAgICAgICAgICAgIHN0YXRlOiAnbmctb21uaWNoYW5uZWwucHJvdmlkZXItZGV0YWlscy5hbWF6b24uc2V0dGluZ3MucmVzb3VyY2VzLXRhYicsCiAgICAgICAgICAgIH0sCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>

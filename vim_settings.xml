@@ -3061,7 +3061,6 @@
         <mark key="^" line="34" column="90" />
         <mark key="." line="34" column="90" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/amazon/settings/settings-tab/containers/settings-form/directives/resource-links/resource-links.controller.js" timestamp="1515684657427" />
       <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/manage/day/appointment-day.config.js" timestamp="1510606367083">
         <mark key="[" line="29" column="24" />
         <mark key="]" line="29" column="23" />
@@ -3282,6 +3281,11 @@
         <mark key="]" line="12" column="23" />
         <mark key="^" line="12" column="23" />
         <mark key="." line="12" column="23" />
+      </file>
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/listing/amazon/components/variants-table/variants-table.tpl.html" timestamp="1515693745680">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/labs/ng-labs/src/app/profile/components/profile-summary/components/appointment-list/appointment-list.component.js" timestamp="1507912709511">
         <mark key="[" line="1" column="0" />
@@ -4977,7 +4981,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">ZmFsc2Ug</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqc2NoYW5uZWxcPg==</text>
@@ -4986,7 +4990,7 @@
         <text encoding="base64">ICAgIC8qKgogICAgICogT3BlbnMgdGhlIG1vZGFsIHRvIGxldCB1c2VycyBjaG9vc2UgYSBiaWdjb21tZXJjZSBjYXRlZ29yeSBmb3IgYSBnaXZlbiBpbmRleAogICAgICogQHBhcmFtIHtOdW1iZXJ9IHBheWxvYWQgVGhlIGluZGV4IG9mIHRoZSBjYXRlZ29yeSB0byBjaG9vc2UKICAgICAqIEByZXR1cm5zIHtmdW5jdGlvbigqLCAqKX0KICAgICAqLwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -5004,21 +5008,21 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PT09PT09PQogICAgICAgICAgICAgICAgICAgIDxkaXYgbmctaWY9IiRjdHJsLmlzRnVsbFVwZGF0ZU9wZXJhdGlvbigpIj57eyB2YXJpYW50LnNrdSB9fTwvZGl2Pgo+Pj4+Pj4+IFJlbW92ZSBhbGwgYmluZC1vbmNlIGluIHZhcmlhbnRzIHRhYmxlCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3BwcCcsIFBST1ZJREVSX0lEUyk7Cg==</text>
       </register>
-      <register name="4" type="8">
+      <register name="6" type="8">
         <text>_MAPPINGS
 _MAPPINGS
 _MAPPINGS</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3dhc2QnLCBDSEFOTkVMX0NPTExFQ1RJT05TLkFNQVpPTik7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -5141,7 +5145,7 @@ _MAPPINGS</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IENIRUNLX0FNWl9DQVRFR09SWV9BUFBST1ZBTCA9ICdBTUFaT04vU0VUVElOR1MvQ0FURUdPUklFUy9DSEVDS19BTVpfQVBQUk9WQUwnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3dhc2QnLCBDSEFOTkVMX0NPTExFQ1RJT05TLkFNQVpPTik7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>

@@ -3,6 +3,8 @@
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern="access_token" type="PLAIN_TEXT" />
+      <removed_mapping ext="tpl" approved="true" type="Smarty" />
+      <mapping ext="tpl" type="Twig" />
     </extensionMap>
   </component>
 </application>

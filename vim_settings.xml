@@ -2158,6 +2158,12 @@
         <mark key="^" line="1" column="62" />
         <mark key="." line="1" column="62" />
       </file>
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/services/import/import.service.js" timestamp="1515775440486">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="1" column="44" />
+        <mark key="." line="1" column="44" />
+        <mark key="^" line="1" column="44" />
+      </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/amazon/settings/settings-tab/containers/settings-form/containers/default-inventory/default-inventory.tpl.html" timestamp="1515438140555">
         <mark key="[" line="2" column="67" />
         <mark key="]" line="1" column="30" />
@@ -2785,7 +2791,7 @@
         <mark key="^" line="47" column="20" />
         <mark key="." line="47" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515705680403">
+      <file name="/Dummy.txt" timestamp="1515775468262">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/create/components/studies-info/components/x-ray-study/x-ray-study.component.js" timestamp="1507912654584">
@@ -2907,6 +2913,12 @@
         <mark key="]" line="44" column="10" />
         <mark key="^" line="44" column="10" />
         <mark key="." line="44" column="10" />
+      </file>
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/services/import/import.api.js" timestamp="1515775236359">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="8" column="55" />
+        <mark key="." line="8" column="55" />
+        <mark key="^" line="6" column="39" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-pos/src/app/directives/square-locations/square-locations.controller.js" timestamp="1495476350422">
         <mark key="[" line="8" column="50" />
@@ -4869,7 +4881,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>ebay</text>
+        <text>ebayImportApi</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqc2NoYW5uZWxcPg==</text>

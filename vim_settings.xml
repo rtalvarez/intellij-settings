@@ -244,10 +244,10 @@
         <mark key="." line="4" column="41" />
         <mark key="^" line="4" column="41" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/amazon/settings/import-tab/shared/import-progress/import-progress.actions.js" timestamp="1515786030978">
-        <mark key="[" line="10" column="31" />
-        <mark key="]" line="10" column="37" />
-        <mark key="." line="10" column="37" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/amazon/settings/import-tab/shared/import-progress/import-progress.actions.js" timestamp="1516030074259">
+        <mark key="[" line="3" column="70" />
+        <mark key="]" line="3" column="70" />
+        <mark key="." line="3" column="70" />
         <mark key="^" line="10" column="37" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/listing/ebay/directives/choose-return-policy/choose-return-policy.directive.js" timestamp="1497046256693">
@@ -2519,7 +2519,7 @@
         <mark key="^" line="0" column="32" />
         <mark key="." line="0" column="32" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/amazon/settings/import-tab/shared/shared.module.js" timestamp="1515773898777">
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/amazon/settings/import-tab/shared/shared.module.js" timestamp="1516030112741">
         <mark key="[" line="4" column="63" />
         <mark key="]" line="4" column="68" />
         <mark key="^" line="4" column="68" />
@@ -2626,7 +2626,7 @@
         <mark key="^" line="30" column="78" />
         <mark key="." line="30" column="78" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/amazon/settings/import-tab/shared/import-health/import-health.selectors.js" timestamp="1515785820614">
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/amazon/settings/import-tab/shared/import-health/import-health.selectors.js" timestamp="1516029998493">
         <mark key="[" line="2" column="41" />
         <mark key="]" line="2" column="52" />
         <mark key="." line="2" column="52" />
@@ -3204,7 +3204,7 @@
         <mark key="." line="87" column="0" />
         <mark key="^" line="89" column="44" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/amazon/settings/import-tab/shared/import-history/import-history.selectors.js" timestamp="1515785814401">
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/amazon/settings/import-tab/shared/import-history/import-history.selectors.js" timestamp="1516030044473">
         <mark key="[" line="2" column="41" />
         <mark key="]" line="2" column="52" />
         <mark key="." line="2" column="52" />
@@ -3642,11 +3642,11 @@
         <mark key="." line="25" column="33" />
         <mark key="^" line="25" column="33" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/amazon/settings/import-tab/import-tab.config.js" timestamp="1515789061270">
-        <mark key="[" line="21" column="34" />
-        <mark key="]" line="21" column="29" />
-        <mark key="." line="21" column="29" />
-        <mark key="^" line="21" column="29" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/amazon/settings/import-tab/import-tab.config.js" timestamp="1516029973917">
+        <mark key="[" line="17" column="56" />
+        <mark key="]" line="17" column="68" />
+        <mark key="." line="17" column="68" />
+        <mark key="^" line="17" column="68" />
       </file>
       <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/create/components/studies-info/components/x-ray-study/x-ray-study.scss" timestamp="1499193584895">
         <mark key="[" line="1" column="0" />
@@ -3910,7 +3910,7 @@
         <mark key="^" line="55" column="45" />
         <mark key="." line="55" column="45" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/amazon/settings/import-tab/shared/import-progress/import-progress.selectors.js" timestamp="1515785807999">
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/amazon/settings/import-tab/shared/import-progress/import-progress.selectors.js" timestamp="1516030050232">
         <mark key="[" line="2" column="41" />
         <mark key="]" line="2" column="52" />
         <mark key="." line="2" column="52" />
@@ -4657,7 +4657,7 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="12" column="6" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/amazon/settings/import-tab/shared/import-start/import-start.selectors.js" timestamp="1515785799440">
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/amazon/settings/import-tab/shared/import-start/import-start.selectors.js" timestamp="1516030185315">
         <mark key="[" line="2" column="41" />
         <mark key="]" line="2" column="52" />
         <mark key="." line="2" column="52" />
@@ -5129,7 +5129,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>import start goes here</text>
+        <text>ebayImport</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqc2NoYW5uZWxcPg==</text>

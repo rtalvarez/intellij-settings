@@ -5,9 +5,8 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.reducer.js" />
+    <option name="FILE_MASK" value="*" />
     <recentFileMasks>
-      <mask>*.actions.spec</mask>
       <mask>*.actions.spec.js</mask>
       <mask>*.actions.spec.j</mask>
       <mask>*.actions.spec.</mask>
@@ -27,7 +26,6 @@
       <mask>*.jso</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*</mask>
       <mask>*.</mask>
       <mask>*.re</mask>
       <mask>*.red</mask>
@@ -37,6 +35,8 @@
       <mask>*.reducer</mask>
       <mask>*.reducer.</mask>
       <mask>*.reducer.js</mask>
+      <mask>*.reducer.j</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>

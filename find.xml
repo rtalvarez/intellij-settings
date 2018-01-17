@@ -7,15 +7,12 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*" />
     <recentFileMasks>
-      <mask>*.actions.spec.js</mask>
-      <mask>*.actions.spec.j</mask>
       <mask>*.actions.spec.</mask>
       <mask>*.ac</mask>
       <mask>*.a</mask>
       <mask>*.php</mask>
       <mask>*.ph</mask>
       <mask>*.p</mask>
-      <mask>*.t</mask>
       <mask>*.html</mask>
       <mask>*.htm</mask>
       <mask>*.ht</mask>
@@ -26,7 +23,6 @@
       <mask>*.jso</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.re</mask>
       <mask>*.red</mask>
       <mask>*.redu</mask>
@@ -36,6 +32,10 @@
       <mask>*.reducer.</mask>
       <mask>*.reducer.js</mask>
       <mask>*.reducer.j</mask>
+      <mask>*.tpl</mask>
+      <mask>*.tp</mask>
+      <mask>*.t</mask>
+      <mask>*.</mask>
       <mask>*</mask>
     </recentFileMasks>
   </component>

@@ -921,11 +921,11 @@
         <mark key="." line="30" column="58" />
         <mark key="^" line="30" column="58" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/omni-elements/src/bce-import-start/component.js" timestamp="1516379903382">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="52" column="33" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/omni-elements/src/bce-import-start/component.js" timestamp="1516389141115">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="57" column="52" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/services/policies/ebay/returns/ebay-return-policies.api.js" timestamp="1497291964440">
         <mark key="[" line="12" column="64" />
@@ -3784,11 +3784,11 @@
         <mark key="." line="121" column="29" />
         <mark key="^" line="121" column="29" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/omni-elements/src/bce-import-start/styles.scss" timestamp="1516378320109">
-        <mark key="[" line="17" column="1" />
-        <mark key="]" line="20" column="16" />
-        <mark key="^" line="20" column="16" />
-        <mark key="." line="20" column="16" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/omni-elements/src/bce-import-start/styles.scss" timestamp="1516389128615">
+        <mark key="[" line="19" column="5" />
+        <mark key="]" line="19" column="4" />
+        <mark key="^" line="19" column="4" />
+        <mark key="." line="19" column="4" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/facebook/settings/containers/settings-form/settings-form.module.js" timestamp="1500473415944">
         <mark key="[" line="14" column="29" />
@@ -4915,7 +4915,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">PGEgaHJlZj0ie3sgJGN0cmwuS0JfVVJMUy5JTVBPUlRfTEVBUk5fTU9SRSB9fSI+TGVhcm4gbW9yZTwvYT4=</text>
+        <text>header</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqc2NoYW5uZWxcPg==</text>
@@ -4924,7 +4924,7 @@
         <text encoding="base64">ICAuYWRkKCdXaXRoIEN1c3RvbSBUZXh0JywgKCkgPT4gewogICAgcmV0dXJuICgKICAgICAgPEJjZUltcG9ydFN0YXJ0CiAgICAgICAgb25EaXNtaXNzPXthY3Rpb24oJ0Rpc21pc3MnKX0KICAgICAgICBvblN0YXJ0SW1wb3J0PXthY3Rpb24oJ1N0YXJ0IEltcG9ydCcpfQogICAgICAgIGRpc21pc3NUZXh0PSJDdXN0b20gRGlzbWlzcyIKICAgICAgICBoZWFkZXI9IkN1c3RvbSBIZWFkZXIiCiAgICAgICAgc3RhcnRJbXBvcnRUZXh0PSJDdXN0b20gSW1wb3J0IgogICAgICAgIHN1YkhlYWRlcj0iQ3VzdG9tIFN1YiBoZWFkZXIiCiAgICAgICAgc3ZnVXJsPSJodHRwczovL21pY3JvYXBwcy1pLmJpZ2NvbW1lcmNlLmNvbS9vbW5pY2hhbm5lbC9kYzRjNWRjYzc4ZWRkNTUxMzY4ZjcyMzQxM2EyYzJiNjc5NDU4ZjY4L3N2Zy9lYmF5LWltcG9ydC5zdmciCiAgICAgIC8+CiAgICApOwogIH0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc3RhcnQgaW1wb3J0IG5hbycpOwo=</text>
+        <text encoding="base64">ICAgIHVzZVN1YkhlYWRlclNsb3Q6IHByb3BzLmJvb2xlYW4sCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -4942,22 +4942,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgc2FuaXRpemUgfSBmcm9tICdkb21wdXJpZnknOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHt1c2VTdWJIZWFkZXJTbG90ID8gKAogICAgICAgICAgICAgICAgKSA6ICgKICAgICAgICAgICAgICAgICAgPHA+e3N1YkhlYWRlcn08L3A+CiAgICAgICAgICAgICAgICApfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGljb24gZ2x5cGg9ImljLWxhdW5jaCI+PC9pY29uPgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPHNsb3QgbmFtZT0ic3ViSGVhZGVyIiAvPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSW1wb3J0IHlvdXIgZXhpc3RpbmcgQW1hem9uIGxpc3RpbmdzIGludG8gQmlnQ29tbWVyY2UgdG8gc3RhcnQgbWFuYWdpbmcgaW52ZW50b3J5IGZvciB0aG9zZSBwcm9kdWN0cyBmcm9tCiAgICAgICAgICAgIHdpdGhpbiBCaWdDb21tZXJjZS4gPGEgaHJlZj0ie3sgJGN0cmwuS0JfVVJMUy5JTVBPUlRfTEVBUk5fTU9SRSB9fSI+TGVhcm4gbW9yZTwvYT4K</text>
+        <text encoding="base64">ICAgICAgICA8aGVhZGVyIGNsYXNzPSJtb2RhbC1oZWFkZXIiPgogICAgICAgICAgPGgyIGNsYXNzPSJtb2RhbC1oZWFkZXItdGl0bGUiPgogICAgICAgICAgICA8c2xvdCBuYW1lPSJoZWFkZXIiIC8+CiAgICAgICAgICA8L2gyPgogICAgICAgIDwvaGVhZGVyPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGA8cD5JbXBvcnQgeW91ciBleGlzdGluZyBBbWF6b24gbGlzdGluZ3MgaW50byBCaWdDb21tZXJjZSB0byBzdGFydCBtYW5hZ2luZyBpbnZlbnRvcnkgZm9yIHRob3NlIHByb2R1Y3RzIGZyb20gd2l0aGluIEJpZ0NvbW1lcmNlLgogICAgICAgICAgICAgICAgPGEgaHJlZj0iJHtLQl9VUkxTLklNUE9SVF9MRUFSTl9NT1JFfSIgdGFyZ2V0PSJfYmxhbmsiPkxlYXJuIE1vcmU8L2E+PC9wPmAsCg==</text>
+        <text encoding="base64">ICBfcmVuZGVyU3ViSGVhZGVyKCkgewogICAgCiAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc3RhcnQgaW1wb3J0IG5hbycpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5077,10 +5077,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgc2FuaXRpemUgfSBmcm9tICdkb21wdXJpZnknOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHN1YkhlYWRlclRlbXBsYXRlPXsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGljb24gZ2x5cGg9ImljLWxhdW5jaCI+PC9pY29uPgo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>

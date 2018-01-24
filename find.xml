@@ -5,38 +5,38 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="*fact*" />
     <recentFileMasks>
-      <mask>*.ph</mask>
-      <mask>*.p</mask>
-      <mask>*.html</mask>
-      <mask>*.htm</mask>
-      <mask>*.ht</mask>
-      <mask>*.h</mask>
-      <mask>*.go</mask>
-      <mask>*.g</mask>
-      <mask>*.json</mask>
-      <mask>*.jso</mask>
-      <mask>*.re</mask>
-      <mask>*.red</mask>
-      <mask>*.redu</mask>
-      <mask>*.reduc</mask>
-      <mask>*.reduce</mask>
-      <mask>*.reducer</mask>
-      <mask>*.reducer.</mask>
-      <mask>*.reducer.js</mask>
-      <mask>*.reducer.j</mask>
-      <mask>*.tpl</mask>
-      <mask>*.tp</mask>
-      <mask>*.t</mask>
-      <mask>*.scss</mask>
-      <mask>*.scs</mask>
-      <mask>*.sc</mask>
-      <mask>*.s</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*</mask>
+      <mask>*on*</mask>
+      <mask>*o*</mask>
+      <mask>*c*</mask>
+      <mask>*co*</mask>
+      <mask>*con*</mask>
+      <mask>*confi*</mask>
+      <mask>*config*</mask>
+      <mask>*i*</mask>
+      <mask>*direc*</mask>
+      <mask>*directive*</mask>
+      <mask>*directiv*</mask>
+      <mask>*di*</mask>
+      <mask>*factr*</mask>
+      <mask>*factirt*</mask>
+      <mask>*factir*</mask>
+      <mask>*facti*</mask>
+      <mask>*fa*</mask>
+      <mask>*f*</mask>
+      <mask>**</mask>
+      <mask>*p*</mask>
+      <mask>*pr*</mask>
+      <mask>*pro*</mask>
+      <mask>*prov*</mask>
+      <mask>*provi*</mask>
+      <mask>*provide*</mask>
+      <mask>*provider*</mask>
+      <mask>*er*</mask>
+      <mask>*e*</mask>
+      <mask>*fac*</mask>
+      <mask>*fact*</mask>
     </recentFileMasks>
   </component>
 </application>

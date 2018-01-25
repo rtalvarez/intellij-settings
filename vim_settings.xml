@@ -1770,11 +1770,11 @@
         <mark key="." line="22" column="50" />
         <mark key="^" line="22" column="50" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/omni-elements/src/bce-icon/component.js" timestamp="1516376777036">
-        <mark key="[" line="56" column="32" />
-        <mark key="]" line="56" column="32" />
-        <mark key="^" line="56" column="47" />
-        <mark key="." line="56" column="32" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/omni-elements/src/bce-icon/component.js" timestamp="1516896903618">
+        <mark key="[" line="57" column="18" />
+        <mark key="]" line="57" column="25" />
+        <mark key="^" line="57" column="25" />
+        <mark key="." line="57" column="25" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/listing/ebay/directives/choose-shipping-policy/choose-shipping-policy.tpl.html" timestamp="1497901857823">
         <mark key="[" line="20" column="46" />
@@ -2931,7 +2931,7 @@
         <mark key="^" line="47" column="20" />
         <mark key="." line="47" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516829050557">
+      <file name="/Dummy.txt" timestamp="1516897126827">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -5187,7 +5187,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>auth is there, it means the merchant has connected the eBay channel in Channel Manager</text>
+        <text>type</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqc2NoYW5uZWxcPg==</text>

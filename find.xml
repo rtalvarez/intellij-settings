@@ -7,7 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="*.tpl" />
     <recentFileMasks>
       <mask>*directive*</mask>
       <mask>*directiv*</mask>
@@ -34,11 +34,11 @@
       <mask>*fac</mask>
       <mask>*fa</mask>
       <mask>*f</mask>
-      <mask>*.tpl</mask>
-      <mask>*.tp</mask>
       <mask>*.t</mask>
-      <mask>*.</mask>
       <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.tp</mask>
+      <mask>*.tpl</mask>
     </recentFileMasks>
   </component>
 </application>

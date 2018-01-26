@@ -3893,12 +3893,12 @@
         <mark key="." line="3" column="61" />
         <mark key="^" line="0" column="71" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/bigcommerce/admin/templates/import.products.step1.tpl" timestamp="1516917551837">
-        <mark key="'" line="517" column="4" />
-        <mark key="[" line="621" column="30" />
-        <mark key="]" line="621" column="53" />
-        <mark key="." line="621" column="53" />
-        <mark key="^" line="621" column="53" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/bigcommerce/admin/templates/import.products.step1.tpl" timestamp="1516980050766">
+        <mark key="'" line="525" column="4" />
+        <mark key="[" line="43" column="79" />
+        <mark key="]" line="43" column="79" />
+        <mark key="." line="43" column="79" />
+        <mark key="^" line="43" column="79" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-pos/src/sass/components/squareLocationsModal/_squareLocationsModal.scss" timestamp="1493409067838">
         <mark key="[" line="1" column="21" />
@@ -5200,13 +5200,13 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>online</text>
+        <text>ACCEPT</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqc2NoYW5uZWxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVzcG9uc2VUb1RlbGVncmFtID0gJHRoaXMtPmdldFJlc3BvbnNlVG9UZWxlZ3JhbSgkbXNnT2JqKTsK</text>
+        <text encoding="base64">ICAgICAgICBhY3RpdmVTZWxsaW5nT25FYmF5TW9kYWwKICAgICAgICAgICAgLmZpbmQoJy5idG4tcHJpbWFyeScpCiAgICAgICAgICAgIC5vbmUoJ2NsaWNrJywgZnVuY3Rpb24oKSB7CiAgICAgICAgICAgICAgICBfdHJhY2tTZWdtZW50RXZlbnQoJ29tbmkubW9kYWwnLCB7CiAgICAgICAgICAgICAgICAgICAgbW9kYWxJZDogJ2FjdGl2ZVNlbGxpbmdPbkViYXlNb2RhbCcsCiAgICAgICAgICAgICAgICAgICAgcGFnZTogd2luZG93LmxvY2F0aW9uLmhyZWYsCiAgICAgICAgICAgICAgICAgICAgYWN0aW9uOiAnTU9EQUxfQUNDRVBUJywKICAgICAgICAgICAgICAgICAgICBjaGFubmVsOiAnZWJheScKICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>

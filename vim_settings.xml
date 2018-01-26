@@ -201,6 +201,7 @@
         <mark key="." line="48" column="19" />
         <mark key="^" line="48" column="19" />
       </file>
+      <file name="$USER_HOME$/bukibot/php/bukibot-php/twitch/TwitchIsStreamOnline.php" timestamp="1516928461066" />
       <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/routes/handlers/track/main.go" timestamp="1510090134701">
         <mark key="[" line="20" column="59" />
         <mark key="]" line="20" column="70" />
@@ -375,6 +376,12 @@
         <mark key="]" line="11" column="39" />
         <mark key="^" line="11" column="39" />
         <mark key="." line="11" column="39" />
+      </file>
+      <file name="$USER_HOME$/bukibot/php/bukibot-php/twitch/TwitchFollowHandler.php" timestamp="1516928778055">
+        <mark key="[" line="70" column="48" />
+        <mark key="]" line="70" column="45" />
+        <mark key="^" line="70" column="45" />
+        <mark key="." line="70" column="45" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/amazon-category-mapping/amazon-category-mapping.controller.js" timestamp="1493911455289">
         <mark key="[" line="3" column="0" />
@@ -1253,6 +1260,9 @@
         <mark key="." line="58" column="27" />
         <mark key="^" line="58" column="27" />
       </file>
+      <file name="$USER_HOME$/bukibot/php/bukibot-php/twitch/TwitchHelpHandler.php" timestamp="1516929081988">
+        <mark key="[" line="13" column="70" />
+      </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-add-edit-products/src/app/add-edit/add-product/add-product.config.js" timestamp="1510088821516">
         <mark key="[" line="27" column="51" />
         <mark key="]" line="34" column="0" />
@@ -1660,11 +1670,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/amazon/settings/import-tab/shared/import-history/import-history.reducer.js" timestamp="1516742788115">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/routes/handlers/appointments/me.go" timestamp="1510089845508">
         <mark key="[" line="13" column="72" />
@@ -2550,6 +2555,12 @@
         <mark key="^" line="30" column="78" />
         <mark key="." line="30" column="78" />
       </file>
+      <file name="$USER_HOME$/bukibot/php/bukibot-php/twitch/TwitchParser.php" timestamp="1516928837124">
+        <mark key="[" line="59" column="63" />
+        <mark key="]" line="56" column="21" />
+        <mark key="^" line="56" column="21" />
+        <mark key="." line="56" column="21" />
+      </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/amazon/settings/import-tab/shared/import-health/import-health.selectors.js" timestamp="1516029998493">
         <mark key="[" line="2" column="41" />
         <mark key="]" line="2" column="52" />
@@ -2803,7 +2814,7 @@
         <mark key="^" line="47" column="20" />
         <mark key="." line="47" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516917595475">
+      <file name="/Dummy.txt" timestamp="1516928416822">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -4940,16 +4951,16 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>finishEbaySetupModal</text>
+        <text>online</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqc2NoYW5uZWxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF90cmFja1NlZ21lbnRFdmVudCgnb21uaS5tb2RhbCcsIHsKICAgICAgICAgICAgICAgICAgICBtb2RhbElkOiAnZmluaXNoRWJheVNldHVwTW9kYWwnLAogICAgICAgICAgICAgICAgICAgIHBhZ2U6IHdpbmRvdy5sb2NhdGlvbi5ocmVmLAogICAgICAgICAgICAgICAgICAgIGFjdGlvbjogJ01PREFMX0FDQ0VQVCcsCiAgICAgICAgICAgICAgICAgICAgY2hhbm5lbDogJ2ViYXknCiAgICAgICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAkcmVzcG9uc2VUb1RlbGVncmFtID0gJHRoaXMtPmdldFJlc3BvbnNlVG9UZWxlZ3JhbSgkbXNnT2JqKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF90cmFja1NlZ21lbnRFdmVudCgncHJvZHVjdHMuaW1wb3J0LmFjdGl2ZV9zZWxsaW5nX2ViYXlfcmVkaXJlY3QnKTsK</text>
+        <text encoding="base64">ICAgICAgICAkcmVzdWx0ID0gJHRoaXMtPmRiLT5pbnNlcnRSb3dzKCIiKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -4967,22 +4978,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF90cmFja1NlZ21lbnRFdmVudCgncHJvZHVjdHMuaW1wb3J0LmZpbmlzaF9zZXR1cF9lYmF5X3JlZGlyZWN0Jyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGtleU5hbWUgPSAkcm93WydLZXlfbmFtZSddOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF90cmFja1NlZ21lbnRFdmVudCgncHJvZHVjdHMuaW1wb3J0LmdlbmVyaWNfZWJheV9yZWRpcmVjdCcpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfdHJhY2tTZWdtZW50RXZlbnQoJ3Byb2R1Y3RzLmltcG9ydC5zaG93X2ZpbmlzaF9zZXR1cF9lYmF5X21vZGFsJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfdHJhY2tTZWdtZW50RXZlbnQoJ3Byb2R1Y3RzLmltcG9ydC5zaG93X2FjdGl2ZV9zZWxsaW5nX2ViYXlfbW9kYWwnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCRpc09ubGluZSkgewogICAgICAgICAgICAgICAgJHJlc3BvbnNlQXJyYXlbXSA9ICJbIEVuIExpbmlhICEgXSB7JHJvd1snaGFuZGxlJ119IC0gIi5UV0lUQ0hfVVJMLiRyb3dbJ2hhbmRsZSddOwogICAgICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBnZW5lcmljU2VsbGluZ09uRWJheU1vZGFsCgkJCS5maW5kKCcuYnRuLWRpYWxvZy1jbG9zZScpCgkJCS5vbmUoJ2NsaWNrJywgZnVuY3Rpb24oKSB7CiAgICAgICAgICAgICAgICBfdHJhY2tTZWdtZW50RXZlbnQoJ3Byb2R1Y3RzLmltcG9ydC5kaXNtaXNzX2dlbmVyaWNfZWJheV9yZWRpcmVjdCcpOwoJCQl9KTsK</text>
+        <text encoding="base64">ICAgICAgICAkcmVzcG9uc2VBcnJheQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5102,10 +5113,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIlBhdHJvbiwgYXF1aSBsZSBkZWpvIGxhIGxpc3RhIGRlIGVzdHJpbWVyczoiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkcm93cyA9ICR0aGlzLT5kYi0+c2VsZWN0Um93cygiU0VMRUNUICogRlJPTSAiLkZPTExPV19IQU5ETEVSX1RBQkxFKTsK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>

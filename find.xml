@@ -2,10 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.tpl" />
+    <option name="FILE_MASK" value="*" />
     <recentFileMasks>
       <mask>*factr*</mask>
       <mask>*factirt*</mask>
@@ -29,14 +27,14 @@
       <mask>*fac</mask>
       <mask>*fa</mask>
       <mask>*f</mask>
-      <mask>*.tp</mask>
-      <mask>*.t</mask>
       <mask>*tpl</mask>
       <mask>*tp</mask>
       <mask>*t</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.tpl</mask>
+      <mask>*.tp</mask>
+      <mask>*.t</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>

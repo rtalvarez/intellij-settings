@@ -1457,11 +1457,11 @@
         <mark key="." line="0" column="41" />
         <mark key="^" line="0" column="41" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/bigcommerce/lib/Store/InternalApi/V1/Omni/MarketplaceImportPromo/MarketplaceImportPromoController.php" timestamp="1517515422936">
-        <mark key="[" line="17" column="4" />
-        <mark key="]" line="17" column="12" />
-        <mark key="." line="17" column="12" />
-        <mark key="^" line="17" column="12" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/bigcommerce/lib/Store/InternalApi/V1/Omni/MarketplaceImportPromo/MarketplaceImportPromoController.php" timestamp="1518037501087">
+        <mark key="[" line="51" column="9" />
+        <mark key="]" line="52" column="7" />
+        <mark key="^" line="52" column="7" />
+        <mark key="." line="52" column="7" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/containers/settings-form/components/multiple-shipping-policies/multiple-shipping-policies.tpl.html" timestamp="1501013753627">
         <mark key="[" line="50" column="33" />
@@ -5303,10 +5303,10 @@
         <text encoding="base64">XDxqc2NoYW5uZWxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8cCB0cmFuc2xhdGUgbmctaWY9IiFlYmF5VXBzZWxsTW9kYWxDdHJsLmlzSW1wb3J0RW5hYmxlZCI+CiAgICAgICAgICAgIFdlJ3ZlIGNvbXBsZXRlZCBzb21lIGtleSB0YXNrcyB0byBoZWxwIHlvdSBnZXQgc3RhcnRlZCBhbmQgeW91ciBzdG9yZQogICAgICAgICAgICBpcyBhbG1vc3QgcmVhZHkgdG8gZ28uIFRvIGFsc28gc2VsbCBvbiA8c3Ryb25nPmVCYXk8L3N0cm9uZz4geW91J2xsIHdhbnQgdG8gY29ubmVjdAogICAgICAgICAgICB3aXRoaW4gdGhlIDxzdHJvbmc+Q2hhbm5lbCBNYW5hZ2VyPC9zdHJvbmc+LgogICAgICAgIDwvcD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEludGVybmFsQXBpRXhjZXB0aW9uKAogICAgICAgICAgICAgICAgJ0NoYW5uZWwgbm90IHJlY29nbml6ZWQnLAogICAgICAgICAgICAgICAgSW50ZXJzcGlyZV9SZXNwb25zZTo6U1RBVFVTX0JBRF9SRVFVRVNUCiAgICAgICAgICAgICk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -5324,22 +5324,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd3YXNkZXJvb25pJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkY2hhbm5lbCA9ICRqc29uRGF0YVsnY2hhbm5lbCddOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAogICAgY29uc29sZS5sb2coJ3llcycsIGlzSW1wb3J0RW5hYmxlZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhY3Rpb246ICdESVNNSVNTJywKICAgICAgICAgICAgICAgICAgICByZWZlcnJhbDogJ0FNQVpPTicsCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoYXJyYXlfa2V5X2V4aXN0cygkanNvbkRhdGEpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhY3Rpb246ICdTRVRVUCcsCiAgICAgICAgICAgICAgICAgICAgcmVmZXJyYWw6ICdBTUFaT04nLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV2ZW50VHJhY2tlci50cmFjaygnb25ib2FyZGluZy5yZWZlcnJhbC11cHNlbGwtbW9kYWwnLCB7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd3YXNkZXJvb25pJyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWN0aW9uOiAnRElTUExBWV9NT0RBTCcsCiAgICAgICAgICAgIHJlZmVycmFsOiAnQU1BWk9OJywK</text>
+        <text encoding="base64">ICAgIAogICAgY29uc29sZS5sb2coJ3llcycsIGlzSW1wb3J0RW5hYmxlZCk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5459,10 +5459,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhY3Rpb246ICdESVNNSVNTJywKICAgICAgICAgICAgICAgICAgICByZWZlcnJhbDogJ0FNQVpPTicsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndHJhY2tlcicpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhY3Rpb246ICdTRVRVUCcsCiAgICAgICAgICAgICAgICAgICAgcmVmZXJyYWw6ICdBTUFaT04nLAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>

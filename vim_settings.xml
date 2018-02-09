@@ -3692,6 +3692,12 @@
         <mark key="^" line="0" column="22" />
         <mark key="." line="0" column="22" />
       </file>
+      <file name="$USER_HOME$/elixir/chat/lib/chat/user.ex" timestamp="1518209608303">
+        <mark key="[" line="21" column="29" />
+        <mark key="]" line="21" column="29" />
+        <mark key="." line="21" column="29" />
+        <mark key="^" line="20" column="34" />
+      </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/containers/shared/multiple-shipping-policies/multiple-shipping-policies.selectors.js" timestamp="1504117903059">
         <mark key="[" line="6" column="39" />
         <mark key="]" line="8" column="0" />
@@ -5411,13 +5417,13 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>OurAuth</text>
+        <text>min</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqc2NoYW5uZWxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJlc291cmNlcyAiL3Jldmlld3MiLCBSZXZpZXdDb250cm9sbGVyCg==</text>
+        <text encoding="base64">ICAgIHw+IHZhbGlkYXRlX2xlbmd0aCg6YmlvLCBtaW46IDIpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>

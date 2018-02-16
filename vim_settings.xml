@@ -743,11 +743,11 @@
         <mark key="." line="2" column="60" />
         <mark key="^" line="2" column="60" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/services/pos-providers/pos-providers.service.js" timestamp="1518711272235">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="^" line="44" column="52" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/services/pos-providers/pos-providers.service.js" timestamp="1518815389886">
+        <mark key="[" line="52" column="68" />
+        <mark key="]" line="52" column="67" />
+        <mark key="^" line="52" column="67" />
+        <mark key="." line="52" column="67" />
       </file>
       <file name="$USER_HOME$/labs/ng-labs/src/app/home/components/nav/nav-bar.tpl.html" timestamp="1498002110168">
         <mark key="[" line="0" column="21" />
@@ -1304,7 +1304,7 @@
         <mark key="]" line="143" column="0" />
         <mark key="." line="143" column="0" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/services/notifications/notifications.service.js" timestamp="1518808944986">
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/services/notifications/notifications.service.js" timestamp="1518815333081">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
@@ -2059,6 +2059,12 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/shared/providers/providers.actions.js" timestamp="1518815470471">
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="120" column="29" />
+        <mark key="^" line="117" column="35" />
+        <mark key="." line="120" column="29" />
       </file>
       <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/create/components/success-summary-info/success-summary-info.component.js" timestamp="1507912657793">
         <mark key="[" line="1" column="0" />
@@ -3031,11 +3037,6 @@
         <mark key="^" line="8" column="36" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/provider-item/provider-item.controller.js" timestamp="1518725293112">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
       <file name="$USER_HOME$/elixir/book/rumbl/lib/rumbl_web/models/user.ex" timestamp="1518747242355">
         <mark key="[" line="1" column="23" />
         <mark key="]" line="2" column="16" />
@@ -3271,7 +3272,7 @@
         <mark key="^" line="47" column="20" />
         <mark key="." line="47" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518810844911">
+      <file name="/Dummy.txt" timestamp="1518815325987">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -3334,11 +3335,6 @@
         <mark key="[" line="66" column="0" />
         <mark key="]" line="66" column="0" />
         <mark key="." line="66" column="0" />
-      </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-preview/provider-preview.tpl.html" timestamp="1518796971568">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/create/components/studies-info/components/full-ortho-study/full-ortho-study.scss" timestamp="1499187083936">
         <mark key="[" line="5" column="0" />
@@ -3691,6 +3687,12 @@
         <mark key="]" line="48" column="0" />
         <mark key="^" line="46" column="13" />
         <mark key="." line="48" column="0" />
+      </file>
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/facebook/settings/containers/settings-form/shared/settings-form.actions.js" timestamp="1518815512911">
+        <mark key="[" line="705" column="67" />
+        <mark key="]" line="705" column="67" />
+        <mark key="^" line="705" column="67" />
+        <mark key="." line="705" column="67" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/services/listings/listings.api.js" timestamp="1510934767932">
         <mark key="[" line="13" column="35" />
@@ -5721,13 +5723,13 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>ebay</text>
+        <text>UPDATE_PROVIDER_SUCCESS</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqc2NoYW5uZWxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRleHQuc2V0UHJvdmlkZXIocHJvdmlkZXIpOwo=</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IFVQREFURV9QUk9WSURFUl9TVUNDRVNTID0gJ1BST1ZJREVSL1VQREFURV9QUk9WSURFUl9TVUNDRVNTJzsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncmVtb3ZlZD8nKTsK</text>

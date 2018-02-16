@@ -1168,7 +1168,7 @@
         <mark key="." line="154" column="10" />
         <mark key="^" line="154" column="10" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/settings.config.js" timestamp="1518800143326">
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/settings.config.js" timestamp="1518810432811">
         <mark key="[" line="25" column="9" />
         <mark key="]" line="25" column="9" />
         <mark key="^" line="25" column="9" />
@@ -3271,7 +3271,7 @@
         <mark key="^" line="47" column="20" />
         <mark key="." line="47" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518808240756">
+      <file name="/Dummy.txt" timestamp="1518810844911">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -3427,6 +3427,12 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/facebook/settings/settings.config.js" timestamp="1518810456078">
+        <mark key="[" line="18" column="63" />
+        <mark key="]" line="18" column="70" />
+        <mark key="^" line="18" column="70" />
+        <mark key="." line="18" column="70" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-pos/src/app/directives/square-locations/square-locations.controller.js" timestamp="1495476350422">
         <mark key="[" line="8" column="50" />
@@ -5403,7 +5409,7 @@
         <mark key="^" line="3" column="36" />
         <mark key="." line="3" column="36" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/facebook/settings/containers/settings-form/settings-form.tpl.html" timestamp="1500473897358">
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/facebook/settings/containers/settings-form/settings-form.tpl.html" timestamp="1518810833275">
         <mark key="[" line="13" column="9" />
         <mark key="]" line="13" column="17" />
         <mark key="^" line="13" column="17" />
@@ -5715,7 +5721,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>url</text>
+        <text>ebay</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqc2NoYW5uZWxcPg==</text>

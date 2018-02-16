@@ -743,7 +743,8 @@
         <mark key="." line="2" column="60" />
         <mark key="^" line="2" column="60" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/services/pos-providers/pos-providers.service.js" timestamp="1518815389886">
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/services/pos-providers/pos-providers.service.js" timestamp="1518817195127">
+        <mark key="'" line="52" column="67" />
         <mark key="[" line="52" column="68" />
         <mark key="]" line="52" column="67" />
         <mark key="^" line="52" column="67" />
@@ -2060,11 +2061,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/shared/providers/providers.actions.js" timestamp="1518815470471">
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="120" column="29" />
-        <mark key="^" line="117" column="35" />
-        <mark key="." line="120" column="29" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/shared/providers/providers.actions.js" timestamp="1518816484551">
+        <mark key="'" line="120" column="28" />
+        <mark key="[" line="111" column="30" />
+        <mark key="]" line="111" column="30" />
+        <mark key="^" line="111" column="30" />
+        <mark key="." line="111" column="30" />
       </file>
       <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/create/components/success-summary-info/success-summary-info.component.js" timestamp="1507912657793">
         <mark key="[" line="1" column="0" />
@@ -3272,7 +3274,7 @@
         <mark key="^" line="47" column="20" />
         <mark key="." line="47" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518815325987">
+      <file name="/Dummy.txt" timestamp="1518817124763">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -4524,10 +4526,11 @@
         <mark key="." line="1094" column="40" />
         <mark key="^" line="1094" column="40" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/services/pos-providers/pos-providers.spec.js" timestamp="1518720144777">
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="0" />
-        <mark key="." line="93" column="0" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/services/pos-providers/pos-providers.spec.js" timestamp="1518817211335">
+        <mark key="[" line="40" column="109" />
+        <mark key="]" line="40" column="109" />
+        <mark key="." line="40" column="109" />
+        <mark key="^" line="40" column="109" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/bce-component/bce-component.module.js" timestamp="1507228548039">
         <mark key="[" line="3" column="53" />
@@ -5620,8 +5623,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="0" filename="$USER_HOME$/labs/ng-labs/src/app/appointments/create/components/payment-info/payment-info.tpl.html" />
-      <jump line="82" column="21" filename="$USER_HOME$/bigcommerce-app-vm/codebases/bigcommerce/config/app/provision.php" />
       <jump line="359" column="0" filename="$USER_HOME$/bigcommerce-app-vm/codebases/bigcommerce/config/app/services/services.php" />
       <jump line="0" column="0" filename="$USER_HOME$/bigcommerce-app-vm/codebases/bigcommerce/config/environment.php" />
       <jump line="408" column="34" filename="$USER_HOME$/bigcommerce-app-vm/codebases/bigcommerce/config/environment.php" />
@@ -5720,10 +5721,12 @@
       <jump line="484" column="4" filename="$USER_HOME$/bigcommerce-app-vm/codebases/bigcommerce/admin/templates/import.products.step1.tpl" />
       <jump line="3" column="4" filename="$USER_HOME$/bigcommerce-app-vm/codebases/bigcommerce/lib/Store/InternalApi/V1/Omni/ProductsImport/ProductsImportController.php" />
       <jump line="26" column="49" filename="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/db/appointments.go" />
+      <jump line="120" column="28" filename="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/shared/providers/providers.actions.js" />
+      <jump line="52" column="67" filename="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/services/pos-providers/pos-providers.service.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>UPDATE_PROVIDER_SUCCESS</text>
+        <text>httpDefaultCache</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqc2NoYW5uZWxcPg==</text>
@@ -5732,7 +5735,7 @@
         <text encoding="base64">ZXhwb3J0IGNvbnN0IFVQREFURV9QUk9WSURFUl9TVUNDRVNTID0gJ1BST1ZJREVSL1VQREFURV9QUk9WSURFUl9TVUNDRVNTJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncmVtb3ZlZD8nKTsK</text>
+        <text encoding="base64">ICAgICAgICAkY2FjaGVGYWN0b3J5ID0gJGluamVjdG9yLmdldCgnJGNhY2hlRmFjdG9yeScpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -5750,22 +5753,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndXJsJywgbm90aWZpY2F0aW9uc1VybCk7Cg==</text>
+        <text encoding="base64">ICAgIGxldCAkaHR0cERlZmF1bHRDYWNoZTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncmVtb3ZlZD8nKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRkFDRUJPT0tfUFJPVklERVJfREVGQVVMVFMgfSBmcm9tICcuL2ZhY2Vib29rLmNvbnN0YW50cyc7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndXJsJywgbm90aWZpY2F0aW9uc1VybCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLl8kY2FjaGVGYWN0b3J5Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLl8kaHR0cERlZmF1bHRDYWNoZSA9ICRjYWNoZUZhY3Rvcnk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgRkFDRUJPT0tfUFJPVklERVJfREVGQVVMVFMgfSBmcm9tICcuL2ZhY2Vib29rLmNvbnN0YW50cyc7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLl8kY2FjaGVGYWN0b3J5ID0gJGNhY2hlRmFjdG9yeTsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLl8kY2FjaGVGYWN0b3J5Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5885,10 +5888,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IEZBQ0VCT09LX1BST1ZJREVSX0RFRkFVTFRTID0gewogICAgaWQ6ICdmYWNlYm9vaycsCiAgICBoZWxwVXJsOiAnaHR0cHM6Ly9zdXBwb3J0LmJpZ2NvbW1lcmNlLmNvbS9hcnRpY2xlcy9QdWJsaWMvU2VsbGluZy1vbi1GYWNlYm9vay1TaG9wLVBhZ2VzJywKfTsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLl8kaHR0cERlZmF1bHRDYWNoZSA9ICRjYWNoZUZhY3Rvcnk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBvbkVudGVyOiAoJHN0YXRlLCBwcm92aWRlcikgPT4gewogICAgICAgIC8vICAgICAnbmdJbmplY3QnOwogICAgICAgIC8vCiAgICAgICAgLy8gICAgIGlmICghcHJvdmlkZXIuY29ubmVjdGVkKSB7CiAgICAgICAgLy8gICAgICAgICAkc3RhdGUuZ28oJ25nLW9tbmljaGFubmVsLnByb3ZpZGVycy1saXN0Jyk7CiAgICAgICAgLy8gICAgIH0KICAgICAgICAvLyB9LAo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLl8kY2FjaGVGYWN0b3J5ID0gJGNhY2hlRmFjdG9yeTsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>

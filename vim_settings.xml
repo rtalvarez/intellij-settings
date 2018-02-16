@@ -1234,8 +1234,8 @@
         <mark key="^" line="38" column="35" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/elixir/book/rumbl/lib/rumbl_web/templates/user/index.html.eex" timestamp="1518658569177">
-        <mark key="[" line="5" column="0" />
+      <file name="$USER_HOME$/elixir/book/rumbl/lib/rumbl_web/templates/user/index.html.eex" timestamp="1518745343788">
+        <mark key="[" line="6" column="39" />
         <mark key="]" line="5" column="0" />
         <mark key="^" line="6" column="45" />
         <mark key="." line="5" column="0" />
@@ -3002,11 +3002,11 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/elixir/book/rumbl/lib/rumbl_web/models/user.ex" timestamp="1518655339705">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="44" />
-        <mark key="^" line="1" column="44" />
-        <mark key="." line="1" column="44" />
+      <file name="$USER_HOME$/elixir/book/rumbl/lib/rumbl_web/models/user.ex" timestamp="1518747242355">
+        <mark key="[" line="1" column="23" />
+        <mark key="]" line="2" column="16" />
+        <mark key="." line="2" column="16" />
+        <mark key="^" line="2" column="16" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/shared/options/options.selectors.js" timestamp="1502831076603">
         <mark key="[" line="15" column="1" />
@@ -3238,7 +3238,7 @@
         <mark key="^" line="47" column="20" />
         <mark key="." line="47" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518727925169">
+      <file name="/Dummy.txt" timestamp="1518747476789">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -3623,6 +3623,12 @@
         <mark key="]" line="32" column="19" />
         <mark key="^" line="32" column="19" />
         <mark key="." line="32" column="19" />
+      </file>
+      <file name="$USER_HOME$/elixir/book/rumbl/priv/repo/migrations/20180216021404_create_user.exs" timestamp="1518747326915">
+        <mark key="[" line="10" column="7" />
+        <mark key="]" line="12" column="41" />
+        <mark key="^" line="12" column="41" />
+        <mark key="." line="12" column="41" />
       </file>
       <file name="$USER_HOME$/elixir/hello/lib/hello_web/controllers/page_controller.ex" timestamp="1518203997083">
         <mark key="[" line="9" column="5" />
@@ -4347,11 +4353,11 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/elixir/book/rumbl/lib/rumbl/repo.ex" timestamp="1518708423047">
-        <mark key="[" line="27" column="33" />
-        <mark key="]" line="27" column="33" />
+      <file name="$USER_HOME$/elixir/book/rumbl/lib/rumbl/repo.ex" timestamp="1518745723147">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
         <mark key="^" line="27" column="35" />
-        <mark key="." line="27" column="33" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/labs/labs-fe-bb/dist/index.html" timestamp="1497456109370">
         <mark key="[" line="22" column="0" />
@@ -5673,7 +5679,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>provider</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqc2NoYW5uZWxcPg==</text>
@@ -5682,7 +5688,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuY2F0Y2goKCkgPT4gJHN0YXRlLmdvKCduZy1vbW5pY2hhbm5lbC5wcm92aWRlci1lcnJvcicsIHsgcHJvdmlkZXI6IFBST1ZJREVSX0lEUy5FQkFZIH0pKQogICAgICAgICAgICAgICAgICAgIC5maW5hbGx5KCgpID0+IHVuc3Vic2NyaWJlKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCkK</text>
+        <text encoding="base64">ICBkZWZzdHJ1Y3QgWzppZCwgOm5hbWUsIDp1c2VybmFtZSwgOnBhc3N3b3JkXQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -5700,22 +5706,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICBhbGlhcyBSdW1ibC5Vc2VyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHBvc1Byb3ZpZGVycy5nZXRQcm92aWRlcignZWJheScpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRleHQuc2V0QWN0aXZlSWQoUFJPVklERVJfSURTLkVCQVkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ2F1dGgnLCBhdXRoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHBvc1Byb3ZpZGVycy5nZXRQcm92aWRlcignZWJheScpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRleHQuc2V0QWN0aXZlSWQoUFJPVklERVJfSURTLkVCQVkpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5835,10 +5841,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ2F1dGgnLCBhdXRoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29ubmVjdFVybAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>

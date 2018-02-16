@@ -2318,6 +2318,12 @@
         <mark key="." line="49" column="0" />
         <mark key="^" line="57" column="40" />
       </file>
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/bigcommerce/app/controllers/Manage/AngularOmnichannelController.php" timestamp="1518795795102">
+        <mark key="[" line="122" column="0" />
+        <mark key="]" line="122" column="73" />
+        <mark key="." line="122" column="0" />
+        <mark key="^" line="104" column="48" />
+      </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/listing/amazon/components/listing-details/listing-details.tpl.html" timestamp="1501708776112">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
@@ -3238,7 +3244,7 @@
         <mark key="^" line="47" column="20" />
         <mark key="." line="47" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518747476789">
+      <file name="/Dummy.txt" timestamp="1518794836671">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -5685,10 +5691,10 @@
         <text encoding="base64">XDxqc2NoYW5uZWxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuY2F0Y2goKCkgPT4gJHN0YXRlLmdvKCduZy1vbW5pY2hhbm5lbC5wcm92aWRlci1lcnJvcicsIHsgcHJvdmlkZXI6IFBST1ZJREVSX0lEUy5FQkFZIH0pKQogICAgICAgICAgICAgICAgICAgIC5maW5hbGx5KCgpID0+IHVuc3Vic2NyaWJlKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkc2VlZGVkRGF0YVsnb21uaU5vdGlmaWNhdGlvbnMnXSA9ICR0aGlzLT5nZXRPbW5pTm90aWZpY2F0aW9ucygpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBkZWZzdHJ1Y3QgWzppZCwgOm5hbWUsIDp1c2VybmFtZSwgOnBhc3N3b3JkXQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -5706,22 +5712,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBhbGlhcyBSdW1ibC5Vc2VyCg==</text>
+        <text encoding="base64">ICAgICAgICAkZXZlbnRzID0gJHRoaXMtPmV2ZW50UmVwb3NpdG9yeS0+ZmluZEV2ZW50c0J5Q29udGV4dCgnb21uaScpOwoKICAgICAgICAkc2VlZGVkRGF0YVsnb21uaU5vdGlmaWNhdGlvbnMnXSA9IFsKICAgICAgICAgICAgJ2RhdGEnID0+IGl0ZXJhdG9yX3RvX2FycmF5KCRldmVudHMpCiAgICAgICAgXTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCkK</text>
+        <text encoding="base64">CiAgICAgICAgJHNlZWRlZERhdGFbJ29tbmlOb3RpZmljYXRpb25zJ10gPSBbCiAgICAgICAgICAgICdkYXRhJyA9PiBpdGVyYXRvcl90b19hcnJheSgkZXZlbnRzKQogICAgICAgIF07IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAkcHJvdmlkZXJzID0gJHRoaXMtPmdldFByb3ZpZGVycygpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZWZzdHJ1Y3QgWzppZCwgOm5hbWUsIDp1c2VybmFtZSwgOnBhc3N3b3JkXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHBvc1Byb3ZpZGVycy5nZXRQcm92aWRlcignZWJheScpKTsK</text>
+        <text encoding="base64">ICBhbGlhcyBSdW1ibC5Vc2VyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRleHQuc2V0QWN0aXZlSWQoUFJPVklERVJfSURTLkVCQVkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5841,7 +5847,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ2F1dGgnLCBhdXRoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>

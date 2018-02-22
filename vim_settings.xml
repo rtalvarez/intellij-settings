@@ -3314,7 +3314,7 @@
         <mark key="^" line="47" column="20" />
         <mark key="." line="47" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519246955694">
+      <file name="/Dummy.txt" timestamp="1519315882679">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -4476,11 +4476,11 @@
         <mark key="^" line="6" column="41" />
         <mark key="." line="6" column="41" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/settings-tab/containers/settings-form/settings-form.component.js" timestamp="1519072628776">
-        <mark key="[" line="186" column="45" />
-        <mark key="]" line="186" column="64" />
-        <mark key="." line="186" column="64" />
-        <mark key="^" line="186" column="64" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/settings-tab/containers/settings-form/settings-form.component.js" timestamp="1519316409387">
+        <mark key="[" line="134" column="15" />
+        <mark key="]" line="135" column="7" />
+        <mark key="." line="135" column="7" />
+        <mark key="^" line="135" column="7" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/omni-elements/src/bce-import-start/styles.scss" timestamp="1516389128615">
         <mark key="[" line="19" column="5" />
@@ -5234,7 +5234,7 @@
         <mark key="." line="27" column="26" />
         <mark key="^" line="27" column="26" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/embeddable-app/src/bce-app/story.js" timestamp="1519244328105">
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/embeddable-app/src/bce-app/story.js" timestamp="1519315989093">
         <mark key="[" line="71" column="0" />
         <mark key="]" line="74" column="30" />
         <mark key="." line="71" column="0" />
@@ -5794,7 +5794,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>remove</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqc2NoYW5uZWxcPg==</text>
@@ -5803,7 +5803,7 @@
         <text encoding="base64">ICAgICAgdGhpcy5fY2xvc2UoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAudGhlbigoKSA9PiB0aGlzLl9vbkNvbmZpcm0oKSkKICAgICAgICAuY2F0Y2goKCkgPT4gdGhpcy5fb25EaXNtaXNzKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmViYXlTZXR0aW5nc0Zvcm1BY3Rpb25zLm9wZW5JbXBvcnRQcm9kdWN0c01vZGFsKCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -5821,22 +5821,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3JlbW92ZScsIHRoaXMuX21vZGFsKTsK</text>
+        <text encoding="base64">ICAgICAgICAudGhlbigoKSA9PiB0aGlzLl9vbkNvbmZpcm0oKSkKICAgICAgICAuY2F0Y2goKCkgPT4gdGhpcy5fb25EaXNtaXNzKCkpCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3JlbW92ZScsIHRoaXMuX21vZGFsKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3JlbW92ZScsIHRoaXMuX21vZGFsKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5fbW9kYWwucmVtb3ZlKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5fbW9kYWwucmVtb3ZlRXZlbnRMaXN0ZW5lcignY2xpY2snLCB0aGlzLl9vbkNvbmZpcm0pOwogICAgICB0aGlzLl9tb2RhbC5yZW1vdmVFdmVudExpc3RlbmVyKCdjbGljaycsIHRoaXMuX29uRGlzbWlzcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5fbW9kYWwucmVtb3ZlKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5fbW9kYWwucmVtb3ZlRXZlbnRMaXN0ZW5lcignY2xpY2snLCB0aGlzLl9vbkNvbmZpcm0pOwogICAgICB0aGlzLl9tb2RhbC5yZW1vdmVFdmVudExpc3RlbmVyKCdjbGljaycsIHRoaXMuX29uRGlzbWlzcyk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5959,7 +5959,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5fY2xvc2UoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>

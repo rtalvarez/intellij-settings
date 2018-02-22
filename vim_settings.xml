@@ -1150,11 +1150,11 @@
         <mark key="." line="2" column="48" />
         <mark key="^" line="2" column="48" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/embeddable-app/src/bce-app/actions/openModal.js" timestamp="1519318814885">
-        <mark key="[" line="74" column="10" />
-        <mark key="]" line="74" column="20" />
-        <mark key="." line="74" column="20" />
-        <mark key="^" line="74" column="20" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/embeddable-app/src/bce-app/actions/openModal.js" timestamp="1519327399371">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="23" column="7" />
       </file>
       <file name="$USER_HOME$/labs/labs-be/db/admin.go" timestamp="1491757046255">
         <mark key="[" line="4" column="20" />
@@ -3314,7 +3314,7 @@
         <mark key="^" line="47" column="20" />
         <mark key="." line="47" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519316866296">
+      <file name="/Dummy.txt" timestamp="1519326739774">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -5795,16 +5795,16 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>headerElement</text>
+        <text>modal</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqc2NoYW5uZWxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5fY2xvc2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICBoKCdkaXYnLCB7IHNsb3Q6ICdoZWFkZXInIH0sICdIZWxsbyB3b3JsZCcpLAogICAgICAgIGgoJ2RpdicsIHsgc2xvdDogJ2JvZHknIH0sICdIZWxsbyB3b3JsZCcpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -5822,22 +5822,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYm9keUVsZW1lbnQuaW5uZXJUZXh0ID0gYm9keUNvbnRlbnQ7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICByZW5kZXIoZWxlbWVudHMsIGVsZW1lbnQpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBoKCdkaXYnLCB7IHNsb3Q6ICdoZWFkZXInIH0sICdIZWxsbyB3b3JsZCcpCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaGVhZGVyRWxlbWVudC5pbm5lclRleHQgPSBoZWFkZXJDb250ZW50Owo=</text>
+        <text encoding="base64">ICAgICAgICBfLmVhY2goZWxlbWVudHMsIGVsZW1lbnQgPT4gYm9keUVsZW1lbnQuYXBwZW5kKGVsZW1lbnQpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBoZWFkZXI6IFsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgIF0K</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndHQnLCB0aGlzLnJlbmRlckVsZW1lbnRzKGJvZHlDb250ZW50KSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIC8vIHsKICAgICAgICAgICAgICAgICAgICAgIC8vICAgdHlwZTogJyRvcGVuTW9kYWwnLAogICAgICAgICAgICAgICAgICAgICAgLy8gICBjb25maWc6IHsKICAgICAgICAgICAgICAgICAgICAgIC8vICAgICBoZWFkZXI6ICdIRUFERVIgQVMgRCcsCiAgICAgICAgICAgICAgICAgICAgICAvLyAgICAgYm9keTogJ0hFTExPIFdPUkxEIExPTCcsCiAgICAgICAgICAgICAgICAgICAgICAvLyAgICAgZm9vdGVyOiBbCiAgICAgICAgICAgICAgICAgICAgICAvLyAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAvLyAgICAgICAgIHR5cGU6ICdkaXNtaXNzJywKICAgICAgICAgICAgICAgICAgICAgIC8vICAgICAgICAgdGV4dDogJ0NhbmNlbCcsCiAgICAgICAgICAgICAgICAgICAgICAvLyAgICAgICB9LAogICAgICAgICAgICAgICAgICAgICAgLy8gICAgICAgewogICAgICAgICAgICAgICAgICAgICAgLy8gICAgICAgICB0eXBlOiAnY29uZmlybScsCiAgICAgICAgICAgICAgICAgICAgICAvLyAgICAgICAgIHRleHQ6ICdPSycsCiAgICAgICAgICAgICAgICAgICAgICAvLyAgICAgICB9LAogICAgICAgICAgICAgICAgICAgICAgLy8gICAgIF0sCiAgICAgICAgICAgICAgICAgICAgICAvLyAgIH0sCiAgICAgICAgICAgICAgICAgICAgICAvLyB9LAo=</text>
+        <text encoding="base64">ICAgICAgICBfLmVhY2goYm9keUNvbnRlbnQsIGVsZW1lbnRDb25maWcgPT4gewogICAgICAgICAgY29uc3QgZWxlbWVudCA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoZWxlbWVudENvbmZpZy5uYW1lKTsKCiAgICAgICAgICBfLmZvckluKGVsZW1lbnRDb25maWcuYXR0cnMsICh2YWx1ZSwgYXR0cikgPT4KICAgICAgICAgICAgZWxlbWVudC5zZXRBdHRyaWJ1dGUoYXR0ciwgdmFsdWUpCiAgICAgICAgICApOwoKICAgICAgICAgIGJvZHlFbGVtZW50LmFwcGVuZENoaWxkKGVsZW1lbnQpOwogICAgICAgIH0pOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5957,10 +5957,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgdHlwZTogJyRmZXRjaCcsCiAgICAgICAgICAgICAgICAgICAgICAgIGNvbmZpZzogewogICAgICAgICAgICAgICAgICAgICAgICAgIHVybDogJy9hZG1pbi9pYWMvYXBwcy83NDg4L2V4cHJlc3NfaW5zdGFsbCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgdmFyaWFibGVNYXA6IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGluc3RhbGxVcmw6ICdpbnN0YWxsX3VybCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCd2JywgdmFsdWUpIHx8CiAgICAgICAgICBjb25zb2xlLmxvZygnYXR0cicsIGF0dHIpIHx8Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXJyb3I6IFsKICAgICAgICAgICAgICAgICAgICAgICAgXSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>

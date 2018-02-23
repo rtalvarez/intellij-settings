@@ -417,7 +417,7 @@
         <mark key="." line="57" column="77" />
         <mark key="^" line="57" column="77" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/embeddable-app/src/bce-app/component.js" timestamp="1519332921777">
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/embeddable-app/src/bce-app/component.js" timestamp="1519419094323">
         <mark key="[" line="105" column="0" />
         <mark key="]" line="105" column="0" />
         <mark key="." line="105" column="0" />
@@ -2919,11 +2919,11 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="7" column="1" />
       </file>
-      <file name="$USER_HOME$/elixir/book/rumbl/lib/rumbl_web/controllers/video_controller.ex" timestamp="1519418373384">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="3" column="16" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/elixir/book/rumbl/lib/rumbl_web/controllers/video_controller.ex" timestamp="1519419276443">
+        <mark key="[" line="13" column="21" />
+        <mark key="]" line="14" column="23" />
+        <mark key="^" line="14" column="23" />
+        <mark key="." line="14" column="23" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/embeddable-app/troll.js" timestamp="1507565253401">
         <mark key="[" line="1" column="28" />
@@ -3337,7 +3337,7 @@
         <mark key="^" line="47" column="20" />
         <mark key="." line="47" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519417967413">
+      <file name="/Dummy.txt" timestamp="1519419624445">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -5570,11 +5570,11 @@
         <mark key="^" line="9" column="31" />
         <mark key="." line="9" column="31" />
       </file>
-      <file name="$USER_HOME$/elixir/book/rumbl/lib/rumbl/videos/video.ex" timestamp="1519418379897">
-        <mark key="[" line="16" column="43" />
-        <mark key="]" line="17" column="21" />
+      <file name="$USER_HOME$/elixir/book/rumbl/lib/rumbl/videos/video.ex" timestamp="1519419544272">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
         <mark key="^" line="17" column="21" />
-        <mark key="." line="17" column="21" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/utils/random.go" timestamp="1512422014832">
         <mark key="[" line="7" column="70" />
@@ -5840,16 +5840,16 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Ok</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqc2NoYW5uZWxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJlc291cmNlcyAiL3Nlc3Npb25zIiwgU2Vzc2lvbkNvbnRyb2xsZXIsIG9ubHk6IH53KG5ldyBjcmVhdGUgZGVsZXRlKWEK</text>
+        <text encoding="base64">ICAgIElPLnB1dHMoIkVuIG5ldyIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIElPLnB1dHMoIkFxdWkgYW5kbyIpCiAgICBJTy5pbnNwZWN0KHZpZGVvX3BhcmFtcykK</text>
+        <text encoding="base64">CiAgICBJTy5pbnNwZWN0KHZpZGVvKQoKICAgIHZpZGVvCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -5867,22 +5867,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHVzZXIgPSBSZXBvLmdldChVc2VyLCBpZCkK</text>
+        <text encoding="base64">ICAgIElPLnB1dHMoIkFxdWkgYW5kbyIpCiAgICBJTy5pbnNwZWN0KGF0dHJzKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHVzZXJzID0gUmVwby5hbGwoVXNlcikK</text>
+        <text encoding="base64">ICAgIElPLnB1dHMoIkFxdWkgYW5kbyIpCiAgICBJTy5pbnNwZWN0KHZpZGVvX3BhcmFtcykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBhbGlhcyBSdW1ibC5SZXBvCg==</text>
+        <text encoding="base64">ICAgIHVzZXIgPSBSZXBvLmdldChVc2VyLCBpZCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBzdHlsZTogeyBjb2xvcjogJ3JlZCcgfSwK</text>
+        <text encoding="base64">ICAgIHVzZXJzID0gUmVwby5hbGwoVXNlcikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IF8gZnJvbSAnbG9kYXNoJzsK</text>
+        <text encoding="base64">ICBhbGlhcyBSdW1ibC5SZXBvCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgIC8vIHJldHVybiBfLnJlZHVjZSgKICAgICAgLy8gICBwcm9wcywKICAgICAgLy8gICAoYWNjdW11bGF0b3IsIHZhbHVlLCBrZXkpID0+IHsKICAgICAgLy8gICAgIGlmICgKICAgICAgLy8gICAgICAgIV8uc29tZShBTExPV0VEX01PREFMX0FUVFJJQlVURVMsIGFsbG93ZWRLZXkgPT4gYWxsb3dlZEtleSA9PT0ga2V5KQogICAgICAvLyAgICAgKSB7CiAgICAgIC8vICAgICAgIHJldHVybiBhY2N1bXVsYXRvcjsKICAgICAgLy8gICAgIH0KICAgICAgLy8gICAgIGFjY3VtdWxhdG9yW2tleV0gPSB2YWx1ZTsKICAgICAgLy8KICAgICAgLy8gICAgIHJldHVybiBhY2N1bXVsYXRvcjsKICAgICAgLy8gICB9LAogICAgICAvLyAgIHt9CiAgICAgIC8vICk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBzdHlsZTogeyBjb2xvcjogJ3JlZCcgfSwK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -6002,10 +6002,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy8gT25seSBwYXNzIGEgc2V0IG9mIHdoaXRlbGlzdGVkIGF0dHJpYnV0ZXMgdG8gdGhlIGNvbXBvbmVudCBpdHNlbGYKICAgICAgLy8gdGhpcyBoZWxwcyBrZWVwIHRoZSB3ZWIgY29tcG9uZW50IHNhZmUgYW5kIGNsZWFuIGZyb20gY2x1dHRlcmVkIGNvbmZpZyB2YWx1ZXMK</text>
+        <text encoding="base64">aW1wb3J0IF8gZnJvbSAnbG9kYXNoJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2F0dHInLCBhdHRyaWJ1dGVzKTsK</text>
+        <text encoding="base64">CiAgICAgIC8vIHJldHVybiBfLnJlZHVjZSgKICAgICAgLy8gICBwcm9wcywKICAgICAgLy8gICAoYWNjdW11bGF0b3IsIHZhbHVlLCBrZXkpID0+IHsKICAgICAgLy8gICAgIGlmICgKICAgICAgLy8gICAgICAgIV8uc29tZShBTExPV0VEX01PREFMX0FUVFJJQlVURVMsIGFsbG93ZWRLZXkgPT4gYWxsb3dlZEtleSA9PT0ga2V5KQogICAgICAvLyAgICAgKSB7CiAgICAgIC8vICAgICAgIHJldHVybiBhY2N1bXVsYXRvcjsKICAgICAgLy8gICAgIH0KICAgICAgLy8gICAgIGFjY3VtdWxhdG9yW2tleV0gPSB2YWx1ZTsKICAgICAgLy8KICAgICAgLy8gICAgIHJldHVybiBhY2N1bXVsYXRvcjsKICAgICAgLy8gICB9LAogICAgICAvLyAgIHt9CiAgICAgIC8vICk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>

@@ -9,10 +9,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*" />
     <recentFileMasks>
-      <mask>*provider*</mask>
-      <mask>*er*</mask>
-      <mask>*e*</mask>
-      <mask>*fac*</mask>
       <mask>*fact*</mask>
       <mask>*fact</mask>
       <mask>*fac</mask>
@@ -21,16 +17,12 @@
       <mask>*tpl</mask>
       <mask>*tp</mask>
       <mask>*t</mask>
-      <mask>*.tpl</mask>
-      <mask>*.tp</mask>
-      <mask>*.t</mask>
       <mask>*.scss</mask>
       <mask>*.scs</mask>
       <mask>*.sc</mask>
       <mask>*.s</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*spec.js</mask>
       <mask>*spec.j</mask>
       <mask>*spec.</mask>
@@ -38,6 +30,14 @@
       <mask>*spe</mask>
       <mask>*sp</mask>
       <mask>*s</mask>
+      <mask>*.html</mask>
+      <mask>*.htm</mask>
+      <mask>*.ht</mask>
+      <mask>*.h</mask>
+      <mask>*.tpl</mask>
+      <mask>*.tp</mask>
+      <mask>*.t</mask>
+      <mask>*.</mask>
       <mask>*</mask>
     </recentFileMasks>
   </component>

@@ -5,10 +5,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*" />
     <recentFileMasks>
-      <mask>*fact*</mask>
-      <mask>*fact</mask>
-      <mask>*fac</mask>
-      <mask>*fa</mask>
       <mask>*f</mask>
       <mask>*tpl</mask>
       <mask>*tp</mask>
@@ -34,6 +30,10 @@
       <mask>*.sc</mask>
       <mask>*.s</mask>
       <mask>*.</mask>
+      <mask>*html</mask>
+      <mask>*htm</mask>
+      <mask>*ht</mask>
+      <mask>*h</mask>
       <mask>*</mask>
     </recentFileMasks>
   </component>

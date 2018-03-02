@@ -26,11 +26,10 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/provider-requirements/pinterest/pinterest-requirements.tpl.html" timestamp="1519937000851">
-        <mark key="[" line="30" column="30" />
-        <mark key="]" line="30" column="78" />
-        <mark key="^" line="30" column="78" />
-        <mark key="." line="30" column="78" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/provider-requirements/pinterest/pinterest-requirements.tpl.html" timestamp="1520022909079">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/app.module.js" timestamp="1518021428639">
         <mark key="[" line="46" column="0" />
@@ -514,6 +513,12 @@
         <mark key="]" line="3" column="15" />
         <mark key="^" line="3" column="15" />
         <mark key="." line="3" column="15" />
+      </file>
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/provider-requirements/facebook/facebook-requirements.controller.js" timestamp="1520022691274">
+        <mark key="[" line="16" column="47" />
+        <mark key="]" line="16" column="41" />
+        <mark key="^" line="16" column="41" />
+        <mark key="." line="16" column="41" />
       </file>
       <file name="$USER_HOME$/bukibot/php/bukibot-php/twitch/TwitchFollowHandler.php" timestamp="1516930134225">
         <mark key="[" line="64" column="0" />
@@ -1278,11 +1283,11 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="51" column="35" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/provider-requirements/facebook/facebook-requirements.tpl.html" timestamp="1519937017444">
-        <mark key="[" line="9" column="33" />
-        <mark key="]" line="10" column="48" />
-        <mark key="^" line="10" column="48" />
-        <mark key="." line="10" column="48" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/provider-requirements/facebook/facebook-requirements.tpl.html" timestamp="1520022780076">
+        <mark key="[" line="59" column="34" />
+        <mark key="]" line="59" column="44" />
+        <mark key="^" line="59" column="44" />
+        <mark key="." line="59" column="44" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/settings-tab/containers/settings-form/shared/settings-form.actions.js" timestamp="1518626083715">
         <mark key="[" line="127" column="59" />
@@ -6118,16 +6123,16 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>isFirstTimeSetup</text>
+        <text>ProductRequirements</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqc2NoYW5uZWxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBjbGljay10cmFja2VyPSJSZWdpc3RlcmVkQnJhbmRzIExlYXJuTW9yZSIKICAgICAgICAgICAgICAgICAgICAgICBjbGljay10cmFja2VyLWRhdGE9IiRjdHJsLmdldENsaWNrVHJhY2tlckRhdGEoKSIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIGNsaWNrLXRyYWNrZXI9IlByb2R1Y3RSZXF1aXJlbWVudHMgTGVhcm5Nb3JlIgogICAgICAgICAgICAgICAgICAgY2xpY2stdHJhY2tlci1kYXRhPSIkY3RybC5nZXRDbGlja1RyYWNrZXJEYXRhKCkiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBmZWF0KGFtYXpvbik6IE9NTkktNDM5OSAtIGFkZCByZWF1dGggZmxvdyBmb3IgYW1hem9uIG1lcmNoYW50cwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -6145,22 +6150,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgIFBST1ZJREVSX0lEUywK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBmZWF0KGFtYXpvbik6IE9NTkktNDM5OSAtIGFkZCByZWF1dGggZmxvdyBmb3IgYW1hem9uIG1lcmNoYW50cwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZ2V0SXNGaXJzdFRpbWVTZXR1cCB9IGZyb20gJ3NyYy9hcHAvc2hhcmVkL2NoYW5uZWwtY29uZmlnL2NoYW5uZWwtY29uZmlnLnNlbGVjdG9ycyc7Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGdldEFjdGl2ZUNvbmZpZywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGdldElzRmV0Y2hpbmdDaGFubmVsQ29uZmlnIGFzIGdldElzRmV0Y2hpbmdDb25maWcsCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgZ2V0SXNGaXJzdFRpbWVTZXR1cCB9IGZyb20gJ3NyYy9hcHAvc2hhcmVkL2NoYW5uZWwtY29uZmlnL2NoYW5uZWwtY29uZmlnLnNlbGVjdG9ycyc7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -6280,10 +6285,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGdldElzSW50ZWdyYXRpb25BY3RpdmUsCg==</text>
+        <text encoding="base64">ICAgIGdldEFjdGl2ZUNvbmZpZywK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRkFDRUJPT0tfQVBQTElDQVRJT05fU1RBVFVTIH0gZnJvbSAnLi4vLi4vLi4vZmFjZWJvb2suY29uc3RhbnRzLmpzJzsK</text>
+        <text encoding="base64">ICAgIGdldElzRmV0Y2hpbmdDaGFubmVsQ29uZmlnIGFzIGdldElzRmV0Y2hpbmdDb25maWcsCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>

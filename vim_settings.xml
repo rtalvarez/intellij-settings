@@ -710,11 +710,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/modals/shipping-settings-modal/shipping-settings-modal.controller.js" timestamp="1519935662641">
-        <mark key="[" line="37" column="8" />
-        <mark key="]" line="37" column="40" />
-        <mark key="." line="37" column="40" />
-        <mark key="^" line="37" column="40" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/modals/shipping-settings-modal/shipping-settings-modal.controller.js" timestamp="1520279260523">
+        <mark key="[" line="6" column="24" />
+        <mark key="]" line="6" column="24" />
+        <mark key="." line="6" column="24" />
+        <mark key="^" line="6" column="24" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/omni-elements/src/bce-icon/styles.scss" timestamp="1514929674613">
         <mark key="[" line="9" column="7" />
@@ -2335,11 +2335,11 @@
         <mark key="^" line="13" column="21" />
         <mark key="." line="13" column="21" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/modals/amazon-early-access-details-modal/amazon-early-access-details-modal.controller.js" timestamp="1519941130287">
-        <mark key="[" line="26" column="32" />
-        <mark key="]" line="26" column="44" />
-        <mark key="." line="26" column="44" />
-        <mark key="^" line="26" column="44" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/modals/amazon-early-access-details-modal/amazon-early-access-details-modal.controller.js" timestamp="1520278414810">
+        <mark key="[" line="12" column="46" />
+        <mark key="]" line="13" column="36" />
+        <mark key="." line="13" column="36" />
+        <mark key="^" line="13" column="36" />
       </file>
       <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/routes/handlers/auth/oid.go" timestamp="1519783704499">
         <mark key="[" line="37" column="30" />
@@ -3518,7 +3518,7 @@
         <mark key="." line="24" column="42" />
         <mark key="^" line="24" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520277438141">
+      <file name="/Dummy.txt" timestamp="1520278832426">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -6118,7 +6118,7 @@
         <text encoding="base64">ICAgICAgICAgICAgPGEgY2xpY2stdHJhY2tlcj0iUHJvZHVjdFJlcXVpcmVtZW50cyBMZWFybk1vcmUiIAogICAgICAgICAgICAgICBjbGljay10cmFja2VyLWRhdGE9IiRjdHJsLmdldENsaWNrVHJhY2tlckRhdGEoKSIgCiAgICAgICAgICAgICAgIG5nLWhyZWY9Int7IHBpbnRlcmVzdFJlcXVpcmVtZW50c0N0cmwucHJvdmlkZXIuaGVscFVybCB9fSIgCiAgICAgICAgICAgICAgIHRhcmdldD0iX2JsYW5rIiAKICAgICAgICAgICAgICAgdHJhbnNsYXRlPgogICAgICAgICAgICAgICAgVmlldyBhbGwgcHJvZHVjdCByZXF1aXJlbWVudHMKICAgICAgICAgICAgPC9hPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkcHJvdmlkZS52YWx1ZSgncG9zUHJvdmlkZXJzJywgcG9zUHJvdmlkZXJzKTsKICAgICAgICAkcHJvdmlkZS52YWx1ZSgnZXhwZXJpbWVudHMnLCBleHBlcmltZW50cyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLl9ldmVudFRyYWNrZXIgPSBldmVudFRyYWNrZXI7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -6136,22 +6136,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxldCAkbmdSZWR1eDsK</text>
+        <text encoding="base64">ICAgICAgICBldmVudFRyYWNrZXIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Q0M6IHt7IGN1cnJlbmN5U3VwcG9ydEN0cmwuZ2V0Q2xpY2tUcmFja2VyRGF0YSgpIH19Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcHJvdmlkZS52YWx1ZSgncG9zUHJvdmlkZXJzJywgcG9zUHJvdmlkZXJzKTsKICAgICAgICAkcHJvdmlkZS52YWx1ZSgnZXhwZXJpbWVudHMnLCBleHBlcmltZW50cyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxldCAkbmdSZWR1eDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY2hhbm5lbGlkJywgdGhpcy5jaGFubmVsSWQpOwo=</text>
+        <text encoding="base64">Q0M6IHt7IGN1cnJlbmN5U3VwcG9ydEN0cmwuZ2V0Q2xpY2tUcmFja2VyRGF0YSgpIH19Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyAuZmluYWxseSgoKSA9PiB1bnN1YnNjcmliZSgpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gY29udGV4dC5zZXRQcm92aWRlcihwcm92aWRlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY2hhbm5lbGlkJywgdGhpcy5jaGFubmVsSWQpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -6271,10 +6271,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyAuZmluYWxseSgoKSA9PiB1bnN1YnNjcmliZSgpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGNvbnN0IGNvbnRleHQgPSB7fTsKICAgICAgICAgICAgICAgIC8vIGNvbnN0IHVuc3Vic2NyaWJlID0gJG5nUmVkdXguY29ubmVjdCgoKSA9PiB7fSwgeyAuLi5wcm92aWRlckFjdGlvbnMgfSkoY29udGV4dCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gY29udGV4dC5zZXRQcm92aWRlcihwcm92aWRlcik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>

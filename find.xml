@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.spec.*" />
+    <option name="FILE_MASK" value="*" />
     <recentFileMasks>
       <mask>*.js</mask>
       <mask>*.j</mask>
@@ -28,13 +28,13 @@
       <mask>*htm</mask>
       <mask>*ht</mask>
       <mask>*h</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.s</mask>
       <mask>*.sp</mask>
       <mask>*.spec</mask>
-      <mask>*.spec.</mask>
       <mask>*.spec.*</mask>
+      <mask>*.spec.</mask>
+      <mask>*.s</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>

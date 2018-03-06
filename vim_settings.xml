@@ -771,7 +771,6 @@
         <mark key="^" line="17" column="44" />
         <mark key="." line="17" column="44" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/settings-tab/containers/settings-form/components/shipping-and-returns/returns/returns.controller.js" timestamp="1520267656760" />
       <file name="$USER_HOME$/elixir/book/rumbl/lib/rumbl_web/templates/layout/app.html.eex" timestamp="1519179768613">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -1492,7 +1491,12 @@
         <mark key="^" line="5" column="21" />
         <mark key="." line="5" column="21" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/embeddable-app/demo/import/config.json" timestamp="1520355030270" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/embeddable-app/demo/import/config.json" timestamp="1520363908222">
+        <mark key="[" line="23" column="43" />
+        <mark key="]" line="23" column="44" />
+        <mark key="^" line="23" column="44" />
+        <mark key="." line="23" column="44" />
+      </file>
       <file name="$USER_HOME$/labs/labs-be/routes/handlers/patients/main.go" timestamp="1500513099604">
         <mark key="[" line="92" column="78" />
         <mark key="]" line="93" column="23" />
@@ -1931,11 +1935,11 @@
         <mark key="^" line="18" column="77" />
         <mark key="." line="18" column="77" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/embeddable-app/src/drivers/bce-import.js" timestamp="1520363032301">
-        <mark key="[" line="1" column="47" />
-        <mark key="]" line="6" column="2" />
-        <mark key="." line="6" column="2" />
-        <mark key="^" line="6" column="2" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/embeddable-app/src/drivers/bce-import.js" timestamp="1520363940500">
+        <mark key="[" line="3" column="26" />
+        <mark key="]" line="3" column="26" />
+        <mark key="." line="3" column="26" />
+        <mark key="^" line="3" column="26" />
       </file>
       <file name="$USER_HOME$/labs/ng-labs/src/app/accounts/choose-password/components/choose-password-form/choose-password-form.tpl.html" timestamp="1520304680307">
         <mark key="[" line="16" column="61" />
@@ -3233,7 +3237,6 @@
         <mark key="." line="17" column="35" />
         <mark key="^" line="17" column="35" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/settings-tab/containers/settings-form/settings-form.tpl.html" timestamp="1520023897376" />
       <file name="$USER_HOME$/labs/labs-fe-bb/app/javascripts/shared/BannerView.js" timestamp="1497453162765">
         <mark key="[" line="2" column="64" />
         <mark key="]" line="2" column="65" />
@@ -5805,7 +5808,7 @@
         <text encoding="base64">XDxqc2NoYW5uZWxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxsaT4KICAgICAgPGEgaHJlZj0iL21vZGFsIj5Nb2RhbCBEZW1vPC9hPgogICAgPC9saT4K</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAibmFtZSI6ICJiY2UtaW1wb3J0IiwKICAgICAgICAgICJwcm9wcyI6IHsKICAgICAgICAgICAgImhlYWRlciI6ICJDdXN0b20gSGVhZGVyIiwKICAgICAgICAgICAgInN0YXJ0SW1wb3J0VGV4dCI6ICJDdXN0b20gSW1wb3J0IiwKICAgICAgICAgICAgInN1YkhlYWRlciI6ICJDdXN0b20gU3ViIGhlYWRlciIsCiAgICAgICAgICAgICJzdmdVcmwiOgogICAgICAgICAgICAgICJodHRwczovL21pY3JvYXBwcy1pLmJpZ2NvbW1lcmNlLmNvbS9vbW5pY2hhbm5lbC9kYzRjNWRjYzc4ZWRkNTUxMzY4ZjcyMzQxM2EyYzJiNjc5NDU4ZjY4L3N2Zy9lYmF5LWltcG9ydC5zdmciCiAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>

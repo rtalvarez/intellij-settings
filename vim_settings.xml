@@ -2199,11 +2199,11 @@
         <mark key="^" line="13" column="21" />
         <mark key="." line="13" column="21" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/modals/amazon-early-access-details-modal/amazon-early-access-details-modal.controller.js" timestamp="1520278414810">
-        <mark key="[" line="12" column="46" />
-        <mark key="]" line="13" column="36" />
-        <mark key="." line="13" column="36" />
-        <mark key="^" line="13" column="36" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/modals/amazon-early-access-details-modal/amazon-early-access-details-modal.controller.js" timestamp="1520353240675">
+        <mark key="[" line="5" column="59" />
+        <mark key="]" line="5" column="56" />
+        <mark key="." line="5" column="56" />
+        <mark key="^" line="5" column="56" />
       </file>
       <file name="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/routes/handlers/auth/oid.go" timestamp="1519783704499">
         <mark key="[" line="37" column="30" />
@@ -5765,7 +5765,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>get_video</text>
+        <text>connectUrl</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqc2NoYW5uZWxcPg==</text>

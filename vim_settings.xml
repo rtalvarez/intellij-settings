@@ -2194,11 +2194,12 @@
         <mark key="^" line="3" column="15" />
         <mark key="." line="3" column="15" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/omni-sync-service/src/main/scala/com/bigcommerce/api/Api.scala" timestamp="1520440803758">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="21" column="1" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/omni-sync-service/src/main/scala/com/bigcommerce/api/Api.scala" timestamp="1520441903871">
+        <mark key="'" line="25" column="71" />
+        <mark key="[" line="31" column="20" />
+        <mark key="]" line="31" column="26" />
+        <mark key="." line="31" column="26" />
+        <mark key="^" line="31" column="26" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/provider-actions/provider-actions.spec.js" timestamp="1520270449809">
         <mark key="[" line="23" column="52" />
@@ -6160,7 +6161,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/bigcommerce-app-vm/codebases/bigcommerce/config/environment.php" />
       <jump line="408" column="34" filename="$USER_HOME$/bigcommerce-app-vm/codebases/bigcommerce/config/environment.php" />
       <jump line="221" column="31" filename="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/containers/create-shipping-policies/containers/create-shipping-policy/shared/create-shipping-policy.actions.js" />
       <jump line="7" column="0" filename="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/db/patients.go" />
@@ -6260,10 +6260,11 @@
       <jump line="120" column="28" filename="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/shared/providers/providers.actions.js" />
       <jump line="52" column="67" filename="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/services/pos-providers/pos-providers.service.js" />
       <jump line="44" column="4" filename="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/amazon/about/about.controller.js" />
+      <jump line="25" column="71" filename="$USER_HOME$/bigcommerce-app-vm/codebases/omni-sync-service/src/main/scala/com/bigcommerce/api/Api.scala" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>Allow</text>
+        <text>`Access-Control-Allow-Methods`(OPTIONS, POST, PUT, GET, DELETE)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqc2NoYW5uZWxcPg==</text>
@@ -6272,7 +6273,7 @@
         <text encoding="base64">ICAgICAgICAgICAgZGVmIGhlYWRlcjE6IEh0dHBIZWFkZXIgPSBSYXdIZWFkZXIoIkFjY2Vzcy1Db250cm9sLUFsbG93LU9yaWdpbiIsICIqIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29tcGxldGUoImhlbGxvIHdvcmxkIikK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -6290,22 +6291,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgb3B0aW9ucyB7CiAgICAgICAgCiAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiBoZWFkZXIxOiBIdHRwSGVhZGVyID0gUmF3SGVhZGVyKCJBY2Nlc3MtQ29udHJvbC1BbGxvdy1PcmlnaW4iLCAiKiIpCgogICAgZGVmIGhlYWRlcjI6IEh0dHBIZWFkZXIgPSBSYXdIZWFkZXIoIkFjY2Vzcy1Db250cm9sLUFsbG93LU1ldGhvZHMiLCAiR0VULCBQT1NULCBPUFRJT05TLCBERUxFVEUsIFBVVCIpCgogICAgZGVmIGhlYWRlcnM6IGltbXV0YWJsZS5TZXFbSHR0cEhlYWRlcl0gPSBWZWN0b3IoaGVhZGVyMSwgaGVhZGVyMikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlc3BvbmRXaXRoRGVmYXVsdEhlYWRlcnMoaGVhZGVycykgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -6425,10 +6426,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRlZiBoZWFkZXIxOiBIdHRwSGVhZGVyID0gUmF3SGVhZGVyKCJBY2Nlc3MtQ29udHJvbC1BbGxvdy1PcmlnaW4iLCAiKiIpCiAgICAgICAgICBkZWYgaGVhZGVyMjogSHR0cEhlYWRlciA9IFJhd0hlYWRlcigiQWNjZXNzLUNvbnRyb2wtQWxsb3ctTWV0aG9kcyIsICJHRVQsIFBPU1QsIE9QVElPTlMsIERFTEVURSwgUFVUIikKCiAgICAgICAgICBkZWYgaGVhZGVyczogaW1tdXRhYmxlLlNlcVtIdHRwSGVhZGVyXSA9IFZlY3RvcihoZWFkZXIxLCBoZWFkZXIyKQo=</text>
+        <text encoding="base64">ICAgIGRlZiBoZWFkZXIxOiBIdHRwSGVhZGVyID0gUmF3SGVhZGVyKCJBY2Nlc3MtQ29udHJvbC1BbGxvdy1PcmlnaW4iLCAiKiIpCgogICAgZGVmIGhlYWRlcjI6IEh0dHBIZWFkZXIgPSBSYXdIZWFkZXIoIkFjY2Vzcy1Db250cm9sLUFsbG93LU1ldGhvZHMiLCAiR0VULCBQT1NULCBPUFRJT05TLCBERUxFVEUsIFBVVCIpCgogICAgZGVmIGhlYWRlcnM6IGltbXV0YWJsZS5TZXFbSHR0cEhlYWRlcl0gPSBWZWN0b3IoaGVhZGVyMSwgaGVhZGVyMikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHJlc3BvbmRXaXRoRGVmYXVsdEhlYWRlcnMoaGVhZGVycykgewo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>

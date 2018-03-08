@@ -1005,11 +1005,11 @@
         <mark key="." line="213" column="19" />
         <mark key="^" line="213" column="19" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/big_bonus/lib/big_bonus/users/users.ex" timestamp="1520538805100">
-        <mark key="[" line="37" column="44" />
-        <mark key="]" line="40" column="3" />
-        <mark key="^" line="40" column="3" />
-        <mark key="." line="40" column="3" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/big_bonus/lib/big_bonus/users/users.ex" timestamp="1520538984406">
+        <mark key="[" line="40" column="3" />
+        <mark key="]" line="40" column="31" />
+        <mark key="^" line="40" column="31" />
+        <mark key="." line="40" column="31" />
       </file>
       <file name="$USER_HOME$/labs/labs-fe-bb/app/templates/contact/ContactView.hbs" timestamp="1497724380164">
         <mark key="[" line="25" column="21" />
@@ -1628,6 +1628,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="9" column="39" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/big_bonus/lib/big_bonus/users/user.ex" timestamp="1520539344528">
+        <mark key="[" line="18" column="50" />
+        <mark key="]" line="18" column="50" />
+        <mark key="^" line="18" column="50" />
+        <mark key="." line="18" column="50" />
       </file>
       <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/info/appointments-info.tpl.html" timestamp="1519697432087">
         <mark key="[" line="8" column="49" />
@@ -3370,7 +3376,7 @@
         <mark key="." line="24" column="42" />
         <mark key="^" line="24" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520536463573">
+      <file name="/Dummy.txt" timestamp="1520538914323">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -5891,7 +5897,7 @@
         <text encoding="base64">XDxqc2NoYW5uZWxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBAZG9jICIiIgogIFJldHVybnMgYW4gYCVFY3RvLkNoYW5nZXNldHt9YCBmb3IgdHJhY2tpbmcgd2lubmVyIGNoYW5nZXMuCgogICMjIEV4YW1wbGVzCgogICAgICBpZXg+IGNoYW5nZV93aW5uZXIod2lubmVyKQogICAgICAlRWN0by5DaGFuZ2VzZXR7c291cmNlOiAlV2lubmVye319CgogICIiIgo=</text>
+        <text encoding="base64">ICAgIHw+IHZhbGlkYXRlX251bWJlcig6Y29udHJpYnV0aW9uLCBncmVhdGVyX3RoYW46IDApCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>

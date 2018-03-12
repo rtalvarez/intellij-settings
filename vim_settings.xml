@@ -993,11 +993,11 @@
         <mark key="." line="39" column="7" />
         <mark key="^" line="39" column="7" />
       </file>
-      <file name="$USER_HOME$/elixir/book/rumbl/lib/rumbl_web/controllers/page_controller.ex" timestamp="1520870271443">
-        <mark key="[" line="9" column="88" />
-        <mark key="]" line="9" column="83" />
-        <mark key="^" line="9" column="83" />
-        <mark key="." line="9" column="83" />
+      <file name="$USER_HOME$/elixir/book/rumbl/lib/rumbl_web/controllers/page_controller.ex" timestamp="1520871468558">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="10" column="59" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/amazon/settings/import-tab/components/import-history/import-history.component.js" timestamp="1515698059066">
         <mark key="[" line="12" column="16" />
@@ -1543,11 +1543,11 @@
         <mark key="^" line="5" column="21" />
         <mark key="." line="5" column="21" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/embeddable-app/demo/import/config.json" timestamp="1520457676274">
-        <mark key="[" line="16" column="12" />
-        <mark key="]" line="16" column="10" />
-        <mark key="." line="16" column="10" />
-        <mark key="^" line="16" column="10" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/embeddable-app/demo/import/config.json" timestamp="1520871949291">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="11" column="37" />
       </file>
       <file name="$USER_HOME$/labs/labs-be/routes/handlers/patients/main.go" timestamp="1500513099604">
         <mark key="[" line="92" column="78" />
@@ -2005,11 +2005,11 @@
         <mark key="^" line="18" column="77" />
         <mark key="." line="18" column="77" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/embeddable-app/src/drivers/bce-import.js" timestamp="1520869003984">
-        <mark key="[" line="47" column="42" />
-        <mark key="]" line="47" column="40" />
-        <mark key="." line="47" column="40" />
-        <mark key="^" line="47" column="40" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/embeddable-app/src/drivers/bce-import.js" timestamp="1520871901425">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="42" />
+        <mark key="." line="55" column="0" />
+        <mark key="^" line="52" column="26" />
       </file>
       <file name="$USER_HOME$/labs/ng-labs/src/app/accounts/choose-password/components/choose-password-form/choose-password-form.tpl.html" timestamp="1520388689567">
         <mark key="[" line="9" column="18" />
@@ -3415,7 +3415,7 @@
         <mark key="." line="24" column="42" />
         <mark key="^" line="24" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520867282084">
+      <file name="/Dummy.txt" timestamp="1520871934925">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -5979,16 +5979,16 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>&quot;request as duck&quot;</text>
+        <text>randy</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqc2NoYW5uZWxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIElPLnB1dHMoInJlcXVlc3QgYXMgZHVjayIpCg==</text>
+        <text encoding="base64">ICAgIElPLnB1dHMoInEiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAidmFyaWFibGVzIjogewogICAgInJhbmR5IjogInBydWViYSBkZSBmdWVnbyIKICB9LAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -6006,22 +6006,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIElPLnB1dHMocmVxX3VybCkK</text>
+        <text encoding="base64">ICAgICAgPGJjZS1pbXBvcnQtc3RhcnQgaGVhZGVyPXtoZWFkZXJ9IC8+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gci5qc29uKCk7CiAgICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgPGJjZS1pbXBvcnQtcHJvZ3Jlc3MgLz4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdoJywgaGVhZGVyLCBzdWJIZWFkZXIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRvRmV0Y2hSZXF1ZXN0KHsgdXJsOiBTWU5DX1JFU09VUkNFX1VSTFMuSU5fUFJPR1JFU1MgfSkudGhlbihyID0+IHsKICAgICAgY29uc29sZS5sb2coJ2QyJywgci5qc29uKCkpOwogICAgICByZXR1cm4gci5qc29uKCk7CiAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc3luY3MnLCB0aGlzLnN5bmNzKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4oZGF0YSA9PiBjb25zb2xlLmxvZygnZDInLCBkYXRhKSk7Cg==</text>
+        <text encoding="base64">IyAgICBJTy5wdXRzKGJvZHkpCgojICAgIGNvbm4gPSBjb25uCiMgICAgfD4gcHV0X3Jlc3BfaGVhZGVyKCJBY2Nlc3MtQ29udHJvbC1BbGxvdy1DcmVkZW50aWFscyIsICJ0cnVlIikKIyAgICB8PiBwdXRfcmVzcF9oZWFkZXIoIkFjY2Vzcy1Db250cm9sLUFsbG93LUhlYWRlcnMiLCAiVXNlci1BZ2VudCwgS2VlcC1BbGl2ZSwgQ29udGVudC1UeXBlLCBBdXRob3JpemF0aW9uLCBDYWNoZSIpCiMgICAgfD4gcHV0X3Jlc3BfaGVhZGVyKCJBY2Nlc3MtQ29udHJvbC1BbGxvdy1NZXRob2RzIiwgIkdFVCwgUE9TVCwgT1BUSU9OUywgREVMRVRFLCBQVVQiKQojICAgIHw+IHB1dF9yZXNwX2hlYWRlcigiQWNjZXNzLUNvbnRyb2wtQWxsb3ctT3JpZ2luIiwgImh0dHBzOi8vbG9jYWxob3N0OjgwODIiKQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgZCA9IHIuanNvbigpOwogICAgICBjb25zb2xlLmxvZygnZCcsIGQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -6141,10 +6141,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIElPLnB1dHMoInJlcV91cmwiKQogICAgSU8ucHV0cyhjb25uLnF1ZXJ5X3N0cmluZykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMucmFuZHkgPSB0cnVlOwo=</text>
+        <text encoding="base64">ICAgIElPLnB1dHMoInEiKQogICAgSU8ucHV0cyhxdWVyeV9zdHIpCiMgICAgeCA9IGlmIGNvbm4ucXVlcnlfc3RyaW5nLCBkbzogMSwgZWxzZTogMgo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>

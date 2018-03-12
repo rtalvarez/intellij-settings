@@ -14,10 +14,6 @@
       <mask>*spe</mask>
       <mask>*sp</mask>
       <mask>*s</mask>
-      <mask>*.html</mask>
-      <mask>*.htm</mask>
-      <mask>*.ht</mask>
-      <mask>*.h</mask>
       <mask>*.tpl</mask>
       <mask>*.tp</mask>
       <mask>*.t</mask>
@@ -33,6 +29,10 @@
       <mask>*.spec.*</mask>
       <mask>*.spec.</mask>
       <mask>*.s</mask>
+      <mask>*.html</mask>
+      <mask>*.htm</mask>
+      <mask>*.ht</mask>
+      <mask>*.h</mask>
       <mask>*.</mask>
       <mask>*</mask>
     </recentFileMasks>

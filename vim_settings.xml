@@ -1357,6 +1357,12 @@
         <mark key="." line="53" column="70" />
         <mark key="^" line="53" column="70" />
       </file>
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-cp2-control-panel/src/app/side-nav/side-nav.controller.js" timestamp="1520963948495">
+        <mark key="[" line="204" column="106" />
+        <mark key="]" line="205" column="0" />
+        <mark key="^" line="204" column="104" />
+        <mark key="." line="205" column="0" />
+      </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/amazon/settings/import-tab/import-tab.module.js" timestamp="1515705247061">
         <mark key="[" line="6" column="21" />
         <mark key="]" line="6" column="21" />
@@ -3460,7 +3466,7 @@
         <mark key="." line="24" column="42" />
         <mark key="^" line="24" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520959087288">
+      <file name="/Dummy.txt" timestamp="1520963809147">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -5391,9 +5397,9 @@
         <mark key="^" line="4" column="41" />
         <mark key="." line="4" column="41" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/constants.js" timestamp="1520954914832">
-        <mark key="[" line="467" column="22" />
-        <mark key="]" line="467" column="28" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/constants.js" timestamp="1520963931242">
+        <mark key="[" line="327" column="30" />
+        <mark key="]" line="327" column="62" />
         <mark key="^" line="467" column="28" />
         <mark key="." line="467" column="28" />
       </file>
@@ -6040,11 +6046,11 @@
       <register name="/" type="4">
         <text encoding="base64">XDxqc2NoYW5uZWxcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBlbmFibGVkQnlFeHBlcmltZW50OiBPTU5JQ0hBTk5FTF9FWFBFUklNRU5UUy5JTlNUQUdSQU1fSU5URVJOQVRJT05BTCwK</text>
+      <register name="0" type="4">
+        <text>OMNI-4419.instagram_international</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgT01OSS00NDE5Lmluc3RhZ3JhbV9pbnRlcm5hdGlvbmFsCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -6062,22 +6068,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncHJvdmlkZXInLCBwcm92aWRlci5pZCwgbG9jYWxlRmlsdGVycyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcCB7eyBwcm92aWRlckl0ZW1DdHJsLmdldFVpU3JlZigpIH19Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncHJvdmlkZXInLCBwcm92aWRlci5pZCwgbG9jYWxlRmlsdGVycyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyByZXR1cm4gJ14ucHJvdmlkZXItcHJldmlldyh7IGlkOiBwcm92aWRlckl0ZW1DdHJsLnByb3ZpZGVyLmlkIH0pJzsKCiAgICAgICAgLy8gY29uc3QgcHJvdmlkZXJJZCA9IHRoaXMucHJvdmlkZXIuaWQucmVwbGFjZSgnSW50ZXJuYXRpb25hbCcsICcnKTsKICAgICAgICAvLwogICAgICAgIC8vIGlmIChfLmNvbnRhaW5zKHRoaXMucmVmYWN0b3JlZFByb3ZpZGVycywgcHJvdmlkZXJJZCkpIHsKICAgICAgICAvLyAgICAgcmV0dXJuIGBeLnByb3ZpZGVyLWRldGFpbHMuJHtwcm92aWRlcklkfS5hYm91dGA7CiAgICAgICAgLy8gfQogICAgICAgIC8vCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcCB7eyBwcm92aWRlckl0ZW1DdHJsLmdldFVpU3JlZigpIH19Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAvLyBUT0RPOiBJbiBwbGFjZSBmb3IgSW5zdGFncmFtIEludGVybmF0aW9uYWwsIG5lZWQgdG8gcmVtb3ZlIHRoZSByZXBsYWNlIGFuZCBzd2l0Y2ggYmFjayB0byBqdXN0IGBpbnN0YWdyYW1gCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyByZXR1cm4gJ14ucHJvdmlkZXItcHJldmlldyh7IGlkOiBwcm92aWRlckl0ZW1DdHJsLnByb3ZpZGVyLmlkIH0pJzsKCiAgICAgICAgLy8gY29uc3QgcHJvdmlkZXJJZCA9IHRoaXMucHJvdmlkZXIuaWQucmVwbGFjZSgnSW50ZXJuYXRpb25hbCcsICcnKTsKICAgICAgICAvLwogICAgICAgIC8vIGlmIChfLmNvbnRhaW5zKHRoaXMucmVmYWN0b3JlZFByb3ZpZGVycywgcHJvdmlkZXJJZCkpIHsKICAgICAgICAvLyAgICAgcmV0dXJuIGBeLnByb3ZpZGVyLWRldGFpbHMuJHtwcm92aWRlcklkfS5hYm91dGA7CiAgICAgICAgLy8gfQogICAgICAgIC8vCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgOiAnJzsK</text>
+        <text encoding="base64">ICAgICAgICAvLyAvLyBUT0RPOiBJbiBwbGFjZSBmb3IgSW5zdGFncmFtIEludGVybmF0aW9uYWwsIG5lZWQgdG8gcmVtb3ZlIHRoZSByZXBsYWNlIGFuZCBzd2l0Y2ggYmFjayB0byBqdXN0IGBpbnN0YWdyYW1gCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPyB0aGlzLnByb3ZpZGVyLmlkCiAgICAgICAgICAgICAgICAucmVwbGFjZSgnQ29taW5nU29vbicsICcnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgOiAnJzsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -6197,10 +6203,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYF4ucHJvdmlkZXItcHJldmlldyh7IGlkOiAke3Byb3ZpZGVySWR9IH0pYDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPyB0aGlzLnByb3ZpZGVyLmlkCiAgICAgICAgICAgICAgICAucmVwbGFjZSgnQ29taW5nU29vbicsICcnKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncCcsIHByb3ZpZGVySUQpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gYF4ucHJvdmlkZXItcHJldmlldyh7IGlkOiAke3Byb3ZpZGVySWR9IH0pYDsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>

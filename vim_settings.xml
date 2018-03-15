@@ -1835,12 +1835,6 @@
         <mark key="." line="2" column="85" />
         <mark key="^" line="1" column="43" />
       </file>
-      <file name="$USER_HOME$/elixir/book/rumbl/lib/rumbl/videos/category.ex" timestamp="1520393857540">
-        <mark key="[" line="19" column="27" />
-        <mark key="]" line="19" column="17" />
-        <mark key="." line="19" column="17" />
-        <mark key="^" line="19" column="17" />
-      </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-redirect/provider-redirect.module.js" timestamp="1493300939274">
         <mark key="[" line="3" column="19" />
         <mark key="]" line="3" column="17" />
@@ -2015,11 +2009,11 @@
         <mark key="." line="24" column="72" />
         <mark key="^" line="24" column="72" />
       </file>
-      <file name="$USER_HOME$/elixir/book/rumbl/lib/rumbl/videos/videos.ex" timestamp="1520393650102">
-        <mark key="[" line="222" column="33" />
-        <mark key="]" line="224" column="19" />
-        <mark key="." line="224" column="19" />
-        <mark key="^" line="224" column="19" />
+      <file name="$USER_HOME$/elixir/book/rumbl/lib/rumbl/videos/videos.ex" timestamp="1521072381425">
+        <mark key="[" line="65" column="19" />
+        <mark key="]" line="65" column="18" />
+        <mark key="." line="65" column="18" />
+        <mark key="^" line="65" column="18" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/import-tab/shared/import-health/import-health.actions.js" timestamp="1509644845189">
         <mark key="[" line="18" column="74" />
@@ -3059,10 +3053,10 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="7" column="1" />
       </file>
-      <file name="$USER_HOME$/elixir/book/rumbl/lib/rumbl_web/controllers/video_controller.ex" timestamp="1520393792917">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/elixir/book/rumbl/lib/rumbl_web/controllers/video_controller.ex" timestamp="1521072344073">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
         <mark key="^" line="5" column="68" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/embeddable-app/troll.js" timestamp="1507565253401">
@@ -3249,6 +3243,12 @@
         <mark key="]" line="14" column="28" />
         <mark key="." line="14" column="28" />
         <mark key="^" line="14" column="28" />
+      </file>
+      <file name="$USER_HOME$/elixir/book/rumbl/lib/rumbl_web/templates/video/form.html.eex" timestamp="1521071949127">
+        <mark key="[" line="14" column="68" />
+        <mark key="]" line="15" column="97" />
+        <mark key="." line="15" column="97" />
+        <mark key="^" line="15" column="97" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/sass/components/createShippingPolicy/_createShippingPolicy.scss" timestamp="1499973806528">
         <mark key="[" line="84" column="0" />
@@ -5181,6 +5181,12 @@
         <mark key="^" line="48" column="755901" />
         <mark key="." line="48" column="755901" />
       </file>
+      <file name="$USER_HOME$/elixir/book/rumbl/lib/rumbl_web/templates/video/new.html.eex" timestamp="1521072016272">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="108" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/labs/labs-be/Dockerfile" timestamp="1493756957223">
         <mark key="[" line="1" column="9" />
         <mark key="]" line="1" column="10" />
@@ -5498,6 +5504,12 @@
         <mark key="]" line="16" column="69" />
         <mark key="^" line="16" column="69" />
         <mark key="." line="16" column="69" />
+      </file>
+      <file name="$USER_HOME$/elixir/book/rumbl/lib/rumbl_web/templates/video/edit.html.eex" timestamp="1521072054656">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="116" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/square-redirect/square-redirect.module.js" timestamp="1493305188942">
         <mark key="[" line="0" column="52" />
@@ -6053,16 +6065,16 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>.</text>
+        <text>build_assoc(user, :videos)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqc2NoYW5uZWxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnYmVmb3JlJywgdGhpcy5wcm92aWRlcnMpOwo=</text>
+        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJmb3JtLWdyb3VwIj4KICAgIDwlPSBsYWJlbCBmLCA6dXJsLCBjbGFzczogImNvbnRyb2wtbGFiZWwiICU+CiAgICA8JT0gdGV4dF9pbnB1dCBmLCA6dXJsLCBjbGFzczogImZvcm0tY29udHJvbCIgJT4KICAgIDwlPSBlcnJvcl90YWcgZiwgOnVybCAlPgogIDwvZGl2Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBNb3ZlIGFsbCB0aGUgdGV4dCB0byB0aGUgY29uZmlnIGpzb24gb25jZSB0aGUgZXhwZXJpbWVudCBpcyByYW1wZWQK</text>
+        <text encoding="base64">ICAgICAgfD4gYnVpbGRfYXNzb2MoOnZpZGVvcykK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -6080,22 +6092,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgbWFya2V0cGxhY2VzVGV4dCA9ICdTaG9wcGluZyBPbiBJbnN0YWdyYW0gaXMgY3VycmVudGx5IGF2YWlsYWJsZSBpbiB0aGUgZm9sbG93aW5nIG1hcmtldHM6IEF1c3RyYWxpYSwgQnJhemlsLCBDYW5hZGEsIEZyYW5jZSwgR2VybWFueSwgSXRhbHksIFNwYWluLCBVbml0ZWQgS2luZ2RvbSBhbmQgVW5pdGVkIFN0YXRlcyc7Cg==</text>
+        <text encoding="base64">PCU9IHJlbmRlciAiZm9ybS5odG1sIiwgTWFwLnB1dChhc3NpZ25zLCA6YWN0aW9uLCB2aWRlb19wYXRoKEBjb25uLCA6dXBkYXRlLCBAdmlkZW8pKSAlPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ci8vIEFVIChBVUQpCi8vIEJSQVpJTChCUkwpCi8vIENBIChDQUQpCi8vIEZSQU5DRSAoRVVSTykKLy8gR0VSTSAoRVVSTykKLy8gSVRBTFkoRVVSTykKLy8gU1BBSU4oRVVSTykKLy8gVUsgKMKjL0dCUCkK</text>
+        <text encoding="base64">PCU9IHJlbmRlciAiZm9ybS5odG1sIiwgTWFwLnB1dChhc3NpZ25zLCA6YWN0aW9uLCB2aWRlb19wYXRoKEBjb25uLCA6Y3JlYXRlKSkgJT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDwlPSB0ZXh0X2lucHV0IGYsIDp1cmwsIGNsYXNzOiAiZm9ybS1jb250cm9sIiAlPgogICAgPCU9IGVycm9yX3RhZyBmLCA6dXJsICU+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgbWFya2V0cGxhY2VzVGV4dCA9ICdTaG9wcGluZyBPbiBJbnN0YWdyYW0gaXMgY3VycmVudGx5IGF2YWlsYWJsZSBpbiB0aGUgZm9sbG93aW5nIG1hcmtldHM6IEF1c3RyYWxpYSwgQnJhemlsLCBDYW5hZGEsIEZyYW5jZSwgR2VybWFueSwgSXRhbHksIFNwYWluLCBVbml0ZWQgS2luZ2RvbSBhbmQgVW5pdGVkIFN0YXRlcyc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBNb3ZlIGFsbCB0aGUgdGV4dCB0byB0aGUgY29uZmlnIGpzb24gb25jZSB0aGUgZXhwZXJpbWVudCBpcyByYW1wZWQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnYWZ0ZXInLCB0aGlzLnByb3ZpZGVycyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgbWFya2V0cGxhY2VzVGV4dCA9ICdTaG9wcGluZyBPbiBJbnN0YWdyYW0gaXMgY3VycmVudGx5IGF2YWlsYWJsZSBpbiB0aGUgZm9sbG93aW5nIG1hcmtldHM6IEF1c3RyYWxpYSwgQnJhemlsLCBDYW5hZGEsIEZyYW5jZSwgR2VybWFueSwgSXRhbHksIFNwYWluLCBVbml0ZWQgS2luZ2RvbSBhbmQgVW5pdGVkIFN0YXRlcyc7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnYmVmb3JlJywgdGhpcy5wcm92aWRlcnMpOwo=</text>
+        <text encoding="base64">Ci8vIEFVIChBVUQpCi8vIEJSQVpJTChCUkwpCi8vIENBIChDQUQpCi8vIEZSQU5DRSAoRVVSTykKLy8gR0VSTSAoRVVSTykKLy8gSVRBTFkoRVVSTykKLy8gU1BBSU4oRVVSTykKLy8gVUsgKMKjL0dCUCkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -6215,10 +6227,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncHJvdmlkZXJzJywgcHJvdmlkZXJzKTsKICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3VycmVuY2llcy5zcGxpY2UoY3VycmVuY2llcy5sZW5ndGggLSAxLCAwLCAnb3InKTsKICAgICAgICAgICAgY29uc3QgY3VycmVuY2llc1RleHQgPSBjdXJyZW5jaWVzLmpvaW4oJywgJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgbWFya2V0cGxhY2VzVGV4dCA9ICdTaG9wcGluZyBPbiBJbnN0YWdyYW0gaXMgY3VycmVudGx5IGF2YWlsYWJsZSBpbiB0aGUgZm9sbG93aW5nIG1hcmtldHM6IEF1c3RyYWxpYSwgQnJhemlsLCBDYW5hZGEsIEZyYW5jZSwgR2VybWFueSwgSXRhbHksIFNwYWluLCBVbml0ZWQgS2luZ2RvbSBhbmQgVW5pdGVkIFN0YXRlcyc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>

@@ -1623,6 +1623,9 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="13" column="55" />
       </file>
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/settings-tab/containers/settings-form/containers/return-policy-slideout/shared/return-policy-slideout.actions.spec.js" timestamp="1521143727880">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/labs/ng-labs/src/app/forgot-password/components/forgot-password-form/forgot-password-form.component.js" timestamp="1520900205031">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -3902,6 +3905,12 @@
         <mark key="." line="2" column="52" />
         <mark key="^" line="2" column="52" />
       </file>
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-build/tasks/eslint/.eslintrc" timestamp="1521143580105">
+        <mark key="[" line="916" column="39" />
+        <mark key="]" line="916" column="43" />
+        <mark key="." line="916" column="43" />
+        <mark key="^" line="916" column="43" />
+      </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/shipping-settings-support/shipping-settings-support.tpl.html" timestamp="1519936647515">
         <mark key="[" line="0" column="13" />
         <mark key="]" line="0" column="13" />
@@ -5994,7 +6003,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="37" filename="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/routes/handlers/patients/main.go" />
       <jump line="135" column="0" filename="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/db/patients.go" />
       <jump line="28" column="43" filename="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/routes/handlers/appointments/main.go" />
       <jump line="0" column="0" filename="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/routes/handlers/appointments/main.go" />
@@ -6094,10 +6102,11 @@
       <jump line="741" column="26" filename="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/facebook/settings/containers/settings-form/shared/settings-form.actions.js" />
       <jump line="0" column="0" filename="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/settings-tab/containers/settings-form/settings-form.component.js" />
       <jump line="73" column="8" filename="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/settings-tab/containers/settings-form/settings-form.component.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/settings-tab/containers/settings-form/containers/return-policy-slideout/shared/return-policy-slideout.actions.spec.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>a</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqc2NoYW5uZWxcPg==</text>

@@ -1680,7 +1680,7 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="60" column="89" />
       </file>
-      <file name="$USER_HOME$/elixir/book/rumbl/lib/rumbl/users/user.ex" timestamp="1519787143669">
+      <file name="$USER_HOME$/elixir/book/rumbl/lib/rumbl/users/user.ex" timestamp="1521153895040">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="^" line="9" column="39" />
@@ -2022,11 +2022,11 @@
         <mark key="." line="24" column="72" />
         <mark key="^" line="24" column="72" />
       </file>
-      <file name="$USER_HOME$/elixir/book/rumbl/lib/rumbl/videos/videos.ex" timestamp="1521072381425">
-        <mark key="[" line="65" column="19" />
-        <mark key="]" line="65" column="18" />
-        <mark key="." line="65" column="18" />
-        <mark key="^" line="65" column="18" />
+      <file name="$USER_HOME$/elixir/book/rumbl/lib/rumbl/videos/videos.ex" timestamp="1521162388545">
+        <mark key="[" line="52" column="84" />
+        <mark key="]" line="52" column="81" />
+        <mark key="^" line="52" column="81" />
+        <mark key="." line="52" column="81" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/import-tab/shared/import-health/import-health.actions.js" timestamp="1509644845189">
         <mark key="[" line="18" column="74" />
@@ -3066,11 +3066,11 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="7" column="1" />
       </file>
-      <file name="$USER_HOME$/elixir/book/rumbl/lib/rumbl_web/controllers/video_controller.ex" timestamp="1521072344073">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-        <mark key="^" line="5" column="68" />
+      <file name="$USER_HOME$/elixir/book/rumbl/lib/rumbl_web/controllers/video_controller.ex" timestamp="1521162334688">
+        <mark key="[" line="40" column="66" />
+        <mark key="]" line="40" column="64" />
+        <mark key="." line="40" column="64" />
+        <mark key="^" line="40" column="64" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/embeddable-app/troll.js" timestamp="1507565253401">
         <mark key="[" line="1" column="28" />
@@ -5419,6 +5419,12 @@
         <mark key="^" line="20" column="37" />
         <mark key="." line="20" column="37" />
       </file>
+      <file name="$USER_HOME$/elixir/book/rumbl/lib/rumbl_web/templates/video/show.html.eex" timestamp="1521160823651">
+        <mark key="[" line="21" column="15" />
+        <mark key="]" line="21" column="22" />
+        <mark key="." line="21" column="22" />
+        <mark key="^" line="21" column="22" />
+      </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/amazon/settings/settings-tab/containers/settings-form/containers/containers.module.js" timestamp="1515686709169">
         <mark key="[" line="14" column="69" />
         <mark key="]" line="14" column="68" />
@@ -6003,7 +6009,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="135" column="0" filename="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/db/patients.go" />
       <jump line="28" column="43" filename="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/routes/handlers/appointments/main.go" />
       <jump line="0" column="0" filename="$USER_HOME$/.gopath/src/github.com/rtalvarez/labs-be/routes/handlers/appointments/main.go" />
       <jump line="52" column="38" filename="$USER_HOME$/labs/ng-labs/src/app/services/appointments/appointments.service.js" />
@@ -6103,19 +6108,20 @@
       <jump line="0" column="0" filename="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/settings-tab/containers/settings-form/settings-form.component.js" />
       <jump line="73" column="8" filename="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/settings-tab/containers/settings-form/settings-form.component.js" />
       <jump line="0" column="0" filename="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/settings-tab/containers/settings-form/containers/return-policy-slideout/shared/return-policy-slideout.actions.spec.js" />
+      <jump line="112" column="43" filename="$USER_HOME$/elixir/book/rumbl/lib/rumbl/videos/videos.ex" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>true</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxqc2NoYW5uZWxcPg==</text>
+        <text encoding="base64">XDx2aWRlb1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBhID0gYiA9PiBjb25zb2xlLmxvZyhiKQo=</text>
+        <text encoding="base64">ICBkZWZwIGdldF91c2VyX3ZpZGVvISh1c2VyLCBpZCwgJXs6cHJlbG9hZCA9PiBvcHRpb259KSBkbwogICAgZ2V0X3VzZXJfdmlkZW8hKHVzZXIsIGlkKQogICAgfD4gUmVwby5wcmVsb2FkKG9wdGlvbikKICBlbmQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGdldF91c2VyX3ZpZGVvISh1c2VyLCBpZCkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -6133,22 +6139,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBhID0gYiA9PiBjb25zb2xlLmxvZyhiKTsKICAgICAgICBjb25zdCBiID0gKGIpID0+IGNvbnNvbGUubG9nKGIpOwogICAgICAgIGNvbnN0IGMgPSBiID0+IHsKICAgICAgICAgICAgY29uc29sZS5sb2coYik7CiAgICAgICAgICAgIAogICAgICAgICAgICByZXR1cm4gYjsKICAgICAgICB9OwogICAgICAgIGNvbnN0IGQgPSAoYikgPT4gewogICAgICAgICAgICBjb25zb2xlLmxvZyhiKTsKICAgICAgICAgICAgCiAgICAgICAgICAgIHJldHVybiBiOwogICAgICAgIH07Cg==</text>
+        <text encoding="base64">ICAgIHw+IFJlcG8ucHJlbG9hZChvcHRpb24pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBjID0gCg==</text>
+        <text encoding="base64">ICAgIHVzZXIgPSBSZXBvLnByZWxvYWQodXNlciwgOnZpZGVvcykgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5jb25maWcudmFyaWFibGVzLmN1cnJlbmN5Q29kZSA9IHRoaXMuX0JDX0FQUF9DT05GSUcuc3RvcmVJbmZvLmluZm9ybWF0aW9uLmN1cnJlbmN5LmNvZGU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgfD4gYnVpbGRfYXNzb2MoOnZpZGVvcykK</text>
+        <text encoding="base64">ICAgIHZpZGVvcyA9IHVzZXJfdmlkZW9zKHVzZXIpCgojICAgIFRPRE86IEZpeCB0aGlzIHRvbwogICAgRW51bS5maW5kKHZpZGVvcywgbmlsLCBmbiB2aWRlbyAtPiAiI3t2aWRlby5pZH0iID09IGlkIGVuZCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PCU9IHJlbmRlciAiZm9ybS5odG1sIiwgTWFwLnB1dChhc3NpZ25zLCA6YWN0aW9uLCB2aWRlb19wYXRoKEBjb25uLCA6dXBkYXRlLCBAdmlkZW8pKSAlPgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PCU9IHJlbmRlciAiZm9ybS5odG1sIiwgTWFwLnB1dChhc3NpZ25zLCA6YWN0aW9uLCB2aWRlb19wYXRoKEBjb25uLCA6Y3JlYXRlKSkgJT4K</text>
+        <text encoding="base64">ICAgIHs6b2ssIF92aWRlb30gPSBWaWRlb3MuZGVsZXRlX3VzZXJfdmlkZW8odXNlciwgdmlkZW9faWQpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -6268,25 +6274,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDwlPSB0ZXh0X2lucHV0IGYsIDp1cmwsIGNsYXNzOiAiZm9ybS1jb250cm9sIiAlPgogICAgPCU9IGVycm9yX3RhZyBmLCA6dXJsICU+Cg==</text>
+        <text encoding="base64">ICAgIHZpZGVvID0gRW51bS5maW5kKHVzZXIudmlkZW9zLCBuaWwsIGZuKHZpZGVvKSAtPiB2aWRlby5pZCA9PSB2aWRlb19pZCBlbmQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBNb3ZlIGFsbCB0aGUgdGV4dCB0byB0aGUgY29uZmlnIGpzb24gb25jZSB0aGUgZXhwZXJpbWVudCBpcyByYW1wZWQK</text>
+        <text encoding="base64">ICAgIGNvbm4KICAgIHw+IHB1dF9mbGFzaCg6aW5mbywgIlZpZGVvIGRlbGV0ZWQgc3VjY2Vzc2Z1bGx5LiIpCiAgICB8PiByZWRpcmVjdCh0bzogdmlkZW9fcGF0aChjb25uLCA6aW5kZXgpKQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxqc2NoYW5uZWxcPg==</last-search>
+      <last-search encoding="base64">XDx2aWRlb1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxqc2NoYW5uZWxcPg==</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDx2aWRlb1w+</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry encoding="base64">XDxqc2NoYW5uZWxcPg==</entry>
+        <entry encoding="base64">XDx2aWRlb1w+</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>

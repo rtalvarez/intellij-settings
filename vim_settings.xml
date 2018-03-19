@@ -4082,11 +4082,11 @@
         <mark key="]" line="66" column="23" />
         <mark key="." line="66" column="23" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-build/tasks/eslint/.eslintrc" timestamp="1521229110696">
-        <mark key="[" line="15" column="16" />
-        <mark key="]" line="15" column="16" />
-        <mark key="." line="15" column="16" />
-        <mark key="^" line="15" column="16" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-build/tasks/eslint/.eslintrc" timestamp="1521468714576">
+        <mark key="[" line="929" column="24" />
+        <mark key="]" line="929" column="22" />
+        <mark key="." line="929" column="22" />
+        <mark key="^" line="929" column="22" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/shipping-settings-support/shipping-settings-support.tpl.html" timestamp="1519936647515">
         <mark key="[" line="0" column="13" />
@@ -6387,7 +6387,7 @@
         <text encoding="base64">ICBkZWZwIGdldF91c2VyX3ZpZGVvISh1c2VyLCBpZCwgJXs6cHJlbG9hZCA9PiBvcHRpb259KSBkbwogICAgZ2V0X3VzZXJfdmlkZW8hKHVzZXIsIGlkKQogICAgfD4gUmVwby5wcmVsb2FkKG9wdGlvbikKICBlbmQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LyogZXNsaW50LWRpc2FibGUtbGluZSBpbXBvcnQvbm8tZXh0cmFuZW91cy1kZXBlbmRlbmNpZXMgKi8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgInJlcXVpcmVGb3JCbG9ja0JvZHkiOiBmYWxzZQogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -6405,19 +6405,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Lyplc2xpbnQgZ2xvYmFsLXJlcXVpcmU6IFsiZXJyb3IiLCB7ICJhbGxvdyI6IFsifiJdIH1dICovCg==</text>
+        <text encoding="base64">LyogZXNsaW50LWRpc2FibGUtbGluZSBpbXBvcnQvbm8tZXh0cmFuZW91cy1kZXBlbmRlbmNpZXMgKi8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Lyplc2xpbnQgZ2xvYmFsLXJlcXVpcmU6IFsiZXJyb3IiLCB7ICJhbGxvdyI6IFsifiJdIH1dICovCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTUlOX0JST1dTRVJfVkVSU0lPTlMgfSBmcm9tICcuL2NvbnN0YW50cyc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgTUlOX0JST1dTRVJfVkVSU0lPTlMgfSBmcm9tICcuL2NvbnN0YW50cyc7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -6540,10 +6540,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZ2V0QWN0aXZlSWQgfSBmcm9tICcuL2NoYW5uZWwtY29uZmlnLnNlbGVjdG9ycyc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgSU5JVElBTF9TVEFURSA9IHsKICAgIGFsbElkczogW10sCiAgICBieUlkOiB7fSwKfTsKCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgZ2V0QWN0aXZlSWQgfSBmcm9tICcuL2NoYW5uZWwtY29uZmlnLnNlbGVjdG9ycyc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>

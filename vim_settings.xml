@@ -3670,7 +3670,7 @@
         <mark key="." line="24" column="42" />
         <mark key="^" line="24" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521558288050">
+      <file name="/Dummy.txt" timestamp="1521560765686">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -4513,11 +4513,11 @@
         <mark key="." line="14" column="47" />
         <mark key="^" line="14" column="47" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay-au/config.json" timestamp="1521560167739">
-        <mark key="[" line="35" column="29" />
-        <mark key="]" line="35" column="29" />
-        <mark key="." line="35" column="29" />
-        <mark key="^" line="44" column="16" />
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay-au/config.json" timestamp="1521560805241">
+        <mark key="[" line="51" column="46" />
+        <mark key="]" line="51" column="43" />
+        <mark key="." line="51" column="43" />
+        <mark key="^" line="51" column="43" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/amazon/settings/settings-tab/containers/settings-form/containers/brand-listing-preference/shared/brand-listing-preference.constants.js" timestamp="1512055606724">
         <mark key="[" line="0" column="33" />
@@ -6450,7 +6450,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>false</text>
+        <text>{{ installUrl }}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2aWRlb1w+</text>

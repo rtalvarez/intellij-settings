@@ -2147,6 +2147,12 @@
         <mark key="^" line="18" column="77" />
         <mark key="." line="18" column="77" />
       </file>
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/embeddable-app/src/actions/fetch.ts" timestamp="1521561260524">
+        <mark key="[" line="13" column="13" />
+        <mark key="]" line="13" column="23" />
+        <mark key="." line="13" column="23" />
+        <mark key="^" line="13" column="23" />
+      </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/embeddable-app/src/drivers/bce-import.js" timestamp="1520871901425">
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="42" />
@@ -2860,10 +2866,10 @@
         <mark key="^" line="1" column="30" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/embeddable-app/src/drivers/index.js" timestamp="1520355258297">
-        <mark key="[" line="16" column="24" />
-        <mark key="]" line="16" column="34" />
-        <mark key="." line="16" column="34" />
-        <mark key="^" line="16" column="34" />
+        <mark key="[" line="1" column="24" />
+        <mark key="]" line="1" column="34" />
+        <mark key="." line="1" column="34" />
+        <mark key="^" line="1" column="34" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/directives/sync-status/sync-status.controller.spec.js" timestamp="1521228311120">
         <mark key="[" line="59" column="17" />
@@ -6450,7 +6456,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>{{ installUrl }}</text>
+        <text>'resolved',</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2aWRlb1w+</text>

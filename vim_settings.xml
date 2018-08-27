@@ -335,6 +335,7 @@
         <mark key="^" line="35" column="46" />
         <mark key="." line="35" column="46" />
       </file>
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/bigcommerce/config/app/services/pos.php" timestamp="1535386508890" />
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/services/policies/ebay/shipping/ebay-shipping-policies.api.js" timestamp="1497291215165">
         <mark key="[" line="12" column="64" />
         <mark key="]" line="12" column="60" />
@@ -1231,6 +1232,7 @@
         <mark key="." line="41" column="0" />
         <mark key="^" line="33" column="7" />
       </file>
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/bigcommerce/Services/POS/src/ApiClients/AmazonClient.php" timestamp="1535386481292" />
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/app.config.js" timestamp="1521489819198">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -2409,6 +2411,11 @@
         <mark key="]" line="4" column="25" />
         <mark key="^" line="4" column="25" />
         <mark key="." line="4" column="25" />
+      </file>
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/bigcommerce/app/templates/admin/controlpanel/index.html" timestamp="1535386360308">
+        <mark key="[" line="6" column="26" />
+        <mark key="]" line="6" column="76" />
+        <mark key="." line="6" column="26" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/import-tab/containers/import-progress/import-progress.component.js" timestamp="1521224662702">
         <mark key="[" line="24" column="42" />
@@ -3675,7 +3682,7 @@
         <mark key="." line="24" column="42" />
         <mark key="^" line="24" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530564575158">
+      <file name="/Dummy.txt" timestamp="1535386547055">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -5525,7 +5532,6 @@
         <mark key="^" line="11" column="40" />
         <mark key="." line="11" column="40" />
       </file>
-      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/bigcommerce/app/templates/admin/header.html" timestamp="1530564647951" />
       <file name="$USER_HOME$/labs/labs-be/Dockerfile" timestamp="1493756957223">
         <mark key="[" line="1" column="9" />
         <mark key="]" line="1" column="10" />
@@ -6150,6 +6156,7 @@
         <mark key="." line="0" column="15" />
         <mark key="^" line="0" column="15" />
       </file>
+      <file name="$USER_HOME$/bigcommerce-app-vm/codebases/bigcommerce/app/Onboarding/Services/ChannelService.php" timestamp="1535386579040" />
       <file name="$USER_HOME$/labs/labs-be/routes/handlers/appointments/main.go" timestamp="1499819911824">
         <mark key="[" line="69" column="37" />
         <mark key="]" line="69" column="33" />
@@ -6641,8 +6648,8 @@
         <entry>sort</entry>
         <entry>w</entry>
         <entry>wq</entry>
-        <entry>action emacsIDEAs.AceJump</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
+        <entry>action emacsIDEAs.AceJump</entry>
       </history-cmd>
       <history-expr />
       <history-input />

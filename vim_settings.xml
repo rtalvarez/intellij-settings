@@ -165,11 +165,10 @@
         <mark key="." line="11" column="40" />
         <mark key="^" line="5" column="15" />
       </file>
-      <file name="$USER_HOME$/gcloud/cloud-dev-vm/bcappvm/codebases/bigcommerce/app/templates/admin/products/form/inventory.html" timestamp="1542038022842">
-        <mark key="[" line="6" column="25" />
-        <mark key="]" line="6" column="20" />
-        <mark key="." line="6" column="20" />
-        <mark key="^" line="6" column="20" />
+      <file name="$USER_HOME$/gcloud/cloud-dev-vm/bcappvm/codebases/bigcommerce/app/templates/admin/products/form/inventory.html" timestamp="1542038799833">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/services/channel-management/facebook/facebook-channel-management.api.js" timestamp="1521225935342">
         <mark key="[" line="6" column="8" />
@@ -5204,11 +5203,11 @@
         <mark key="." line="13" column="60" />
         <mark key="^" line="13" column="60" />
       </file>
-      <file name="$USER_HOME$/gcloud/cloud-dev-vm/bcappvm/codebases/bigcommerce/app/assets/js/app/views/products.js" timestamp="1542037473129">
-        <mark key="[" line="22" column="30" />
-        <mark key="]" line="22" column="37" />
-        <mark key="^" line="22" column="37" />
-        <mark key="." line="22" column="37" />
+      <file name="$USER_HOME$/gcloud/cloud-dev-vm/bcappvm/codebases/bigcommerce/app/assets/js/app/views/products.js" timestamp="1542039013840">
+        <mark key="[" line="1798" column="43" />
+        <mark key="]" line="1798" column="35" />
+        <mark key="." line="1798" column="35" />
+        <mark key="^" line="1798" column="35" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/bigcommerce/img/bc-logo-light.svg" timestamp="1516218783666">
         <mark key="[" line="0" column="0" />
@@ -6205,7 +6204,7 @@
         <mark key="." line="13" column="40" />
         <mark key="^" line="13" column="40" />
       </file>
-      <file name="$USER_HOME$/gcloud/cloud-dev-vm/bcappvm/codebases/bigcommerce/app/templates/admin/products/form.html" timestamp="1542037251050">
+      <file name="$USER_HOME$/gcloud/cloud-dev-vm/bcappvm/codebases/bigcommerce/app/templates/admin/products/form.html" timestamp="1542039241849">
         <mark key="[" line="11" column="28" />
         <mark key="]" line="11" column="28" />
         <mark key="^" line="11" column="28" />
@@ -6478,16 +6477,16 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>{% Foo %};</text>
+        <text>data</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2aWRlb1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxlbWVudDogJ2xpbmsnLAogICAgICAgICAgICB0ZXh0OiB0YXJnZXQudGV4dCwKICAgICAgICAgICAgbGFiZWw6ICdwcm9kdWN0X2FkZF9pbnZlbnRvcnlfbWFuYWdlX3JlZGlyZWN0JywKICAgICAgICAgICAgY2F0ZWdvcnk6ICdwcm9kdWN0c19hZGQnLAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZGF0YScsIFNFVFRJTkdTLmRhdGEpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWNvbmZpZy5mb28gPSB7JSBGb28gJX07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -6505,22 +6504,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJRk9PIC0geyUgY29uZmlnLmZvbyAlfQo=</text>
+        <text encoding="base64">CQlzOiB7eyBzZXR0aW5ncyB9fQoJCWQ6IHt7IGRhdGEgfX0KCQl7JSBpZiBjb25maWcuZm9vID09ICdCQVInICV9SEVMTE8gV09STEQgQkFSeyUgZW5kaWYgJX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWNvbmZpZy5mb28gPSB7JSBGb28gJX07Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVFJPTExTCg==</text>
+        <text encoding="base64">CQkJRk9PIC0geyUgY29uZmlnLmZvbyAlfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CmNvbnNvbGUubG9nKCdIRUxMTyBXT1JMRCcpOwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJWW8gZGF3ZyBpcyB0aGlzIHdvcmtpbmc/Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVFJPTExTCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJV0FUQ0hFUiBJUyBOT1QgV09SS0lORwo=</text>
+        <text encoding="base64">CmNvbnNvbGUubG9nKCdIRUxMTyBXT1JMRCcpOwoK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -6640,10 +6639,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlIRUxMTyBXT1JMRAo=</text>
+        <text encoding="base64">CQkJWW8gZGF3ZyBpcyB0aGlzIHdvcmtpbmc/Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIEByZXR1cm4gXEludGVyc3BpcmVfQWN0aW9uX1RlbXBsYXRlVmlldwogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gaW5kZXhBY3Rpb24oKQogICAgewogICAgICAgIHJldHVybiBwYXJlbnQ6OmluZGV4QWN0aW9uKCk7CiAgICB9Cg==</text>
+        <text encoding="base64">CQkJV0FUQ0hFUiBJUyBOT1QgV09SS0lORwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zb3J0</text>

@@ -5222,12 +5222,12 @@
         <mark key="." line="13" column="60" />
         <mark key="^" line="13" column="60" />
       </file>
-      <file name="$USER_HOME$/gcloud/cloud-dev-vm/bcappvm/codebases/bigcommerce/app/assets/js/app/views/products.js" timestamp="1542126406082">
-        <mark key="'" line="1750" column="144" />
-        <mark key="[" line="1844" column="0" />
-        <mark key="]" line="1844" column="0" />
-        <mark key="." line="1844" column="0" />
-        <mark key="^" line="1835" column="35" />
+      <file name="$USER_HOME$/gcloud/cloud-dev-vm/bcappvm/codebases/bigcommerce/app/assets/js/app/views/products.js" timestamp="1542127222845">
+        <mark key="'" line="1325" column="0" />
+        <mark key="[" line="6135" column="5" />
+        <mark key="]" line="6135" column="5" />
+        <mark key="." line="6135" column="5" />
+        <mark key="^" line="6135" column="5" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/bigcommerce/img/bc-logo-light.svg" timestamp="1516218783666">
         <mark key="[" line="0" column="0" />
@@ -6394,8 +6394,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="60" filename="$USER_HOME$/labs/ng-labs/webpack.config.js" />
-      <jump line="59" column="68" filename="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/import-tab/import-tab.spec.js" />
       <jump line="67" column="0" filename="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/import-tab/containers/import-start/import-start.spec.js" />
       <jump line="57" column="0" filename="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/ebay/settings/import-tab/shared/import-health/import-health.actions.spec.js" />
       <jump line="60" column="27" filename="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/shared/settings-tabs/settings-tabs.actions.js" />
@@ -6494,6 +6492,8 @@
       <jump line="5232" column="69" filename="$USER_HOME$/gcloud/cloud-dev-vm/bcappvm/codebases/bigcommerce/app/assets/js/app/views/products.js" />
       <jump line="1867" column="0" filename="$USER_HOME$/gcloud/cloud-dev-vm/bcappvm/codebases/bigcommerce/app/assets/js/app/views/products.js" />
       <jump line="1750" column="144" filename="$USER_HOME$/gcloud/cloud-dev-vm/bcappvm/codebases/bigcommerce/app/assets/js/app/views/products.js" />
+      <jump line="1844" column="0" filename="$USER_HOME$/gcloud/cloud-dev-vm/bcappvm/codebases/bigcommerce/app/assets/js/app/views/products.js" />
+      <jump line="1325" column="0" filename="$USER_HOME$/gcloud/cloud-dev-vm/bcappvm/codebases/bigcommerce/app/assets/js/app/views/products.js" />
     </jumps>
     <registers>
       <register name="-" type="4">

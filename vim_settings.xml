@@ -2383,11 +2383,11 @@
         <mark key="^" line="5" column="72" />
         <mark key="." line="5" column="72" />
       </file>
-      <file name="$USER_HOME$/gcloud/cloud-dev-vm/bcappvm/codebases/bigcommerce/app/templates/common/analytics.html" timestamp="1544546049475">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="50" />
-        <mark key="." line="62" column="0" />
-        <mark key="^" line="24" column="42" />
+      <file name="$USER_HOME$/gcloud/cloud-dev-vm/bcappvm/codebases/bigcommerce/app/templates/common/analytics.html" timestamp="1544548101929">
+        <mark key="[" line="73" column="42" />
+        <mark key="]" line="42" column="59" />
+        <mark key="." line="42" column="59" />
+        <mark key="^" line="42" column="59" />
       </file>
       <file name="$USER_HOME$/labs/ng-labs/src/app/appointments/create/components/success-summary-info/success-summary-info.component.js" timestamp="1507912657793">
         <mark key="[" line="1" column="0" />
@@ -4265,11 +4265,11 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/gcloud/cloud-dev-vm/bcappvm/codebases/bigcommerce/app/templates/admin/angularmicroapp/index.html" timestamp="1544469597384">
-        <mark key="[" line="50" column="47" />
-        <mark key="]" line="51" column="48" />
-        <mark key="^" line="51" column="48" />
-        <mark key="." line="51" column="48" />
+      <file name="$USER_HOME$/gcloud/cloud-dev-vm/bcappvm/codebases/bigcommerce/app/templates/admin/angularmicroapp/index.html" timestamp="1544547017883">
+        <mark key="[" line="131" column="33" />
+        <mark key="]" line="131" column="35" />
+        <mark key="^" line="131" column="35" />
+        <mark key="." line="131" column="35" />
       </file>
       <file name="$USER_HOME$/labs/labs-email/src/pages/welcome-v2.html" timestamp="1520295673100">
         <mark key="[" line="2" column="25" />
@@ -6483,13 +6483,13 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>onreadystatechange</text>
+        <text>start</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2aWRlb1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY2xvd24gZmllc3RhIDEnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCctLS0gc3RhcnQgYm9vdHN0cmFwIC0tLScpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnb3ZlcnJpZGUgdHJhY2snKTsK</text>

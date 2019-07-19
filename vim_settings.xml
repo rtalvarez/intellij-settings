@@ -3842,7 +3842,12 @@
         <mark key="^" line="17" column="41" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/gcloud/cloud-dev-vm/bcappvm/codebases/facebook-commerce-service/src/main/scala/com/bigcommerce/api/onboarding/handlers/FacebookPrefilledOnsiteCommerceSettingsHandler.scala" timestamp="1563561532708" />
+      <file name="$USER_HOME$/gcloud/cloud-dev-vm/bcappvm/codebases/facebook-commerce-service/src/main/scala/com/bigcommerce/api/onboarding/handlers/FacebookPrefilledOnsiteCommerceSettingsHandler.scala" timestamp="1563563490362">
+        <mark key="[" line="44" column="10" />
+        <mark key="]" line="44" column="34" />
+        <mark key="." line="44" column="34" />
+        <mark key="^" line="44" column="34" />
+      </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/archer/app/services/commands/big_bonus/command.rb" timestamp="1520536899025">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -4274,6 +4279,12 @@
         <mark key="]" line="24" column="0" />
         <mark key="^" line="24" column="31" />
         <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/.ivy2/cache/com.bigcommerce/omni-facebook-client-scala_2.11/srcs/omni-facebook-client-scala_2.11-7.3.2-sources.jar!/com/bigcommerce/facebook/api/onboarding/model/FacebookOnsiteCommerceMerchant.scala" timestamp="1563563551762">
+        <mark key="[" line="7" column="25" />
+        <mark key="]" line="7" column="24" />
+        <mark key="^" line="7" column="24" />
+        <mark key="." line="7" column="24" />
       </file>
       <file name="$USER_HOME$/labs/labs-be/email/welcome.go" timestamp="1496006155538">
         <mark key="[" line="17" column="47" />
@@ -6485,13 +6496,13 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>cybersource_v2',</text>
+        <text>businessManagerId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2aWRlb1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICdQUk9KRUNULTI2NTcuZmFjZWJvb2tfYnVzaW5lc3NfbWFuYWdlcl9vbl9iZWhhbGZfb2YnID0+IFsK</text>
+        <text encoding="base64">ICBtZXJjaGFudFBhZ2VJZDogU3RyaW5nLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICdPTU5JLTM0OTMuZWJheV9tdWx0aXBsZV9idXNpbmVzc19wb2xpY2llcycsCg==</text>

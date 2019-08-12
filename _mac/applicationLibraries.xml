@@ -1,5 +1,10 @@
 <application>
   <component name="libraryTable">
+    <library name="Elixir 1.6.1">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="scala-sdk-2.11" type="Scala">
       <properties>
         <compiler-classpath>

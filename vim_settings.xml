@@ -2784,11 +2784,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/gcloud/cloud-dev-vm/bcappvm/codebases/bigcommerce/config/app/experiments.php" timestamp="1563289445140">
-        <mark key="[" line="1468" column="0" />
-        <mark key="]" line="1468" column="0" />
-        <mark key="." line="1468" column="0" />
-        <mark key="^" line="1495" column="29" />
+      <file name="$USER_HOME$/gcloud/cloud-dev-vm/bcappvm/codebases/bigcommerce/config/app/experiments.php" timestamp="1567001578458">
+        <mark key="[" line="1537" column="56" />
+        <mark key="]" line="1537" column="73" />
+        <mark key="." line="1537" column="73" />
+        <mark key="^" line="1537" column="73" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-omnichannel/src/app/provider-details/facebook/about/about.module.js" timestamp="1518796879582">
         <mark key="[" line="2" column="63" />
@@ -4382,6 +4382,9 @@
         <mark key="]" line="27" column="0" />
         <mark key="^" line="3" column="46" />
         <mark key="." line="27" column="0" />
+      </file>
+      <file name="vim_settings.xml" timestamp="1565639054273">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bigcommerce-app-vm/codebases/ng-products/src/app/listing/amazon/components/variants-table/variants-table.constants.js" timestamp="1511905134427">
         <mark key="[" line="4" column="14" />
@@ -6495,13 +6498,13 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>name</text>
+        <text>2657</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2aWRlb1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBuYW1lOiBTdHJpbmcsCg==</text>
+        <text encoding="base64">ICAgICdQUk9KRUNULTI2NTcuZmFjZWJvb2tfYnVzaW5lc3NfbWFuYWdlcl9vbl9iZWhhbGZfb2YnLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICdPTU5JLTM0OTMuZWJheV9tdWx0aXBsZV9idXNpbmVzc19wb2xpY2llcycsCg==</text>
